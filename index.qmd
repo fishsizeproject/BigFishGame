@@ -1,0 +1,236 @@
+---
+title: " "
+about: 
+  template: solana
+---
+
+![](images/FishAICons_logo.svg){fig-align="center" width="50%"}
+
+<p style="text-align: center; font-size: 20px">The Fish AI Consortium is a global network of individuals and organisations advancing artificial intelligence based image analysis to study fish population management, ecology, and conservation. We believe that AI has the potential to revolutionise the way we study, manage and protect fish populations in freshwater and marine ecosystems worldwide. By sharing resources, images, data and expertise, we aim to make a significant impact on the future of Earth’s aquatic ecosystems.
+</p>
+
+<br/><br/>
+
+_________________
+
+![](images/goals.svg){fig-align="center" width="8%"}
+
+<h1 style="text-align: center;">Our goals</h1>
+
+<p style="text-align: center; font-size: 20px">* Develop AI-powered tools that can accurately identify fish to species, measure fish and identify individual fish from photos and videos.
+
+* Expand the data available to fisheries managers and scientists by developing AI enhanced tools that allow image based data collection by recreational anglers, commercial fisheries, community scientists and researchers.
+
+* Make AI resources more accessible for research and management, by developing user friendly image analyses applications and providing information and training.
+
+* Increase cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists and conservation practitioners.
+
+* Apply image based AI tools to address the challenges facing fish populations, such as overfishing, habitat loss and climate change.</p>
+
+<br/><br/>
+
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 4s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 8s;
+}
+
+@keyframes fade {
+  from {opacity: 0} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="images/sebastian-pena-lambarri-unsplash.jpg" style="width:100%">
+  <div class="text">©Sebastian Pena</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="images/matthew-mcbrayer-unsplash.jpg" style="width:100%">
+  <div class="text">©Matthew McBrayer</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="images/milos-prelevic-unsplash.jpg" style="width:100%">
+  <div class="text">©Milos Prelevic</div>
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+<script>
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 9000); // Change image every 2 seconds
+}
+</script>
+
+</body>
+</html> 
+_________________
+
+![](images/activities.svg){fig-align="center" width="8%"}
+
+<h1 style="text-align: center;">Activities</h1>
+
+<p style="text-align: center; font-size: 20px">* Identify and collaborate across the range of image based fish AI focused projects worldwide
+
+* Share resources such as software and trained models
+
+* Share data, including photos and videos of fish
+
+* Create a public bank of images and videos for AI model training
+
+* Share experiences and skills on common challenges
+
+* Run educational events (seminars, workshops, training courses) on image based fish AI tools
+
+* Apply for funding for joined activities and networking
+
+* Cross-test different AI models and learning resources
+
+* Develop user-friendly tools for broad application of AI based models
+
+![](images/andrey-trusov-unsplash.jpg){fig-align="center" width="100%"}
+
+_________________
+
+![](images/who_are_we.svg){fig-align="center" width="8%"}
+
+<h1 style="text-align: center;">Who are we</h1> 
+
+<p style="text-align: center;font-size: 20px">Fish AI Consortium involves a large group of people globally
+and is guided by a group of board members that includes world-renowned experts in the fields of artificial intelligence, fish population management, ecology and conservation.</p>
+
+![](images/partners-map.html){fig-align="center" width=100%  height=400}
+
+<br/><br/>
+
+_________________
+
+![](images/supporters.svg){fig-align="center" width="8%"}
+
+<h1 style="text-align: center;">Supporters</h1> 
+
+<p style="text-align:center;">
+<a href="https://www.mare-centre.pt/en">
+  <img src="images/logo_Mare.png" width="40%">
+</a>
+<a href="https://www.fct.pt/en/">
+  <img src="images/logo_FCT.png" width="40%">
+</a>
+</p>
+
+<br/><br/>
+
+_________________
+
+![](images/contact.svg){fig-align="center" width="8%"}
+
+<h1 style="text-align: center;">Contact us</h1>
+
+<p style="text-align: center;font-size: 20px">If you would like to learn more about our work or join the consortium, please contact us using the form below.</p>
+
+
+
+<html>
+   <body>
+      <form action="https://public.herotofu.com/v1/53951c50-0e8e-11ee-a6b0-17653bd30bd3" method="post" accept-charset="UTF-8">
+         Name:<br><input type="text" name="sname"> <br>
+         Email:<br><input type="text" name="sname"> <br>
+         Message:<br><input type="text" name="ssubject"><br>
+         <input type="submit" value="Send" />
+            <div style="text-indent:-99999px; white-space:nowrap; overflow:hidden; position:absolute;" aria-hidden="true">
+               <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" />
+   </body>
+</html>
+
+
+

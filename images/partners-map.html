@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_18d982b6d2d0e0f9bd4a68a93a0096e2 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_18d982b6d2d0e0f9bd4a68a93a0096e2" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_18d982b6d2d0e0f9bd4a68a93a0096e2 = L.map(
+                "map_18d982b6d2d0e0f9bd4a68a93a0096e2",
+                {
+                    center: [20.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 2,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_a4b644d0ee9a1aa1b0ae83297baeca11 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+            var marker_a36e96ea051c19ba8a83d86d29692e8c = L.marker(
+                [40.208574, -8.423924],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_bc79dfb508838cd5cecf91e8a8e3ebd7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f11969da655edd5142eedbb53bb8a384 = $(`<div id="html_f11969da655edd5142eedbb53bb8a384" style="width: 100.0%; height: 100.0%;">Universidade de Coimbra</div>`)[0];
+                popup_bc79dfb508838cd5cecf91e8a8e3ebd7.setContent(html_f11969da655edd5142eedbb53bb8a384);
+            
+        
+
+        marker_a36e96ea051c19ba8a83d86d29692e8c.bindPopup(popup_bc79dfb508838cd5cecf91e8a8e3ebd7)
+        ;
+
+        
+    
+    
+            var marker_fffe117df550599733e1defef8a909b6 = L.marker(
+                [-42.906822, 147.321808],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_070144b8bc67df995f78ab455d99afc3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fec089c8bd33050ab1a0a2ec68689949 = $(`<div id="html_fec089c8bd33050ab1a0a2ec68689949" style="width: 100.0%; height: 100.0%;">University of Tasmania</div>`)[0];
+                popup_070144b8bc67df995f78ab455d99afc3.setContent(html_fec089c8bd33050ab1a0a2ec68689949);
+            
+        
+
+        marker_fffe117df550599733e1defef8a909b6.bindPopup(popup_070144b8bc67df995f78ab455d99afc3)
+        ;
+
+        
+    
+    
+            var marker_cad3e9ec5f030441751edd7bf1d9fcc9 = L.marker(
+                [54.75291767318128, 25.2636222912165],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_26205e9d39c5d42d54a3782b0e4a1a47 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_540c27b51a172877cb4bf3f2441ba396 = $(`<div id="html_540c27b51a172877cb4bf3f2441ba396" style="width: 100.0%; height: 100.0%;">Nature Research Centre</div>`)[0];
+                popup_26205e9d39c5d42d54a3782b0e4a1a47.setContent(html_540c27b51a172877cb4bf3f2441ba396);
+            
+        
+
+        marker_cad3e9ec5f030441751edd7bf1d9fcc9.bindPopup(popup_26205e9d39c5d42d54a3782b0e4a1a47)
+        ;
+
+        
+    
+    
+            var marker_adc39664a9aec941c183350a57ece0e6 = L.marker(
+                [39.35187876229356, -77.93105195712877],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_02655fdb6d13a0e04e423d8ca6ea6aaa = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fa8f434a315fc65a13ba24352acaaa46 = $(`<div id="html_fa8f434a315fc65a13ba24352acaaa46" style="width: 100.0%; height: 100.0%;">United States Geological Survey</div>`)[0];
+                popup_02655fdb6d13a0e04e423d8ca6ea6aaa.setContent(html_fa8f434a315fc65a13ba24352acaaa46);
+            
+        
+
+        marker_adc39664a9aec941c183350a57ece0e6.bindPopup(popup_02655fdb6d13a0e04e423d8ca6ea6aaa)
+        ;
+
+        
+    
+    
+            var marker_bd290494a643eb7133cd992afc11d625 = L.marker(
+                [47.61087781587179, -122.20357690112799],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_11bcc216a3a6a8e5725d3035cf6cac2f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a4383abdaf160a1178413ff78f9248e0 = $(`<div id="html_a4383abdaf160a1178413ff78f9248e0" style="width: 100.0%; height: 100.0%;">Google AI for Nature and Society</div>`)[0];
+                popup_11bcc216a3a6a8e5725d3035cf6cac2f.setContent(html_a4383abdaf160a1178413ff78f9248e0);
+            
+        
+
+        marker_bd290494a643eb7133cd992afc11d625.bindPopup(popup_11bcc216a3a6a8e5725d3035cf6cac2f)
+        ;
+
+        
+    
+    
+            var marker_920f04c561f30c407e93d84ed9742e04 = L.marker(
+                [40.57309800959694, -105.08351945636609],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_3b822e269154206c324e59e910f5e8b1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3d7cbc2d00369ffef32d45e3ecdc6fc2 = $(`<div id="html_3d7cbc2d00369ffef32d45e3ecdc6fc2" style="width: 100.0%; height: 100.0%;">Colorado State University</div>`)[0];
+                popup_3b822e269154206c324e59e910f5e8b1.setContent(html_3d7cbc2d00369ffef32d45e3ecdc6fc2);
+            
+        
+
+        marker_920f04c561f30c407e93d84ed9742e04.bindPopup(popup_3b822e269154206c324e59e910f5e8b1)
+        ;
+
+        
+    
+    
+            var marker_9b1be9ba10f5fab39aba760f5a1adff4 = L.marker(
+                [45.51361130907987, -122.67740372364885],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_3f14f35fe5b8b71e1f1aa87592504272 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6d779346fd69be7282f775ccc2424a7b = $(`<div id="html_6d779346fd69be7282f775ccc2424a7b" style="width: 100.0%; height: 100.0%;">Wild Me</div>`)[0];
+                popup_3f14f35fe5b8b71e1f1aa87592504272.setContent(html_6d779346fd69be7282f775ccc2424a7b);
+            
+        
+
+        marker_9b1be9ba10f5fab39aba760f5a1adff4.bindPopup(popup_3f14f35fe5b8b71e1f1aa87592504272)
+        ;
+
+        
+    
+    
+            var marker_e5397102e53df0439e658205052444bd = L.marker(
+                [38.03370076451161, -78.50771434572728],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_e90dab28315addf6b21c5ef9866505bd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f5a5e5d0fe3c8228faab1e716b7c4292 = $(`<div id="html_f5a5e5d0fe3c8228faab1e716b7c4292" style="width: 100.0%; height: 100.0%;">University of Virginia</div>`)[0];
+                popup_e90dab28315addf6b21c5ef9866505bd.setContent(html_f5a5e5d0fe3c8228faab1e716b7c4292);
+            
+        
+
+        marker_e5397102e53df0439e658205052444bd.bindPopup(popup_e90dab28315addf6b21c5ef9866505bd)
+        ;
+
+        
+    
+    
+            var marker_eb3ef265420b9dab5b723b8f35c327a4 = L.marker(
+                [37.248512672235, -76.49819699902996],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_d76e72768d3c7594ec5a7044a64f11e3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1c22f235bca49f1ec203e37a72406931 = $(`<div id="html_1c22f235bca49f1ec203e37a72406931" style="width: 100.0%; height: 100.0%;">Virginia Institute of Marine Science</div>`)[0];
+                popup_d76e72768d3c7594ec5a7044a64f11e3.setContent(html_1c22f235bca49f1ec203e37a72406931);
+            
+        
+
+        marker_eb3ef265420b9dab5b723b8f35c327a4.bindPopup(popup_d76e72768d3c7594ec5a7044a64f11e3)
+        ;
+
+        
+    
+    
+            var marker_a4d32d2173cb4abeb4b71334b7bd3791 = L.marker(
+                [36.69255245673172, -121.64351304542843],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_668a07f60f1661412c2a0c9e78e517c6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_64a7b62a4f5150095deaf69707b06d88 = $(`<div id="html_64a7b62a4f5150095deaf69707b06d88" style="width: 100.0%; height: 100.0%;">NOAA: National Oceanic & Atmospheric Administration</div>`)[0];
+                popup_668a07f60f1661412c2a0c9e78e517c6.setContent(html_64a7b62a4f5150095deaf69707b06d88);
+            
+        
+
+        marker_a4d32d2173cb4abeb4b71334b7bd3791.bindPopup(popup_668a07f60f1661412c2a0c9e78e517c6)
+        ;
+
+        
+    
+    
+            var marker_8dca397a8b00c9576e0e0a03e338ccd3 = L.marker(
+                [49.70182466804609, -123.15477498511818],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_a2698c0c4eb64ad40eecb6ca03f078ba = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2cc6fd6db35621bdcec8fe4314426a0e = $(`<div id="html_2cc6fd6db35621bdcec8fe4314426a0e" style="width: 100.0%; height: 100.0%;">Aeria.ai</div>`)[0];
+                popup_a2698c0c4eb64ad40eecb6ca03f078ba.setContent(html_2cc6fd6db35621bdcec8fe4314426a0e);
+            
+        
+
+        marker_8dca397a8b00c9576e0e0a03e338ccd3.bindPopup(popup_a2698c0c4eb64ad40eecb6ca03f078ba)
+        ;
+
+        
+    
+    
+            var marker_89e1b9fe6b46e2f78cb73a30c515ed46 = L.marker(
+                [55.786068881070506, 12.523247817404336],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_76dbf9ef14e0906619dcff47d88c1140 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_853bab283c10e770e962e7ca88e6c45c = $(`<div id="html_853bab283c10e770e962e7ca88e6c45c" style="width: 100.0%; height: 100.0%;">Technical University of Denmark</div>`)[0];
+                popup_76dbf9ef14e0906619dcff47d88c1140.setContent(html_853bab283c10e770e962e7ca88e6c45c);
+            
+        
+
+        marker_89e1b9fe6b46e2f78cb73a30c515ed46.bindPopup(popup_76dbf9ef14e0906619dcff47d88c1140)
+        ;
+
+        
+    
+    
+            var marker_6354691a6e13cd0f0ec58ab20df43e99 = L.marker(
+                [47.37152873909896, 8.078637519550403],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_80a912e88c0f37fcac20d8be74643335 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ee3aa45e249dc81872d51de1f6bb67e7 = $(`<div id="html_ee3aa45e249dc81872d51de1f6bb67e7" style="width: 100.0%; height: 100.0%;">Fishven</div>`)[0];
+                popup_80a912e88c0f37fcac20d8be74643335.setContent(html_ee3aa45e249dc81872d51de1f6bb67e7);
+            
+        
+
+        marker_6354691a6e13cd0f0ec58ab20df43e99.bindPopup(popup_80a912e88c0f37fcac20d8be74643335)
+        ;
+
+        
+    
+    
+            var marker_82c6b924550b1eb00ce156afcd1bf34a = L.marker(
+                [40.71258347482157, -74.03529928404642],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_5fe099b646ac264ba45f000ef4f20796 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5b25f49677b50837a561b779c2ab315c = $(`<div id="html_5b25f49677b50837a561b779c2ab315c" style="width: 100.0%; height: 100.0%;">GotOne fishing app</div>`)[0];
+                popup_5fe099b646ac264ba45f000ef4f20796.setContent(html_5b25f49677b50837a561b779c2ab315c);
+            
+        
+
+        marker_82c6b924550b1eb00ce156afcd1bf34a.bindPopup(popup_5fe099b646ac264ba45f000ef4f20796)
+        ;
+
+        
+    
+    
+            var marker_3fd84d20f0038aac3b5a3f617c23a64c = L.marker(
+                [43.33995491928943, -2.865654042794423],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_0fc54f251ba59833ba4fb411b68bdbaa = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_59a05f24caf2c8d604b428386074e422 = $(`<div id="html_59a05f24caf2c8d604b428386074e422" style="width: 100.0%; height: 100.0%;">AZTI</div>`)[0];
+                popup_0fc54f251ba59833ba4fb411b68bdbaa.setContent(html_59a05f24caf2c8d604b428386074e422);
+            
+        
+
+        marker_3fd84d20f0038aac3b5a3f617c23a64c.bindPopup(popup_0fc54f251ba59833ba4fb411b68bdbaa)
+        ;
+
+        
+    
+    
+            var marker_8e4a6cf92f04d87b52d1c280ec1433d2 = L.marker(
+                [53.91699171587451, -122.7410888495461],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_fb0214ac94502b2c3924adb068ec908e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_30b1b99325a41ba1d58ed87d3db9f046 = $(`<div id="html_30b1b99325a41ba1d58ed87d3db9f046" style="width: 100.0%; height: 100.0%;">Anglers Atlas</div>`)[0];
+                popup_fb0214ac94502b2c3924adb068ec908e.setContent(html_30b1b99325a41ba1d58ed87d3db9f046);
+            
+        
+
+        marker_8e4a6cf92f04d87b52d1c280ec1433d2.bindPopup(popup_fb0214ac94502b2c3924adb068ec908e)
+        ;
+
+        
+    
+    
+            var marker_f77b5037d818282c160557e7bc9cf757 = L.marker(
+                [41.90266120539129, 12.501322303156234],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_c301549354debabe45656553525a4dcf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_232627983ba3bfcebd3f14d554623e33 = $(`<div id="html_232627983ba3bfcebd3f14d554623e33" style="width: 100.0%; height: 100.0%;">FAO</div>`)[0];
+                popup_c301549354debabe45656553525a4dcf.setContent(html_232627983ba3bfcebd3f14d554623e33);
+            
+        
+
+        marker_f77b5037d818282c160557e7bc9cf757.bindPopup(popup_c301549354debabe45656553525a4dcf)
+        ;
+
+        
+    
+    
+            var marker_e77260f508ef4f4179d4f8ac177c06dd = L.marker(
+                [21.39472498825608, -157.7433075423584],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_a48ce700f3756deaabf6c529f1e3d41e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f9268c0deb8c24ecb604058339b75646 = $(`<div id="html_f9268c0deb8c24ecb604058339b75646" style="width: 100.0%; height: 100.0%;">Ai.Fish</div>`)[0];
+                popup_a48ce700f3756deaabf6c529f1e3d41e.setContent(html_f9268c0deb8c24ecb604058339b75646);
+            
+        
+
+        marker_e77260f508ef4f4179d4f8ac177c06dd.bindPopup(popup_a48ce700f3756deaabf6c529f1e3d41e)
+        ;
+
+        
+    
+    
+            var marker_a66ab78994f37ab500d67d3e2c047a3e = L.marker(
+                [48.42820251659402, -123.36806306058146],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_caa77b44552e194667f479748a914195 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_baf29c05c1b267e16586b4a70f71f1b4 = $(`<div id="html_baf29c05c1b267e16586b4a70f71f1b4" style="width: 100.0%; height: 100.0%;">Archipelago</div>`)[0];
+                popup_caa77b44552e194667f479748a914195.setContent(html_baf29c05c1b267e16586b4a70f71f1b4);
+            
+        
+
+        marker_a66ab78994f37ab500d67d3e2c047a3e.bindPopup(popup_caa77b44552e194667f479748a914195)
+        ;
+
+        
+    
+    
+            var marker_08bdb8d41bfcf0b60e5b0300b991c058 = L.marker(
+                [-39.05674104783714, 174.08238638444666],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_4b274ebccf42e475c8afe99c4231b08f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4f38627ec016fa21b2cfc410fa4d97ce = $(`<div id="html_4f38627ec016fa21b2cfc410fa4d97ce" style="width: 100.0%; height: 100.0%;">Wildlife.ai</div>`)[0];
+                popup_4b274ebccf42e475c8afe99c4231b08f.setContent(html_4f38627ec016fa21b2cfc410fa4d97ce);
+            
+        
+
+        marker_08bdb8d41bfcf0b60e5b0300b991c058.bindPopup(popup_4b274ebccf42e475c8afe99c4231b08f)
+        ;
+
+        
+    
+    
+            var marker_57fe9d47b16899d3ce71b2bef8746689 = L.marker(
+                [40.208574, -8.423924],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_af8f99ebc20247d14997cb8bea919e72 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bad6f41fcceb1e755441eb113821e421 = $(`<div id="html_bad6f41fcceb1e755441eb113821e421" style="width: 100.0%; height: 100.0%;">Universidade de Coimbra</div>`)[0];
+                popup_af8f99ebc20247d14997cb8bea919e72.setContent(html_bad6f41fcceb1e755441eb113821e421);
+            
+        
+
+        marker_57fe9d47b16899d3ce71b2bef8746689.bindPopup(popup_af8f99ebc20247d14997cb8bea919e72)
+        ;
+
+        
+    
+    
+            var marker_842120e2b984f142607a6db813f9a7f6 = L.marker(
+                [-42.906822, 147.321808],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_68f4a05204de81b45b8b0b8e3dc2c308 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_190f9ec05b425b783c8fcfa5b3042879 = $(`<div id="html_190f9ec05b425b783c8fcfa5b3042879" style="width: 100.0%; height: 100.0%;">University of Tasmania</div>`)[0];
+                popup_68f4a05204de81b45b8b0b8e3dc2c308.setContent(html_190f9ec05b425b783c8fcfa5b3042879);
+            
+        
+
+        marker_842120e2b984f142607a6db813f9a7f6.bindPopup(popup_68f4a05204de81b45b8b0b8e3dc2c308)
+        ;
+
+        
+    
+    
+            var marker_f2677ac7d66dfb9de7e2d595af1889bb = L.marker(
+                [54.75291767318128, 25.2636222912165],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_d3fc9dca06bba5d28eb0c933b8b4d5cc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d83c5bff380927c0ecb6f976a180aa42 = $(`<div id="html_d83c5bff380927c0ecb6f976a180aa42" style="width: 100.0%; height: 100.0%;">Nature Research Centre</div>`)[0];
+                popup_d3fc9dca06bba5d28eb0c933b8b4d5cc.setContent(html_d83c5bff380927c0ecb6f976a180aa42);
+            
+        
+
+        marker_f2677ac7d66dfb9de7e2d595af1889bb.bindPopup(popup_d3fc9dca06bba5d28eb0c933b8b4d5cc)
+        ;
+
+        
+    
+    
+            var marker_4cd6a5ef8ee16c3906699e41abd2ce4f = L.marker(
+                [39.35187876229356, -77.93105195712877],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_8fa0bfc7bf39e695a72aa4999977aca3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_69b9dc3977a3939b52babe5935320696 = $(`<div id="html_69b9dc3977a3939b52babe5935320696" style="width: 100.0%; height: 100.0%;">United States Geological Survey</div>`)[0];
+                popup_8fa0bfc7bf39e695a72aa4999977aca3.setContent(html_69b9dc3977a3939b52babe5935320696);
+            
+        
+
+        marker_4cd6a5ef8ee16c3906699e41abd2ce4f.bindPopup(popup_8fa0bfc7bf39e695a72aa4999977aca3)
+        ;
+
+        
+    
+    
+            var marker_1b4f37085a202a09c4d95fec6dd44e0e = L.marker(
+                [47.61087781587179, -122.20357690112799],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_0ba170f5b149125021c7f695561d554f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_697f1fa9a94ffcaf36b21c9366729397 = $(`<div id="html_697f1fa9a94ffcaf36b21c9366729397" style="width: 100.0%; height: 100.0%;">Google AI for Nature and Society</div>`)[0];
+                popup_0ba170f5b149125021c7f695561d554f.setContent(html_697f1fa9a94ffcaf36b21c9366729397);
+            
+        
+
+        marker_1b4f37085a202a09c4d95fec6dd44e0e.bindPopup(popup_0ba170f5b149125021c7f695561d554f)
+        ;
+
+        
+    
+    
+            var marker_ceeb23cc3c093983d483775b16349451 = L.marker(
+                [40.57309800959694, -105.08351945636609],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_6131354de537321a80765445d31b4f93 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_04239ce1cae7d44c306170aeb1ab138b = $(`<div id="html_04239ce1cae7d44c306170aeb1ab138b" style="width: 100.0%; height: 100.0%;">Colorado State University</div>`)[0];
+                popup_6131354de537321a80765445d31b4f93.setContent(html_04239ce1cae7d44c306170aeb1ab138b);
+            
+        
+
+        marker_ceeb23cc3c093983d483775b16349451.bindPopup(popup_6131354de537321a80765445d31b4f93)
+        ;
+
+        
+    
+    
+            var marker_b92ed53ffcfd2d57e255a33ca5e16768 = L.marker(
+                [45.51361130907987, -122.67740372364885],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_2226ea98a065a69222353410ae6ac674 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d34636a2f5c4dcfea6add5292f29569a = $(`<div id="html_d34636a2f5c4dcfea6add5292f29569a" style="width: 100.0%; height: 100.0%;">Wild Me</div>`)[0];
+                popup_2226ea98a065a69222353410ae6ac674.setContent(html_d34636a2f5c4dcfea6add5292f29569a);
+            
+        
+
+        marker_b92ed53ffcfd2d57e255a33ca5e16768.bindPopup(popup_2226ea98a065a69222353410ae6ac674)
+        ;
+
+        
+    
+    
+            var marker_7560c3f4bf9145e6c38f856aa5f39da3 = L.marker(
+                [38.03370076451161, -78.50771434572728],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_992d13b7d29783cba0a604f0c5304cdd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6c80682d481397170390e92fe7ca9508 = $(`<div id="html_6c80682d481397170390e92fe7ca9508" style="width: 100.0%; height: 100.0%;">University of Virginia</div>`)[0];
+                popup_992d13b7d29783cba0a604f0c5304cdd.setContent(html_6c80682d481397170390e92fe7ca9508);
+            
+        
+
+        marker_7560c3f4bf9145e6c38f856aa5f39da3.bindPopup(popup_992d13b7d29783cba0a604f0c5304cdd)
+        ;
+
+        
+    
+    
+            var marker_a8c9e6510391178b2acc8e70fe0c7fbf = L.marker(
+                [37.248512672235, -76.49819699902996],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_fc6451497888e121e089167e7e2234b5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e98fdb53c355937e9ab25b7229613839 = $(`<div id="html_e98fdb53c355937e9ab25b7229613839" style="width: 100.0%; height: 100.0%;">Virginia Institute of Marine Science</div>`)[0];
+                popup_fc6451497888e121e089167e7e2234b5.setContent(html_e98fdb53c355937e9ab25b7229613839);
+            
+        
+
+        marker_a8c9e6510391178b2acc8e70fe0c7fbf.bindPopup(popup_fc6451497888e121e089167e7e2234b5)
+        ;
+
+        
+    
+    
+            var marker_90cb6233c0fe247071672f7a1d57a5e3 = L.marker(
+                [36.69255245673172, -121.64351304542843],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_49aacdf75a88df05cbbd2d7e9a87e625 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_434ddd7469d871e21f54083d9e3bcf89 = $(`<div id="html_434ddd7469d871e21f54083d9e3bcf89" style="width: 100.0%; height: 100.0%;">NOAA: National Oceanic & Atmospheric Administration</div>`)[0];
+                popup_49aacdf75a88df05cbbd2d7e9a87e625.setContent(html_434ddd7469d871e21f54083d9e3bcf89);
+            
+        
+
+        marker_90cb6233c0fe247071672f7a1d57a5e3.bindPopup(popup_49aacdf75a88df05cbbd2d7e9a87e625)
+        ;
+
+        
+    
+    
+            var marker_51ffefd3a5ae0a7e8d252664e23497e3 = L.marker(
+                [49.70182466804609, -123.15477498511818],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_6b888ef128884629bca38ad983f97cb1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1db5c984fbe1460b52ab1e87c3097008 = $(`<div id="html_1db5c984fbe1460b52ab1e87c3097008" style="width: 100.0%; height: 100.0%;">Aeria.ai</div>`)[0];
+                popup_6b888ef128884629bca38ad983f97cb1.setContent(html_1db5c984fbe1460b52ab1e87c3097008);
+            
+        
+
+        marker_51ffefd3a5ae0a7e8d252664e23497e3.bindPopup(popup_6b888ef128884629bca38ad983f97cb1)
+        ;
+
+        
+    
+    
+            var marker_3eca3d149ba53feebcc348da9933855e = L.marker(
+                [55.786068881070506, 12.523247817404336],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_f2a3b55d671ade644ab42d69ef93fc8f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_094abe8f2d5c5f081007e4b368314e4c = $(`<div id="html_094abe8f2d5c5f081007e4b368314e4c" style="width: 100.0%; height: 100.0%;">Technical University of Denmark</div>`)[0];
+                popup_f2a3b55d671ade644ab42d69ef93fc8f.setContent(html_094abe8f2d5c5f081007e4b368314e4c);
+            
+        
+
+        marker_3eca3d149ba53feebcc348da9933855e.bindPopup(popup_f2a3b55d671ade644ab42d69ef93fc8f)
+        ;
+
+        
+    
+    
+            var marker_ecf10f4924e239977b3589e908ff9f7c = L.marker(
+                [47.37152873909896, 8.078637519550403],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_78304d43791b798a08fb3025d661beb8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_57d3d09be417a95ad57b493ae598f4bb = $(`<div id="html_57d3d09be417a95ad57b493ae598f4bb" style="width: 100.0%; height: 100.0%;">Fishven</div>`)[0];
+                popup_78304d43791b798a08fb3025d661beb8.setContent(html_57d3d09be417a95ad57b493ae598f4bb);
+            
+        
+
+        marker_ecf10f4924e239977b3589e908ff9f7c.bindPopup(popup_78304d43791b798a08fb3025d661beb8)
+        ;
+
+        
+    
+    
+            var marker_b471698e33455e14cd66fd7c1ab99900 = L.marker(
+                [40.71258347482157, -74.03529928404642],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_0007c243fd6ef3411c288417f71748cd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_dd56f5afd93377e5d7c0dd1d710f83ee = $(`<div id="html_dd56f5afd93377e5d7c0dd1d710f83ee" style="width: 100.0%; height: 100.0%;">GotOne fishing app</div>`)[0];
+                popup_0007c243fd6ef3411c288417f71748cd.setContent(html_dd56f5afd93377e5d7c0dd1d710f83ee);
+            
+        
+
+        marker_b471698e33455e14cd66fd7c1ab99900.bindPopup(popup_0007c243fd6ef3411c288417f71748cd)
+        ;
+
+        
+    
+    
+            var marker_b5bd6e0d03a76d6835f1f38041237f97 = L.marker(
+                [43.33995491928943, -2.865654042794423],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_d528079730122fb7e615e04cdf86781d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6f28d3903a9135e1d15a9acd4cd801f3 = $(`<div id="html_6f28d3903a9135e1d15a9acd4cd801f3" style="width: 100.0%; height: 100.0%;">AZTI</div>`)[0];
+                popup_d528079730122fb7e615e04cdf86781d.setContent(html_6f28d3903a9135e1d15a9acd4cd801f3);
+            
+        
+
+        marker_b5bd6e0d03a76d6835f1f38041237f97.bindPopup(popup_d528079730122fb7e615e04cdf86781d)
+        ;
+
+        
+    
+    
+            var marker_0f7cae2991f2301c32ed54535657648c = L.marker(
+                [53.91699171587451, -122.7410888495461],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_375175eb0fff8aa45468895c782ed6f7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_35b66a29d210c76caa73ac1edbd442f6 = $(`<div id="html_35b66a29d210c76caa73ac1edbd442f6" style="width: 100.0%; height: 100.0%;">Anglers Atlas</div>`)[0];
+                popup_375175eb0fff8aa45468895c782ed6f7.setContent(html_35b66a29d210c76caa73ac1edbd442f6);
+            
+        
+
+        marker_0f7cae2991f2301c32ed54535657648c.bindPopup(popup_375175eb0fff8aa45468895c782ed6f7)
+        ;
+
+        
+    
+    
+            var marker_74ad498efbb4f282e3c76c88966f9c4d = L.marker(
+                [41.90266120539129, 12.501322303156234],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_f84f5840a25fc5c608027a253456cc5d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e10ab8716c27c3b6cf626b1b9e31be91 = $(`<div id="html_e10ab8716c27c3b6cf626b1b9e31be91" style="width: 100.0%; height: 100.0%;">FAO</div>`)[0];
+                popup_f84f5840a25fc5c608027a253456cc5d.setContent(html_e10ab8716c27c3b6cf626b1b9e31be91);
+            
+        
+
+        marker_74ad498efbb4f282e3c76c88966f9c4d.bindPopup(popup_f84f5840a25fc5c608027a253456cc5d)
+        ;
+
+        
+    
+    
+            var marker_39b8b043b55184934a80b042779f205c = L.marker(
+                [21.39472498825608, -157.7433075423584],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_dae34081ed54f95051a530f01e5ffdb8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_646baf844b2f418eb47d902baa1c8651 = $(`<div id="html_646baf844b2f418eb47d902baa1c8651" style="width: 100.0%; height: 100.0%;">Ai.Fish</div>`)[0];
+                popup_dae34081ed54f95051a530f01e5ffdb8.setContent(html_646baf844b2f418eb47d902baa1c8651);
+            
+        
+
+        marker_39b8b043b55184934a80b042779f205c.bindPopup(popup_dae34081ed54f95051a530f01e5ffdb8)
+        ;
+
+        
+    
+    
+            var marker_c8266192c36a177544b2b566874c67e0 = L.marker(
+                [48.42820251659402, -123.36806306058146],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_64c99fd47ebe96d8519bc5d101d16b61 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ec040434af9e68085a0a2ee6d0464bb9 = $(`<div id="html_ec040434af9e68085a0a2ee6d0464bb9" style="width: 100.0%; height: 100.0%;">Archipelago</div>`)[0];
+                popup_64c99fd47ebe96d8519bc5d101d16b61.setContent(html_ec040434af9e68085a0a2ee6d0464bb9);
+            
+        
+
+        marker_c8266192c36a177544b2b566874c67e0.bindPopup(popup_64c99fd47ebe96d8519bc5d101d16b61)
+        ;
+
+        
+    
+    
+            var marker_19a7299243dfc8d156dc76602a5cf4e4 = L.marker(
+                [-39.05674104783714, 174.08238638444666],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_edbc046d780cc308eff565dc650bc888 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1a314ce89417ed7f89252559085ce9df = $(`<div id="html_1a314ce89417ed7f89252559085ce9df" style="width: 100.0%; height: 100.0%;">Wildlife.ai</div>`)[0];
+                popup_edbc046d780cc308eff565dc650bc888.setContent(html_1a314ce89417ed7f89252559085ce9df);
+            
+        
+
+        marker_19a7299243dfc8d156dc76602a5cf4e4.bindPopup(popup_edbc046d780cc308eff565dc650bc888)
+        ;
+
+        
+    
+    
+            var marker_57ee683c60e6d0dfc1280d0662cf0085 = L.marker(
+                [52.45941956495639, 1.7425268548669013],
+                {}
+            ).addTo(map_18d982b6d2d0e0f9bd4a68a93a0096e2);
+        
+    
+        var popup_ad376143909bcb5744adab12cd33117d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_de711ed3318ae75ade418c5eb0c918b5 = $(`<div id="html_de711ed3318ae75ade418c5eb0c918b5" style="width: 100.0%; height: 100.0%;">CEFAS</div>`)[0];
+                popup_ad376143909bcb5744adab12cd33117d.setContent(html_de711ed3318ae75ade418c5eb0c918b5);
+            
+        
+
+        marker_57ee683c60e6d0dfc1280d0662cf0085.bindPopup(popup_ad376143909bcb5744adab12cd33117d)
+        ;
+
+        
+    
+</script>
+</html>

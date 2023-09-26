@@ -1,0 +1,48 @@
+---
+title: "Blog"
+---
+
+## First meeting 
+
+The first online consortium meeting was held on June 30 (Friday) at 8am (East Australian time).  
+
+Participants:
+
+- Asta Audzijonyte (University of Tasmania & Nature Research Centre)
+- Catarina Silva (University of Coimbra, Portugal)
+- Andrew Jansen (Australian Government’s Supervising Scientist Branch)
+- Dan Morris (Google)
+- Nathaniel "Than" Hitt (US Geological Survey) 
+- Justas Dainys (Nature Research Centre)
+- Yoichiro Kanno (Colorado State University)
+- Jimmy Freese (Ai.Fish)
+- Luyen Chou (GotOne Media LLC)
+- Thor Veen (Aeria)
+- Ben Letcher (US Geological Survey)
+- Raiana McKinney (The Pew Charitable Trusts)
+
+
+Agenda:
+
+- 8.00-8.05: waiting for everyone to join
+- 8.05-8.10: Asta – welcome, introduction
+- 8.10-8.15: Catarina – introduction to the online survey results about the main priorities and ideas for the consortium
+- 8.15-8.35: brief presentations from some consortium members about their work and interest.
+    - Andrew Jansen (Australian Government’s Supervising Scientist Branch): [BRUVNet dataset](https://www.bruvnet.org/) and models for fish ID
+    - Dan Morris (Google): lessons from related domains and suggestions for the consortium
+    - Nathaniel "Than" Hitt (US Geological Survey): Individual fish identification models
+    - Catarina Silva (University of Coimbra, Portugal): Models for fish size classification from citizen science and social media photos
+- 8.35-9.00: Brief discussion on:
+    a) introducing specific goals and key priorities (building an image bank, testing models, combining models, expert fish identification in images, funding application) and people willing to help with them or lead them. Next meetings could be specifically targeted to just one of these goals
+    b) computing resources that consortium could use. Is there any cloud computing available, can we apply for it?
+    c) please provide materials (links, publications, your photo, your description, etc) for the [website](https://fishaiconsortium.github.io/website/our_team.html) and let us know if you would like to help with building it. We have a dedicated domain which will soon replace the GitHub link.
+    d) how to reach groups in Asia, Africa and South America?
+    e) other topics
+
+<html>
+    <body>
+        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/lzLwnWqrtgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+    </body>
+</html>
+
+

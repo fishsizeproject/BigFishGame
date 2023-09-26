@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Fish AI Consortium"
+  navbar:
+    left:
+      - href: blog.qmd
+        text: Blog
+      - href: resources.qmd
+        text: Resources
+      - href: our_team.qmd
+        text: Our Team
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+

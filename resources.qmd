@@ -1,0 +1,59 @@
+---
+title: "Resources"
+---
+
+## Publicly available datasets
+
+[*NOAA Puget Sound Nearshore Fish 2017-2018*](https://lila.science/datasets/noaa-puget-sound-nearshore-fish)
+- 77,739 images sampled from video collected on and around shellfish aquaculture farms in an estuary in the Northeast Pacific; 67,990 objects (fish and crustaceans) annotated on 30,384 images.
+
+[List of Marine/freshwater images](https://lila.science/otherdatasets#images-marine)
+
+[BRUVNet](https://www.bruvnet.org/)
+- An open-sourced dataset from baited remote underwater video of freshwater and marine fish images used for fisheries monitoring and research
+
+[Deep learning based *Nephrops* counter for demersal trawl fisheries](https://data.dtu.dk/articles/media/Video_data_for_development_of_real-time_nephrops_counter_for_demersal_fisheries/21769442)
+
+
+
+![](images/pike.jpg){width="80%" fig-align="center"}
+
+## Publicly available models
+
+[*MegaFishDetector v0*](https://github.com/warplab/megafishdetector/blob/main/MODEL_ZOO.md)
+
+General purpose detector of fish shapes in images
+
+[KakaduFishAI](https://github.com/ajansenn/KakaduFishAI)
+
+Multi-class detector for Australian fish
+
+## Training resources
+
+[***Machine learning based image collection, annotation and classification***](https://fishsizeproject.github.io/Course-MLforImageProcessing/)
+
+In this online course you will learn about:
+
+1.  concepts of data science, machine learning (ML), computer vision, deep learning and Convolutional Neural Networks (CNNs)
+2.  how to pre-process and pre-annotate images to accelerate your ML projects
+3.  how to apply data augmentation techniques
+4.  how to build an image classification model with your own or example data
+
+The course uses freely available libraries and computing resources on Google Colaboratory
+
+![](images/AnglerPhone.jpg){width="80%" fig-align="center"}
+
+## Scientific publications
+
+A Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. <span style="color:black;">2022.</span> *Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte*. [Sustainability 14 (21), 14324](https://www.mdpi.com/2071-1050/14/21/14324)
+
+*Preprint:* A machine learning based image classification method to estimate fish sizes from images without a specified reference object. <span style="color:black;">2022.</span> *Catarina Nunes Soares Silva, Justas Dainys, Sean Simmons, Asta Audzijonyte*. [bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2022/12/27/2022.12.27.521854.full.pdf)
+
+Estimating catch rates in real time: Development of a deep learning based Nephrops (*Nephrops norvegicus*) counter for demersal trawl fisheries.<span style="color:black;">2023.</span> *Ercan Avsar, Jordan P. Feekings, Ludvig Ahm Krag*. [Frontiers in Marine Science](https://www.frontiersin.org/articles/10.3389/fmars.2023.1129852/full)
+
+
+
+
+## Media and other popular science 
+
+Story about the collaboration between Microsoft and Australian Government’s Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - [Citizen scientists, AI and cloud bond to boost billabong health in the Top End](https://news.microsoft.com/en-au/features/citizen-scientists-ai-and-cloud-bond-to-boost-billabong-health-in-the-top-end/)

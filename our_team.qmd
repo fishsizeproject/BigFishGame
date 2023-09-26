@@ -1,0 +1,480 @@
+---
+title: "Our Team"
+about: 
+  template: solana
+---
+
+<br/><br/>
+
+## Board members
+
+
+<br/><br/>
+
+
+::: {layout-ncol=3}
+
+![](images/photo_AmandaB.png){width=300}
+
+<br/><br/>
+[Amanda Barney](https://teem.fish/)
+<br/><br/>
+Teem Fish Monitoring, Canada
+
+<br/><br/>
+Teem Fish Monitoring is a fisheries electronic monitoring technology company dedicated to bringing the best automation tools and efficiencies to our data collection and analysis processes
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo_AndrewJ.png){width=300}
+
+<br/><br/>
+[Andrew J Jansen]()
+<br/><br/>
+Department of Climate Change, Energy, Environment and Water, Australia
+
+<br/><br/>
+Focusing at the intersection of deep learning and ecology to develop wildlife monitoring solutions using a range of remote sensing technologies (e.g. drones, underwater cameras, multi-spectral sensors, IoT Edge, cloud computing)
+
+:::
+
+::: {layout-ncol=3}
+![](images/photo_Asta.png){width=300}
+
+<br/><br/>
+[Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte)  
+(co-founder)
+<br/><br/>
+University of Tasmania, Australia & Nature Research Centre, Lithuania
+
+<br/><br/>
+ML models for citizen science and social media data, especially models for fish size determination
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo_Catarina.png){width=300}
+
+<br/><br/>
+[Catarina Silva](https://catarinasilva.weebly.com)  
+   (co-founder)
+<br/><br/>
+University of Coimbra & MARE, Portugal
+
+<br/><br/>
+ML models for automatic identification of species and sizes from images; multidisciplinary and innovative methods to fisheries research; marine population dynamics
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo_KieranH.png){width=300}
+
+<br/><br/>
+[Kieran Hyder](https://www.cefas.co.uk/about-us/people/kieran-hyder/)
+<br/><br/>
+CEFAS, UK
+
+<br/><br/>
+Application of science to support policy and management of fisheries focusing on the social, economic, and biological impacts of marine recreational fisheries; novel approaches to support fisheries monitoring, modelling, assessment and management
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Kim Friedman
+<br/><br/>
+FAO, Italy
+
+| 
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Lisa Kellogg
+<br/><br/>
+Virginia Institute of Marine Science, USA
+
+| 
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo_LuyenC.png){width=300}
+
+<br/><br/>
+[Luyen Chou](https://www.linkedin.com/in/luyen-chou-2647165/)
+<br/><br/>
+GotOne fishing app, USA
+
+<br/><br/>
+GotOne is a fishing log app that empowers recreational anglers with the data they need to catch more fish and conserve our fisheries
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo_ThanH.png){width=300}
+
+<br/><br/>
+[Nathaniel "Than" Hitt](https://www.usgs.gov/staff-profiles/nathaniel-hitt)
+<br/><br/>
+U.S. Geological Survey
+Eastern Ecological Science Center, USA
+
+<br/><br/>
+Ecological applications of AI for fish biology in freshwater ecosystems
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo_SteveM.png){width=300}
+
+<br/><br/>
+[Steve Munch](https://sbmunch.sites.ucsc.edu/)
+<br/><br/>
+University of California, Santa Cruz, USA
+
+<br/><br/>
+I use nonlinear dynamics, optimal control, and machine learning to develop data-driven tools for ecosystem management
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+[Tom Wye](https://fishial.ai/)
+<br/><br/>
+Fishial.AI, USA
+
+| 
+
+:::
+
+
+<br/><br/>
+
+
+## General members
+
+<br/><br/>
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+[Alexander Dungate](https://www.ondeck.fish/)
+<br/><br/>
+OnDeck Fisheries AI Inc.
+
+| 
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo_AlyssaM.png){width=300}
+
+<br/><br/>
+[Alyssa Marshell](https://discover.utas.edu.au/Alyssa.Marshell)
+<br/><br/>
+University of Tasmania, Australia
+
+<br/><br/>
+AI for automatic identification of fish species and sizes from video and images; automate annual monitoring of fisheries species; increase length data available for length-based annual stock assessments
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Ben Letcher
+<br/><br/>
+U.S. Geological Survey, USA
+
+| 
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Christian Skov
+<br/><br/>
+National Institute of Aquatic Resources, Denmark
+
+| 
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Dan Morris
+<br/><br/>
+Google AI for Nature and Society, USA
+
+| 
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Eelke Folmer
+<br/><br/>
+Aeria
+
+| 
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo_ErcanA.png){width=300}
+
+<br/><br/>
+[Ercan Avsar](https://www.linkedin.com/in/ercan-av%C5%9Far-b6b97411a/)
+<br/><br/>
+Technical University of Denmark, Denmark
+
+<br/><br/>
+Underwater video processing for automatic species recognition; edge computing and real-time object detection with deep learning models
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Iñaki Quincoces 
+<br/><br/>
+AZTI, Spain
+
+| 
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo_Jimmy_Freese.png){width=300}
+
+<br/><br/>
+[Jimmy Freese](https://www.ai.fish/)
+<br/><br/>
+Ai.Fish, USA
+
+<br/><br/>
+Ai.Fish is a Computer Vision and Artificial Intelligence company with significant ongoing R&D in data science, deep learning, convolutional neural networks and object detection and tracking to address problems in marine sustainability and conservation. 
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Justas Dainys
+<br/><br/>
+Nature Research Centre, Lithuania
+
+| 
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+[Justin Chan](https://www.ondeck.fish/)
+<br/><br/>
+OnDeck Fisheries AI Inc.
+
+| 
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Mark Sudul
+<br/><br/>
+Archipelago
+
+| 
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Noel Clark
+<br/><br/>
+Colorado State University, USA
+
+| 
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo_PaulC.png){width=300}
+
+<br/><br/>
+[Paul Clerkin](pauljclerkin.com)
+<br/><br/>
+Virginia Institute of Marine Science, USA
+
+<br/><br/>
+I am a taxonomist exploring innovative ways to enhance identification tools and develop AI solutions to improve the accuracy of species identification and data collection for deep-sea sharks
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Raiana McKinney
+<br/><br/>
+The Pew Charitable Trusts
+
+| 
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+[Sean Simmons](https://www.anglersatlas.com/)
+<br/><br/>
+Angler's Atlas, Canada
+
+| 
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+Sebastian Uhlmann
+<br/><br/>
+Dr Snapper, Flanders Research Institute for Agriculture, Fisheries and Food (ILVO), Vrije Universiteit Brussels (VUB) 
+
+| 
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo_SophieP.png){width=300}
+
+[Sophie Pitois](https://www.cefas.co.uk/about-us/people/sophie-pitois/)
+<br/><br/>
+CEFAS, UK
+
+<br/><br/>
+I’m a Zooplankton ecologist focussing on optimizing imaging tools for automated monitoring; in particular the use of AI methods for real-time data collection and visualisation
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Thor Veen
+<br/><br/>
+Aeria
+
+| 
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Tim Sartwell
+<br/><br/>
+NOAA Fisheries
+
+| 
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Victor Anton
+<br/><br/>
+Wildlife.ai, New Zealand
+
+| 
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo_YoichiroK.png){width=300}
+
+<br/><br/>
+[Yoichiro Kanno](https://sites.warnercnr.colostate.edu/kanno/)
+<br/><br/>
+Colorado State University, USA
+
+<br/><br/>
+I am a stream fish ecologist working on projects in USA and Japan
+
+:::
+
+
