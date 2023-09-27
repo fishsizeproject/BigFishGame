@@ -3,15 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Fish AI Consortium"
+  title: "Big Fish card game"
   navbar:
     left:
-      - href: blog.qmd
-        text: Blog
+      - href: rules.qmd
+        text: Rules
       - href: resources.qmd
         text: Resources
-      - href: our_team.qmd
-        text: Our Team
 
 format:
   html:

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Fish AI Consortium",
+    "title": "\nThe game all about fishing in a sustainable way\n",
     "section": "",
-    "text": "The Fish AI Consortium is a global network of individuals and organisations advancing artificial intelligence based image analysis to study fish population management, ecology, and conservation. We believe that AI has the potential to revolutionise the way we study, manage and protect fish populations in freshwater and marine ecosystems worldwide. By sharing resources, images, data and expertise, we aim to make a significant impact on the future of Earth’s aquatic ecosystems.\n\n\n\n\n\n\n\n\n\nOur goals\n\n\n\nDevelop AI-powered tools that can accurately identify fish to species, measure fish and identify individual fish from photos and videos.\nExpand the data available to fisheries managers and scientists by developing AI enhanced tools that allow image based data collection by recreational anglers, commercial fisheries, community scientists and researchers.\nMake AI resources more accessible for research and management, by developing user friendly image analyses applications and providing information and training.\nIncrease cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists and conservation practitioners.\nApply image based AI tools to address the challenges facing fish populations, such as overfishing, habitat loss and climate change.\n\n\n\n\n\n\n\n\n1 / 3\n\n\n\n©Sebastian Pena\n\n\n\n\n2 / 3\n\n\n\n©Matthew McBrayer\n\n\n\n\n3 / 3\n\n\n\n©Milos Prelevic\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\nActivities\n\n\n\nIdentify and collaborate across the range of image based fish AI focused projects worldwide\nShare resources such as software and trained models\nShare data, including photos and videos of fish\nCreate a public bank of images and videos for AI model training\nShare experiences and skills on common challenges\nRun educational events (seminars, workshops, training courses) on image based fish AI tools\nApply for funding for joined activities and networking\nCross-test different AI models and learning resources\nDevelop user-friendly tools for broad application of AI based models\n\n\n\n\n\n\n\n\n\n\n\n\n\nWho are we\n\n\nFish AI Consortium involves a large group of people globally and is guided by a group of board members that includes world-renowned experts in the fields of artificial intelligence, fish population management, ecology and conservation.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupporters\n\n\n     \n\n\n\n\n\n\n\n\n\nContact us\n\n\nIf you would like to learn more about our work or join the consortium, please contact us using the form below.\n\n\nName:  Email:  Message: \n\n           <input type=\"text\" name=\"_gotcha\" tabindex=\"-1\" autocomplete=\"off\" />"
+    "text": "The game all about fishing in a sustainable way\n\n\nThe Big Fish card game aims to inform and engage everyone interested in fishing or marine conservation through fun play. The main goal of the game is to collect the maximum number of points from catching fish while also preserving a healthy ecosystem and fish size diversity for future catches. The game is suitable to ages from 10 to 99+ and is best played in a group of 2-5 players.\n\n\n\n\n\n\n\n\n\nMain messages\n\n\nThis game aims to introduce three main messages that we care about\n\nBig fish are important. They are important for population resilience, ecosystem balance and simply because they are beautiful.\nBig fish are mostly all gone. Commercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers.\nBig fish can return. Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes.\n\n\n\n\n\n\n\n\n\n\nGame mechanics\n\n\nBig fish are worth more points than small fish, so players are tempted to catch them. But presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving fish for good fishing opportunities. In addition to fishing, other natural and human induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification and others. These events create unpredictability and new challenges and inform about human impacts on aquatic ecosystems.\n\n\n\n\n\n\n\n\n\nWho are we\n\n\nThis game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original, human made, and was produced by Amy Coghlan. Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.\n\n\n\n\n\n\n\n\n\nSupporters\n\n\nThis work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to Asta Audzijonyte\n\n\n\n\n\n\n\n\n\nContact us\n\n\nIf you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us using the form below.\n\n\nName:  Email:  Message: \n\n           &lt;input type=\"text\" name=\"_gotcha\" tabindex=\"-1\" autocomplete=\"off\" /&gt;"
   },
   {
     "objectID": "our_team.html#board-members",
@@ -25,7 +25,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "NOAA Puget Sound Nearshore Fish 2017-2018 - 77,739 images sampled from video collected on and around shellfish aquaculture farms in an estuary in the Northeast Pacific; 67,990 objects (fish and crustaceans) annotated on 30,384 images.\nList of Marine/freshwater images\nBRUVNet - An open-sourced dataset from baited remote underwater video of freshwater and marine fish images used for fisheries monitoring and research\nDeep learning based Nephrops counter for demersal trawl fisheries"
+    "text": "Lots of fund and useful things are coming up here soon"
   },
   {
     "objectID": "resources.html#publicly-available-models",
@@ -39,7 +39,7 @@
     "href": "resources.html#training-resources",
     "title": "Resources",
     "section": "Training resources",
-    "text": "Training resources\nMachine learning based image collection, annotation and classification\nIn this online course you will learn about:\n\nconcepts of data science, machine learning (ML), computer vision, deep learning and Convolutional Neural Networks (CNNs)\nhow to pre-process and pre-annotate images to accelerate your ML projects\nhow to apply data augmentation techniques\nhow to build an image classification model with your own or example data\n\nThe course uses freely available libraries and computing resources on Google Colaboratory"
+    "text": "Training resources\nA short video explaining main rules of the game*\nIn this online course you will learn about:\n\nconcepts of data science, machine learning (ML), computer vision, deep learning and Convolutional Neural Networks (CNNs)\nhow to pre-process and pre-annotate images to accelerate your ML projects\nhow to apply data augmentation techniques\nhow to build an image classification model with your own or example data\n\nThe course uses freely available libraries and computing resources on Google Colaboratory"
   },
   {
     "objectID": "resources.html#scientific-publications",
@@ -53,7 +53,7 @@
     "href": "resources.html#media-and-other-popular-science",
     "title": "Resources",
     "section": "Media and other popular science",
-    "text": "Media and other popular science\nStory about the collaboration between Microsoft and Australian Government’s Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - Citizen scientists, AI and cloud bond to boost billabong health in the Top End"
+    "text": "Media and other popular science\n[Short video about Asta’s Pew fellowship project and vision for healthy oceans]\nStory about the collaboration between Microsoft and Australian Government’s Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - Citizen scientists, AI and cloud bond to boost billabong health in the Top End"
   },
   {
     "objectID": "blog.html",
@@ -61,5 +61,61 @@
     "title": "Blog",
     "section": "",
     "text": "The first online consortium meeting was held on June 30 (Friday) at 8am (East Australian time).\nParticipants:\n\nAsta Audzijonyte (University of Tasmania & Nature Research Centre)\nCatarina Silva (University of Coimbra, Portugal)\nAndrew Jansen (Australian Government’s Supervising Scientist Branch)\nDan Morris (Google)\nNathaniel “Than” Hitt (US Geological Survey)\nJustas Dainys (Nature Research Centre)\nYoichiro Kanno (Colorado State University)\nJimmy Freese (Ai.Fish)\nLuyen Chou (GotOne Media LLC)\nThor Veen (Aeria)\nBen Letcher (US Geological Survey)\nRaiana McKinney (The Pew Charitable Trusts)\n\nAgenda:\n\n8.00-8.05: waiting for everyone to join\n8.05-8.10: Asta – welcome, introduction\n8.10-8.15: Catarina – introduction to the online survey results about the main priorities and ideas for the consortium\n8.15-8.35: brief presentations from some consortium members about their work and interest.\n\nAndrew Jansen (Australian Government’s Supervising Scientist Branch): BRUVNet dataset and models for fish ID\nDan Morris (Google): lessons from related domains and suggestions for the consortium\nNathaniel “Than” Hitt (US Geological Survey): Individual fish identification models\nCatarina Silva (University of Coimbra, Portugal): Models for fish size classification from citizen science and social media photos\n\n8.35-9.00: Brief discussion on:\n\nintroducing specific goals and key priorities (building an image bank, testing models, combining models, expert fish identification in images, funding application) and people willing to help with them or lead them. Next meetings could be specifically targeted to just one of these goals\ncomputing resources that consortium could use. Is there any cloud computing available, can we apply for it?\nplease provide materials (links, publications, your photo, your description, etc) for the website and let us know if you would like to help with building it. We have a dedicated domain which will soon replace the GitHub link.\nhow to reach groups in Asia, Africa and South America?\nother topics"
+  },
+  {
+    "objectID": "resources.html#wild-cards",
+    "href": "resources.html#wild-cards",
+    "title": "Resources",
+    "section": "",
+    "text": "Blue Groper\nLargest fish are important in maintaining natural ecosystem in balance. For example, only the largest fish and largest rock lobsters will eat the urchins, which are decimating Tasmanian and other kelp forests. Read this story in the ABC magazine to learn more.\nGiant Kelp\nKelp is extremely important in providing habitats for all marine creatures."
+  },
+  {
+    "objectID": "resources.html#round-end-cards",
+    "href": "resources.html#round-end-cards",
+    "title": "Resources",
+    "section": "Round end cards",
+    "text": "Round end cards\nUrchins arrive"
+  },
+  {
+    "objectID": "resources.html#science-about-the-importance-of-large-fish",
+    "href": "resources.html#science-about-the-importance-of-large-fish",
+    "title": "Resources",
+    "section": "Science about the importance of large fish",
+    "text": "Science about the importance of large fish\nA Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. 2022. Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte. Sustainability 14 (21), 14324"
+  },
+  {
+    "objectID": "rules.html",
+    "href": "rules.html",
+    "title": "Extended game rules",
+    "section": "",
+    "text": "Shuffle all fish cards and wildcards together into the gameplay deck (fish cards and wild cards) and place in the middle. Find the “End of game card” and keep it aside. Shuffle the remaining round end cards. Lift the top four round end cards and put them aside. Put the “End of game card” with the remaining round end cards and shuffle them again. Place the four round end cards on top and put the pile near the centre. The goal is to have the game end randomly at any time after the first four rounds.\nIdentify a large clear space in front of each player as their fishing spot. Deal each player 5 starting cards from the gameplay deck.At the start of the game each player places up to 3 fish from their hand into their fishing site: one as a big fish, one as a medium fish and one juvenile fish. If the player does not have 3 fish in their hand, they place fewer cards (big and medium or only one big fish).\nFrom the gameplay deck flip over cards equal to the number of players plus 2 additional card and place them in the middle next to the gameplay deck. These are the face-up cards. Give each player an esky card, this is placed below the fishing hole. Remember fish placed in the esky must maintain their orientation (juvenile, medium, big). Chose the first player for the first round. It could be the one to most recently have caught a fish."
+  },
+  {
+    "objectID": "rules.html#setup",
+    "href": "rules.html#setup",
+    "title": "Extended game rules",
+    "section": "",
+    "text": "Shuffle all fish cards and wildcards together into the gameplay deck (fish cards and wild cards) and place in the middle. Find the “End of game card” and keep it aside. Shuffle the remaining round end cards. Lift the top four round end cards and put them aside. Put the “End of game card” with the remaining round end cards and shuffle them again. Place the four round end cards on top and put the pile near the centre. The goal is to have the game end randomly at any time after the first four rounds.\nIdentify a large clear space in front of each player as their fishing spot. Deal each player 5 starting cards from the gameplay deck.At the start of the game each player places up to 3 fish from their hand into their fishing site: one as a big fish, one as a medium fish and one juvenile fish. If the player does not have 3 fish in their hand, they place fewer cards (big and medium or only one big fish).\nFrom the gameplay deck flip over cards equal to the number of players plus 2 additional card and place them in the middle next to the gameplay deck. These are the face-up cards. Give each player an esky card, this is placed below the fishing hole. Remember fish placed in the esky must maintain their orientation (juvenile, medium, big). Chose the first player for the first round. It could be the one to most recently have caught a fish."
+  },
+  {
+    "objectID": "rules.html#gameplay",
+    "href": "rules.html#gameplay",
+    "title": "Extended game rules",
+    "section": "Gameplay",
+    "text": "Gameplay\nDuring the round each player follows the steps on the turn order card.\nStep 1. Draw new cards equal to the number of large fish you have in your fishing hole, up to a maximum of 5 cards. These cards can be drawn from the face-up pile or the gameplay deck. This means that a player can either chose some unknown card or play safe and only take cards that they know (from the face-up cards). Check to see if you have any pink wild cards with a clam shell in your fishing hole (not in your hands) - they allow you to draw more cards.\nStep 2. Spawn fish (place them face up in your fishing site) from your hand as a larval fish. Check to see if you have any red wild cards with a dolphin in your fishing site (not in your hands) – they allow you to spawn more fish.\nStep 3. Grow fish to their next stage by rotating them from larval to juvenile, from juvenile to medium, or from medium and to big). You can grow a fish to the next stage for every big fish present in your fishing site, i.e. if you have two big fish you may grow to smaller fish to their next stage. Fish can only grow by one stage in each turn (larval to juvenile, medium to large, etc), i.e. larval juvenile cannot become big fish in one round even if you have three big fish and can have three “growth steps”. Check to see if you have any green wild cards with a starfish in your fishing hole (not in your hands) – they allow you to grow more fish.\nStep 4. If you like, catch ONE fish from your fishing site. Do this by placing it in your esky in the same orientation as you caught it. Caught large fish no longer count as big fish in your fishing site. Check to see if you have any orange wild cards with a fisher in your fishing site (not in your hands) – they allow you to catch more fish (or shellfish). Remember, it is important to keep catching fish, because once the game ends the player who has the largest number of points from the caught fish will win. Catching big fish will give you more points, but will reduce the number of cards you can draw, the number of fish you can spawn or the number of growth steps you can have.\nStep 5. If you like, play ONE wild card from your hand. Wild cards come in multiple colours that do different things. Coloured cards are played (placed) into your fishing site to give you extra abilities or improve your site. They are permanent and apply each round. Black wildcards give one-off effects and must be discarded once they are played."
+  },
+  {
+    "objectID": "rules.html#round-end",
+    "href": "rules.html#round-end",
+    "title": "Extended game rules",
+    "section": "Round end",
+    "text": "Round end\nAfter each player has had one turn, follow the round end steps to complete the round.\nStep 1. Reveal the next round end event card and follow its directions. If this is a round 5 or more, the round end card might also be the end of the game card.\nStep 2. Discard cards in your hand so no player has more than 7 cards in hand. This rarely needed, but helps maintain the balance of the game.\nStep 3. Reset the face-up cards for the centre by moving them to the used card pile (face-down) and setting up new face-up cards from the pile (number of players + 2).\nStep 4. Rotate the first player by passing the first player card clockwise. This ensures that the first player gets the choice of new face-up cards equally."
+  },
+  {
+    "objectID": "rules.html#game-end",
+    "href": "rules.html#game-end",
+    "title": "Extended game rules",
+    "section": "Game end",
+    "text": "Game end\nThe game ends randomly, once the flipped round end card is the “End of the game” card. This should happen after the end of 5 rounds or more. Now count your points.\nStep 1. Making sure you keep the orientation correct for each fish in your esky and count the points displayed next to the life stage of each fish in your esky.\nStep 2. Each larval, juvenile and medium fish remaining in your fishing site give you 1 point. Add these points to your total score. This encourages to keep a healthy ecosystem.\nStep 3. Each big fish remaining alive in your fishing site give you 2 points. Add these points to your total score. This encourages to keep a healthy ecosystem and large fish for the future.\nThe winner is the player with the most points!"
   }
 ]
