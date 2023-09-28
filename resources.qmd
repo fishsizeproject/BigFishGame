@@ -2,7 +2,7 @@
 title: "Resources"
 ---
 
-Lots of fund and useful things are coming up here soon
+Lots of fun and useful things are coming up here soon
 
 ![](images/shark.jpg){width="50%" fig-align="center"} 
 ![](images/seaweed_planting.jpg){width="50%" fig-align="center"} 

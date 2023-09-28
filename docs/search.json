@@ -25,7 +25,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Lots of fund and useful things are coming up here soon"
+    "text": "Lots of fun and useful things are coming up here soon"
   },
   {
     "objectID": "resources.html#publicly-available-models",
@@ -117,5 +117,47 @@
     "title": "Extended game rules",
     "section": "Game end",
     "text": "Game end\nThe game ends randomly, once the flipped round end card is the “End of the game” card. This should happen after the end of 5 rounds or more. Now count your points.\nStep 1. Making sure you keep the orientation correct for each fish in your esky and count the points displayed next to the life stage of each fish in your esky.\nStep 2. Each larval, juvenile and medium fish remaining in your fishing site give you 1 point. Add these points to your total score. This encourages to keep a healthy ecosystem.\nStep 3. Each big fish remaining alive in your fishing site give you 2 points. Add these points to your total score. This encourages to keep a healthy ecosystem and large fish for the future.\nThe winner is the player with the most points!"
+  },
+  {
+    "objectID": "resources_working.html",
+    "href": "resources_working.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Blue Groper\nLargest fish are important in maintaining natural ecosystem in balance. For example, only the largest fish and largest rock lobsters will eat the urchins, which are decimating Tasmanian and other kelp forests. Read this story in the ABC magazine to learn more.\nGiant Kelp\nKelp is extremely important in providing habitats for all marine creatures."
+  },
+  {
+    "objectID": "resources_working.html#wild-cards",
+    "href": "resources_working.html#wild-cards",
+    "title": "Resources",
+    "section": "",
+    "text": "Blue Groper\nLargest fish are important in maintaining natural ecosystem in balance. For example, only the largest fish and largest rock lobsters will eat the urchins, which are decimating Tasmanian and other kelp forests. Read this story in the ABC magazine to learn more.\nGiant Kelp\nKelp is extremely important in providing habitats for all marine creatures."
+  },
+  {
+    "objectID": "resources_working.html#round-end-cards",
+    "href": "resources_working.html#round-end-cards",
+    "title": "Resources",
+    "section": "Round end cards",
+    "text": "Round end cards\nUrchins arrive"
+  },
+  {
+    "objectID": "resources_working.html#training-resources",
+    "href": "resources_working.html#training-resources",
+    "title": "Resources",
+    "section": "Training resources",
+    "text": "Training resources\nA short video explaining main rules of the game*\nIn this online course you will learn about:\n\nconcepts of data science, machine learning (ML), computer vision, deep learning and Convolutional Neural Networks (CNNs)\nhow to pre-process and pre-annotate images to accelerate your ML projects\nhow to apply data augmentation techniques\nhow to build an image classification model with your own or example data\n\nThe course uses freely available libraries and computing resources on Google Colaboratory"
+  },
+  {
+    "objectID": "resources_working.html#media-and-other-popular-science",
+    "href": "resources_working.html#media-and-other-popular-science",
+    "title": "Resources",
+    "section": "Media and other popular science",
+    "text": "Media and other popular science\n[Short video about Asta’s Pew fellowship project and vision for healthy oceans]\nStory about the collaboration between Microsoft and Australian Government’s Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - Citizen scientists, AI and cloud bond to boost billabong health in the Top End"
+  },
+  {
+    "objectID": "resources_working.html#science-about-the-importance-of-large-fish",
+    "href": "resources_working.html#science-about-the-importance-of-large-fish",
+    "title": "Resources",
+    "section": "Science about the importance of large fish",
+    "text": "Science about the importance of large fish\nA Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. 2022. Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte. Sustainability 14 (21), 14324"
   }
 ]
