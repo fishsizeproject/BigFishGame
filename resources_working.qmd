@@ -6,12 +6,11 @@ title: "Resources"
 
 ***Blue Groper***
 
-Largest fish are important in maintaining natural ecosystem in balance. For example, only the largest fish and largest rock lobsters will eat the urchins, which are decimating Tasmanian and other kelp forests. Read [*this story in the ABC magazine*](https://hyperlink.here) to learn more. 
+Largest fish are important in maintaining natural ecosystem in balance. For example, only the largest fish and largest rock lobsters will eat the urchins, which are decimating Tasmanian and other kelp forests. Read [*this story in the ABC magazine*](https://hyperlink.here) to learn more.
 
-***Giant Kelp*** 
+***Giant Kelp***
 
-Kelp is extremely important in providing habitats for all marine creatures. 
-
+Kelp is extremely important in providing habitats for all marine creatures.
 
 ![](images/pike.jpg){width="80%" fig-align="center"}
 
@@ -21,22 +20,11 @@ Kelp is extremely important in providing habitats for all marine creatures.
 
 ## Training resources
 
-[**A short video explaining main rules of the game***](https://Youtubelink/)
-
-In this online course you will learn about:
-
-1.  concepts of data science, machine learning (ML), computer vision, deep learning and Convolutional Neural Networks (CNNs)
-2.  how to pre-process and pre-annotate images to accelerate your ML projects
-3.  how to apply data augmentation techniques
-4.  how to build an image classification model with your own or example data
-
-The course uses freely available libraries and computing resources on Google Colaboratory
-
-![](images/AnglerPhone.jpg){width="80%" fig-align="center"}
+[**A short video explaining main rules of the game**\*](https://Youtubelink/)
 
 ## Media and other popular science
 
-[**Short video about Asta's Pew fellowship project and vision for healthy oceans**]
+\[**Short video about Asta's Pew fellowship project and vision for healthy oceans**\]
 
 Story about the collaboration between Microsoft and Australian Government's Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - [Citizen scientists, AI and cloud bond to boost billabong health in the Top End](https://news.microsoft.com/en-au/features/citizen-scientists-ai-and-cloud-bond-to-boost-billabong-health-in-the-top-end/)
 
