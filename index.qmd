@@ -34,36 +34,6 @@ in a group of 2-5 players.
 
 <h1 style="text-align: center;">
 
-Main messages
-
-</h1>
-
-<p style="text-align: center; font-size: 20px">
-
-This game aims to introduce three main messages that we care about
-
--   **Big fish are important**. They are important for population
-    resilience, ecosystem balance and simply because they are beautiful.
-
--   **Big fish are mostly all gone**. Commercial and recreational
-    fishing has removed most of the large fish from the ocean, lakes and
-    rivers.
-
--   **Big fish can return**. Fish grow relatively fast and we take the
-    right measures, we can restore healthy ecosystems and their beauty
-    within our lifetimes.
-
-</p>
-
-<br/><br/>
-
-------------------------------------------------------------------------
-
-![](images/sebastian-pena-lambarri-unsplash.jpg){fig-align="center"
-width="50%"}
-
-<h1 style="text-align: center;">
-
 Game mechanics
 
 </h1>
@@ -86,7 +56,35 @@ challenges and inform about human impacts on aquatic ecosystems.
 
 ------------------------------------------------------------------------
 
-![](images/who_are_we.svg){fig-align="center" width="8%"}
+<h1 style="text-align: center;">
+
+Main messages
+
+</h1>
+
+<p style="text-align: center; font-size: 20px">
+
+This game aims to introduce three main messages that we care about
+
+-   **Big fish are important**. They are important for population
+    resilience, ecosystem balance and simply because they are beautiful.
+
+-   **Big fish are mostly all gone**. Commercial and recreational
+    fishing has removed most of the large fish from the ocean, lakes and
+    rivers.
+
+-   **Big fish can return**. Fish grow relatively fast and we take the
+    right measures, we can restore healthy ecosystems and their beauty
+    within our lifetimes.
+
+</p>
+
+![](images/sebastian-pena-lambarri-unsplash.jpg){fig-align="center"
+width="50%"}
+
+<br/><br/>
+
+------------------------------------------------------------------------
 
 <h1 style="text-align: center;">
 
@@ -96,15 +94,19 @@ Who are we
 
 <p style="text-align: center;font-size: 20px">
 
-This game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original, human made, and was produced by Amy Coghlan. Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you. 
+This game has been developed by the Institute of Marine and Antarctic
+Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta
+Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy
+Coghlan (drawings) and Matt Testoni (photos, design). Game testing,
+advice, interesting facts and many other details have been provided by
+many researchers, naturalists, students, friends, anglers, divers and
+game enthusiasts. Thank you.
 
 </p>
 
 <br/><br/>
 
 ------------------------------------------------------------------------
-
-![](images/supporters.svg){fig-align="center" width="8%"}
 
 <h1 style="text-align: center;">
 
@@ -123,8 +125,6 @@ awarded to Asta Audzijonyte
 
 ------------------------------------------------------------------------
 
-![](images/contact.svg){fig-align="center" width="8%"}
-
 <h1 style="text-align: center;">
 
 Contact us
@@ -135,27 +135,6 @@ Contact us
 
 If you would like to learn more about our work, adapt the game to your
 ecosystem, apply the game to your teaching or support our work please
-contact us using the form below.
+contact us at info\@fishsizeproject.org
 
 </p>
-
-<html>
-
-<body>
-
-<form action="https://public.herotofu.com/v1/53951c50-0e8e-11ee-a6b0-17653bd30bd3" method="post" accept-charset="UTF-8">
-
-Name:<br><input type="text" name="sname"> <br>
-Email:<br><input type="text" name="sname"> <br>
-Message:<br><input type="text" name="ssubject"><br>
-<input type="submit" value="Send" />
-
-<div style="text-indent:-99999px; white-space:nowrap; overflow:hidden; position:absolute;" aria-hidden="true">
-
-```         
-           <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" />
-```
-
-</body>
-
-</html>
