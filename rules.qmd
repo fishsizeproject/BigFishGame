@@ -5,6 +5,15 @@ editor:
     wrap: sentence
 ---
 
+A short video explaining how to play the game
+
+<html>
+    <body>
+        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nFu30n3d1dY?si=nKPmo70OC9PK7Wi7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+    </body>
+</html>
+
+
 ## Setup
 
 Shuffle all fish cards and wildcards together into the gameplay deck (fish cards and wild cards) and place in the middle.
@@ -26,7 +35,10 @@ Remember fish placed in the esky must maintain their orientation (juvenile, medi
 Chose the first player for the first round.
 It could be the one to most recently have caught a fish.
 
-![](images/esky.jpg){width="50%" fig-align="center"}
+![](images/setupPhoto.jpg){width="70%" fig-align="center"}
+<br/><br/>
+
+![](images/divider.jpg){width="100%" fig-align="center"}
 
 ## Gameplay
 
@@ -60,6 +72,9 @@ They are permanent and apply each round.
 Black wildcards give one-off effects and must be discarded once they are played.
 
 ![](images/turnOrder.jpg){width="50%" fig-align="center"}
+<br/><br/>
+
+![](images/divider.jpg){width="100%" fig-align="center"}
 
 ## Round end
 
@@ -81,6 +96,9 @@ Rotate the first player by passing the first player card clockwise.
 This ensures that the first player gets the choice of new face-up cards equally.
 
 ![](images/firstPlayer.jpg){width="50%" fig-align="center"}
+<br/><br/>
+
+![](images/divider.jpg){width="100%" fig-align="center"}
 
 ## Game end
 
@@ -99,3 +117,7 @@ Add these points to your total score.
 This encourages to keep a healthy ecosystem and large fish for the future.
 
 **The winner is the player with the most points!**
+
+<br/>
+
+![](images/sebastian-pena-lambarri-unsplash.jpg){width="100%" fig-align="center"}

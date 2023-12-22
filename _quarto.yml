@@ -8,6 +8,8 @@ website:
     left:
       - href: rules.qmd
         text: Rules
+      - href: wildCards.qmd
+        text: Wild cards
       - href: resources.qmd
         text: Resources
 
