@@ -62,7 +62,7 @@ The [Centre for Marine Socioecology](https://marinesocioecology.org/) (CMS) prov
 
 ![](images/cms.jpg){width="50%" fig-align="center"}
 
-**Learn more**
+***Learn more***
 
 Check out some of the amazing CMS initiatives, such as [Curious Climate Schools](https://curiousclimate.org.au/schools/), where all schools can join in to ask experts questions about climate change.
 
@@ -108,7 +108,7 @@ Kelp provides a huge, complex, and food filled habitat. It is essential for heal
 
 ![](images/giantKelp.jpg){width="50%" fig-align="center"} 
 
-**Learn more**
+***Learn more***
 
 [Guardian article](https://www.theguardian.com/australia-news/2022/mar/13/really-worth-a-crack-bringing-tasmanias-giant-kelp-forests-back-from-the-brink) about kelp forest loss and restoration.
 
@@ -164,7 +164,7 @@ Whales such as the humpback whale or blue whale are key species in cycling nutri
 
 ![](images/whale.jpg){width="50%" fig-align="center"} 
 
-**Learn more**
+***Learn more***
 
 A [scientific article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013255) explaining the benefits of the "whale pump".
 
@@ -182,7 +182,7 @@ Illegal fishing means fishing that does not follow existing regulations, be they
 
 ![](images/illegal_fishing.jpg){width="50%" fig-align="center"} 
 
-**Learn more**
+***Learn more***
 
 [Fishwatch](https://fishing.tas.gov.au/community/fishwatch) allows you to report illegal fishing in Tasmania. 
 

@@ -1,8 +1,12 @@
 ---
 title: "Resources"
+editor: 
+  markdown: 
+    wrap: sentence
 ---
 
-Lots of fun and useful things are coming up here soon
+
+Lots of fun and useful things will be added here soon. 
 
 ![](images/shark.jpg){width="50%" fig-align="center"} 
 ![](images/seaweed_planting.jpg){width="50%" fig-align="center"} 
