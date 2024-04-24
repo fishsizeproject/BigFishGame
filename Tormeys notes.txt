@@ -1,0 +1,5 @@
+Background: #F3F1EA or #F9F6F1
+Text: #120E1B
+Primary: #362B4F
+Secondary: #94B5C7
+Accent: #C64F33
