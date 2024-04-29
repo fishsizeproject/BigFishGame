@@ -101,9 +101,19 @@ website:
 
 format:
   html:
-    theme: lux
-    css: styles.css
-    toc: true
+    logo: /resources/images/BigFish-notext.jpg
+    theme: [lux, /resources/styling/theming.scss]
+    css: /resources/styling/styles.css
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
+    page-layout: full
+    grid:
+      sidebar-width: 250px
+      body-width: 1450px
+      margin-width: 100px
+      gutter-width: 1.5em
 
+editor: source
 
 

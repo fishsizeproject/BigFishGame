@@ -1,0 +1,322 @@
+/*-- scss:defaults --*/
+
+$white:         #fff !default;
+$gray-100:      #f5f5f8 !default;
+$gray-200:      #eee !default;
+$gray-300:      #dee2e6 !default;
+$gray-400:      #ccc !default;
+$gray-500:      #adb5bd !default;
+$gray-600:      #888 !default;
+$gray-700:      #495057 !default;
+$gray-800:      #333 !default;
+$gray-900:      #222 !default;
+$black:         #000 !default;
+
+$light:         #CCD4DE !default; // French Gray
+$dark:          $gray-800 !default;
+
+$min-contrast-ratio:   1.9 !default;
+
+$primary:       #0a6188; // Lapis Lazuli
+$secondary:     #0d3a51; // Prussian Blue
+$accent1:       #50768e; // Payne's grey
+$accent2:       #9abed7; // Powder blue
+$accent21:      #4486A8;
+$accent22:      #277498;
+$ghost:         #f9f8fe; // Ghost White
+
+//#9EB0BE; // Cadet grey: #
+//#b1cada; // Columbian blue: #
+
+//$body-font-family:    Roboto !default;
+$body-bg:             transparent;      // The page background color.
+$body-color:          $black;           // The page text color.
+
+//$headings-font-family: "Barlow", !default;
+//$headings-font-weight:        200 !default;
+$font-size-root: 1rem;
+$h4-font-size:   1.25rem;
+$h3-font-size:   1.75rem;
+$h2-font-size:   3rem;
+$h1-font-size:   3.5rem;
+$headings-line-height: 1.25em;
+
+$toc-font-size:  0.6em;           // The font size for the page TOC.
+
+$link-color:     $accent22;      // The link color.
+
+$input-bg:       $light;   // The background color for HTML inputs.
+$popover-bg:     $light;   // The background color for popovers (e.g. when a citation preview is shown).
+
+// Fonts
+
+// Code Blocks
+$code-block-padding-left:         0.75em;
+$code-block-bg:                   $light;
+$code-block-bg-padding:           0.5em;
+
+// Code Copy (enable code-copy: true)
+$btn-code-copy-color:             $accent22;   
+$btn-code-copy-color-active:      $accent1;   
+
+// Inline Code
+$code-bg:         $light;   // The background color of inline code. 
+$code-color:      $accent1;      // The text color of inline code.
+
+$input-btn-padding-x:         1rem !default;
+$btn-font-weight:             300 !default;
+
+// Buttons
+$btn-padding-x: 0.85em;
+$btn-padding-y: 0.5em;
+
+// Table of Contents
+//$toc-color:                       $body-color;  // The color for table of contents text.
+//$toc-font-size:                   $font-size-root;// The font-size for table of contents text.
+//$toc-active-border:               $accent22;     // The left border color for the currently active table of contents item.
+//$toc-inactive-border:             $light-blue;  // The left border colors for inactive table of contents items.
+
+// Layout
+$content-padding-top:               1em;          // Padding before main content area (including sidebar, content, and TOC.
+
+// Navigation
+$dropdown-bg:                       $white;
+$navbar-bg:                         $primary;
+$navbar-fg:                         $ghost;
+$navbar-hl:                         $light;
+$sidebar-bg:                        transparent;
+$sidebar-fg:                        $black;
+$sidebar-hl:                        $dark;
+$footer-bg:                         $primary;
+$footer-fg:                         $ghost;
+$footer-hl:                         $light;
+
+/*-- scss:rules --*/
+
+.gslide-description .gslide-desc {
+  color: $body-color;
+  background-color: $light;
+}
+
+hr {
+  border: none;
+  height: 3px;
+  /* Set the hr color */
+  background-color: #333;  /* Modern Browsers */
+}
+
+.h1, h1, .h2, h2 {
+  color: $primary;
+  border-bottom: none;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 0.5em;
+  margin-top: 1em;
+}
+
+main.content > section:first-of-type > h2:first-child, 
+main.content > section:first-of-type > .h2:first-child {
+  margin-top: 1em;
+}
+
+.no-caps {
+  text-transform: none !important;
+}
+
+.h3, h3, .h4, h4 {
+  color: $primary;
+  border-bottom: none;
+  text-align: left;
+  padding: 0.5em;
+}
+
+.maintitle {
+  font-size: min(calc(8.5vw), 150px) !important;
+  text-align: left;
+  color: $ghost !important;
+  padding: 5%;
+  line-height: 115%;
+}
+
+.pagetitle {
+  font-size: min(calc(5vw), 100px) !important;
+  color: $ghost !important;
+  padding: 10%;
+  line-height: 100%;
+}
+
+.navbar {
+  font-weight: $headings-font-weight;
+  //background-color: $white;  /* Modern Browsers */
+  //color: $primary;
+  font-size: 1.25em;
+  line-height: 125%;
+  padding: 0.5em 0.5em;
+}
+
+.nav-footer {
+  align-items: center;
+}
+
+#quarto-content > * {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.btn {
+  &-primary {
+    background-color: $primary;
+    border-color: shade-color($primary, 10%);
+  }
+  &-secondary {
+    background-color: $primary;
+    border-color: shade-color($primary, 10%);
+  }
+}
+
+.btn-primary {
+  color: $ghost !important;
+  text-decoration: none !important;
+  font-size: $h4-font-size;
+}
+
+.btn-secondary {
+  color: $ghost !important;
+  text-decoration: none !important;
+  font-size: $h5-font-size;
+}
+
+.btn {
+	display: inline-block;
+	font-weight: inherit;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	line-height: 1.25;
+	border-radius: 0.25rem;
+	transition: all 0.15s ease-in-out;
+}
+
+.btn:focus,
+.btn:hover {
+	text-decoration: none;
+}
+
+.btn-outline-secondary {
+  color: var(--bs-primary-color);
+}
+
+.btn-group {
+  .dropdown-menu {
+    border-top-width: 0;
+  }
+
+  .dropdown-toggle {
+    &.btn-primary ~ .dropdown-menu {
+      background-color: $primary;
+      border-color: shade-color($primary, 10%);
+
+      .dropdown-item {
+        color: $white;
+      }
+
+      .dropdown-item:hover,
+      .dropdown-item:focus {
+        background-color: shade-color($primary, 16%);
+      }
+    }
+
+    &.btn-secondary ~ .dropdown-menu {
+      background-color: $secondary;
+      border-color: shade-color($secondary, 10%);
+
+      .dropdown-item {
+        color: $body-color;
+      }
+
+      .dropdown-item:hover,
+      .dropdown-item:focus {
+        background-color: shade-color($secondary, 16%);
+      }
+    }
+
+    &.btn-success ~ .dropdown-menu {
+      background-color: $success;
+      border-color: shade-color($success, 10%);
+
+      .dropdown-item {
+        color: $white;
+      }
+
+      .dropdown-item:hover,
+      .dropdown-item:focus {
+        background-color: shade-color($success, 16%);
+      }
+    }
+
+    &.btn-info ~ .dropdown-menu {
+      background-color: $info;
+      border-color: shade-color($info, 10%);
+
+      .dropdown-item {
+        color: $white;
+      }
+
+      .dropdown-item:hover,
+      .dropdown-item:focus {
+        background-color: shade-color($info, 16%);
+      }
+    }
+
+    &.btn-warning ~ .dropdown-menu {
+      background-color: $warning;
+      border-color: shade-color($warning, 10%);
+
+      .dropdown-item {
+        color: $white;
+      }
+
+      .dropdown-item:hover,
+      .dropdown-item:focus {
+        background-color: shade-color($warning, 16%);
+      }
+    }
+
+    &.btn-danger ~ .dropdown-menu {
+      background-color: $danger;
+      border-color: shade-color($danger, 10%);
+
+      .dropdown-item {
+        color: $white;
+      }
+
+      .dropdown-item:hover,
+      .dropdown-item:focus {
+        background-color: shade-color($danger, 16%);
+      }
+    }
+  }
+}
+
+.team-grid {
+  background-color: transparent !important;
+}
+
+.circle-container {
+  padding: 0;
+  margin: 0;
+  height: 0px;
+  width: 100%;
+  overflow: visible;
+}
+
+.fishing-impacts-circle {
+  --width-fic: 66vw;
+  width: var(--width-fic);
+  height: var(--width-fic);
+  border-radius: 50%;
+  background: $blue;
+  opacity: 10%;
+  position: relative;
+  z-index: -1;
+}
