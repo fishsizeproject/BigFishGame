@@ -5,9 +5,10 @@ execute:
   freeze: auto
 
 website:
-  title: "Big Fish card game"
+  title: "BigFish"
   repo-url: https://github.com/fishsizeproject/BigFishGame
   site-url: https://bigfishcardgame.com/
+  favicon: /images/BigFish-notext.jpg
   page-navigation: false
   navbar:
     pinned: true
@@ -19,9 +20,26 @@ website:
         text: Wildcards
       - href: resources.qmd
         text: Resources
+  page-footer:
+    left: |
+      [![](/resources/icons/ic--baseline-mail.svg)](mailto:info@fishsizeproject.org) [info@fishsizeproject.org](mailto:info@fishsizeproject.org)<br>
+      [![](/resources/icons/mdi--github.svg)](https://github.com/fishsizeproject/) [fishsizeproject](https://github.com/fishsizeproject/)<br><br>
+      [Institute of Marine and Antarctic Research](https://www.imas.utas.edu.au/)<br>
+      20 Castray Esplanade<br>
+      Battery Point TAS 7000<br>
+      Australia<br>
+    right: |
+      <i>We acknowledge the traditional owners of the land on which we live and work.<br>
+      Sovereignty was never ceded </i><img src="/resources/styling/Australian_Aboriginal_Flag.png" class="img-fluid" style="height: 1em;"> <br><br><br>
+      © BigFish Card Game, 2024<br>
+      Website created by [Tormey Reimer](https://drtreimer.com)
+    center: |
+      [![](/resources/images/BigFish-notext.jpg){fig-alt="FishSize Project" fig-align="center" width="10vw" fig-valign="middle"}](/index.qmd)
+    border: false
+    background: primary
+    foreground: light
 
 # Different sidebars for different pages
-website:
   sidebar:
   - id: rules-sidebar
     style: "docked"
