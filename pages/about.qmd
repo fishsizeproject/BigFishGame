@@ -1,0 +1,6 @@
+---
+pagetitle: About | BigFish Card Game
+description-meta: |
+  Meta description to go here
+---
+

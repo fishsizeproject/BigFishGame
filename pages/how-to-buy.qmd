@@ -1,0 +1,6 @@
+---
+pagetitle: How to Buy | BigFish Card Game
+description-meta: |
+  Meta description to go here
+---
+

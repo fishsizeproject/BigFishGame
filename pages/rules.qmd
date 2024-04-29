@@ -1,8 +1,7 @@
 ---
-title: "Extended game rules"
-editor: 
-  markdown: 
-    wrap: sentence
+pagetitle: Game rules | BigFish Card Game
+description-meta: |
+  Meta description to go here
 ---
 
 A short video explaining how to play the game

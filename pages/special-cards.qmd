@@ -1,5 +1,7 @@
 ---
-title: "Wild cards and Round end cards"
+pagetitle: Wildcards & Round-end cards | BigFish Card Game
+description-meta: |
+  Meta description to go here
 ---
 
 --- This page is currently being built, we thank you for your patience. We are still filling in all the information, so please come back later for more. ---

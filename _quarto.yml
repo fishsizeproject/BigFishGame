@@ -14,12 +14,22 @@ website:
     pinned: true
     collapse: true
     left:
-      - href: rules.qmd
-        text: Rules
-      - href: wildCards.qmd
-        text: Wildcards
-      - href: resources.qmd
-        text: Resources
+      - text: "Rules"
+        href: pages/rules.qmd
+      - text: "Cards"
+        menu:
+          - text: "Fish cards"
+            href: pages/fish-cards.qmd
+          - text: "Wildcards"
+            href: pages/special-cards.qmd#sec-wildcards
+          - text: "Round-end cards"
+            href: pages/special-cards.qmd#sec-round-end-cards
+      - text: "Media & Events"
+        href: pages/media-events.qmd
+      - text: "About"
+        href: pages/about.qmd
+      - text: "How To Buy"
+        href: pages/how-to-buy.qmd
   page-footer:
     left: |
       [![](/resources/icons/ic--baseline-mail.svg)](mailto:info@fishsizeproject.org) [info@fishsizeproject.org](mailto:info@fishsizeproject.org)<br>

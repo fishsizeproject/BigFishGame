@@ -1,6 +1,14 @@
 ---
-title: "Resources"
+pagetitle: Media & Events | BigFish Card Game
+description-meta: |
+  Meta description to go here
 ---
+Lots of fun and useful things will be added here soon. 
+
+![](images/shark.jpg){width="50%" fig-align="center"} 
+![](images/seaweed_planting.jpg){width="50%" fig-align="center"} 
+![](images/kingfish.jpg){width="50%" fig-align="center"}
+
 
 ## Wild cards
 
