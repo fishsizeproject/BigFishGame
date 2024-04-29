@@ -1,0 +1,157 @@
+/* css styles */
+
+.p, p {
+  font-size: 1.05em;
+  line-height: 125%;
+  padding: 0.5em;
+  margin: 0;
+}
+.p:first-child, p:first-child {
+  margin-top: 1em;
+}
+.p:last-child, p:last-child {
+  margin-bottom: 1em;
+}
+
+li {
+  padding-left: 1.5em;
+}
+ol ::marker {
+  color: var(--bs-primary);
+  font-size: 1.35em;
+}
+
+/* Homepage styling */
+
+.hero-img {
+    background-image: url("../resources/images/trevally_1599x767.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-strip {
+  height: calc(100vw/1599*660);
+}
+
+.hero-strip-page {
+  height: 200px;
+}
+
+.hero-strip-page:before {
+  filter: brightness(50%);
+}
+
+.subtitle {
+  font-size: 1.25em;
+  line-height: 115%;
+  padding: 0.5em;
+  margin-top: 1.5em;
+  margin-bottom: 1.1em;
+}
+
+#quarto-content > * {
+  /* Hero image is pinned to the navbar without a gap */
+    margin-top: 0; 
+    padding-top: 0; 
+  }
+  
+.img-tile {
+  object-fit: cover;
+  height: 12.5vw;
+  width: 12.5vw;
+  object-position: 50% 50%;
+}
+
+.constrain-pdf-img {
+  object-fit: cover;
+  object-position: 50% 0%;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+}
+
+.img-tile-lg {
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+.img-container > p {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+@media (min-width: 768px) {
+  .carousel-inner {
+    display: flex;
+  }
+  .carousel-item {
+    margin-right: 0;
+    flex: 0 0 20%;
+    display: block;
+  }
+}
+
+/* Navbar styling */
+
+.navbar-brand-container {
+    margin-top: 0px;
+}
+
+.navbar-brand-container img {
+    height : 300%;
+    /* width : 300%; */
+}
+
+.column-screen {
+    margin: 0; /* Set margin to 0 and use !important to ensure it overrides other styles */
+    padding: 0;
+  }
+
+.navbar {
+    margin-bottom: 0; /* Remove any default margin-bottom for the navbar */
+  }
+
+/* Card element styling */
+
+.card-text {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+.card-title {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+/* Team page styling */
+
+.headshot {
+  clip-path: circle(50% at 50% 50%);
+  object-fit: cover;
+  height: 8.5vw;
+  width: 8.5vw;
+  min-width: 90px;
+  min-height: 90px;
+  object-position: 50% 50%;
+}
+
+.headshot-lg {
+  clip-path: circle(50% at 50% 50%);
+  object-fit: cover;
+  height: 100%;
+  width: auto;
+  object-position: 50% 50%;
+}
+
+.team-name {
+  color: black;
+}
+.team-name:a {
+  text-decoration: none;
+}
+
+.position-title {
+  color: black;
+  font-style: italic;
+  padding: 0.25em;
+}

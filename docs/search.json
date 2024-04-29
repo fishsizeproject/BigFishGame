@@ -1,114 +1,184 @@
 [
   {
-    "objectID": "wildCards.html",
-    "href": "wildCards.html",
-    "title": "Wild cards and Round end cards",
+    "objectID": "templates/index-lab-website.html#our-goals",
+    "href": "templates/index-lab-website.html#our-goals",
+    "title": "Fish Size Project",
+    "section": "Our goals",
+    "text": "Our goals\n\nUnderstand general properties of natural fish size frequency distributions\nExplore how temperature affects fish sizes\nAdvance the use of novel data to assess fish populations\nImprove size based methods and their applications to non traditional data\nIncorporate historical records and oral histories in fish population status assessments\nDevelop a global map of human impacts on fish sizes\nPromote sustainable fishing and restoration of fish size diversity"
+  },
+  {
+    "objectID": "templates/index-lab-website.html#our-mission",
+    "href": "templates/index-lab-website.html#our-mission",
+    "title": "Fish Size Project",
+    "section": "Our mission",
+    "text": "Our mission\n\nHumans have fished out most of the large fish. Climate change is also affecting fish sizes. Such changes to the natural fish population size structure impact fish population and ecosystem resilience. However, most fish populations are not assessed and humans impacts of fish size diversity loss remain undocumented.  We are using traditional and new sources of fish size data to understand how many small and large fish we should expect in natural populations, how fishing and warming are affecting these numbers and how we could restore what is lost."
+  },
+  {
+    "objectID": "templates/index-lab-website.html#news",
+    "href": "templates/index-lab-website.html#news",
+    "title": "Fish Size Project",
+    "section": "News",
+    "text": "News\n\n\n\n\n\nMean reef fish body size decreases towards warmer waters\n\nCoghlan, A. R., Blanchard, J. L., Wotherspoon, S., Stuart‐Smith, R. D., Edgar, G. J., Barrett, N., & Audzijonyte, A. (2024). Mean reef fish body size decreases towards warmer waters Ecology Letters, 27(2), e14375.\n\n\n\n\n\n\n\n\nConference session: Human impacts on fish and other marine organism body sizes, shifting baselines, and implications for ecosystems and fisheries\n\nJoin us at AMSA & NZMSS 2024 Conference in Hobart for a fascinating session exploring fish sizes and human impacts\n\n\n\n\n\n\n\n\nFish AI consortium monthly seminars\n\nIf you are interested in fish and AI, join monthly Fish AI consortrium monthly online seminars\n\n\n\n\n\n\n\n\n\n\n\nCard game about sustainable fishing and marine literacy\n\nWe are launching a fun game Big Fish - will you catch the big fish or leave it to reproduce?"
+  },
+  {
+    "objectID": "templates/index-lab-website.html#research",
+    "href": "templates/index-lab-website.html#research",
+    "title": "Fish Size Project",
+    "section": "Research",
+    "text": "Research\n\n\n\n\n\nProperties of intra-specific size distributions\nAre there general rules that govern species size distributions in natural populations? If so, we could use these rules to predict unfished size frequencies in nearly all fish species.\nTo date most analyses on fish size frequencies were conducted on commercially fished species, where fishing impacts have been extensive and long lasting. But new data sources, from underwater visual surveys, such as Reef Life Survey now provides opporunities to explore size distributions in hundreds of diverse and unfished species.\n\n\n\n\n\n\n\n\nTemperature impacts on fish sizes\nTemperature affects fish sizes, both naturally and through human induced climate change. Growth, mortality, reproduction and species composition are all affected by temperature. But what are the mechanisms and how do these temperature impacts manifest in natural populations, through space and time?\nWe use diverse data sources and simulations to explore temperature impacts on fish growth, size structure and population dynamics.\n\n\n\n\n\n\n\n\nApplying size based models to assess human impacts\nSize based models are a powerful tool to assess human impacts on fish populations. Traditionally these methods are used with catch data, but rapid accumulation of alternative data sources, such as visual census, citizen science, recreational fishing and underwater cameras, provide an opportunity to expand assessments across hundreds of fish species.\nWe are exploring best approaches to improve applications of size based population and community models to document human impacts in data poor fisheries and aquatic ecosystems in general.\n\n\n\n\n\n\n\n\nUsing historical records to understand shifting baselines\nHistorical records, such as old newspapers, logbooks, photos and archival records can provide valuable information about status of fish populations before detailed surveys began. These records are crucial to improve our understanding about natural fish sizes and address shifting baselines.\nWe are working with researches around the world to find new ways to use historical data in fish population assessments."
+  },
+  {
+    "objectID": "templates/index-lab-website.html#our-team",
+    "href": "templates/index-lab-website.html#our-team",
+    "title": "Fish Size Project",
+    "section": "Our Team",
+    "text": "Our Team\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOur core team is based at IMAS and CSIRO. We collaborate with many researchers at IMAS, in Australia and around the world and invite volunteering from students and the community.\n\n\nMeet the team\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll underwater photography on this website was kindly provided by our team member Matt Testoni"
+  },
+  {
+    "objectID": "pages/special-cards.html",
+    "href": "pages/special-cards.html",
+    "title": "BigFish",
     "section": "",
     "text": "— This page is currently being built, we thank you for your patience. We are still filling in all the information, so please come back later for more. —\nOn this page you can learn more about the Wild cards and Round end cards. We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please contact us and tell us all about it."
   },
   {
-    "objectID": "wildCards.html#wild-cards",
-    "href": "wildCards.html#wild-cards",
-    "title": "Wild cards and Round end cards",
+    "objectID": "pages/special-cards.html#wild-cards",
+    "href": "pages/special-cards.html#wild-cards",
+    "title": "BigFish",
     "section": "Wild cards",
     "text": "Wild cards\n\nCatch and release\nReleasing caught fish can greatly help fish populations. One must safely release fish that is too small or too large for the size limits (if minimum or maximum size limits are in place). Anglers also often chose to release unwanted fish or fish that are especially valuable for the ocean and fish populations, such as predatory or large fish. In fact, all fish are valuable in the sea, so all fish that will not be consumed should be released back safely. When released correctly, survival rates are very high, e.g. over 90% or even higher.\nHow to play? Choose a fish from the available face-up cards and either place it in your esky (cooler) or release it into your fishing spot. The size of the fish to be released will be mentioned on the card, and different cards have different sizes. Remember this card is discarded after use.\n\n\n\n\n\nLearn more\nLearn how to release fish safely in this video with Steve Starling:\n\n\n\n\n\n\n\n\n“Keep Fish Wet” is a great organisation in the USA, working with anglers to increase survival in catch and release fishing. They have three main rules to ensure released fish have good chances to survive.\nYou can also learn about catch and release fishing from Australia’s great angler organisation OzFish.\nHere is a great site with information on catch and release survival rates for different NSW fish species.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCentre for Marine Socioecology (CMS)\nThe Centre for Marine Socioecology (CMS) provides, develops and integrates multidisciplinary research to better understand and manage Australia’s oceans. They do this by connecting, cooperating and collaborating across multiple organisations and different research disciplines. Their members range from marine scientists to philosophers, artists, economists and more. Collaborative work across diverse disciplines is often hard to achieve but is extremely important when tackling complex sustainability challenges. The CMS card in Big Fish aims to highlight how working together produces broad and wide reaching benefits for everyone.\nHow to play? Draw two cards from the face-down card pile and put them in your hand. Then choose another player to draw one card from the face-down card pile that they will keep in their hand. Remember this card is discarded after use.\n\n\n\n\n\nLearn more\nCheck out some of the amazing CMS initiatives, such as Curious Climate Schools, where all schools can join in to ask experts questions about climate change.\nCheck out also this Future Seas 2030 initiative, where a large group of researchers aimed to envision two alternative ocean futures for 2030. We can have a Business as usual or Sustainable and collaborative future. Which one do we chose? Don’t forget to watch this fun thriller Full metal aquatic on how the two futures might play out.\nWhy do we need to collaborate? Read more about it here\n \n\n\n\n\n\n\n\nCitizen science\nIn the last decade, science and data collection have undergone a true revolution through what is called as citizen science. Collecting enough data or conducting large analyses is important in order to get more accurate information and knowledge. However, collecting large amounts of data can be difficult, time consuming and expensive. By creating ways for everyone to get involved and have input into a science project, the knowledge gained and the positive outcomes from research can be greatly amplified and shared with the wider community.\nHow to play? Choose a fish card currently in your hand and place it as a big fish into your fishing spot. Remember this card is discarded after use.\n\n\n\n\n\nLearn more\nThere are plenty of citizen science initiatives for everyone to get involved into. Here are some examples:\nRedMap\niNaturalist\nOceanwatch Australia\nReef Life Survey\nTassie Fish Frame Collection Program\n\n\n\nCitizen scientist helping with underwater surveys in the Reef Life Survey program. Photo credit: Rick Stuart-Smith, reeflifesurvey.com\n\n\n\n\n\n\n\n\n\nGiant kelp\nKelp provides a huge, complex, and food filled habitat. It is essential for healthy oceans and healthy fish populations and it also serves as an important refuge for marine organisms. However, giant kelp around Australia has declined drastically over the last decades, with nearly 95% of kelp around Tasmania lost. This is mostly due to climate change and invasion of long-spined sea urchins, who eat a lot of kelp and create urchin barrens. Loss of natural urchin predators, such as large rock lobsters and other large predatory fish, is one of the reasons for kelp decline, and kelp forests often survive better in no-take marine protected areas with abundant urchin predators. This huge loss of natural underwater “forests” remains largely unknown by the general public. Many scientists and organisations are working to restore these kelp forests and we all can play a role by protecting rock lobsters and aiming to restore the abundance of large lobsters and other large fish.\nHow to play? If you have a Giant Kelp card in your fishing spot you may grow two larval fish into juvenile fish each turn. The rule of one grow increment per fish per turn still applies.\n\n\n\n\n\nLearn more\nGuardian article about kelp forest loss and restoration.\nWatch these videos about giant kelp\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearn about giant kelp restoration efforts by IMAS, OzFish and The Nature Conservancy\nOr read a scientific article about reasons for kelp decline and restoration efforts.\n\n\n\nHealthy giant kelp. Photo credit: Rick Stuart-Smith, reeflifesurvey.com\n\n\n\n\n\n\n\n\n\nHumpback whale\nWhales such as the humpback whale or blue whale are key species in cycling nutrients in the ocean. Known as whale pumps, these animals help by feeding in the deep oceans and pooping out large quantities of nutrients in shallow waters. These nutrients are essential for smaller species such as phytoplankton to grow. Many whale populations have been decimated by whaling, but populations of humpback whales have recovered in the last decades. This wild card shows how a visiting whale can provide positive impacts on a local environment. While they may consume some krill or small fish for food they also supply vital nutrients that are required for a healthy marine habitat and good fishing.\nHow to play? Discard a larval or juvenile fish from your fishing spot to grow a medium fish to a big fish. One grow per fish per turn still applies. Remember this card is discarded after use.\n\n\n\n\n\nLearn more\nA scientific article explaining the benefits of the “whale pump”.\nA story about the investigation of the whale nutrient pump.\nA popular article about great whales, threats and actions that can be taken to prevent them (with a focus on Canada).\n\n\n\n\n\n\n\nIllegal fishing\nIllegal fishing means fishing that does not follow existing regulations, be they minimum or maximum size limits, bag limits, marine protected areas or other rules. Fishing regulations are essential for sustainable fishing, but in various countries up to 20% of anglers may not obey these rules. This card shows catching fish below or above the determined size limit hurts the population and the fishing, although the damage will naturally depend on how large the overall population is in the fishing spot.\nHow to play? Choose a player, they must choose two juvenile fish from their fishing spot and discard them (juvenile fish are below the minimum size limit and should not be fished). Remember this card is discarded after use.\n\n\n\n\n\nLearn more\nFishwatch allows you to report illegal fishing in Tasmania.\nA scientific article about illegal fishing (not recreational) and societal well-being.\n\n\n\n\n\n\n\nLarge shark\n\n\nMarine protected area\n\n\nPoor water quality\n\n\nSeaweed\n\n\nSevere weather\n\n\nShelfish reef"
   },
   {
-    "objectID": "wildCards.html#round-end-cards",
-    "href": "wildCards.html#round-end-cards",
-    "title": "Wild cards and Round end cards",
+    "objectID": "pages/special-cards.html#round-end-cards",
+    "href": "pages/special-cards.html#round-end-cards",
+    "title": "BigFish",
     "section": "Round end cards",
     "text": "Round end cards\n\nEl Nino begins\n\n\nFisheries impose upper size limit\n\n\nFisheries research occurs\n\n\nLocalised species extinction\n\n\nLong spined sea urchins arrive\n\n\nOcean acidification\n\n\nPlankton swarm occurs\n\n\nSeaweed planting occurs"
   },
   {
-    "objectID": "rules.html",
-    "href": "rules.html",
-    "title": "Extended game rules",
-    "section": "",
-    "text": "A short video explaining how to play the game"
-  },
-  {
-    "objectID": "rules.html#setup",
-    "href": "rules.html#setup",
-    "title": "Extended game rules",
-    "section": "Setup",
-    "text": "Setup\nShuffle all fish cards and wildcards together into the gameplay deck (fish cards and wild cards) and place in the middle. Find the “End of game card” and keep it aside. Shuffle the remaining round end cards. Lift the top four round end cards and put them aside. Put the “End of game card” with the remaining round end cards and shuffle them again. Place the four round end cards on top and put the pile near the centre. The goal is to have the game end randomly at any time after the first four rounds.\nIdentify a large clear space in front of each player as their fishing spot. Deal each player 5 starting cards from the gameplay deck.At the start of the game each player places up to 3 fish from their hand into their fishing site: one as a big fish, one as a medium fish and one juvenile fish. If the player does not have 3 fish in their hand, they place fewer cards (big and medium or only one big fish).\nFrom the gameplay deck flip over cards equal to the number of players plus 2 additional card and place them in the middle next to the gameplay deck. These are the face-up cards. Give each player an esky card, this is placed below the fishing hole. Remember fish placed in the esky must maintain their orientation (juvenile, medium, big). Chose the first player for the first round. It could be the one to most recently have caught a fish."
-  },
-  {
-    "objectID": "rules.html#gameplay",
-    "href": "rules.html#gameplay",
-    "title": "Extended game rules",
-    "section": "Gameplay",
-    "text": "Gameplay\nDuring the round each player follows the steps on the turn order card.\nStep 1. Draw new cards equal to the number of large fish you have in your fishing hole, up to a maximum of 5 cards. These cards can be drawn from the face-up pile or the gameplay deck. This means that a player can either chose some unknown card or play safe and only take cards that they know (from the face-up cards). Check to see if you have any pink wild cards with a clam shell in your fishing hole (not in your hands) - they allow you to draw more cards.\nStep 2. Spawn fish (place them face up in your fishing site) from your hand as a larval fish. Check to see if you have any red wild cards with a dolphin in your fishing site (not in your hands) – they allow you to spawn more fish.\nStep 3. Grow fish to their next stage by rotating them from larval to juvenile, from juvenile to medium, or from medium and to big). You can grow a fish to the next stage for every big fish present in your fishing site, i.e. if you have two big fish you may grow to smaller fish to their next stage. Fish can only grow by one stage in each turn (larval to juvenile, medium to large, etc), i.e. larval juvenile cannot become big fish in one round even if you have three big fish and can have three “growth steps”. Check to see if you have any green wild cards with a starfish in your fishing hole (not in your hands) – they allow you to grow more fish.\nStep 4. If you like, catch ONE fish from your fishing site. Do this by placing it in your esky in the same orientation as you caught it. Caught large fish no longer count as big fish in your fishing site. Check to see if you have any orange wild cards with a fisher in your fishing site (not in your hands) – they allow you to catch more fish (or shellfish). Remember, it is important to keep catching fish, because once the game ends the player who has the largest number of points from the caught fish will win. Catching big fish will give you more points, but will reduce the number of cards you can draw, the number of fish you can spawn or the number of growth steps you can have.\nStep 5. If you like, play ONE wild card from your hand. Wild cards come in multiple colours that do different things. Coloured cards are played (placed) into your fishing site to give you extra abilities or improve your site. They are permanent and apply each round. Black wildcards give one-off effects and must be discarded once they are played."
-  },
-  {
-    "objectID": "rules.html#round-end",
-    "href": "rules.html#round-end",
-    "title": "Extended game rules",
-    "section": "Round end",
-    "text": "Round end\nAfter each player has had one turn, follow the round end steps to complete the round.\nStep 1. Reveal the next round end event card and follow its directions. If this is a round 5 or more, the round end card might also be the end of the game card.\nStep 2. Discard cards in your hand so no player has more than 7 cards in hand. This rarely needed, but helps maintain the balance of the game.\nStep 3. Reset the face-up cards for the centre by moving them to the used card pile (face-down) and setting up new face-up cards from the pile (number of players + 2).\nStep 4. Rotate the first player by passing the first player card clockwise. This ensures that the first player gets the choice of new face-up cards equally."
-  },
-  {
-    "objectID": "rules.html#game-end",
-    "href": "rules.html#game-end",
-    "title": "Extended game rules",
-    "section": "Game end",
-    "text": "Game end\nThe game ends randomly, once the flipped round end card is the “End of the game” card. This should happen after the end of 5 rounds or more. Now count your points.\nStep 1. Making sure you keep the orientation correct for each fish in your esky and count the points displayed next to the life stage of each fish in your esky.\nStep 2. Each larval, juvenile and medium fish remaining in your fishing site give you 1 point. Add these points to your total score. This encourages to keep a healthy ecosystem.\nStep 3. Each big fish remaining alive in your fishing site give you 2 points. Add these points to your total score. This encourages to keep a healthy ecosystem and large fish for the future.\nThe winner is the player with the most points!"
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "pages/media-events.html",
+    "href": "pages/media-events.html",
+    "title": "BigFish",
     "section": "",
     "text": "Lots of fun and useful things will be added here soon."
   },
   {
-    "objectID": "resources_working.html",
-    "href": "resources_working.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Blue Groper\nLargest fish are important in maintaining natural ecosystem in balance. For example, only the largest fish and largest rock lobsters will eat the urchins, which are decimating Tasmanian and other kelp forests. Read this story in the ABC magazine to learn more.\nGiant Kelp\nKelp is extremely important in providing habitats for all marine creatures."
+    "objectID": "pages/media-events.html#wild-cards",
+    "href": "pages/media-events.html#wild-cards",
+    "title": "BigFish",
+    "section": "Wild cards",
+    "text": "Wild cards\nBlue Groper\nLargest fish are important in maintaining natural ecosystem in balance. For example, only the largest fish and largest rock lobsters will eat the urchins, which are decimating Tasmanian and other kelp forests. Read this story in the ABC magazine to learn more.\nGiant Kelp\nKelp is extremely important in providing habitats for all marine creatures."
   },
   {
-    "objectID": "resources_working.html#wild-cards",
-    "href": "resources_working.html#wild-cards",
-    "title": "Resources",
-    "section": "",
-    "text": "Blue Groper\nLargest fish are important in maintaining natural ecosystem in balance. For example, only the largest fish and largest rock lobsters will eat the urchins, which are decimating Tasmanian and other kelp forests. Read this story in the ABC magazine to learn more.\nGiant Kelp\nKelp is extremely important in providing habitats for all marine creatures."
-  },
-  {
-    "objectID": "resources_working.html#round-end-cards",
-    "href": "resources_working.html#round-end-cards",
-    "title": "Resources",
+    "objectID": "pages/media-events.html#round-end-cards",
+    "href": "pages/media-events.html#round-end-cards",
+    "title": "BigFish",
     "section": "Round end cards",
     "text": "Round end cards\nUrchins arrive"
   },
   {
-    "objectID": "resources_working.html#training-resources",
-    "href": "resources_working.html#training-resources",
-    "title": "Resources",
+    "objectID": "pages/media-events.html#training-resources",
+    "href": "pages/media-events.html#training-resources",
+    "title": "BigFish",
     "section": "Training resources",
     "text": "Training resources\nA short video explaining main rules of the game*"
   },
   {
-    "objectID": "resources_working.html#media-and-other-popular-science",
-    "href": "resources_working.html#media-and-other-popular-science",
-    "title": "Resources",
+    "objectID": "pages/media-events.html#media-and-other-popular-science",
+    "href": "pages/media-events.html#media-and-other-popular-science",
+    "title": "BigFish",
     "section": "Media and other popular science",
     "text": "Media and other popular science\n[Short video about Asta’s Pew fellowship project and vision for healthy oceans]\nStory about the collaboration between Microsoft and Australian Government’s Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - Citizen scientists, AI and cloud bond to boost billabong health in the Top End"
   },
   {
-    "objectID": "resources_working.html#science-about-the-importance-of-large-fish",
-    "href": "resources_working.html#science-about-the-importance-of-large-fish",
-    "title": "Resources",
+    "objectID": "pages/media-events.html#science-about-the-importance-of-large-fish",
+    "href": "pages/media-events.html#science-about-the-importance-of-large-fish",
+    "title": "BigFish",
     "section": "Science about the importance of large fish",
     "text": "Science about the importance of large fish\nA Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. 2022. Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte. Sustainability 14 (21), 14324"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "\nThe game all about fishing in a sustainable way\n",
+    "title": "The game all about fishing in a sustainable way",
     "section": "",
-    "text": "The game all about fishing in a sustainable way\n\n\nThe Big Fish card game aims to inform and engage everyone interested in fishing or marine conservation through fun play. The main goal of the game is to collect the maximum number of points from catching fish while also preserving a healthy ecosystem and fish size diversity for future catches. The game is suitable to ages from 10 to 99+ and is best played in a group of 2-5 players.\n\n\n\n\n\n\n\n\n\nGame mechanics\n\n\nBig fish are worth more points than small fish, so players are tempted to catch them. But presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving fish for good fishing opportunities. In addition to fishing, other natural and human induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification and others. These events create unpredictability and new challenges and inform about human impacts on aquatic ecosystems.\n\n\n\n\nMain messages\n\n\nThis game aims to introduce three main messages that we care about\n\nBig fish are important. They are important for population resilience, ecosystem balance and simply because they are beautiful.\nBig fish are mostly all gone. Commercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers.\nBig fish can return. Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes.\n\n\n\n\n\n\n\n\n\n\nWho are we\n\n\nThis game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design). Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.\n\n\n\n\nSupporters\n\n\nThis work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to Asta Audzijonyte\n\n\n\n\nContact us\n\n\nIf you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at info@fishsizeproject.org"
+    "text": "The Big Fish card game aims to inform and engage everyone interested in fishing or marine conservation through fun play. The main goal of the game is to collect the maximum number of points from catching fish while also preserving a healthy ecosystem and fish size diversity for future catches. \n\n\n\nSuitable for ages 10+\n\n\n\nBest for groups of 2-5 players"
+  },
+  {
+    "objectID": "index.html#game-mechanics",
+    "href": "index.html#game-mechanics",
+    "title": "The game all about fishing in a sustainable way",
+    "section": "Game mechanics",
+    "text": "Game mechanics\nBig fish are worth more points than small fish, so players are tempted to catch them. But presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving fish for good fishing opportunities. In addition to fishing, other natural and human induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification and others. These events create unpredictability and new challenges and inform about human impacts on aquatic ecosystems."
+  },
+  {
+    "objectID": "index.html#main-messages",
+    "href": "index.html#main-messages",
+    "title": "The game all about fishing in a sustainable way",
+    "section": "Main messages",
+    "text": "Main messages\nThis game aims to introduce three main messages that we care about:\n\nBig fish are important. They are important for population resilience, ecosystem balance and simply because they are beautiful.\nBig fish are mostly all gone. Commercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers.\nBig fish can return. Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes."
+  },
+  {
+    "objectID": "index.html#who-are-we",
+    "href": "index.html#who-are-we",
+    "title": "The game all about fishing in a sustainable way",
+    "section": "Who are we",
+    "text": "Who are we\nThis game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design). Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you."
+  },
+  {
+    "objectID": "index.html#supporters",
+    "href": "index.html#supporters",
+    "title": "The game all about fishing in a sustainable way",
+    "section": "Supporters",
+    "text": "Supporters\nThis work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to Asta Audzijonyte"
+  },
+  {
+    "objectID": "index.html#contact-us",
+    "href": "index.html#contact-us",
+    "title": "The game all about fishing in a sustainable way",
+    "section": "Contact us",
+    "text": "Contact us\nIf you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at info@fishsizeproject.org."
+  },
+  {
+    "objectID": "pages/rules.html",
+    "href": "pages/rules.html",
+    "title": "BigFish",
+    "section": "",
+    "text": "A short video explaining how to play the game"
+  },
+  {
+    "objectID": "pages/rules.html#setup",
+    "href": "pages/rules.html#setup",
+    "title": "BigFish",
+    "section": "Setup",
+    "text": "Setup\nShuffle all fish cards and wildcards together into the gameplay deck (fish cards and wild cards) and place in the middle. Find the “End of game card” and keep it aside. Shuffle the remaining round end cards. Lift the top four round end cards and put them aside. Put the “End of game card” with the remaining round end cards and shuffle them again. Place the four round end cards on top and put the pile near the centre. The goal is to have the game end randomly at any time after the first four rounds.\nIdentify a large clear space in front of each player as their fishing spot. Deal each player 5 starting cards from the gameplay deck.At the start of the game each player places up to 3 fish from their hand into their fishing site: one as a big fish, one as a medium fish and one juvenile fish. If the player does not have 3 fish in their hand, they place fewer cards (big and medium or only one big fish).\nFrom the gameplay deck flip over cards equal to the number of players plus 2 additional card and place them in the middle next to the gameplay deck. These are the face-up cards. Give each player an esky card, this is placed below the fishing hole. Remember fish placed in the esky must maintain their orientation (juvenile, medium, big). Chose the first player for the first round. It could be the one to most recently have caught a fish."
+  },
+  {
+    "objectID": "pages/rules.html#gameplay",
+    "href": "pages/rules.html#gameplay",
+    "title": "BigFish",
+    "section": "Gameplay",
+    "text": "Gameplay\nDuring the round each player follows the steps on the turn order card.\nStep 1. Draw new cards equal to the number of large fish you have in your fishing hole, up to a maximum of 5 cards. These cards can be drawn from the face-up pile or the gameplay deck. This means that a player can either chose some unknown card or play safe and only take cards that they know (from the face-up cards). Check to see if you have any pink wild cards with a clam shell in your fishing hole (not in your hands) - they allow you to draw more cards.\nStep 2. Spawn fish (place them face up in your fishing site) from your hand as a larval fish. Check to see if you have any red wild cards with a dolphin in your fishing site (not in your hands) – they allow you to spawn more fish.\nStep 3. Grow fish to their next stage by rotating them from larval to juvenile, from juvenile to medium, or from medium and to big). You can grow a fish to the next stage for every big fish present in your fishing site, i.e. if you have two big fish you may grow to smaller fish to their next stage. Fish can only grow by one stage in each turn (larval to juvenile, medium to large, etc), i.e. larval juvenile cannot become big fish in one round even if you have three big fish and can have three “growth steps”. Check to see if you have any green wild cards with a starfish in your fishing hole (not in your hands) – they allow you to grow more fish.\nStep 4. If you like, catch ONE fish from your fishing site. Do this by placing it in your esky in the same orientation as you caught it. Caught large fish no longer count as big fish in your fishing site. Check to see if you have any orange wild cards with a fisher in your fishing site (not in your hands) – they allow you to catch more fish (or shellfish). Remember, it is important to keep catching fish, because once the game ends the player who has the largest number of points from the caught fish will win. Catching big fish will give you more points, but will reduce the number of cards you can draw, the number of fish you can spawn or the number of growth steps you can have.\nStep 5. If you like, play ONE wild card from your hand. Wild cards come in multiple colours that do different things. Coloured cards are played (placed) into your fishing site to give you extra abilities or improve your site. They are permanent and apply each round. Black wildcards give one-off effects and must be discarded once they are played."
+  },
+  {
+    "objectID": "pages/rules.html#round-end",
+    "href": "pages/rules.html#round-end",
+    "title": "BigFish",
+    "section": "Round end",
+    "text": "Round end\nAfter each player has had one turn, follow the round end steps to complete the round.\nStep 1. Reveal the next round end event card and follow its directions. If this is a round 5 or more, the round end card might also be the end of the game card.\nStep 2. Discard cards in your hand so no player has more than 7 cards in hand. This rarely needed, but helps maintain the balance of the game.\nStep 3. Reset the face-up cards for the centre by moving them to the used card pile (face-down) and setting up new face-up cards from the pile (number of players + 2).\nStep 4. Rotate the first player by passing the first player card clockwise. This ensures that the first player gets the choice of new face-up cards equally."
+  },
+  {
+    "objectID": "pages/rules.html#game-end",
+    "href": "pages/rules.html#game-end",
+    "title": "BigFish",
+    "section": "Game end",
+    "text": "Game end\nThe game ends randomly, once the flipped round end card is the “End of the game” card. This should happen after the end of 5 rounds or more. Now count your points.\nStep 1. Making sure you keep the orientation correct for each fish in your esky and count the points displayed next to the life stage of each fish in your esky.\nStep 2. Each larval, juvenile and medium fish remaining in your fishing site give you 1 point. Add these points to your total score. This encourages to keep a healthy ecosystem.\nStep 3. Each big fish remaining alive in your fishing site give you 2 points. Add these points to your total score. This encourages to keep a healthy ecosystem and large fish for the future.\nThe winner is the player with the most points!"
+  },
+  {
+    "objectID": "templates/index-bigfish.html",
+    "href": "templates/index-bigfish.html",
+    "title": "BIGFISH: The sustainable fishing game",
+    "section": "",
+    "text": "The Big Fish card game aims to inform and engage everyone interested in fishing or marine conservation through fun play.\nThe main goal of the game is to collect the maximum number of points from catching fish while also preserving a healthy ecosystem and fish size diversity for future catches.\n\n\n\n Suitable for ages 10+\n\n\n\n\n Best for groups of 2-5 players\n\n\n\n\n\n\n\n\nPlaying the game\n\n\n\n\n\n\n\n\n\n\n\n\nCatch\nBig fish are worth more points than small fish, so players are tempted to catch them. But the presence of big fish in the ecosystem allows players to draw new cards, spawn new fish, and grow more big fish! Players must find a balance between collecting points (by catching fish) and preserving enough fish for future fishing.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdapt\nIn addition to fishing, other natural and human-induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification and others.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearn\nThese events create unpredictability and new challenges, and inform players about human impacts on aquatic ecosystems.\n\n\n\n\n\n\n\nLearn the rules\n\n\n\n\n\nMessages\n\n\n\n\n\n\nThis game aims to introduce three main messages that we care about:\n\n\nBig fish are important. Big fish are important for population resilience, ecosystem balance and simply because they are beautiful.\nBig fish are mostly all gone. Commercial and recreational fishing has removed most of the big fish from our oceans, lakes and rivers.\nBig fish can return. Fish grow relatively fast. If we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes.\n\n\n\n\n\n\n\n\n\nThis is a nice photo of some fish. Photo credit: Sebastian Pena Lambarri\n\n\n\n\n\n\n\n\n\n\nExplore the science\n\n\n\n\n\nAbout the developers\n\n\n\n\n\n\nCaution\n\n\n\nThis game was developed by…\n\n\n\n\n\n\n  Contact the developers of BigFish\n\n\n\n\n  Our supporters and collaborators\n\n\n\n\n  Media enquiries"
   }
 ]
