@@ -1,140 +1,88 @@
 ---
-title: " "
-about: 
-  template: solana
-editor: 
-  markdown: 
-    wrap: 72
+pagetitle: Home | BigFish Card Game
+description-meta: |
+  Meta description to go here
 ---
 
-![](images/BigFish.jpg){fig-align="center" width="50%"}
+:::::: {.grid .justify-contents-evenly .align-items-center}
+::::: g-col-4
+![](images/BigFish-notext.jpg)
+:::::
 
-<h1 style="text-align: center;">
+::::: {.g-col-8 .text-center}
+# The game all about fishing in a sustainable way
 
-The game all about fishing in a sustainable way
+The Big Fish card game aims to inform and engage everyone interested in fishing or marine conservation through fun play. The main goal of the game is to collect the maximum number of points from catching fish while also preserving a healthy ecosystem and fish size diversity for future catches. 
+<!-- The game is suitable to ages from 10 to 99+ and is best played in a group of 2-5 players. -->
 
-</h1>
+:::: {.grid .justify-contents-evenly .align-items-center .text-center}
+::: g-col-6
+![](resources/icons/children-solid.svg){width="50%"}
 
-<p style="text-align: center; font-size: 20px">
+Suitable for ages 10+
+:::
 
-The Big Fish card game aims to inform and engage everyone interested in
-fishing or marine conservation through fun play. The main goal of the
-game is to collect the maximum number of points from catching fish while
-also preserving a healthy ecosystem and fish size diversity for future
-catches. The game is suitable to ages from 10 to 99+ and is best played
-in a group of 2-5 players.
+::: g-col-6
+![](resources/icons/users-solid.svg){width="50%"}
 
-</p>
+Best for groups of 2-5 players
+:::
+::::
+:::::
+::::::
 
-<br/><br/>
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: g-col-8
+## Game mechanics
 
-------------------------------------------------------------------------
+Big fish are worth more points than small fish, so players are tempted to catch them. But presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving fish for good fishing opportunities. In addition to fishing, other natural and human induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification and others. These events create unpredictability and new challenges and inform about human impacts on aquatic ecosystems.
+:::
 
-![](images/BandedMorwong.jpg){fig-align="center" width="50%"}
+::: g-col-4
+![](images/BandedMorwong.jpg)
+:::
 
-<h1 style="text-align: center;">
+::: g-col-4
+![](images/sebastian-pena-lambarri-unsplash.jpg)
+:::
 
-Game mechanics
+::: g-col-8
+## Main messages
 
-</h1>
+This game aims to introduce three main messages that we care about:
 
-<p style="text-align: center; font-size: 20px">
+- **Big fish are important**. They are important for population resilience, ecosystem balance and simply because they are beautiful.
 
-Big fish are worth more points than small fish, so players are tempted
-to catch them. But presence of big fish also allows players to draw new
-cards, spawn new fish and also grow them. The player has to find a
-balance between collecting points by catching fish and preserving fish
-for good fishing opportunities. In addition to fishing, other natural
-and human induced events occur throughout the game, such as fisheries
-research, poor water quality, citizen science, illegal fishing, ocean
-acidification and others. These events create unpredictability and new
-challenges and inform about human impacts on aquatic ecosystems.
+- **Big fish are mostly all gone**. Commercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers.
 
-</p>
+- **Big fish can return**. Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes.
+:::
 
-<br/><br/>
+::::
 
-------------------------------------------------------------------------
+## Who are we
 
-<h1 style="text-align: center;">
+This game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design). Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.
 
-Main messages
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: g-col
+![](https:://placehold.co/200x200/)
+:::
 
-</h1>
+::: g-col
+![](https:://placehold.co/200x200/)
+:::
 
-<p style="text-align: center; font-size: 20px">
+::: g-col
+![](https:://placehold.co/200x200/)
+:::
+::::
 
-This game aims to introduce three main messages that we care about
+## Supporters
 
--   **Big fish are important**. They are important for population
-    resilience, ecosystem balance and simply because they are beautiful.
+This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to Asta Audzijonyte
 
--   **Big fish are mostly all gone**. Commercial and recreational
-    fishing has removed most of the large fish from the ocean, lakes and
-    rivers.
+## Contact us
 
--   **Big fish can return**. Fish grow relatively fast and we take the
-    right measures, we can restore healthy ecosystems and their beauty
-    within our lifetimes.
+If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info@fishsizeproject.org](mailto:info@fishsizeproject.org).
 
-</p>
-
-![](images/sebastian-pena-lambarri-unsplash.jpg){fig-align="center"
-width="50%"}
-
-<br/><br/>
-
-------------------------------------------------------------------------
-
-<h1 style="text-align: center;">
-
-Who are we
-
-</h1>
-
-<p style="text-align: center;font-size: 20px">
-
-This game has been developed by the Institute of Marine and Antarctic
-Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta
-Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy
-Coghlan (drawings) and Matt Testoni (photos, design). Game testing,
-advice, interesting facts and many other details have been provided by
-many researchers, naturalists, students, friends, anglers, divers and
-game enthusiasts. Thank you.
-
-</p>
-
-<br/><br/>
-
-------------------------------------------------------------------------
-
-<h1 style="text-align: center;">
-
-Supporters
-
-</h1>
-
-<p style="text-align:center; font-size: 20px">
-
-This work is supported by a 2020 Pew Fellowship in Marine Conservation
-awarded to Asta Audzijonyte
-
-</p>
-
-<br/><br/>
-
-------------------------------------------------------------------------
-
-<h1 style="text-align: center;">
-
-Contact us
-
-</h1>
-
-<p style="text-align: center;font-size: 20px">
-
-If you would like to learn more about our work, adapt the game to your
-ecosystem, apply the game to your teaching or support our work please
-contact us at info\@fishsizeproject.org
-
-</p>
