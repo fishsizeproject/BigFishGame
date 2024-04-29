@@ -1,0 +1,143 @@
+project:
+  type: website
+  output-dir: docs
+execute:
+  freeze: auto
+
+website:
+  title: "BigFish"
+  repo-url: https://github.com/fishsizeproject/BigFishGame
+  site-url: https://bigfish.drtreimer.com
+  page-navigation: false
+  navbar:
+    pinned: true
+    collapse: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Play"
+        menu:
+          - text: "Setup & rules"
+            href: pages/rules.qmd
+          - text: "Wildcards"
+            href: pages/WildCards.qmd
+          - text: "Round-end cards"
+            href: pages/RoundEndCards.qmd
+      - text: "Explore"
+        menu:
+          - text: "The science"
+            href: pages/science.qmd
+          - text: "Other resources"
+            href: pages/resources_working.qmd
+      - text: "About"
+        href: pages/AboutDevs.qmd
+  sidebar:
+  - id: rules-sidebar
+    style: "docked"
+    contents:
+      - section: "How to play BigFish"
+        contents:
+        - text: "Setup"
+          href: pages/rules.qmd#sec-section
+        - text: "Gameplay"
+          href: pages/rules.qmd#sec-gameplay
+        - text: "Round end"
+          href: pages/rules.qmd#sec-round-end
+        - text: "Game end"
+          href: pages/rules.qmd#sec-game-end
+      - text: "-----"
+      - section: "Cards"
+        contents:
+        - text: "Wildcards"
+          href: pages/WildCards.qmd
+        - text: "Round-end cards"
+          href: pages/RoundEndCards.qmd
+      - text: "-----"
+      - section: "More information"
+        contents:
+        - text: "Resources"
+          href: pages/resources_working.qmd
+    type: dark
+    border: false
+  - id: cards-sidebar
+    style: "docked"
+    contents:
+      - section: "Wildcards"
+        contents:
+        - text: Catch and Release
+          href: pages/WildCards.qmd#sec-catch-and-release
+        - text: Centre for Marine Socioecology (CMS)
+          href: pages/WildCards.qmd#sec-centre-for-marine-socioecology
+        - text: Citizen science
+          href: pages/WildCards.qmd#sec-citizen-science
+        - text: Giant kelp
+          href: pages/WildCards.qmd#sec-giant-kelp
+        - text: Humpback whale
+          href: pages/WildCards.qmd#sec-humpback-whale
+        - text: Illegal fishing
+          href: pages/WildCards.qmd#sec-illegal-fishing
+        - text: Large shark
+          href: pages/WildCards.qmd#sec-large-shark
+        - text: Marine protected area
+          href: pages/WildCards.qmd#sec-marine-protected-area
+        - text: Poor water quality
+          href: pages/WildCards.qmd#sec-poor-water-quality
+        - text: Seaweed
+          href: pages/WildCards.qmd#sec-seaweed
+        - text: Severe weather
+          href: pages/WildCards.qmd#sec-severe-weather
+        - text: Shelfish reef
+          href: pages/WildCards.qmd#sec-shelfish-reef
+      - text: "-----"
+      - section: "Round-End Cards"
+        contents:
+        - text: El Nino begins
+          href: pages/WildCards.qmd#sec-el-nino-begins
+        - text: Fisheries impose upper size limit
+          href: pages/WildCards.qmd#sec-fisheries-impose-upper-size-limit
+        - text: Fisheries research occurs
+          href: pages/WildCards.qmd#sec-fisheries-research-occurs
+        - text: Localised species extinction
+          href: pages/WildCards.qmd#sec-localised-species-extinction
+        - text: Long spined sea urchins arrive
+          href: pages/WildCards.qmd#sec-long-spined-sea-urchins-arrive
+        - text: Ocean acidification
+          href: pages/WildCards.qmd#sec-ocean-acidification
+        - text: Plankton swarm occurs
+          href: pages/WildCards.qmd#sec-plankton-swarm-occurs
+        - text: Seaweed planting occurs
+          href: pages/WildCards.qmd#sec-seaweed-planting-occurs
+      - text: "-----"
+      - text: " Game Setup & Rules"
+        href: pages/resources_working.qmd
+    type: dark
+    border: false
+  page-footer:
+    left: |
+      [![](/images/icons/envelope-solid.svg){fig-alt="info@fishsizeproject.org" fig-align="center" height="1.5em" fig-valign="top" margin-left="5px"}](mailto:info@fishsizeproject.org)
+      [info@fishsizeproject.org](info@fishsizeproject.org)<br>
+      [![](/images/icons/github.svg){fig-alt="info@fishsizeproject.org" fig-align="center" height="1.5em" fig-valign="top" margin-left="5px"}](mailto:info@fishsizeproject.org)
+      [![](/images/icons/rss-solid.svg){fig-alt="info@fishsizeproject.org" fig-align="center" height="1.5em" fig-valign="top" margin-left="5px"}](mailto:info@fishsizeproject.org)
+    right: |
+      Copyright BigFish Project 2024.<br>
+      This work is supported by a 2020 Pew Fellowship in Marine Conservation.<br>
+    background: dark
+    foreground: light
+
+format:
+  html:
+    theme: lux
+    page-layout: full
+    grid:
+      sidebar-width: 350px
+      body-width: 950px
+      margin-width: 350px
+      gutter-width: 50px
+    css: styles.css
+    toc: false
+    fig-responsive: true
+    # link-external-icon: true
+    link-external-newwindow: true
+
+
+
