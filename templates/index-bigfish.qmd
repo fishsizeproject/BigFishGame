@@ -2,6 +2,7 @@
 title: "BIGFISH: The sustainable fishing game"
 whitespace: "large"
 sidebar: false
+eval: false
 ---
 
 ::: container
