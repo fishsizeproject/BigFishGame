@@ -320,3 +320,17 @@ main.content > section:first-of-type > .h2:first-child {
   position: relative;
   z-index: -1;
 }
+
+/** Image containers for cards and their descriptions **/
+
+.image-card {
+    box-shadow: 10px 10px 5px lightgrey;
+//    width=250px;
+}
+
+.how-to-play-block {
+    position: relative;
+    border: 5px dashed #053c5e;
+    border-radius: 1em;
+    padding-block: 10px;
+}

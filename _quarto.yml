@@ -68,7 +68,7 @@ website:
       - section: "Cards"
         contents:
         - text: "Wildcards"
-          href: pages/WildCards.qmd
+          href: pages/special-cards.qmd
         - text: "Round-end cards"
           href: pages/RoundEndCards.qmd
     type: dark
@@ -78,69 +78,81 @@ website:
     contents:
       - section: "Wildcards"
         contents:
-        - text: "Catch and Release"
-          href: pages/WildCards.qmd#sec-catch-and-release
-        - text: "Centre for Marine Socioecology (CMS)"
-          href: pages/WildCards.qmd#sec-centre-for-marine-socioecology
+        - text: "Blue Groper"
+          href: pages/special-cards.qmd#sec-blue-groper
+        - text: "Catch or Release"
+          href: pages/special-cards.qmd#sec-catch-or-release
         - text: "Citizen science"
-          href: pages/WildCards.qmd#sec-citizen-science
+          href: pages/special-cards.qmd#sec-citizen-science
+        - text: "Centre for Marine Socioecology (CMS)"
+          href: pages/special-cards.qmd#sec-cms
+        - text: "Delicious bait"
+          href: pages/special-cards.qmd#sec-delicious-bait
+        - text: "Fishing kayak"
+          href: pages/special-cards.qmd#sec-fishing-kayak
+        - text: "Fishing rod"
+          href: pages/special-cards.qmd#sec-fishing-rod
         - text: "Giant kelp"
-          href: pages/WildCards.qmd#sec-giant-kelp
+          href: pages/special-cards.qmd#sec-giant-kelp
         - text: "Humpback whale"
-          href: pages/WildCards.qmd#sec-humpback-whale
+          href: pages/special-cards.qmd#sec-humpback-whale
         - text: "Illegal fishing"
-          href: pages/WildCards.qmd#sec-illegal-fishing
+          href: pages/special-cards.qmd#sec-illegal-fishing
         - text: "Large shark"
-          href: pages/WildCards.qmd#sec-large-shark
+          href: pages/special-cards.qmd#sec-large-shark
         - text: "Marine protected area"
-          href: pages/WildCards.qmd#sec-marine-protected-area
+          href: pages/special-cards.qmd#sec-marine-protected-area
         - text: "Poor water quality"
-          href: pages/WildCards.qmd#sec-poor-water-quality
+          href: pages/special-cards.qmd#sec-poor-water-quality
+        - text: "SCUBA equipment"
+          href: pages/special-cards.qmd#sec-scuba-equipment
         - text: "Seaweed"
-          href: pages/WildCards.qmd#sec-seaweed
+          href: pages/special-cards.qmd#sec-seaweed
         - text: "Severe weather"
-          href: pages/WildCards.qmd#sec-severe-weather
-        - text: "Shelfish reef"
-          href: pages/WildCards.qmd#sec-shelfish-reef
+          href: pages/special-cards.qmd#sec-severe-weather
+        - text: "Shellfish reef"
+          href: pages/special-cards.qmd#sec-shellfish-reef
       - text: "-----"
       - section: "Round-End Cards"
         contents:
-        - text: "El Nino begins"
-          href: pages/WildCards.qmd#sec-el-nino-begins
-        - text: "Fisheries impose upper size limit"
-          href: pages/WildCards.qmd#sec-fisheries-impose-upper-size-limit
+        - text: "El Niño begins"
+          href: pages/special-cards.qmd#sec-el-nino-begins
         - text: "Fisheries research occurs"
-          href: pages/WildCards.qmd#sec-fisheries-research-occurs
+          href: pages/special-cards.qmd#sec-fisheries-research
         - text: "Localised species extinction"
-          href: pages/WildCards.qmd#sec-localised-species-extinction
-        - text: "Long spined sea urchins arrive"
-          href: pages/WildCards.qmd#sec-long-spined-sea-urchins-arrive
+          href: pages/special-cards.qmd#sec-localised-species-extinction
         - text: "Ocean acidification"
-          href: pages/WildCards.qmd#sec-ocean-acidification
+          href: pages/special-cards.qmd#sec-ocean-acidification
         - text: "Plankton swarm occurs"
-          href: pages/WildCards.qmd#sec-plankton-swarm-occurs
+          href: pages/special-cards.qmd#sec-plankton-swarm
         - text: "Seaweed planting occurs"
-          href: pages/WildCards.qmd#sec-seaweed-planting-occurs
+          href: pages/special-cards.qmd#sec-seaweed-planting
+        - text: "Fisheries impose upper size limit"
+          href: pages/special-cards.qmd#sec-upper-size-limit
+        - text: "Long spined sea urchins arrive"
+          href: pages/special-cards.qmd#sec-urchins-arrive
+        - text: "END GAME"
+          href: pages/special-cards.qmd#sec-end-game
       - text: "-----"
       - text: " Game Setup & Rules"
-        href: pages/resources_working.qmd
+        href: pages/rules.qmd
     type: dark
     border: false
 
 format:
   html:
     logo: /resources/images/BigFish-notext.jpg
-    theme: [lux, /resources/styling/theming.scss]
-    css: /resources/styling/styles.css
+    theme: [lux, resources/styling/theming.scss]
+    css: resources/styling/styles.css
     toc: false
     anchor-sections: false
     link-external-newwindow: true
     page-layout: full
     grid:
-      sidebar-width: 250px
-      body-width: 1450px
+      sidebar-width: 400px
+      body-width: 1250px
       margin-width: 100px
-      gutter-width: 1.5em
+      gutter-width: 2em
 
 editor: source
 
