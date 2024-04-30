@@ -26,7 +26,7 @@ website:
             href: pages/special-cards.qmd#sec-round-end-cards
       - text: "Media & Events"
         href: pages/media-events.qmd
-      - text: "About"
+      - text: "About Us"
         href: pages/about.qmd
       - text: "How To Buy"
         href: pages/how-to-buy.qmd

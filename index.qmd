@@ -6,7 +6,7 @@ description-meta: |
 
 :::::: {.grid .justify-contents-evenly .align-items-center}
 ::::: g-col-4
-![](images/BigFish-notext.jpg)
+![](/resources/images/BigFish-notext.jpg)
 :::::
 
 ::::: {.g-col-8 .text-center}
@@ -17,13 +17,13 @@ The Big Fish card game aims to inform and engage everyone interested in fishing 
 
 :::: {.grid .justify-contents-evenly .align-items-center .text-center}
 ::: g-col-6
-![](resources/icons/children-solid.svg){width="50%"}
+![](/resources/icons/children-solid.svg){width="30%"}
 
 Suitable for ages 10+
 :::
 
 ::: g-col-6
-![](resources/icons/users-solid.svg){width="50%"}
+![](/resources/icons/users-solid.svg){width="30%"}
 
 Best for groups of 2-5 players
 :::
@@ -39,11 +39,11 @@ Big fish are worth more points than small fish, so players are tempted to catch 
 :::
 
 ::: g-col-4
-![](images/BandedMorwong.jpg)
+![](resources/images/pretty-pics/BandedMorwong.jpg)
 :::
 
 ::: g-col-4
-![](images/sebastian-pena-lambarri-unsplash.jpg)
+![](resources/images/pretty-pics/sebastian-pena-lambarri-unsplash.jpg)
 :::
 
 ::: g-col-8
@@ -65,22 +65,22 @@ This game aims to introduce three main messages that we care about:
 This game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design). Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.
 
 :::: {.grid .justify-contents-evenly .align-items-center}
-::: g-col
-![](https:://placehold.co/200x200/)
+::: g-col-2
+![](https://placehold.co/200x200)
 :::
 
-::: g-col
-![](https:://placehold.co/200x200/)
+::: g-col-2
+![](https://placehold.co/200x200)
 :::
 
-::: g-col
-![](https:://placehold.co/200x200/)
+::: g-col-2
+![](https://placehold.co/200x200)
 :::
 ::::
 
 ## Supporters
 
-This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to Asta Audzijonyte
+This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to [Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte).
 
 ## Contact us
 

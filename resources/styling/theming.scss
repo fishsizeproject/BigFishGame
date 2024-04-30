@@ -12,17 +12,14 @@ $gray-800:      #333 !default;
 $gray-900:      #222 !default;
 $black:         #000 !default;
 
-$light:         #CCD4DE !default; // French Gray
+$light:         #F3F1EA !default;
 $dark:          $gray-800 !default;
 
 $min-contrast-ratio:   1.9 !default;
 
-$primary:       #0a6188; // Lapis Lazuli
-$secondary:     #0d3a51; // Prussian Blue
-$accent1:       #50768e; // Payne's grey
-$accent2:       #9abed7; // Powder blue
-$accent21:      #4486A8;
-$accent22:      #277498;
+$primary:       #362B4F;
+$secondary:     #94B5C7;
+$accent1:       #C64F33;
 $ghost:         #f9f8fe; // Ghost White
 
 //#9EB0BE; // Cadet grey: #
@@ -30,7 +27,7 @@ $ghost:         #f9f8fe; // Ghost White
 
 //$body-font-family:    Roboto !default;
 $body-bg:             transparent;      // The page background color.
-$body-color:          $black;           // The page text color.
+$body-color:          #120E1B;           // The page text color.
 
 //$headings-font-family: "Barlow", !default;
 //$headings-font-weight:        200 !default;
@@ -43,7 +40,7 @@ $headings-line-height: 1.25em;
 
 $toc-font-size:  0.6em;           // The font size for the page TOC.
 
-$link-color:     $accent22;      // The link color.
+$link-color:     $accent1;      // The link color.
 
 $input-bg:       $light;   // The background color for HTML inputs.
 $popover-bg:     $light;   // The background color for popovers (e.g. when a citation preview is shown).
@@ -56,11 +53,11 @@ $code-block-bg:                   $light;
 $code-block-bg-padding:           0.5em;
 
 // Code Copy (enable code-copy: true)
-$btn-code-copy-color:             $accent22;   
-$btn-code-copy-color-active:      $accent1;   
+$btn-code-copy-color:             $accent1;
+$btn-code-copy-color-active:      $accent1;
 
 // Inline Code
-$code-bg:         $light;   // The background color of inline code. 
+$code-bg:         $light;   // The background color of inline code.
 $code-color:      $accent1;      // The text color of inline code.
 
 $input-btn-padding-x:         1rem !default;
@@ -73,7 +70,7 @@ $btn-padding-y: 0.5em;
 // Table of Contents
 //$toc-color:                       $body-color;  // The color for table of contents text.
 //$toc-font-size:                   $font-size-root;// The font-size for table of contents text.
-//$toc-active-border:               $accent22;     // The left border color for the currently active table of contents item.
+//$toc-active-border:               $accent1;     // The left border color for the currently active table of contents item.
 //$toc-inactive-border:             $light-blue;  // The left border colors for inactive table of contents items.
 
 // Layout
@@ -114,7 +111,7 @@ hr {
   margin-top: 1em;
 }
 
-main.content > section:first-of-type > h2:first-child, 
+main.content > section:first-of-type > h2:first-child,
 main.content > section:first-of-type > .h2:first-child {
   margin-top: 1em;
 }
@@ -324,13 +321,14 @@ main.content > section:first-of-type > .h2:first-child {
 /** Image containers for cards and their descriptions **/
 
 .image-card {
-    box-shadow: 10px 10px 5px lightgrey;
+    box-shadow: 10px 10px 5px var(--bs-gray-400);
     width: 12.5vw;
 }
 
 .how-to-play-block {
     position: relative;
-    border: 5px dashed #053c5e;
+    border: 5px dashed var(--bs-secondary-color);
     border-radius: 1em;
-    padding-block: 10px;
+    padding-block: 0.5em;
 }
+
