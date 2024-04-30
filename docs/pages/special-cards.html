@@ -35,10 +35,13 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../resources/styling/styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar docked nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -89,7 +92,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../pages/rules.html"> 
+    <a class="nav-link active" href="../pages/rules.html" aria-current="page"> 
 <span class="menu-text">Rules</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -117,7 +120,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../pages/about.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">About Us</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../pages/how-to-buy.html"> 
@@ -129,98 +132,288 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text">Wildcards</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-blue-groper" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Blue Groper</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-catch-or-release" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Catch or Release</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-citizen-science" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Citizen science</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-cms" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Centre for Marine Socioecology (CMS)</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-delicious-bait" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Delicious bait</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-fishing-kayak" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Fishing kayak</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-fishing-rod" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Fishing rod</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-giant-kelp" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Giant kelp</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-humpback-whale" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Humpback whale</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-illegal-fishing" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Illegal fishing</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-large-shark" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Large shark</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-marine-protected-area" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Marine protected area</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-poor-water-quality" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Poor water quality</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-scuba-equipment" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">SCUBA equipment</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-seaweed" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Seaweed</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-severe-weather" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Severe weather</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-shellfish-reef" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Shellfish reef</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="px-0"><hr class="sidebar-divider hi "></li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+ <span class="menu-text">Round-End Cards</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-el-nino-begins" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">El Niño begins</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-fisheries-research" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Fisheries research occurs</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-localised-species-extinction" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Localised species extinction</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-ocean-acidification" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Ocean acidification</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-plankton-swarm" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Plankton swarm occurs</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-seaweed-planting" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Seaweed planting occurs</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-upper-size-limit" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Fisheries impose upper size limit</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-urchins-arrive" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Long spined sea urchins arrive</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/special-cards.html#sec-end-game" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">END GAME</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="px-0"><hr class="sidebar-divider hi "></li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/rules.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"> Game Setup &amp; Rules</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-right" id="quarto-document-content">
 
 
 
 
-<p>— This page is currently being built, we thank you for your patience. We are still filling in all the information, so please come back later for more. —</p>
-<p>On this page you can learn more about the Wild cards and Round end cards. We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please contact us and tell us all about it.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/spongeDive.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
-<figcaption>Dive at Reef Life Survey sites. Photo credit: Rick Stuart-Smith, reeflifesurvey.com</figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/divider.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
-</figure>
-</div>
+<!-- On this page you can learn more about the Wild cards and Round end cards. We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please contact us and tell us all about it. -->
+<!-- ![Dive at Reef Life Survey sites. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](/resources/images/pretty-pics/spongeDive.jpg){width="70%" fig-align="center"} -->
 <section id="wild-cards" class="level2">
 <h2 data-anchor-id="wild-cards">Wild cards</h2>
-<section id="catch-and-release" class="level3">
-<h3 data-anchor-id="catch-and-release">Catch and release</h3>
-<p>Releasing caught fish can greatly help fish populations. One must safely release fish that is too small or too large for the size limits (if minimum or maximum size limits are in place). Anglers also often chose to release unwanted fish or fish that are especially valuable for the ocean and fish populations, such as predatory or large fish. In fact, all fish are valuable in the sea, so all fish that will not be consumed should be released back safely. When released correctly, survival rates are very high, e.g.&nbsp;over 90% or even higher.</p>
-<p><strong><em>How to play?</em></strong> Choose a fish from the available face-up cards and either place it in your esky (cooler) or release it into your fishing spot. The size of the fish to be released will be mentioned on the card, and different cards have different sizes. Remember this card is discarded after use.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/catchRelease.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
+<section id="sec-blue-groper" class="level3">
+<h3 data-anchor-id="sec-blue-groper">Blue Groper</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="resources/images/cards/wild-cards/blue-groper.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="resources/images/cards/wild-cards/blue-groper.jpg" class="image-card img-fluid"></a></p>
 </div>
-<p><strong><em>Learn more</em></strong></p>
+<section id="how-to-play" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more" class="level4">
+<h4 data-anchor-id="learn-more">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-catch-or-release" class="level3">
+<h3 data-anchor-id="sec-catch-or-release">Catch or release</h3>
+<p>Releasing caught fish can greatly help fish populations. One must safely release fish that is too small or too large for the size limits (if minimum or maximum size limits are in place). Anglers also often chose to release unwanted fish or fish that are especially valuable for the ocean and fish populations, such as predatory or large fish. In fact, all fish are valuable in the sea, so all fish that will not be consumed should be released back safely. When released correctly, survival rates are very high, e.g.&nbsp;over 90% or even higher.</p>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/wild-cards/catch-or-release.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="..\resources/images/cards/wild-cards/catch-or-release.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-1" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-1">How to play</h4>
+<p>Choose a fish from the available face-up cards and either place it in your esky (cooler) or release it into your fishing spot. The size of the fish to be released will be mentioned on the card, and different cards have different sizes. Remember this card is discarded after use.</p>
+</section>
+</div>
+<section id="learn-more-1" class="level4">
+<h4 data-anchor-id="learn-more-1">Learn more</h4>
+<div class=".text-center">
 <p>Learn how to release fish safely in this video with Steve Starling:</p>
-
-
-<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVdo0PIxxnI?si=JTEXce3p0E7EYRtD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
 </iframe>
-</p>
-
-
-<p><a href="https://www.keepfishwet.org/">“Keep Fish Wet”</a> is a great organisation in the USA, working with anglers to increase survival in catch and release fishing. They have three main rules to ensure released fish have good chances to survive.</p>
-<p>You can also learn about catch and release fishing from Australia’s great angler organisation <a href="https://ozfish.org.au/junior-ozfishers/learn-about-catch-and-release/">OzFish</a>.</p>
-<p><a href="https://www.dpi.nsw.gov.au/fishing/recreational/fishing-skills/catch-and-release">Here</a> is a great site with information on catch and release survival rates for different NSW fish species.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/ReleaseFish.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
-</figure>
 </div>
-<p><br></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/divider.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
-</figure>
+<div class="grid justify-contents-evenly align-items-center">
+<div class="g-col-8">
+<ul>
+<li><p><a href="https://www.keepfishwet.org/">“Keep Fish Wet”</a> is a great organisation in the USA, working with anglers to increase survival in catch and release fishing. They have three main rules to ensure released fish have good chances to survive.</p></li>
+<li><p>You can also learn about catch and release fishing from Australia’s great angler organisation <a href="https://ozfish.org.au/junior-ozfishers/learn-about-catch-and-release/">OzFish</a>.</p></li>
+<li><p><a href="https://www.dpi.nsw.gov.au/fishing/recreational/fishing-skills/catch-and-release">Here is a great site</a> with information on catch and release survival rates for different NSW fish species.</p></li>
+</ul>
 </div>
-<!-- next para ------------------------------------------------------------- -->
-</section>
-<section id="centre-for-marine-socioecology-cms" class="level3">
-<h3 data-anchor-id="centre-for-marine-socioecology-cms">Centre for Marine Socioecology (CMS)</h3>
-<p>The <a href="https://marinesocioecology.org/">Centre for Marine Socioecology</a> (CMS) provides, develops and integrates multidisciplinary research to better understand and manage Australia’s oceans. They do this by connecting, cooperating and collaborating across multiple organisations and different research disciplines. Their members range from marine scientists to philosophers, artists, economists and more. Collaborative work across diverse disciplines is often hard to achieve but is extremely important when tackling complex sustainability challenges. The CMS card in Big Fish aims to highlight how working together produces broad and wide reaching benefits for everyone.</p>
-<p><strong><em>How to play?</em></strong> Draw two cards from the face-down card pile and put them in your hand. Then choose another player to draw one card from the face-down card pile that they will keep in their hand. Remember this card is discarded after use.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/cms.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
+<div class="g-col-4">
+<p><img src="..\resources/images/ReleaseFish.jpg" class="img-fluid" style="width:90.0%"></p>
 </div>
-<p><strong><em>Learn more</em></strong></p>
-<p>Check out some of the amazing CMS initiatives, such as <a href="https://curiousclimate.org.au/schools/">Curious Climate Schools</a>, where all schools can join in to ask experts questions about climate change.</p>
-<p>Check out also this <a href="https://futureseas2030.org/">Future Seas 2030</a> initiative, where a large group of researchers aimed to envision two alternative ocean futures for 2030. We can have a Business as usual or Sustainable and collaborative future. Which one do we chose? Don’t forget to watch this fun thriller <a href="https://futureseas2030.org/full-metal-aquatic-a-future-seas-thriller-recording-and-interactive-game/">Full metal aquatic</a> on how the two futures might play out.</p>
-<p>Why do we need to collaborate? Read more about it <a href="https://www.weforum.org/agenda/2021/06/4-views-on-why-scientific-collaboration-is-key-for-the-future/">here</a></p>
-<p><img src="images/CMSthemes.png" class="img-fluid quarto-figure quarto-figure-center" style="width:100.0%"> <br><br></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/divider.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
-</figure>
 </div>
 </section>
-<section id="citizen-science" class="level3">
-<h3 data-anchor-id="citizen-science">Citizen science</h3>
+</section>
+<section id="sec-citizen-science" class="level3">
+<h3 data-anchor-id="sec-citizen-science">Citizen science</h3>
 <p>In the last decade, science and data collection have undergone a true revolution through what is called as citizen science. Collecting enough data or conducting large analyses is important in order to get more accurate information and knowledge. However, collecting large amounts of data can be difficult, time consuming and expensive. By creating ways for everyone to get involved and have input into a science project, the knowledge gained and the positive outcomes from research can be greatly amplified and shared with the wider community.</p>
-<p><strong><em>How to play?</em></strong> Choose a fish card currently in your hand and place it as a big fish into your fishing spot. Remember this card is discarded after use.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/CitScience.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/wild-cards/citizen-science.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="..\resources/images/cards/wild-cards/citizen-science.jpg" class="image-card img-fluid"></a></p>
 </div>
-<p><strong><em>Learn more</em></strong></p>
+<section id="how-to-play-2" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-2">How to play</h4>
+<p>Choose a fish card currently in your hand and place it as a big fish into your fishing spot. Remember this card is discarded after use.</p>
+</section>
+</div>
+<section id="learn-more-2" class="level4">
+<h4 data-anchor-id="learn-more-2">Learn more</h4>
 <p>There are plenty of citizen science initiatives for everyone to get involved into. Here are some examples:</p>
 <p><a href="https://www.redmap.org.au/">RedMap</a></p>
 <p><a href="https://www.inaturalist.org/">iNaturalist</a></p>
@@ -229,26 +422,98 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://www.facebook.com/TassieFishFrameCollectionProgram">Tassie Fish Frame Collection Program</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/fishResearch.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
+<p><img src="..\resources/images/fishResearch.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
 <figcaption>Citizen scientist helping with underwater surveys in the Reef Life Survey program. Photo credit: Rick Stuart-Smith, reeflifesurvey.com</figcaption>
 </figure>
 </div>
+</section>
+</section>
+<section id="sec-cms" class="level3">
+<h3 data-anchor-id="sec-cms">Centre for Marine Socioecology (CMS)</h3>
+<p>The <a href="https://marinesocioecology.org/">Centre for Marine Socioecology</a> (CMS) provides, develops and integrates multidisciplinary research to better understand and manage Australia’s oceans. They do this by connecting, cooperating and collaborating across multiple organisations and different research disciplines. Their members range from marine scientists to philosophers, artists, economists and more. Collaborative work across diverse disciplines is often hard to achieve but is extremely important when tackling complex sustainability challenges. The CMS card in Big Fish aims to highlight how working together produces broad and wide reaching benefits for everyone.</p>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/wild-cards/cms.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="..\resources/images/cards/wild-cards/cms.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-3" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-3">How to play</h4>
+<p>Draw two cards from the face-down card pile and put them in your hand. Then choose another player to draw one card from the face-down card pile that they will keep in their hand. Remember this card is discarded after use.</p>
+</section>
+</div>
+<section id="learn-more-3" class="level4">
+<h4 data-anchor-id="learn-more-3">Learn more</h4>
+<p>Check out some of the amazing CMS initiatives, such as <a href="https://curiousclimate.org.au/schools/">Curious Climate Schools</a>, where all schools can join in to ask experts questions about climate change.</p>
+<p>Check out also this <a href="https://futureseas2030.org/">Future Seas 2030</a> initiative, where a large group of researchers aimed to envision two alternative ocean futures for 2030. We can have a Business as usual or Sustainable and collaborative future. Which one do we chose? Don’t forget to watch this fun thriller <a href="https://futureseas2030.org/full-metal-aquatic-a-future-seas-thriller-recording-and-interactive-game/">Full metal aquatic</a> on how the two futures might play out.</p>
+<p>Why do we need to collaborate? Read more about it <a href="https://www.weforum.org/agenda/2021/06/4-views-on-why-scientific-collaboration-is-key-for-the-future/">here</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/divider.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+<p><img src="..\resources/images/CMSthemes.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
 </figure>
 </div>
 </section>
-<section id="giant-kelp" class="level3">
-<h3 data-anchor-id="giant-kelp">Giant kelp</h3>
-<p>Kelp provides a huge, complex, and food filled habitat. It is essential for healthy oceans and healthy fish populations and it also serves as an important refuge for marine organisms. However, giant kelp around Australia has declined drastically over the last decades, with nearly 95% of kelp around Tasmania lost. This is mostly due to climate change and invasion of long-spined sea urchins, who eat a lot of kelp and create urchin barrens. Loss of natural urchin predators, such as large rock lobsters and other large predatory fish, is one of the reasons for kelp decline, and kelp forests often survive better in no-take marine protected areas with abundant urchin predators. This huge loss of natural underwater “forests” remains largely unknown by the general public. Many scientists and organisations are working to restore these kelp forests and we all can play a role by protecting rock lobsters and aiming to restore the abundance of large lobsters and other large fish.</p>
-<p><strong><em>How to play?</em></strong> If you have a Giant Kelp card in your fishing spot you may grow two larval fish into juvenile fish each turn. The rule of one grow increment per fish per turn still applies.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/giantKelp.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
+</section>
+<section id="sec-delicious-bait" class="level3">
+<h3 data-anchor-id="sec-delicious-bait">Delicious bait</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="resources/images/cards/wild-cards/delicious-bait.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="resources/images/cards/wild-cards/delicious-bait.jpg" class="image-card img-fluid"></a></p>
 </div>
-<p><strong><em>Learn more</em></strong></p>
+<section id="how-to-play-4" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-4">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-4" class="level4">
+<h4 data-anchor-id="learn-more-4">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-fishing-kayak" class="level3">
+<h3 data-anchor-id="sec-fishing-kayak">Fishing kayak</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="resources/images/cards/wild-cards/fishing-kayak.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img src="resources/images/cards/wild-cards/fishing-kayak.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-5" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-5">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-5" class="level4">
+<h4 data-anchor-id="learn-more-5">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-fishing-rod" class="level3">
+<h3 data-anchor-id="sec-fishing-rod">Fishing rod</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="resources/images/cards/wild-cards/fishing-rod.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-7"><img src="resources/images/cards/wild-cards/fishing-rod.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-6" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-6">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-6" class="level4">
+<h4 data-anchor-id="learn-more-6">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-giant-kelp" class="level3">
+<h3 data-anchor-id="sec-giant-kelp">Giant kelp</h3>
+<p>Kelp provides a huge, complex, and food filled habitat. It is essential for healthy oceans and healthy fish populations and it also serves as an important refuge for marine organisms. However, giant kelp around Australia has declined drastically over the last decades, with nearly 95% of kelp around Tasmania lost. This is mostly due to climate change and invasion of long-spined sea urchins, who eat a lot of kelp and create urchin barrens. Loss of natural urchin predators, such as large rock lobsters and other large predatory fish, is one of the reasons for kelp decline, and kelp forests often survive better in no-take marine protected areas with abundant urchin predators. This huge loss of natural underwater “forests” remains largely unknown by the general public. Many scientists and organisations are working to restore these kelp forests and we all can play a role by protecting rock lobsters and aiming to restore the abundance of large lobsters and other large fish.</p>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/wild-cards/giant-kelp.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-8"><img src="..\resources/images/cards/wild-cards/giant-kelp.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-7" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-7">How to play</h4>
+<p>If you have a Giant Kelp card in your fishing spot you may grow two larval fish into juvenile fish each turn. The rule of one grow increment per fish per turn still applies.</p>
+</section>
+</div>
+<section id="learn-more-7" class="level4">
+<h4 data-anchor-id="learn-more-7">Learn more</h4>
 <p><a href="https://www.theguardian.com/australia-news/2022/mar/13/really-worth-a-crack-bringing-tasmanias-giant-kelp-forests-back-from-the-brink">Guardian article</a> about kelp forest loss and restoration.</p>
 <p>Watch these videos about giant kelp</p>
 
@@ -271,99 +536,309 @@ ul.task-list li input[type="checkbox"] {
 <p>Or read a <a href="https://www.frontiersin.org/articles/10.3389/fmars.2020.00074/full#:~:text=Kelp%20forests%20dominate%20the%20rocky,communities%20of%20flora%20and%20fauna.">scientific article</a> about reasons for kelp decline and restoration efforts.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/KelpPhoto.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
+<p><img src="..\resources/images/KelpPhoto.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
 <figcaption>Healthy giant kelp. Photo credit: Rick Stuart-Smith, reeflifesurvey.com</figcaption>
 </figure>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/divider.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
-</figure>
-</div>
 </section>
-<section id="humpback-whale" class="level3">
-<h3 data-anchor-id="humpback-whale">Humpback whale</h3>
+</section>
+<section id="sec-humpback-whale" class="level3">
+<h3 data-anchor-id="sec-humpback-whale">Humpback whale</h3>
 <p>Whales such as the humpback whale or blue whale are key species in cycling nutrients in the ocean. Known as whale pumps, these animals help by feeding in the deep oceans and pooping out large quantities of nutrients in shallow waters. These nutrients are essential for smaller species such as phytoplankton to grow. Many whale populations have been decimated by whaling, but populations of humpback whales have recovered in the last decades. This wild card shows how a visiting whale can provide positive impacts on a local environment. While they may consume some krill or small fish for food they also supply vital nutrients that are required for a healthy marine habitat and good fishing.</p>
-<p><strong><em>How to play?</em></strong> Discard a larval or juvenile fish from your fishing spot to grow a medium fish to a big fish. One grow per fish per turn still applies. Remember this card is discarded after use.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/whale.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/wild-cards/humpback-whale.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-9"><img src="..\resources/images/cards/wild-cards/humpback-whale.jpg" class="image-card img-fluid"></a></p>
 </div>
-<p><strong><em>Learn more</em></strong></p>
+<section id="how-to-play-8" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-8">How to play</h4>
+<p>Discard a larval or juvenile fish from your fishing spot to grow a medium fish to a big fish. One grow per fish per turn still applies. Remember this card is discarded after use.</p>
+</section>
+</div>
+<section id="learn-more-8" class="level4">
+<h4 data-anchor-id="learn-more-8">Learn more</h4>
 <p>A <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013255">scientific article</a> explaining the benefits of the “whale pump”.</p>
 <p>A <a href="https://www.alaskawhalefoundation.org/post/the-whale-pump-investigating-humpback-whale-driven-nutrient-cycling-in-southeast-alaska">story</a> about the investigation of the whale nutrient pump.</p>
 <p>A <a href="https://www.rom.on.ca/en/collections-research/magazine/great-whales">popular article</a> about great whales, threats and actions that can be taken to prevent them (with a focus on Canada).</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/divider.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
-</figure>
-</div>
 </section>
-<section id="illegal-fishing" class="level3">
-<h3 data-anchor-id="illegal-fishing">Illegal fishing</h3>
+</section>
+<section id="sec-illegal-fishing" class="level3">
+<h3 data-anchor-id="sec-illegal-fishing">Illegal fishing</h3>
 <p>Illegal fishing means fishing that does not follow existing regulations, be they minimum or maximum size limits, bag limits, marine protected areas or other rules. Fishing regulations are essential for sustainable fishing, but in various countries up to 20% of anglers may not obey these rules. This card shows catching fish below or above the determined size limit hurts the population and the fishing, although the damage will naturally depend on how large the overall population is in the fishing spot.</p>
-<p><strong><em>How to play?</em></strong> Choose a player, they must choose two juvenile fish from their fishing spot and discard them (juvenile fish are below the minimum size limit and should not be fished). Remember this card is discarded after use.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/illegal_fishing.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/wild-cards/illegal-fishing.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-10"><img src="..\resources/images/cards/wild-cards/illegal-fishing.jpg" class="image-card img-fluid"></a></p>
 </div>
-<p><strong><em>Learn more</em></strong></p>
+<section id="how-to-play-9" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-9">How to play</h4>
+<p>Choose a player, they must choose two juvenile fish from their fishing spot and discard them (juvenile fish are below the minimum size limit and should not be fished). Remember this card is discarded after use.</p>
+</section>
+</div>
+<section id="learn-more-9" class="level4">
+<h4 data-anchor-id="learn-more-9">Learn more</h4>
 <p><a href="https://fishing.tas.gov.au/community/fishwatch">Fishwatch</a> allows you to report illegal fishing in Tasmania.</p>
 <p>A <a href="https://figshare.utas.edu.au/articles/journal_contribution/The_intersection_between_illegal_fishing_crimes_at_sea_and_social_well-being/23007800">scientific article</a> about illegal fishing (not recreational) and societal well-being.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/divider.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
-</figure>
+</section>
+</section>
+<section id="sec-large-shark" class="level3">
+<h3 data-anchor-id="sec-large-shark">Large shark</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/wild-cards/large-shark.pjg" class="lightbox" data-gallery="quarto-lightbox-gallery-11"><img src="..\resources/images/cards/wild-cards/large-shark.pjg" class="image-card img-fluid"></a></p>
 </div>
+<section id="how-to-play-10" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-10">How to play</h4>
+<p>How to play sentence goes here.</p>
 </section>
-<section id="large-shark" class="level3">
-<h3 data-anchor-id="large-shark">Large shark</h3>
+</div>
+<section id="learn-more-10" class="level4">
+<h4 data-anchor-id="learn-more-10">Learn more</h4>
+<p>Learn more resources go here.</p>
 </section>
-<section id="marine-protected-area" class="level3">
-<h3 data-anchor-id="marine-protected-area">Marine protected area</h3>
 </section>
-<section id="poor-water-quality" class="level3">
-<h3 data-anchor-id="poor-water-quality">Poor water quality</h3>
+<section id="sec-marine-protected-area" class="level3">
+<h3 data-anchor-id="sec-marine-protected-area">Marine protected area</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/wild-cards/marine-protected-area.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-12"><img src="..\resources/images/cards/wild-cards/marine-protected-area.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-11" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-11">How to play</h4>
+<p>How to play sentence goes here.</p>
 </section>
-<section id="seaweed" class="level3">
-<h3 data-anchor-id="seaweed">Seaweed</h3>
+</div>
+<section id="learn-more-11" class="level4">
+<h4 data-anchor-id="learn-more-11">Learn more</h4>
+<p>Learn more resources go here.</p>
 </section>
-<section id="severe-weather" class="level3">
-<h3 data-anchor-id="severe-weather">Severe weather</h3>
 </section>
-<section id="shelfish-reef" class="level3">
-<h3 data-anchor-id="shelfish-reef">Shelfish reef</h3>
+<section id="sec-poor-water-quality" class="level3">
+<h3 data-anchor-id="sec-poor-water-quality">Poor water quality</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/wild-cards/poor-water-quality.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-13"><img src="..\resources/images/cards/wild-cards/poor-water-quality.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-12" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-12">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-12" class="level4">
+<h4 data-anchor-id="learn-more-12">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-scuba-equipment" class="level3">
+<h3 data-anchor-id="sec-scuba-equipment">SCUBA equipment</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/wild-cards/scuba-equipment.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-14"><img src="..\resources/images/cards/wild-cards/scuba-equipment.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-13" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-13">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-13" class="level4">
+<h4 data-anchor-id="learn-more-13">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-seaweed" class="level3">
+<h3 data-anchor-id="sec-seaweed">Seaweed</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/wild-cards/seaweed.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-15"><img src="..\resources/images/cards/wild-cards/seaweed.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-14" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-14">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-14" class="level4">
+<h4 data-anchor-id="learn-more-14">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-severe-weather" class="level3">
+<h3 data-anchor-id="sec-severe-weather">Severe weather</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/wild-cards/severe-weather.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-16"><img src="..\resources/images/cards/wild-cards/severe-weather.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-15" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-15">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-15" class="level4">
+<h4 data-anchor-id="learn-more-15">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-shellfish-reef" class="level3">
+<h3 data-anchor-id="sec-shellfish-reef">Shellfish reef</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/wild-cards/shellfish-reef.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-17"><img src="..\resources/images/cards/wild-cards/shellfish-reef.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-16" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-16">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-16" class="level4">
+<h4 data-anchor-id="learn-more-16">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
 </section>
 </section>
 <section id="round-end-cards" class="level2">
 <h2 data-anchor-id="round-end-cards">Round end cards</h2>
-<section id="el-nino-begins" class="level3">
-<h3 data-anchor-id="el-nino-begins">El Nino begins</h3>
+<section id="sec-el-nino-begins" class="level3">
+<h3 data-anchor-id="sec-el-nino-begins">El Niño begins</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/round-end-cards/el-nino-begins.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-18"><img src="..\resources/images/cards/round-end-cards/el-nino-begins.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-17" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-17">How to play</h4>
+<p>How to play sentence goes here.</p>
 </section>
-<section id="fisheries-impose-upper-size-limit" class="level3">
-<h3 data-anchor-id="fisheries-impose-upper-size-limit">Fisheries impose upper size limit</h3>
+</div>
+<section id="learn-more-17" class="level4">
+<h4 data-anchor-id="learn-more-17">Learn more</h4>
+<p>Learn more resources go here.</p>
 </section>
-<section id="fisheries-research-occurs" class="level3">
-<h3 data-anchor-id="fisheries-research-occurs">Fisheries research occurs</h3>
 </section>
-<section id="localised-species-extinction" class="level3">
-<h3 data-anchor-id="localised-species-extinction">Localised species extinction</h3>
+<section id="sec-fisheries-research" class="level3">
+<h3 data-anchor-id="sec-fisheries-research">Fisheries research occurs</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/round-end-cards/fisheries-research.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-19"><img src="..\resources/images/cards/round-end-cards/fisheries-research.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-18" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-18">How to play</h4>
+<p>How to play sentence goes here.</p>
 </section>
-<section id="long-spined-sea-urchins-arrive" class="level3">
-<h3 data-anchor-id="long-spined-sea-urchins-arrive">Long spined sea urchins arrive</h3>
+</div>
+<section id="learn-more-18" class="level4">
+<h4 data-anchor-id="learn-more-18">Learn more</h4>
+<p>Learn more resources go here.</p>
 </section>
-<section id="ocean-acidification" class="level3">
-<h3 data-anchor-id="ocean-acidification">Ocean acidification</h3>
 </section>
-<section id="plankton-swarm-occurs" class="level3">
-<h3 data-anchor-id="plankton-swarm-occurs">Plankton swarm occurs</h3>
+<section id="sec-localised-species-extinction" class="level3">
+<h3 data-anchor-id="sec-localised-species-extinction">Localised species extinction</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/round-end-cards/localised-species-extinction.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-20"><img src="..\resources/images/cards/round-end-cards/localised-species-extinction.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-19" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-19">How to play</h4>
+<p>How to play sentence goes here.</p>
 </section>
-<section id="seaweed-planting-occurs" class="level3">
-<h3 data-anchor-id="seaweed-planting-occurs">Seaweed planting occurs</h3>
+</div>
+<section id="learn-more-19" class="level4">
+<h4 data-anchor-id="learn-more-19">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-ocean-acidification" class="level3">
+<h3 data-anchor-id="sec-ocean-acidification">Ocean acidification</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/round-end-cards/ocean-acidification.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-21"><img src="..\resources/images/cards/round-end-cards/ocean-acidification.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-20" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-20">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-20" class="level4">
+<h4 data-anchor-id="learn-more-20">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-plankton-swarm" class="level3">
+<h3 data-anchor-id="sec-plankton-swarm">Plankton swarm occurs</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/round-end-cards/plankton-swarm.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-22"><img src="..\resources/images/cards/round-end-cards/plankton-swarm.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-21" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-21">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-21" class="level4">
+<h4 data-anchor-id="learn-more-21">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-seaweed-planting" class="level3">
+<h3 data-anchor-id="sec-seaweed-planting">Seaweed planting occurs</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/round-end-cards/seaweed-planting.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-23"><img src="..\resources/images/cards/round-end-cards/seaweed-planting.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-22" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-22">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-22" class="level4">
+<h4 data-anchor-id="learn-more-22">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-upper-size-limit" class="level3">
+<h3 data-anchor-id="sec-upper-size-limit">Fisheries impose upper size limit</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/round-end-cards/upper-size-limit.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-24"><img src="..\resources/images/cards/round-end-cards/upper-size-limit.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-23" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-23">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-23" class="level4">
+<h4 data-anchor-id="learn-more-23">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-urchins-arrive" class="level3">
+<h3 data-anchor-id="sec-urchins-arrive">Long spined sea urchins arrive</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/round-end-cards/urchins-arrive.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-25"><img src="..\resources/images/cards/round-end-cards/urchins-arrive.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-24" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-24">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-24" class="level4">
+<h4 data-anchor-id="learn-more-24">Learn more</h4>
+<p>Learn more resources go here.</p>
+</section>
+</section>
+<section id="sec-end-game" class="level3">
+<h3 data-anchor-id="sec-end-game">END GAME</h3>
+<div class="grid justify-contents-evenly align-items-center mx-5">
+<div class="g-col-2 p-2">
+<p><a href="..\resources/images/cards/round-end-cards/end-game.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-26"><img src="..\resources/images/cards/round-end-cards/end-game.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="how-to-play-25" class="level4 g-col-10 p-2 how-to-play-block">
+<h4 data-anchor-id="how-to-play-25">How to play</h4>
+<p>How to play sentence goes here.</p>
+</section>
+</div>
+<section id="learn-more-25" class="level4">
+<h4 data-anchor-id="learn-more-25">Learn more</h4>
+<p>Learn more resources go here.</p>
 
 
+</section>
 </section>
 </section>
 
@@ -784,6 +1259,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","openEffect":"zoom","selector":".lightbox","closeEffect":"zoom","loop":false});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 

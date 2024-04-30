@@ -35,10 +35,13 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../resources/styling/styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar docked nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -117,7 +120,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../pages/about.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">About Us</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../pages/how-to-buy.html"> 
@@ -129,20 +132,328 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-abalone" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Abalone</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-australian-red-cod" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Australian Red Cod</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-banded-morwong" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Banded Morwong</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-bastard-trumpeter" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Bastard Trumpeter</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-blue-fin-tuna" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Blue Fin Tuna</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-blue-mackerel" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Blue Mackerel</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-bluethroat-wrasse" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Bluethroat Wrasse</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-brownstriped-leatherjacket" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Brownstriped Leatherjacket</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-draughtboard-shark" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Draughtboard Shark</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-flounder" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Flounder</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-herring-cale" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Herring Cale</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-longfin-pike" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Longfin Pike</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-longsnout-boarfish" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Longsnout Boarfish</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-marblefish" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Marblefish</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-purple-wrasse" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Purple Wrasse</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-red-rock-crab" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Red Rock Crab</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-sand-flathead" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Sand Flathead</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-senator-wrasse" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Senator Wrasse</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-shaws-cowfish" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Shaws Cowfish</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-southern-rock-lobster" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Southern Rock Lobster</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-toothbrush-leather-jacket" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Toothbrush Leather Jacket</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/fish-cards.html#sec-yellowtail-kingfish" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Yellowtail Kingfish</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-right" id="quarto-document-content">
 
 
 
 
+<section id="fish-cards" class="level2">
+<h2 data-anchor-id="fish-cards">Fish cards</h2>
+<div class="grid justify-contents-evenly align-items-center mx-5 p-2">
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/abalone.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="..\resources/images/cards/fish-cards/abalone.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-abalone" class="level3 g-col-4">
+<h3 data-anchor-id="sec-abalone">Abalone</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/australian-red-cod.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="..\resources/images/cards/fish-cards/australian-red-cod.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-australian-red-cod" class="level3 g-col-4">
+<h3 data-anchor-id="sec-australian-red-cod">Australian Red Cod</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/banded-morwong.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="..\resources/images/cards/fish-cards/banded-morwong.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-banded-morwong" class="level3 g-col-4">
+<h3 data-anchor-id="sec-banded-morwong">Banded Morwong</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/bastard-trumpeter.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="..\resources/images/cards/fish-cards/bastard-trumpeter.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-bastard-trumpeter" class="level3 g-col-4">
+<h3 data-anchor-id="sec-bastard-trumpeter">Bastard Trumpeter</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/blue-fin-tuna.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="..\resources/images/cards/fish-cards/blue-fin-tuna.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-blue-fin-tuna" class="level3 g-col-4">
+<h3 data-anchor-id="sec-blue-fin-tuna">Blue Fin Tuna</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/blue-mackerel.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img src="..\resources/images/cards/fish-cards/blue-mackerel.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-blue-mackerel" class="level3 g-col-4">
+<h3 data-anchor-id="sec-blue-mackerel">Blue Mackerel</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/abalone.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-7"><img src="..\resources/images/cards/fish-cards/abalone.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-bluethroat-wrasse" class="level3 g-col-4">
+<h3 data-anchor-id="sec-bluethroat-wrasse">Bluethroat Wrasse</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/brownstriped-leatherjacket.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-8"><img src="..\resources/images/cards/fish-cards/brownstriped-leatherjacket.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-brownstriped-leatherjacket" class="level3 g-col-4">
+<h3 data-anchor-id="sec-brownstriped-leatherjacket">Brownstriped Leatherjacket</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/draughtboard-shark.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-9"><img src="..\resources/images/cards/fish-cards/draughtboard-shark.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-draughtboard-shark" class="level3 g-col-4">
+<h3 data-anchor-id="sec-draughtboard-shark">Draughtboard Shark</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/flounder.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-10"><img src="..\resources/images/cards/fish-cards/flounder.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-flounder" class="level3 g-col-4">
+<h3 data-anchor-id="sec-flounder">Flounder</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/herring-cale.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-11"><img src="..\resources/images/cards/fish-cards/herring-cale.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-herring-cale" class="level3 g-col-4">
+<h3 data-anchor-id="sec-herring-cale">Herring Cale</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/longfin-pike.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-12"><img src="..\resources/images/cards/fish-cards/longfin-pike.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-longfin-pike" class="level3 g-col-4">
+<h3 data-anchor-id="sec-longfin-pike">Longfin Pike</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/longsnout-boarfish.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-13"><img src="..\resources/images/cards/fish-cards/longsnout-boarfish.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-longsnout-boarfish" class="level3 g-col-4">
+<h3 data-anchor-id="sec-longsnout-boarfish">Longsnout Boarfish</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/marblefish.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-14"><img src="..\resources/images/cards/fish-cards/marblefish.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-marblefish" class="level3 g-col-4">
+<h3 data-anchor-id="sec-marblefish">Marblefish</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/purple-wrasse.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-15"><img src="..\resources/images/cards/fish-cards/purple-wrasse.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-purple-wrasse" class="level3 g-col-4">
+<h3 data-anchor-id="sec-purple-wrasse">Purple Wrasse</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/red-rock-crab.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-16"><img src="..\resources/images/cards/fish-cards/red-rock-crab.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-red-rock-crab" class="level3 g-col-4">
+<h3 data-anchor-id="sec-red-rock-crab">Red Rock Crab</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/sand-flathead.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-17"><img src="..\resources/images/cards/fish-cards/sand-flathead.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-sand-flathead" class="level3 g-col-4">
+<h3 data-anchor-id="sec-sand-flathead">Sand Flathead</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/senator-wrasse.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-18"><img src="..\resources/images/cards/fish-cards/senator-wrasse.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-senator-wrasse" class="level3 g-col-4">
+<h3 data-anchor-id="sec-senator-wrasse">Senator Wrasse</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/shaws-cowfish.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-19"><img src="..\resources/images/cards/fish-cards/shaws-cowfish.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-shaws-cowfish" class="level3 g-col-4">
+<h3 data-anchor-id="sec-shaws-cowfish">Shaws Cowfish</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/southern-rock-lobster.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-20"><img src="..\resources/images/cards/fish-cards/southern-rock-lobster.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-southern-rock-lobster" class="level3 g-col-4">
+<h3 data-anchor-id="sec-southern-rock-lobster">Southern Rock Lobster</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/toothbrush-leather-jacket.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-21"><img src="..\resources/images/cards/fish-cards/toothbrush-leather-jacket.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-toothbrush-leather-jacket" class="level3 g-col-4">
+<h3 data-anchor-id="sec-toothbrush-leather-jacket">Toothbrush Leather Jacket</h3>
+<p>Learn more resources go here.</p>
+</section>
+<div class="g-col-2">
+<p><a href="..\resources/images/cards/fish-cards/yellowtail-kingfish.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-22"><img src="..\resources/images/cards/fish-cards/yellowtail-kingfish.jpg" class="image-card img-fluid"></a></p>
+</div>
+<section id="sec-yellowtail-kingfish" class="level3 g-col-4">
+<h3 data-anchor-id="sec-yellowtail-kingfish">Yellowtail Kingfish</h3>
+<p>Learn more resources go here.</p>
+</section>
+</div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -561,6 +872,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 
