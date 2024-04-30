@@ -138,6 +138,55 @@ website:
         href: pages/rules.qmd
     type: dark
     border: false
+  - id: fish-sidebar
+    style: "docked"
+    contents:
+      - text: "Abalone"
+        href: pages/fish-cards.qmd#sec-abalone
+      - text: "Australian Red Cod"
+        href: pages/fish-cards.qmd#sec-australian-red-cod
+      - text: "Banded Morwong"
+        href: pages/fish-cards.qmd#sec-banded-morwong
+      - text: "Bastard Trumpeter"
+        href: pages/fish-cards.qmd#sec-bastard-trumpeter
+      - text: "Blue Fin Tuna"
+        href: pages/fish-cards.qmd#sec-blue-fin-tuna
+      - text: "Blue Mackerel"
+        href: pages/fish-cards.qmd#sec-blue-mackerel
+      - text: "Bluethroat Wrasse"
+        href: pages/fish-cards.qmd#sec-bluethroat-wrasse
+      - text: "Brownstriped Leatherjacket"
+        href: pages/fish-cards.qmd#sec-brownstriped-leatherjacket
+      - text: "Draughtboard Shark"
+        href: pages/fish-cards.qmd#sec-draughtboard-shark
+      - text: "Flounder"
+        href: pages/fish-cards.qmd#sec-flounder
+      - text: "Herring Cale"
+        href: pages/fish-cards.qmd#sec-herring-cale
+      - text: "Longfin Pike"
+        href: pages/fish-cards.qmd#sec-longfin-pike
+      - text: "Longsnout Boarfish"
+        href: pages/fish-cards.qmd#sec-longsnout-boarfish
+      - text: "Marblefish"
+        href: pages/fish-cards.qmd#sec-marblefish
+      - text: "Purple Wrasse"
+        href: pages/fish-cards.qmd#sec-purple-wrasse
+      - text: "Red Rock Crab"
+        href: pages/fish-cards.qmd#sec-red-rock-crab
+      - text: "Sand Flathead"
+        href: pages/fish-cards.qmd#sec-sand-flathead
+      - text: "Senator Wrasse"
+        href: pages/fish-cards.qmd#sec-senator-wrasse
+      - text: "Shaws Cowfish"
+        href: pages/fish-cards.qmd#sec-shaws-cowfish
+      - text: "Southern Rock Lobster"
+        href: pages/fish-cards.qmd#sec-southern-rock-lobster
+      - text: "Toothbrush Leather Jacket"
+        href: pages/fish-cards.qmd#sec-toothbrush-leather-jacket
+      - text: "Yellowtail Kingfish"
+        href: pages/fish-cards.qmd#sec-yellowtail-kingfish
+    type: dark
+    border: false
 
 format:
   html:

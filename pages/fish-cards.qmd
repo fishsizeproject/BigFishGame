@@ -2,6 +2,234 @@
 pagetitle: Fish cards | BigFish Card Game
 description-meta: |
   Meta description to go here
+sidebar: fish-sidebar
 ---
+
+## Fish cards
+
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .p-2}
+::: g-col-2
+![](/resources/images/cards/fish-cards/abalone.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Abalone {#sec-abalone}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/australian-red-cod.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Australian Red Cod {#sec-australian-red-cod}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/banded-morwong.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Banded Morwong {#sec-banded-morwong}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/bastard-trumpeter.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Bastard Trumpeter {#sec-bastard-trumpeter}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/blue-fin-tuna.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Blue Fin Tuna {#sec-blue-fin-tuna}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/blue-mackerel.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Blue Mackerel {#sec-blue-mackerel}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/abalone.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Bluethroat Wrasse {#sec-bluethroat-wrasse}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/brownstriped-leatherjacket.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Brownstriped Leatherjacket {#sec-brownstriped-leatherjacket}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/draughtboard-shark.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Draughtboard Shark {#sec-draughtboard-shark}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/flounder.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Flounder {#sec-flounder}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/herring-cale.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Herring Cale {#sec-herring-cale}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/longfin-pike.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Longfin Pike {#sec-longfin-pike}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/longsnout-boarfish.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Longsnout Boarfish {#sec-longsnout-boarfish}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/marblefish.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Marblefish {#sec-marblefish}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/purple-wrasse.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Purple Wrasse {#sec-purple-wrasse}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/red-rock-crab.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Red Rock Crab {#sec-red-rock-crab}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/sand-flathead.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Sand Flathead {#sec-sand-flathead}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/senator-wrasse.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Senator Wrasse {#sec-senator-wrasse}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/shaws-cowfish.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Shaws Cowfish {#sec-shaws-cowfish}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/southern-rock-lobster.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Southern Rock Lobster {#sec-southern-rock-lobster}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/toothbrush-leather-jacket.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Toothbrush Leather Jacket {#sec-toothbrush-leather-jacket}
+
+Learn more resources go here.
+:::
+
+::: g-col-2
+![](/resources/images/cards/fish-cards/yellowtail-kingfish.jpg){.image-card .lightbox}
+:::
+
+::: g-col-4
+### Yellowtail Kingfish {#sec-yellowtail-kingfish}
+
+Learn more resources go here.
+:::
+::::
+
+
+
 
 
