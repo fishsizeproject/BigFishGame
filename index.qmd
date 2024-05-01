@@ -2,7 +2,14 @@
 pagetitle: Home | BigFish Card Game
 description-meta: |
   Meta description to go here
+sidebar: false
 ---
+
+::: {.column-screen .hero-img .hero-strip-homepage}
+   
+:::
+
+::: column-body-outset
 
 :::::: {.grid .justify-contents-evenly .align-items-center}
 ::::: g-col-4
@@ -12,7 +19,9 @@ description-meta: |
 ::::: {.g-col-8 .text-center}
 # The game all about fishing in a sustainable way
 
-The Big Fish card game aims to inform and engage everyone interested in fishing or marine conservation through fun play. The main goal of the game is to collect the maximum number of points from catching fish while also preserving a healthy ecosystem and fish size diversity for future catches. 
+The Big Fish card game aims to inform and engage everyone interested in fishing or marine conservation through fun play.
+
+The main goal of the game is to collect the maximum number of points from catching fish while also preserving a healthy ecosystem and fish size diversity for future catches.
 <!-- The game is suitable to ages from 10 to 99+ and is best played in a group of 2-5 players. -->
 
 :::: {.grid .justify-contents-evenly .align-items-center .text-center}
@@ -31,23 +40,42 @@ Best for groups of 2-5 players
 :::::
 ::::::
 
+:::::: {.grid .justify-contents-evenly .align-items-center}
+::::: g-col-8
+## Playing the game {style="margin-top: 0.5em;"}
+<!-- ## Game mechanics -->
+
 :::: {.grid .justify-contents-evenly .align-items-center}
-::: g-col-8
-## Game mechanics
-
-Big fish are worth more points than small fish, so players are tempted to catch them. But presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving fish for good fishing opportunities. In addition to fishing, other natural and human induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification and others. These events create unpredictability and new challenges and inform about human impacts on aquatic ecosystems.
+::: g-col
+image
 :::
 
-::: g-col-4
+::: g-col-11
+Big fish are worth more points than small fish, so players are tempted to catch them. But presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving fish for good fishing opportunities. 
+:::
+
+::: g-col
+image
+:::
+
+::: g-col-11
+In addition to fishing, other natural and human induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification and others. These events create unpredictability and new challenges and inform about human impacts on aquatic ecosystems.
+:::
+::::
+:::::
+
+::::: g-col-4
 ![](resources/images/pretty-pics/BandedMorwong.jpg)
-:::
+:::::
+::::::
 
-::: g-col-4
+:::::: {.grid .justify-contents-evenly .align-items-center}
+::::: g-col-4
 ![](resources/images/pretty-pics/sebastian-pena-lambarri-unsplash.jpg)
-:::
+:::::
 
-::: g-col-8
-## Main messages
+::::: g-col-8
+## Game messages {style="margin-top: 0.5em;"}
 
 This game aims to introduce three main messages that we care about:
 
@@ -56,9 +84,8 @@ This game aims to introduce three main messages that we care about:
 - **Big fish are mostly all gone**. Commercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers.
 
 - **Big fish can return**. Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes.
-:::
-
-::::
+:::::
+::::::
 
 ## Who are we
 
@@ -86,3 +113,4 @@ This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded t
 
 If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info@fishsizeproject.org](mailto:info@fishsizeproject.org).
 
+:::

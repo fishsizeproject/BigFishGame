@@ -21,17 +21,17 @@ ol ::marker {
   font-size: 1.35em;
 }
 
-/* Homepage styling */
+/* To put a hero image on each page like on the lab website */
 
 .hero-img {
-    background-image: url("../resources/images/trevally_1599x767.jpg");
+    background-image: url("https://placehold.co/1600x800");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.hero-strip {
-  height: calc(100vw/1599*660);
+.hero-strip-homepage {
+  height: calc(100vw/1600*711); /* enter dimensions of image */
 }
 
 .hero-strip-page {
@@ -39,23 +39,15 @@ ol ::marker {
 }
 
 .hero-strip-page:before {
-  filter: brightness(50%);
-}
-
-.subtitle {
-  font-size: 1.25em;
-  line-height: 115%;
-  padding: 0.5em;
-  margin-top: 1.5em;
-  margin-bottom: 1.1em;
+  filter: brightness(50%); /* dims the image slightly */
 }
 
 #quarto-content > * {
   /* Hero image is pinned to the navbar without a gap */
-    margin-top: 0; 
-    padding-top: 0; 
+    margin-top: 0;
+    padding-top: 0;
   }
-  
+
 .img-tile {
   object-fit: cover;
   height: 12.5vw;
@@ -91,7 +83,7 @@ ol ::marker {
   }
 }
 
-/* Navbar styling */
+/* Make the logo in the navbar look nice */
 
 .navbar-brand-container {
     margin-top: 0px;

@@ -4,3 +4,6 @@ description-meta: |
   Meta description to go here
 ---
 
+::: {.column-screen .hero-img .hero-strip-page}
+   
+:::

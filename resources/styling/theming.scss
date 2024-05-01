@@ -147,7 +147,7 @@ main.content > section:first-of-type > .h2:first-child {
   //background-color: $white;  /* Modern Browsers */
   //color: $primary;
   font-size: 1.25em;
-  line-height: 125%;
+  line-height: 150%;
   padding: 0.5em 0.5em;
 }
 
@@ -156,6 +156,7 @@ main.content > section:first-of-type > .h2:first-child {
 }
 
 #quarto-content > * {
+/* Hero image is pinned to the navbar without a gap */
   padding-top: 0;
   margin-top: 0;
 }
@@ -293,29 +294,6 @@ main.content > section:first-of-type > .h2:first-child {
       }
     }
   }
-}
-
-.team-grid {
-  background-color: transparent !important;
-}
-
-.circle-container {
-  padding: 0;
-  margin: 0;
-  height: 0px;
-  width: 100%;
-  overflow: visible;
-}
-
-.fishing-impacts-circle {
-  --width-fic: 66vw;
-  width: var(--width-fic);
-  height: var(--width-fic);
-  border-radius: 50%;
-  background: $blue;
-  opacity: 10%;
-  position: relative;
-  z-index: -1;
 }
 
 /** Image containers for cards and their descriptions **/
