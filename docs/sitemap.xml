@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://bigfishcardgame.com/index.html</loc>
-    <lastmod>2024-05-01T02:02:58.744Z</lastmod>
+    <lastmod>2024-05-01T02:44:36.589Z</lastmod>
   </url>
   <url>
     <loc>https://bigfishcardgame.com/pages/about.html</loc>
@@ -35,5 +35,9 @@
   <url>
     <loc>https://bigfishcardgame.com/templates/index-bigfish.html</loc>
     <lastmod>2024-04-29T04:12:59.532Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bigfishcardgame.com/pages/testing.html</loc>
+    <lastmod>2024-05-01T02:33:03.593Z</lastmod>
   </url>
 </urlset>

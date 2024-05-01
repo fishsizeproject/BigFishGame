@@ -9,15 +9,13 @@ sidebar: false
    
 :::
 
-::: column-body-outset
-
-:::::: {.grid .justify-contents-evenly .align-items-center}
+:::::: {.grid .justify-contents-evenly .align-items-center .column-screen-inset}
 ::::: g-col-4
 ![](/resources/images/BigFish-notext.jpg)
 :::::
 
 ::::: {.g-col-8 .text-center}
-# The game all about fishing in a sustainable way
+# The sustainable fishing game
 
 The Big Fish card game aims to inform and engage everyone interested in fishing or marine conservation through fun play.
 
@@ -40,14 +38,11 @@ Best for groups of 2-5 players
 :::::
 ::::::
 
-:::::: {.grid .justify-contents-evenly .align-items-center}
-::::: g-col-8
-## Playing the game {style="margin-top: 0.5em;"}
+## Playing the game
 <!-- ## Game mechanics -->
-
-:::: {.grid .justify-contents-evenly .align-items-center}
+:::: {.grid .justify-contents-evenly .align-items-center .column-page}
 ::: g-col
-image
+![](/resources/images/esky.jpg)
 :::
 
 ::: g-col-11
@@ -55,21 +50,26 @@ Big fish are worth more points than small fish, so players are tempted to catch 
 :::
 
 ::: g-col
-image
+![](/resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card}
 :::
 
 ::: g-col-11
-In addition to fishing, other natural and human induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification and others. These events create unpredictability and new challenges and inform about human impacts on aquatic ecosystems.
+In addition to fishing, other natural and human induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification and others. 
+:::
+
+::: g-col
+![](/resources/images/BigFish-notext.jpg)
+:::
+
+::: g-col-11
+These events create unpredictability and new challenges and inform us on how humans impact aquatic ecosystems.
 :::
 ::::
-:::::
 
-::::: g-col-4
-![](resources/images/pretty-pics/BandedMorwong.jpg)
-:::::
-::::::
-
-:::::: {.grid .justify-contents-evenly .align-items-center}
+<!-- ::::: g-col-4 -->
+<!-- ![](resources/images/pretty-pics/BandedMorwong.jpg) -->
+<!-- ::::: -->
+:::::: {.grid .justify-contents-evenly .align-items-center .column-screen-inset}
 ::::: g-col-4
 ![](resources/images/pretty-pics/sebastian-pena-lambarri-unsplash.jpg)
 :::::
@@ -79,18 +79,42 @@ In addition to fishing, other natural and human induced events occur throughout 
 
 This game aims to introduce three main messages that we care about:
 
-- **Big fish are important**. They are important for population resilience, ecosystem balance and simply because they are beautiful.
+### Big fish are important
 
-- **Big fish are mostly all gone**. Commercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers.
+They are important for population resilience, ecosystem balance and simply because they are beautiful.
 
-- **Big fish can return**. Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes.
+### Big fish are mostly all gone
+
+Commercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers.
+
+### Big fish can return
+
+Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes.
 :::::
 ::::::
 
-## Who are we
+:::::: {.grid .justify-contents-evenly .align-items-center .column-page}
+::::: g-col-6
+## Who we are
 
 This game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design). Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.
+:::::
 
+::::: g-col-6
+## Contact us
+
+If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info@fishsizeproject.org](mailto:info@fishsizeproject.org).
+:::::
+::::::
+
+::::: {.grid .justify-contents-evenly .align-items-center .column-page}
+:::: g-col-12
+## Supporters
+
+This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to [Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte).
+::::
+
+:::: g-col-12
 :::: {.grid .justify-contents-evenly .align-items-center}
 ::: g-col-2
 ![](https://placehold.co/200x200)
@@ -103,14 +127,18 @@ This game has been developed by the Institute of Marine and Antarctic Sciences (
 ::: g-col-2
 ![](https://placehold.co/200x200)
 :::
-::::
 
-## Supporters
-
-This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to [Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte).
-
-## Contact us
-
-If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info@fishsizeproject.org](mailto:info@fishsizeproject.org).
-
+::: g-col-2
+![](https://placehold.co/200x200)
 :::
+
+::: g-col-2
+![](https://placehold.co/200x200)
+:::
+
+::: g-col-2
+![](https://placehold.co/200x200)
+:::
+::::
+::::
+:::::

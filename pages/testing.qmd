@@ -1,0 +1,38 @@
+---
+pagetitle: About | BigFish Card Game
+description-meta: |
+  Meta description to go here
+---
+
+::: {.column-screen .hero-img .hero-strip-page}
+   
+:::
+
+::: spacer-2em
+   
+:::
+
+::: {.column-body .text-center style="background-color: #dee2e6; border: solid 2px;"}
+column-body
+:::
+
+::: {.column-body-outset .text-center style="background-color: #dee2e6; border: solid 2px;"}
+column-body-outset
+:::
+
+::: {.column-page-inset .text-center style="background-color: #dee2e6; border: solid 2px;"}
+column-page-inset
+:::
+
+::: {.column-page .text-center style="background-color: #dee2e6; border: solid 2px;"}
+column-page
+:::
+
+::: {.column-screen-inset .text-center style="background-color: #dee2e6; border: solid 2px;"}
+column-screen-inset
+:::
+
+::: {.column-screen .text-center style="background-color: #dee2e6; border: solid 2px;"}
+column-screen
+:::
+

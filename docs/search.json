@@ -135,21 +135,21 @@
   {
     "objectID": "index.html#who-are-we",
     "href": "index.html#who-are-we",
-    "title": "The game all about fishing in a sustainable way",
+    "title": "The sustainable fishing game",
     "section": "Who are we",
     "text": "Who are we\nThis game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design). Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you."
   },
   {
     "objectID": "index.html#supporters",
     "href": "index.html#supporters",
-    "title": "The game all about fishing in a sustainable way",
+    "title": "The sustainable fishing game",
     "section": "Supporters",
     "text": "Supporters\nThis work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to Asta Audzijonyte."
   },
   {
     "objectID": "index.html#contact-us",
     "href": "index.html#contact-us",
-    "title": "The game all about fishing in a sustainable way",
+    "title": "The sustainable fishing game",
     "section": "Contact us",
     "text": "Contact us\nIf you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at info@fishsizeproject.org."
   },
@@ -218,9 +218,9 @@
   {
     "objectID": "index.html#playing-the-game",
     "href": "index.html#playing-the-game",
-    "title": "The game all about fishing in a sustainable way",
+    "title": "The sustainable fishing game",
     "section": "Playing the game",
-    "text": "Playing the game\n\n\n\nimage\n\n\nBig fish are worth more points than small fish, so players are tempted to catch them. But presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving fish for good fishing opportunities.\n\n\nimage\n\n\nIn addition to fishing, other natural and human induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification and others. These events create unpredictability and new challenges and inform about human impacts on aquatic ecosystems."
+    "text": "Playing the game\n\n\n\n\n\n\nBig fish are worth more points than small fish, so players are tempted to catch them. But presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving fish for good fishing opportunities.\n\n\n\n\n\nIn addition to fishing, other natural and human induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification and others.\n\n\n\n\n\nThese events create unpredictability and new challenges and inform us on how humans impact aquatic ecosystems.\n\n\n\n\n\n\n\n\n\n\nGame messages\nThis game aims to introduce three main messages that we care about:\n\nBig fish are important\nThey are important for population resilience, ecosystem balance and simply because they are beautiful.\n\n\nBig fish are mostly all gone\nCommercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers.\n\n\nBig fish can return\nFish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes."
   },
   {
     "objectID": "index.html#main-messages-.stylemargin-top-0.5em",
@@ -232,8 +232,22 @@
   {
     "objectID": "index.html#game-messages",
     "href": "index.html#game-messages",
-    "title": "The game all about fishing in a sustainable way",
+    "title": "The sustainable fishing game",
     "section": "Game messages",
-    "text": "Game messages\nThis game aims to introduce three main messages that we care about:\n\nBig fish are important. They are important for population resilience, ecosystem balance and simply because they are beautiful.\nBig fish are mostly all gone. Commercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers.\nBig fish can return. Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes."
+    "text": "Game messages\nThis game aims to introduce three main messages that we care about:\n\nBig fish are important\nThey are important for population resilience, ecosystem balance and simply because they are beautiful.\n\n\nBig fish are mostly all gone\nCommercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers.\n\n\nBig fish can return\nFish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes."
+  },
+  {
+    "objectID": "pages/testing.html",
+    "href": "pages/testing.html",
+    "title": "BigFish",
+    "section": "",
+    "text": "column-body\n\n\ncolumn-body-outset\n\n\ncolumn-page-inset\n\n\ncolumn-page\n\n\ncolumn-screen-inset\n\n\ncolumn-screen"
+  },
+  {
+    "objectID": "index.html#who-we-are",
+    "href": "index.html#who-we-are",
+    "title": "The sustainable fishing game",
+    "section": "Who we are",
+    "text": "Who we are\nThis game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design). Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you."
   }
 ]

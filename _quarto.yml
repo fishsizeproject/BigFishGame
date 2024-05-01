@@ -200,9 +200,9 @@ format:
     page-layout: full
     grid:
       sidebar-width: 400px
-      body-width: 1250px
+      body-width: 1200px
       margin-width: 100px
-      gutter-width: 2em
+      gutter-width: 4em
 
 editor: source
 
