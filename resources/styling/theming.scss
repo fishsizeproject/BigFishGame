@@ -129,10 +129,16 @@ main.content > section:first-of-type > .h2:first-child {
 
 .maintitle {
   font-size: min(calc(8.5vw), 150px) !important;
-  text-align: left;
+  text-align: center;
   color: $ghost !important;
-  padding: 5%;
-  line-height: 115%;
+  padding: 0% 5% 0% 5%;
+}
+
+.newsubtitle {
+  font-size: min(calc(5vw), 75px) !important;
+  text-align: center;
+  color: $ghost !important;
+  padding: 0%;
 }
 
 .pagetitle {

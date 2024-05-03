@@ -5,22 +5,27 @@ description-meta: |
 sidebar: false
 ---
 
-::: {.column-screen .hero-img .hero-strip-homepage}
-   
+::::: {.column-screen .hero-img .hero-strip-homepage}
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: {.g-col-6 .px-5}
+![](/resources/images/BigFish-notext.jpg)
 :::
 
+::: {.g-col-6}
+# BigFish {.maintitle}
+
+## The sustainable fishing game {.newsubtitle}
+:::
+::::
+:::::::
+
 :::::: {.grid .justify-contents-evenly .align-items-center .column-screen-inset}
-::::: g-col-4
-![](/resources/images/BigFish-notext.jpg)
-:::::
-
-::::: {.g-col-8 .text-center}
-# The sustainable fishing game
-
+::::: {.g-col-12 .text-center .px-5}
+::: {.p style="font-size: 1.6em;"}
 The Big Fish card game aims to inform and engage everyone interested in fishing or marine conservation through fun play.
 
 The main goal of the game is to collect the maximum number of points from catching fish while also preserving a healthy ecosystem and fish size diversity for future catches.
-<!-- The game is suitable to ages from 10 to 99+ and is best played in a group of 2-5 players. -->
+:::
 
 :::: {.grid .justify-contents-evenly .align-items-center .text-center}
 ::: g-col-6
