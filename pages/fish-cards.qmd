@@ -5,6 +5,10 @@ description-meta: |
 sidebar: fish-sidebar
 ---
 
+::: {.column-screen .hero-img .hero-strip-page}
+   
+:::
+
 ## Fish cards
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .p-2}

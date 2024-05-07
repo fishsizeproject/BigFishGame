@@ -3,6 +3,11 @@ pagetitle: Media & Events | BigFish Card Game
 description-meta: |
   Meta description to go here
 ---
+
+::: {.column-screen .hero-img .hero-strip-page}
+   
+:::
+
 Lots of fun and useful things will be added here soon. 
 
 ![](images/shark.jpg){width="50%" fig-align="center"} 

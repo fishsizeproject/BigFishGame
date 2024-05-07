@@ -8,6 +8,10 @@ sidebar: cards-sidebar
 <!-- On this page you can learn more about the Wild cards and Round end cards. We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please contact us and tell us all about it. -->
 <!-- ![Dive at Reef Life Survey sites. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](/resources/images/pretty-pics/spongeDive.jpg){width="70%" fig-align="center"} -->
 
+::: {.column-screen .hero-img .hero-strip-page}
+   
+:::
+
 ## Wild cards
 
 ### Blue Groper {#sec-blue-groper}
