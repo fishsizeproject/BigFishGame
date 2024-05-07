@@ -5,29 +5,21 @@ description-meta: |
 sidebar: false
 ---
 
-::::: {.column-screen .hero-img .hero-strip-homepage}
-:::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-6 .px-5}
+:::::: {.grid .justify-contents-evenly .align-items-center .column-screen .hero-img .hero-strip-homepage}
+::::: {.g-col-6 .text-center}
 ![](/resources/images/BigFish-notext.jpg)
+:::::
+
+::::: {.g-col-6 style="margin-right: 5%;"}
+::: p
+# BigFish {.maintitle}
 :::
 
-::: {.g-col-6}
-# BigFish {.maintitle}
-
+::: p
 ## The sustainable fishing game {.newsubtitle}
 :::
-::::
-:::::::
 
-:::::: {.grid .justify-contents-evenly .align-items-center .column-screen-inset}
-::::: {.g-col-12 .text-center .px-5}
-::: {.p style="font-size: 1.6em;"}
-The Big Fish card game aims to inform and engage everyone interested in fishing or marine conservation through fun play.
-
-The main goal of the game is to collect the maximum number of points from catching fish while also preserving a healthy ecosystem and fish size diversity for future catches.
-:::
-
-:::: {.grid .justify-contents-evenly .align-items-center .text-center}
+:::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.5em;"}
 ::: g-col-6
 ![](/resources/icons/children-solid.svg){width="30%"}
 
@@ -38,6 +30,23 @@ Suitable for ages 10+
 ![](/resources/icons/users-solid.svg){width="30%"}
 
 Best for groups of 2-5 players
+:::
+::::
+:::::
+::::::
+
+:::::: {.grid .justify-contents-evenly .align-items-center .column-screen-inset .mx-5}
+::::: {.g-col-12 .text-center}
+::: {.p style="font-size: 1.6em;"}
+The BigFish card game informs and engages everyone interested in fishing or marine conservation through fun play.
+
+The goal of the game is to collect the maximum number of points from catching fish, while also preserving a healthy ecosystem and fish size diversity for future catches.
+:::
+
+:::: {.grid .justify-contents-evenly .align-items-center .text-center style="background-color: #362B4F;"}
+::: {.g-col-12 .py-2}
+<iframe width="700" height="390" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/nFu30n3d1dY?si=nKPmo70OC9PK7Wi7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
 :::
 ::::
 :::::

@@ -29,7 +29,7 @@ ol ::marker {
 /* To put a hero image on each page like on the lab website */
 
 .hero-img {
-    background-image: url("https://placehold.co/1600x800");
+    background-image: url(sea-large-edit.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
