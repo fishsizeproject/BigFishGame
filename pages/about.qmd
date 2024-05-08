@@ -7,3 +7,5 @@ description-meta: |
 ::: {.column-screen .hero-img .hero-strip-page}
    
 :::
+
+# About

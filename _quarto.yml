@@ -180,9 +180,9 @@ format:
     link-external-newwindow: true
     page-layout: full
     grid:
-      sidebar-width: 400px
+      sidebar-width: 350px
       body-width: 1200px
-      margin-width: 100px
+      margin-width: 75px
       gutter-width: 4em
 
 editor: source
