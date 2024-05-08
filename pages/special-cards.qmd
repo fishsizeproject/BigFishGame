@@ -2,46 +2,49 @@
 pagetitle: Wildcards & Round-end cards | BigFish Card Game
 description-meta: |
   Meta description to go here
-sidebar: cards-sidebar
+sidebar: special-sidebar
 ---
-
-<!-- On this page you can learn more about the Wild cards and Round end cards. We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please contact us and tell us all about it. -->
-<!-- ![Dive at Reef Life Survey sites. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](/resources/images/pretty-pics/spongeDive.jpg){width="70%" fig-align="center"} -->
 
 ::: {.column-screen .hero-img .hero-strip-page}
    
 :::
 
-## Wild cards
+## Wild cards {#sec-wildcards}
+
+<!-- On this page you can learn more about the Wild cards and Round end cards. We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please contact us and tell us all about it. -->
+<!-- ![Dive at Reef Life Survey sites. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](/resources/images/pretty-pics/spongeDive.jpg){width="70%" fig-align="center"} -->
 
 ### Blue Groper {#sec-blue-groper}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
-![](resources/images/cards/wild-cards/blue-groper.jpg){.image-card .lightbox}
+<!-- Directly from the card text -->
+Big fish like the Blue Groper love to eat sea urchins. They are a great example of how the presence of big fish can help reduce sea urchin impacts in marine ecosystems.
+
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](/resources/images/cards/wild-cards/blue-groper.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+Place into your fishing spot to prevent the effects of [Urchins](special-cards.qmd#sec-urchins-arrive).
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+'Learn more' resources here.
 
 ### Catch or release {#sec-catch-or-release}
 
 Releasing caught fish can greatly help fish populations. One must safely release fish that is too small or too large for the size limits (if minimum or maximum size limits are in place). Anglers also often chose to release unwanted fish or fish that are especially valuable for the ocean and fish populations, such as predatory or large fish. In fact, all fish are valuable in the sea, so all fish that will not be consumed should be released back safely. When released correctly, survival rates are very high, e.g. over 90% or even higher.
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/wild-cards/catch-or-release.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 Choose a fish from the available face-up cards and either place it in your esky (cooler) or release it into your fishing spot. The size of the fish to be released will be mentioned on the card, and different cards have different sizes. Remember this card is discarded after use.
@@ -74,12 +77,12 @@ Learn how to release fish safely in this video with Steve Starling:
 
 In the last decade, science and data collection have undergone a true revolution through what is called as citizen science. Collecting enough data or conducting large analyses is important in order to get more accurate information and knowledge. However, collecting large amounts of data can be difficult, time consuming and expensive. By creating ways for everyone to get involved and have input into a science project, the knowledge gained and the positive outcomes from research can be greatly amplified and shared with the wider community.
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/wild-cards/citizen-science.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 Choose a fish card currently in your hand and place it as a big fish into your fishing spot. Remember this card is discarded after use.
@@ -106,12 +109,12 @@ There are plenty of citizen science initiatives for everyone to get involved int
 
 The [Centre for Marine Socioecology](https://marinesocioecology.org/) (CMS) provides, develops and integrates multidisciplinary research to better understand and manage Australia's oceans. They do this by connecting, cooperating and collaborating across multiple organisations and different research disciplines. Their members range from marine scientists to philosophers, artists, economists and more. Collaborative work across diverse disciplines is often hard to achieve but is extremely important when tackling complex sustainability challenges. The CMS card in Big Fish aims to highlight how working together produces broad and wide reaching benefits for everyone.
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/wild-cards/cms.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 Draw two cards from the face-down card pile and put them in your hand. Then choose another player to draw one card from the face-down card pile that they will keep in their hand. Remember this card is discarded after use.
@@ -130,12 +133,12 @@ Why do we need to collaborate? Read more about it [here](https://www.weforum.org
 
 ### Delicious bait {#sec-delicious-bait}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
-![](resources/images/cards/wild-cards/delicious-bait.jpg){.image-card .lightbox}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](/resources/images/cards/wild-cards/delicious-bait.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -148,12 +151,12 @@ Learn more resources go here.
 
 ### Fishing kayak {#sec-fishing-kayak}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
-![](resources/images/cards/wild-cards/fishing-kayak.jpg){.image-card .lightbox}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](/resources/images/cards/wild-cards/fishing-kayak.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -166,12 +169,12 @@ Learn more resources go here.
 
 ### Fishing rod {#sec-fishing-rod}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
-![](resources/images/cards/wild-cards/fishing-rod.jpg){.image-card .lightbox}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](/resources/images/cards/wild-cards/fishing-rod.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -186,12 +189,12 @@ Learn more resources go here.
 
 Kelp provides a huge, complex, and food filled habitat. It is essential for healthy oceans and healthy fish populations and it also serves as an important refuge for marine organisms. However, giant kelp around Australia has declined drastically over the last decades, with nearly 95% of kelp around Tasmania lost. This is mostly due to climate change and invasion of long-spined sea urchins, who eat a lot of kelp and create urchin barrens. Loss of natural urchin predators, such as large rock lobsters and other large predatory fish, is one of the reasons for kelp decline, and kelp forests often survive better in no-take marine protected areas with abundant urchin predators. This huge loss of natural underwater "forests" remains largely unknown by the general public. Many scientists and organisations are working to restore these kelp forests and we all can play a role by protecting rock lobsters and aiming to restore the abundance of large lobsters and other large fish.
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/wild-cards/giant-kelp.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 If you have a Giant Kelp card in your fishing spot you may grow two larval fish into juvenile fish each turn. The rule of one grow increment per fish per turn still applies.
@@ -199,6 +202,8 @@ If you have a Giant Kelp card in your fishing spot you may grow two larval fish 
 ::::
 
 #### Learn more
+
+Kelp is extremely important in providing habitats for all marine creatures.
 
 [Guardian article](https://www.theguardian.com/australia-news/2022/mar/13/really-worth-a-crack-bringing-tasmanias-giant-kelp-forests-back-from-the-brink) about kelp forest loss and restoration.
 
@@ -246,12 +251,12 @@ Or read a [scientific article](https://www.frontiersin.org/articles/10.3389/fmar
 
 Whales such as the humpback whale or blue whale are key species in cycling nutrients in the ocean. Known as whale pumps, these animals help by feeding in the deep oceans and pooping out large quantities of nutrients in shallow waters. These nutrients are essential for smaller species such as phytoplankton to grow. Many whale populations have been decimated by whaling, but populations of humpback whales have recovered in the last decades. This wild card shows how a visiting whale can provide positive impacts on a local environment. While they may consume some krill or small fish for food they also supply vital nutrients that are required for a healthy marine habitat and good fishing. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/wild-cards/humpback-whale.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 Discard a larval or juvenile fish from your fishing spot to grow a medium fish to a big fish. One grow per fish per turn still applies. Remember this card is discarded after use.
@@ -270,12 +275,12 @@ A [popular article](https://www.rom.on.ca/en/collections-research/magazine/great
 
 Illegal fishing means fishing that does not follow existing regulations, be they minimum or maximum size limits, bag limits, marine protected areas or other rules. Fishing regulations are essential for sustainable fishing, but in various countries up to 20% of anglers may not obey these rules. This card shows catching fish below or above the determined size limit hurts the population and the fishing, although the damage will naturally depend on how large the overall population is in the fishing spot. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 Choose a player, they must choose two juvenile fish from their fishing spot and discard them (juvenile fish are below the minimum size limit and should not be fished). Remember this card is discarded after use. 
@@ -290,12 +295,12 @@ A [scientific article](https://figshare.utas.edu.au/articles/journal_contributio
 
 ### Large shark {#sec-large-shark}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
-![](/resources/images/cards/wild-cards/large-shark.pjg){.image-card .lightbox}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](/resources/images/cards/wild-cards/large-shark.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -308,12 +313,12 @@ Learn more resources go here.
 
 ### Marine protected area {#sec-marine-protected-area}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/wild-cards/marine-protected-area.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -326,12 +331,12 @@ Learn more resources go here.
 
 ### Poor water quality {#sec-poor-water-quality}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/wild-cards/poor-water-quality.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -344,12 +349,12 @@ Learn more resources go here.
 
 ### SCUBA equipment {#sec-scuba-equipment}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/wild-cards/scuba-equipment.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -362,12 +367,12 @@ Learn more resources go here.
 
 ### Seaweed {#sec-seaweed}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/wild-cards/seaweed.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -380,12 +385,12 @@ Learn more resources go here.
 
 ### Severe weather {#sec-severe-weather}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/wild-cards/severe-weather.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -398,12 +403,12 @@ Learn more resources go here.
 
 ### Shellfish reef {#sec-shellfish-reef}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/wild-cards/shellfish-reef.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -415,16 +420,16 @@ How to play sentence goes here.
 Learn more resources go here.
 
 
-## Round end cards
+## Round end cards {#sec-round-end-cards}
 
 ### El Niño begins {#sec-el-nino-begins}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/round-end-cards/el-nino-begins.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -437,12 +442,12 @@ Learn more resources go here.
 
 ### Fisheries research occurs {#sec-fisheries-research}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/round-end-cards/fisheries-research.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -455,12 +460,12 @@ Learn more resources go here.
 
 ### Localised species extinction {#sec-localised-species-extinction}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/round-end-cards/localised-species-extinction.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -473,12 +478,12 @@ Learn more resources go here.
 
 ### Ocean acidification {#sec-ocean-acidification}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/round-end-cards/ocean-acidification.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -491,12 +496,12 @@ Learn more resources go here.
 
 ### Plankton swarm occurs {#sec-plankton-swarm}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/round-end-cards/plankton-swarm.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -509,12 +514,12 @@ Learn more resources go here.
 
 ### Seaweed planting occurs {#sec-seaweed-planting}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/round-end-cards/seaweed-planting.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -527,12 +532,12 @@ Learn more resources go here.
 
 ### Fisheries impose upper size limit {#sec-upper-size-limit}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/round-end-cards/upper-size-limit.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -545,12 +550,12 @@ Learn more resources go here.
 
 ### Long spined sea urchins arrive {#sec-urchins-arrive}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/round-end-cards/urchins-arrive.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
@@ -564,12 +569,12 @@ Learn more resources go here.
 
 ### END GAME {#sec-end-game}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5}
-::: {.g-col-2 .p-2}
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
 ![](/resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .p-2 .how-to-play-block}
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
 How to play sentence goes here.
