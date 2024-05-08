@@ -23,7 +23,7 @@ sidebar: fish-sidebar
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Abalone {#sec-abalone}
 
-'Learn more' resources go here.
+Green-lip and Black-lip Abalone are found all around the south east of Australia and are common in Tasmania. Occasionally the two hybridise to create Jade Tiger Abalone. 
 :::
 ::::
 :::::
@@ -37,7 +37,7 @@ sidebar: fish-sidebar
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Australian Red Cod {#sec-australian-red-cod}
 
-'Learn more' resources go here.
+Card text, or 'learn more' resources here?
 :::
 ::::
 :::::
