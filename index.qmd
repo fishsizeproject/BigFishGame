@@ -44,7 +44,7 @@ The goal of the game is to collect the maximum number of points from catching fi
 ::::: {.column-screen style="background-color: var(--bs-secondary-light);"}
 :::: {.grid .spacer-3em .justify-contents-evenly .align-items-center .text-center}
 ::: {.g-col-12 .py-2}
-<iframe width="700" height="390" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/nFu30n3d1dY?si=nKPmo70OC9PK7Wi7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+<iframe width="700" height="390" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 :::
 ::::

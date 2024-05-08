@@ -14,7 +14,7 @@ sidebar: false
 ::::: {.column-screen style="background-color: #F7C078;"}
 :::: {.grid .justify-contents-evenly .align-items-center .p-5 .mx-5 .text-center}
 ::: {.g-col-6}
-<iframe width="700" height="390" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/nFu30n3d1dY?si=nKPmo70OC9PK7Wi7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+<iframe width="700" height="390" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 :::
 
