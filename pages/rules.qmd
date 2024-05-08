@@ -11,46 +11,51 @@ sidebar: false
 
 # How to play
 
-::::: {.column-screen style="background-color: #F7C078;"}
-:::: {.grid .justify-contents-evenly .align-items-center .p-5 .mx-5 .text-center}
-::: {.g-col-6}
+::::::: column-page
+:::: {.grid .justify-contents-evenly .align-items-center .text-center}
+::: {.g-col-3 style="flex-grow: 1;"}
+### [Setup](pages/rules.qmd#sec-setup) {.text-center}
+
+[![](/resources/icons/children-solid.svg){width="50%"}](pages/rules.qmd#sec-setup)
+:::
+
+::: {.g-col-3 style="flex-grow: 1;"}
+### [Gameplay](pages/rules.qmd#sec-gameplay) {.text-center}
+
+[![](/resources/icons/children-solid.svg){width="50%"}](pages/rules.qmd#sec-gameplay)
+:::
+
+::: {.g-col-3 style="flex-grow: 1;"}
+### [Round end](pages/rules.qmd#sec-round-end) {.text-center}
+
+[![](/resources/icons/children-solid.svg){width="50%"}](pages/rules.qmd#sec-round-end)
+:::
+
+::: {.g-col-3 style="flex-grow: 1;"}
+### [Game end](pages/rules.qmd#sec-game-end) {.text-center}
+
+[![](/resources/icons/children-solid.svg){width="50%"}](pages/rules.qmd#sec-game-end)
+:::
+
+::: {.g-col-8 .my-3}
 <iframe width="700" height="390" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 :::
 
-::: {.g-col-6 .mx-5 style="flex-grow: 1; font-size: 1.25em;"}
-Watch this short video where Matt Testaroni explains how to play the game, or jump to the relevant section below to read more. 
+::: {.g-col-4 style="flex-grow: 1; font-size: 1.25em; margin-right: 2em;"}
+Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more.
 :::
 
-::: g-col-3
-### Setup {.text-center}
-
-![](/resources/icons/children-solid.svg){width="50%"}
-:::
-
-::: g-col-3
-### Gameplay {.text-center}
-
-![](/resources/icons/children-solid.svg){width="50%"}
-:::
-
-::: g-col-3
-### Round end {.text-center}
-
-![](/resources/icons/children-solid.svg){width="50%"}
-:::
-
-::: g-col-3
-### Game end {.text-center}
-
-![](/resources/icons/children-solid.svg){width="50%"}
-:::
 ::::
+
+## Setup {#sec-setup}
+
+:::::: {.grid .justify-contents-evenly .align-items-center}
+::::: {.g-col-4}
+![](/resources/images/setupPhoto.jpg)
 :::::
 
-::: column-screen-inset
-## Setup
-
+::::: {.g-col-8}
 Shuffle all fish cards and wildcards together into the gameplay deck and place in the middle of the play area.
 From this deck, draw cards equal to the number of players +2 and place them face-up in the middle of the play area.
 These are the face-up cards. 
@@ -59,27 +64,37 @@ Find the "End of game" card and set it aside, then shuffle the remaining round-e
 Remove four round-end cards and put them aside, shuffle the "End of game" card into the rest of the deck, and place the four removed cards on top. 
 Place the round-end deck in the centre of the play area. The game will end randomly at any time after the first four rounds.
 
-![](/resources/images/setupPhoto.jpg){width="70%" fig-align="center"}
-
 Identify a large clear space in front of each player - this will be their fishing hole. 
 Deal each player five cards from the gameplay. 
 At the start of the game each player places up to three fish from their hand into their fishing site: one as a big fish, one as a medium fish, and one as a juvenile fish. 
 If the player does not have three fish in their hand, they must place the bigger fish first (so they will have only one big and one medium fish, or one big fish). 
-Give each player an esky card to place below their fishing hole. 
-Remember that all fish placed in the esky throughout the game must maintain their orientation (big, medium, or juvenile).
+:::::
 
-![](/resources/images/esky.jpg){.image-card}
+<!-- ::::: {.g-col-12 .mx-5 style="flex-grow: 1;"} -->
+<!-- :::: {.grid .justify-contents-evenly .align-items-center} -->
+<!-- ::: g-col-2 -->
+<!-- ![](/resources/images/esky.jpg){.image-card width="50%"} -->
+<!-- ::: -->
 
-Chose the first player for the first round. 
-It could be the one to most recently have caught a fish. 
+<!-- ::: g-col-8 -->
+<!-- Give each player an esky card to place below their fishing hole. Remember that all fish placed in the esky throughout the game must maintain their orientation (big, medium, or juvenile). -->
 
-![](/resources/images/FirstPlayer.jpg){.image-card}
+<!-- Chose the first player for the first round. It could be the one to most recently have caught a fish. -->
+<!-- ::: -->
 
-## Gameplay
+<!-- ::: g-col-2 -->
+<!-- ![](/resources/images/FirstPlayer.jpg){.image-card width="60%"} -->
+<!-- ::: -->
+<!-- :::: -->
+<!-- ::::: -->
 
-During the round each player follows the steps on the turn order card.
+::::::
 
-![](/resources/images/turn order v2.JPG){.image-card}
+## Gameplay {#sec-gameplay}
+
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: g-col-8
+During the round each player follows these steps. The turn order card is available to help you keep track.
 
 1. Draw new cards equal to the number of large fish you have in your fishing hole, up to a maximum of 5 cards.
 These cards can be drawn from the face-up pile or the gameplay deck.
@@ -93,6 +108,12 @@ Check to see if you have any red wild cards with a dolphin in your fishing site 
 You can grow a fish to the next stage for every big fish present in your fishing site, i.e. if you have two big fish you may grow to smaller fish to their next stage.
 Fish can only grow by one stage in each turn (larval to juvenile, medium to large, etc), i.e. larval juvenile cannot become big fish in one round even if you have three big fish and can have three "growth steps".
 Check to see if you have any green wild cards with a starfish in your fishing hole (not in your hands) -- they allow you to grow more fish.
+:::
+
+::: g-col-4
+![](/resources/images/turn order v2.JPG){.image-card}
+:::
+::::
 
 4. If you like, catch ONE fish from your fishing site.
 Do this by placing it in your esky in the same orientation as you caught it.
@@ -107,8 +128,14 @@ Coloured cards are played (placed) into your fishing site to give you extra abil
 They are permanent and apply each round.
 Black wildcards give one-off effects and must be discarded once they are played.
 
-## Round end
+## Round end {#sec-round-end}
 
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: g-col-3
+![](/resources/images/FirstPlayer.jpg){.image-card}
+:::
+
+::: g-col-9
 After each player has had one turn, follow the round end steps to complete the round.
 
 1. Reveal the next round end event card and follow its directions.
@@ -121,11 +148,13 @@ This rarely needed, but helps maintain the balance of the game.
 
 4. Rotate the first player by passing the first player card clockwise.
 This ensures that the first player gets the choice of new face-up cards equally.
+:::
+::::
 
-![](/resources/images/FirstPlayer.jpg){.image-card}
+## Game end {#sec-game-end}
 
-## Game end
-
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: g-col-8
 The game ends randomly, once the flipped round end card is the "End of the game" card.
 This should happen after the end of 5 rounds or more.
 Now count your points.
@@ -139,8 +168,15 @@ This encourages to keep a healthy ecosystem.
 3. Each big fish remaining alive in your fishing site give you 2 points.
 Add these points to your total score.
 This encourages to keep a healthy ecosystem and large fish for the future.
-
-**The winner is the player with the most points!**
-
-![](resources/images/pretty-pics/sebastian-pena-lambarri-unsplash.jpg){width="100%" fig-align="center"}
 :::
+
+::: g-col-4
+![](/resources/images/cards/round-end-cards/end-game.jpg){.image-card}
+:::
+::::
+
+::: text-center
+### The winner is the player with the most points! {.text-center}
+:::
+
+:::::::
