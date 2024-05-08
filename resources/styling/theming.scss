@@ -17,13 +17,26 @@ $dark:          $gray-800 !default;
 
 $min-contrast-ratio:   1.9 !default;
 
-$primary:         #B7322E; // #362B4F;
-$primary-light:   #E79E9C; // #362B4F;
-$secondary:       #F09318;
-$secondary-light: #F7C078;
-$accent:          #1B839D;
-$accent-light:    #B1E5F2;
-$ghost:           #f9f8fe; // Ghost White
+$vermillion: #B7322E;
+$vermillion-light: #E79E9C;
+$gold: #F09318;
+$gold-light: #F7C078;
+$purple: #404363; // #362B4F;
+$purple-light: #8588B0;
+$blue: #60CDE8;
+$turquoise-light: #A7E2F1;
+
+$primary:         $purple;
+$primary-light:   $purple-light;
+$secondary:       $gold;
+$secondary-light: $gold-light;
+$accent:          $vermillion;
+$accent-light:    $vermillion-light;
+$ghost:           #f9f8fe; // off-White
+
+$theme-colors: (
+  "secondary-light": #dee2e6
+);
 
 //#9EB0BE; // Cadet grey: #
 //#b1cada; // Columbian blue: #
@@ -34,7 +47,7 @@ $body-color:          #120E1B;           // The page text color.
 
 //$headings-font-family: "Barlow", !default;
 //$headings-font-weight:        200 !default;
-$font-size-root: 1rem;
+$font-size-root: 1.1rem;
 $h4-font-size:   1.25rem;
 $h3-font-size:   1.75rem;
 $h2-font-size:   3rem;
@@ -332,13 +345,14 @@ main.content > section:first-of-type > .h2:first-child {
 /** Image containers for cards and their descriptions **/
 
 .image-card {
-    box-shadow: 10px 10px 5px var(--bs-gray-400);
-    width: 12.5vw;
+    box-shadow: 10px 10px 5px $gray-400;
+    width: 15vw;
+    min-width: 150px;
 }
 
 .how-to-play-block {
     position: relative;
-    border: 5px dashed var(--bs-secondary-color);
+    border: 5px dashed $secondary;
     border-radius: 1em;
     padding-block: 0.5em;
 }
