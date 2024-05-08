@@ -8,39 +8,17 @@ description-meta: |
    
 :::
 
+## Media & Events
+
 Lots of fun and useful things will be added here soon. 
 
-![](images/shark.jpg){width="50%" fig-align="center"} 
-![](images/seaweed_planting.jpg){width="50%" fig-align="center"} 
-![](images/kingfish.jpg){width="50%" fig-align="center"}
 
+### Resources and popular science
 
-## Wild cards
-
-***Blue Groper***
-
-Largest fish are important in maintaining natural ecosystem in balance. For example, only the largest fish and largest rock lobsters will eat the urchins, which are decimating Tasmanian and other kelp forests. Read [*this story in the ABC magazine*](https://hyperlink.here) to learn more.
-
-***Giant Kelp***
-
-Kelp is extremely important in providing habitats for all marine creatures.
-
-![](images/pike.jpg){width="80%" fig-align="center"}
-
-## Round end cards
-
-***Urchins arrive***
-
-## Training resources
-
-[**A short video explaining main rules of the game**\*](https://Youtubelink/)
-
-## Media and other popular science
-
-\[**Short video about Asta's Pew fellowship project and vision for healthy oceans**\]
+**Short video about Asta's Pew fellowship project and vision for healthy oceans**
 
 Story about the collaboration between Microsoft and Australian Government's Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - [Citizen scientists, AI and cloud bond to boost billabong health in the Top End](https://news.microsoft.com/en-au/features/citizen-scientists-ai-and-cloud-bond-to-boost-billabong-health-in-the-top-end/)
 
-## Science about the importance of large fish
+### Science about the importance of large fish
 
 A Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. [2022.]{style="color:black;"} *Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte*. [Sustainability 14 (21), 14324](https://www.mdpi.com/2071-1050/14/21/14324)
