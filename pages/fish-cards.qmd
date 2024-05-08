@@ -11,229 +11,315 @@ sidebar: fish-sidebar
 
 ## Fish cards
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .p-2}
-::: g-col-2
+<!-- This is the main fish grid -->
+:::::: {.grid .justify-contents-evenly .align-items-center .mx-5}
+<!-- Each fish has it's own sub-grid in the main grid -->
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/abalone.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Abalone {#sec-abalone}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/australian-red-cod.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Australian Red Cod {#sec-australian-red-cod}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/banded-morwong.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Banded Morwong {#sec-banded-morwong}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/bastard-trumpeter.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Bastard Trumpeter {#sec-bastard-trumpeter}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/blue-fin-tuna.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Blue Fin Tuna {#sec-blue-fin-tuna}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/blue-mackerel.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Blue Mackerel {#sec-blue-mackerel}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/abalone.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Bluethroat Wrasse {#sec-bluethroat-wrasse}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/brownstriped-leatherjacket.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Brownstriped Leatherjacket {#sec-brownstriped-leatherjacket}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/draughtboard-shark.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Draughtboard Shark {#sec-draughtboard-shark}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/flounder.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Flounder {#sec-flounder}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/herring-cale.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Herring Cale {#sec-herring-cale}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/longfin-pike.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Longfin Pike {#sec-longfin-pike}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/longsnout-boarfish.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Longsnout Boarfish {#sec-longsnout-boarfish}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/marblefish.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Marblefish {#sec-marblefish}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/purple-wrasse.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Purple Wrasse {#sec-purple-wrasse}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/red-rock-crab.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Red Rock Crab {#sec-red-rock-crab}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/sand-flathead.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Sand Flathead {#sec-sand-flathead}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/senator-wrasse.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Senator Wrasse {#sec-senator-wrasse}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/shaws-cowfish.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Shaws Cowfish {#sec-shaws-cowfish}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/southern-rock-lobster.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Southern Rock Lobster {#sec-southern-rock-lobster}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/toothbrush-leather-jacket.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Toothbrush Leather Jacket {#sec-toothbrush-leather-jacket}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
+::::
+:::::
 
-::: g-col-2
+::::: {.g-col-6 style="flex-grow: 1;"}
+:::: {.grid .align-items-center .p-2}
+::: {.g-col-4 style="flex-grow: 1;"}
 ![](/resources/images/cards/fish-cards/yellowtail-kingfish.jpg){.image-card .lightbox}
 :::
 
-::: g-col-4
+::: {.g-col-8 style="flex-grow: 1;"}
 ### Yellowtail Kingfish {#sec-yellowtail-kingfish}
 
-Learn more resources go here.
+'Learn more' resources go here.
 :::
 ::::
-
-
-
-
+:::::
+::::::
 
