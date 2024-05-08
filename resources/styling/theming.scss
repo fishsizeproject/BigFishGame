@@ -131,20 +131,20 @@ main.content > section:first-of-type > .h2:first-child {
 }
 
 .maintitle {
-  font-size: min(max(calc(7.5vw), 75px), 200px) !important;
+  font-size: min(max(calc(6vw), 60px), 125px) !important;
   text-align: center;
   color: $primary !important;
   padding: 0% 5% 0% 5%;
-  margin-top: 0.25em;
+  margin-top: 0.2em;
 }
 
 .newsubtitle {
-  font-size: min(max(calc(4.5vw), 45px), 75px) !important;
+  font-size: min(max(calc(3vw), 25px), 50px) !important;
   text-align: center;
   color: $primary !important;
   padding: 0%;
   line-height: 110%;
-  margin-top: 0.25em;
+  margin-top: 0.2em;
 }
 
 .pagetitle {

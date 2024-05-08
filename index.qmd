@@ -19,15 +19,15 @@ sidebar: false
 ## The sustainable fishing game {.newsubtitle}
 :::
 
-:::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.5em;"}
+:::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.25em; margin-bottom: 5%"}
 ::: g-col-6
-![](/resources/icons/children-solid.svg){width="30%"}
+![](/resources/icons/children-solid.svg){width="25%"}
 
 Suitable for ages 10+
 :::
 
 ::: g-col-6
-![](/resources/icons/users-solid.svg){width="30%"}
+![](/resources/icons/users-solid.svg){width="25%"}
 
 Best for groups of 2-5 players
 :::
@@ -35,97 +35,119 @@ Best for groups of 2-5 players
 :::::
 ::::::
 
-:::::: {.grid .justify-contents-evenly .align-items-center .column-screen-inset .mx-5}
-::::: {.g-col-12 .text-center}
-::: {.p style="font-size: 1.6em;"}
+::: {.column-page .spacer-2em .text-center style="font-size: 1.35em;"}
 The BigFish card game informs and engages everyone interested in fishing or marine conservation through fun play.
 
 The goal of the game is to collect the maximum number of points from catching fish, while also preserving a healthy ecosystem and fish size diversity for future catches.
 :::
 
-:::: {.grid .justify-contents-evenly .align-items-center .text-center style="background-color: #362B4F;"}
+::::: {.column-screen style="background-color: var(--bs-secondary-light);"}
+:::: {.grid .spacer-3em .justify-contents-evenly .align-items-center .text-center}
 ::: {.g-col-12 .py-2}
 <iframe width="700" height="390" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/nFu30n3d1dY?si=nKPmo70OC9PK7Wi7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 :::
 ::::
 :::::
-::::::
 
 ## Playing the game
-<!-- ## Game mechanics -->
-:::: {.grid .justify-contents-evenly .align-items-center .column-page}
-::: g-col
-![](/resources/images/esky.jpg)
+:::: {.grid .spacer-2em .justify-contents-evenly .align-items-center .column-page style="font-size: 1.2em;"}
+::: {.g-col-2}
+![](/resources/images/esky.jpg){width="75%"}
 :::
 
-::: g-col-11
+::: {.g-col-10}
 Big fish are worth more points than small fish, so players are tempted to catch them. But presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving fish for good fishing opportunities. 
 :::
 
-::: g-col
-![](/resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card}
+::: {.g-col-2 .g-start-2}
+![](/resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card width="75%"}
 :::
 
-::: g-col-11
+::: {.g-col-8}
 In addition to fishing, other natural and human induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification and others. 
 :::
 
-::: g-col
-![](/resources/images/BigFish-notext.jpg)
+::: {.g-col-2 .g-start-4}
+![](/resources/images/BigFish-notext.jpg){width="75%"}
 :::
 
-::: g-col-11
+::: {.g-col-6}
 These events create unpredictability and new challenges and inform us on how humans impact aquatic ecosystems.
+:::
+
+::: {.g-col-12 .text-center style="flex-grow: 1;"}
+[Read the Rules](pages/rules.qmd){.h3 .btn .btn-primary}
 :::
 ::::
 
+## Main messages {style="margin-top: 0.5em;"}
 <!-- ::::: g-col-4 -->
 <!-- ![](resources/images/pretty-pics/BandedMorwong.jpg) -->
 <!-- ::::: -->
-:::::: {.grid .justify-contents-evenly .align-items-center .column-screen-inset}
-::::: g-col-4
+:::::: {.grid .justify-contents-evenly .align-items-center .column-screen .spacer-2em}
+::::: g-col-5
 ![](resources/images/pretty-pics/sebastian-pena-lambarri-unsplash.jpg)
 :::::
 
-::::: g-col-8
-## Game messages {style="margin-top: 0.5em;"}
-
+::::: {.g-col-7 style="margin-left: 1.5em; margin-right: 2.5em"}
 This game aims to introduce three main messages that we care about:
 
-### Big fish are important
+### 1. Big fish are important
 
 They are important for population resilience, ecosystem balance and simply because they are beautiful.
 
-### Big fish are mostly all gone
+### 2. Big fish are mostly all gone
 
 Commercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers.
 
-### Big fish can return
+### 3. Big fish can return
 
 Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes.
+
+::: {.text-center}
+[Explore the Science](pages/special-cards.qmd){.h3 .btn .btn-primary}
+:::
 :::::
 ::::::
 
-:::::: {.grid .justify-contents-evenly .align-items-center .column-page}
-::::: g-col-6
-## Who we are
+:::::: {.grid .justify-contents-evenly .align-items-center .column-page .spacer-2em}
+::::: g-col-8
+## Who we are {style="margin-top: 0.5em;"}
 
-This game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design). Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.
-:::::
+This game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design). 
 
-::::: g-col-6
-## Contact us
+Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.
+
+::: text-center
+[About Us](pages/about.qmd){.h3 .btn .btn-secondary}
+:::
+
+### Contact us
 
 If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info@fishsizeproject.org](mailto:info@fishsizeproject.org).
 :::::
+
+::::: {.g-col-4 .text-center}
+![](resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot} 
+![](resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot}
+
+![](resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot}
+![](resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot}
+:::::
 ::::::
 
-::::: {.grid .justify-contents-evenly .align-items-center .column-page}
-:::: g-col-12
+::::: {.grid .justify-contents-evenly .align-items-center .column-page .text-center .spacer-2em}
+:::: {.g-col-12}
 ## Supporters
 
-This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to [Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte).
+This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to [Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte). 
+
+If you want to support this work, you can buy your very own copy of the BigFish card game!
+
+::: text-center
+[How to Buy](pages/how-to-buy.qmd){.h3 .btn .btn-secondary}
+:::
 ::::
 
 :::: g-col-12
