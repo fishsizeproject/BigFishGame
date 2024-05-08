@@ -10,10 +10,11 @@ website:
   site-url: https://bigfishcardgame.com/
   favicon: /resources/images/BigFish-notext.jpg
   page-navigation: false
+  back-to-top-navigation: true
   navbar:
     logo: /resources/images/BigFish-notext.jpg
     pinned: true
-    collapse: true
+    collapse: false
     left:
       - text: "Rules"
         href: pages/rules.qmd
@@ -52,30 +53,11 @@ website:
 
 # Different sidebars for different pages
   sidebar:
-  - id: rules-sidebar
+  - id: special-sidebar
     style: "docked"
-    contents:
-      - section: "How to play"
-        contents:
-        - text: "Setup"
-          href: pages/rules.qmd#sec-section
-        - text: "Gameplay"
-          href: pages/rules.qmd#sec-gameplay
-        - text: "Round end"
-          href: pages/rules.qmd#sec-round-end
-        - text: "Game end"
-          href: pages/rules.qmd#sec-game-end
-      - text: "-----"
-      - section: "Cards"
-        contents:
-        - text: "Wildcards"
-          href: pages/special-cards.qmd
-        - text: "Round-end cards"
-          href: pages/RoundEndCards.qmd
     type: dark
     border: false
-  - id: cards-sidebar
-    style: "docked"
+    pinned: true
     contents:
       - section: "Wildcards"
         contents:
@@ -137,10 +119,11 @@ website:
       - text: "-----"
       - text: " Game Setup & Rules"
         href: pages/rules.qmd
-    type: dark
-    border: false
   - id: fish-sidebar
     style: "docked"
+    type: dark
+    border: false
+    pinned: true
     contents:
       - text: "Abalone"
         href: pages/fish-cards.qmd#sec-abalone
@@ -186,8 +169,6 @@ website:
         href: pages/fish-cards.qmd#sec-toothbrush-leather-jacket
       - text: "Yellowtail Kingfish"
         href: pages/fish-cards.qmd#sec-yellowtail-kingfish
-    type: dark
-    border: false
 
 format:
   html:

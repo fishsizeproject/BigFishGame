@@ -173,6 +173,27 @@ main.content > section:first-of-type > .h2:first-child {
   margin-top: 0;
 }
 
+/*
+.sidebar .collapse {
+  // position: fixed;
+  // left: 50px;
+  top: 300px;
+  max-height: calc(-300px + 100vh);
+  color: $black;
+}
+
+.quarto-sidebar-toggle {
+  //border-color: #dee2e6;
+  //border-bottom-left-radius: .25rem;
+  //border-bottom-right-radius: .25rem;
+  border-style: none;
+  border-width: 0px;
+  overflow: visible;
+  //border-top-width: 0px;
+  //padding-top: 0px !important;
+}
+*/
+
 .btn {
   &-primary {
     background-color: $primary;
