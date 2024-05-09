@@ -10,7 +10,7 @@ website:
   site-url: https://bigfishcardgame.com/
   favicon: /resources/images/BigFish-notext.jpg
   page-navigation: false
-  back-to-top-navigation: true
+  back-to-top-navigation: false
   navbar:
     logo: /resources/images/BigFish-notext.jpg
     pinned: true

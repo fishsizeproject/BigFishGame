@@ -53,8 +53,8 @@ Choose a fish from the available face-up cards and either place it in your esky 
 
 #### Learn more
 
-::: .text-center
-Learn how to release fish safely in this video with Steve Starling:
+::: text-center
+<!-- Learn how to release fish safely in this video with Steve Starling -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVdo0PIxxnI?si=JTEXce3p0E7EYRtD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
@@ -62,14 +62,12 @@ Learn how to release fish safely in this video with Steve Starling:
 :::: {.grid .justify-contents-evenly .align-items-center}
 ::: g-col-8
 - ["Keep Fish Wet"](https://www.keepfishwet.org/) is a great organisation in the USA, working with anglers to increase survival in catch and release fishing. They have three main rules to ensure released fish have good chances to survive.
-
 - You can also learn about catch and release fishing from Australia's great angler organisation [OzFish](https://ozfish.org.au/junior-ozfishers/learn-about-catch-and-release/).
-
 - [Here is a great site](https://www.dpi.nsw.gov.au/fishing/recreational/fishing-skills/catch-and-release) with information on catch and release survival rates for different NSW fish species.
 :::
 
 ::: g-col-4
-![](/resources/images/ReleaseFish.jpg){width=90%}
+![](/resources/images/pretty-pics/ReleaseFish.jpg){fig-alt="Catch or release fish"}
 :::
 ::::
 
@@ -93,21 +91,17 @@ Choose a fish card currently in your hand and place it as a big fish into your f
 
 There are plenty of citizen science initiatives for everyone to get involved into. Here are some examples:
 
-[RedMap](https://www.redmap.org.au/)
+- [RedMap](https://www.redmap.org.au/)
+- [iNaturalist](https://www.inaturalist.org/)
+- [Oceanwatch Australia](https://www.oceanwatch.org.au/)
+- [Reef Life Survey](https://reeflifesurvey.com/)
+- [Tassie Fish Frame Collection Program](https://www.facebook.com/TassieFishFrameCollectionProgram)
 
-[iNaturalist](https://www.inaturalist.org/)
-
-[Oceanwatch Australia](https://www.oceanwatch.org.au/)
-
-[Reef Life Survey](https://reeflifesurvey.com/)
-
-[Tassie Fish Frame Collection Program](https://www.facebook.com/TassieFishFrameCollectionProgram)
-
-![Citizen scientist helping with underwater surveys in the Reef Life Survey program. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](/resources/images/fishResearch.jpg){width="70%" fig-align="center"} 
+![Citizen scientist helping with underwater surveys in the Reef Life Survey program. Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/)](/resources/images/pretty-pics/fishResearch.jpg){.lightbox width="65%"}
 
 ### Centre for Marine Socioecology (CMS) {#sec-cms}
 
-The [Centre for Marine Socioecology](https://marinesocioecology.org/) (CMS) provides, develops and integrates multidisciplinary research to better understand and manage Australia's oceans. They do this by connecting, cooperating and collaborating across multiple organisations and different research disciplines. Their members range from marine scientists to philosophers, artists, economists and more. Collaborative work across diverse disciplines is often hard to achieve but is extremely important when tackling complex sustainability challenges. The CMS card in Big Fish aims to highlight how working together produces broad and wide reaching benefits for everyone.
+The [Centre for Marine Socioecology (CMS)](https://marinesocioecology.org/) provides, develops and integrates multidisciplinary research to better understand and manage Australia's oceans. They do this by connecting, cooperating and collaborating across multiple organisations and different research disciplines. Their members range from marine scientists to philosophers, artists, economists and more. Collaborative work across diverse disciplines is often hard to achieve but is extremely important when tackling complex sustainability challenges. The CMS card in Big Fish aims to highlight how working together produces broad and wide reaching benefits for everyone.
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -125,13 +119,15 @@ Draw two cards from the face-down card pile and put them in your hand. Then choo
 
 Check out some of the amazing CMS initiatives, such as [Curious Climate Schools](https://curiousclimate.org.au/schools/), where all schools can join in to ask experts questions about climate change.
 
+![Research themes of the Centre for Marine Socioecology. Check out [their website](https://marinesocioecology.org/) to learn more about the initiatives that support these themes.](/resources/images/CMSthemes.png){width="75%" fig-align="center"}
+
 Check out also this [Future Seas 2030](https://futureseas2030.org/) initiative, where a large group of researchers aimed to envision two alternative ocean futures for 2030. We can have a Business as usual or Sustainable and collaborative future. Which one do we chose? Don't forget to watch this fun thriller [Full metal aquatic](https://futureseas2030.org/full-metal-aquatic-a-future-seas-thriller-recording-and-interactive-game/) on how the two futures might play out.
 
-Why do we need to collaborate? Read more about it [here](https://www.weforum.org/agenda/2021/06/4-views-on-why-scientific-collaboration-is-key-for-the-future/)
-
-![](/resources/images/CMSthemes.png){width="100%" fig-align="center"}
+Why do we need to collaborate? Read more about it [here](https://www.weforum.org/agenda/2021/06/4-views-on-why-scientific-collaboration-is-key-for-the-future/).
 
 ### Delicious bait {#sec-delicious-bait}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -141,15 +137,17 @@ Why do we need to collaborate? Read more about it [here](https://www.weforum.org
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Fishing kayak {#sec-fishing-kayak}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -159,15 +157,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Fishing rod {#sec-fishing-rod}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -177,13 +177,13 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Giant kelp {#sec-giant-kelp}
 
@@ -203,49 +203,29 @@ If you have a Giant Kelp card in your fishing spot you may grow two larval fish 
 
 #### Learn more
 
-Kelp is extremely important in providing habitats for all marine creatures.
+Check out these videos about giant kelp!
 
-[Guardian article](https://www.theguardian.com/australia-news/2022/mar/13/really-worth-a-crack-bringing-tasmanias-giant-kelp-forests-back-from-the-brink) about kelp forest loss and restoration.
-
-Watch these videos about giant kelp
-
-<html>
-
-<body>
-
-<p align="center">
-
+:::: {.grid .justify-contents-evenly .align-items-center .text-center}
+::: {.g-col-6  .p-1}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eg1J-9L4X_0?si=QJE8hVAOics5HuIa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-
 </iframe>
+:::
 
-</p>
-
-</body>
-
-</html>
-
-<html>
-
-<body>
-
-<p align="center">
-
+::: {.g-col-6 .p-1}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RpOxom39SUQ?si=L7SqV7tIp95U1QUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-
 </iframe>
+:::
+::::
 
-</p>
+Kelp is extremely important in providing habitats for all marine creatures, and there are currently many restoration efforts in progress. 
 
-</body>
+- Read this [Guardian article](https://www.theguardian.com/australia-news/2022/mar/13/really-worth-a-crack-bringing-tasmanias-giant-kelp-forests-back-from-the-brink) about kelp forest loss and restoration, 
 
-</html>
+- Learn about giant kelp restoration efforts by [IMAS](https://www.imas.utas.edu.au/news/news-items/restoring-tasmanias-giant-kelp-forests-the-focus-of-new-research-project), [OzFish](https://ozfish.org.au/projects/giant-kelp-restoration-project-tasmania/) and [The Nature Conservancy](https://www.natureaustralia.org.au/newsroom/giant-kelp-forest-restoration-partnership-announcement/)
 
-Learn about giant kelp restoration efforts by [IMAS](https://www.imas.utas.edu.au/news/news-items/restoring-tasmanias-giant-kelp-forests-the-focus-of-new-research-project), [OzFish](https://ozfish.org.au/projects/giant-kelp-restoration-project-tasmania/) and [The Nature Conservancy](https://www.natureaustralia.org.au/newsroom/giant-kelp-forest-restoration-partnership-announcement/)
+- Read a [scientific article](https://www.frontiersin.org/articles/10.3389/fmars.2020.00074/full#:~:text=Kelp%20forests%20dominate%20the%20rocky,communities%20of%20flora%20and%20fauna.) about reasons for kelp decline and restoration efforts. 
 
-Or read a [scientific article](https://www.frontiersin.org/articles/10.3389/fmars.2020.00074/full#:~:text=Kelp%20forests%20dominate%20the%20rocky,communities%20of%20flora%20and%20fauna.) about reasons for kelp decline and restoration efforts. 
-
-![Healthy giant kelp. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](/resources/images/KelpPhoto.jpg){width="70%" fig-align="center"}
+![Healthy giant kelp. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](/resources/images/pretty-pics/KelpPhoto.jpg){width="65%" fig-align="center"}
 
 ### Humpback whale {#sec-humpback-whale}
 
@@ -265,11 +245,9 @@ Discard a larval or juvenile fish from your fishing spot to grow a medium fish t
 
 #### Learn more
 
-A [scientific article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013255) explaining the benefits of the "whale pump".
-
-A [story](https://www.alaskawhalefoundation.org/post/the-whale-pump-investigating-humpback-whale-driven-nutrient-cycling-in-southeast-alaska) about the investigation of the whale nutrient pump. 
-
-A [popular article](https://www.rom.on.ca/en/collections-research/magazine/great-whales) about great whales, threats and actions that can be taken to prevent them (with a focus on Canada). 
+- A [scientific article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013255) explaining the benefits of the "whale pump".
+- A [story](https://www.alaskawhalefoundation.org/post/the-whale-pump-investigating-humpback-whale-driven-nutrient-cycling-in-southeast-alaska) about the investigation of the whale nutrient pump. 
+- A [popular article](https://www.rom.on.ca/en/collections-research/magazine/great-whales) about great whales, threats and actions that can be taken to prevent them (with a focus on Canada). 
 
 ### Illegal fishing {#sec-illegal-fishing}
 
@@ -289,11 +267,12 @@ Choose a player, they must choose two juvenile fish from their fishing spot and 
 
 #### Learn more
 
-[Fishwatch](https://fishing.tas.gov.au/community/fishwatch) allows you to report illegal fishing in Tasmania. 
-
-A [scientific article](https://figshare.utas.edu.au/articles/journal_contribution/The_intersection_between_illegal_fishing_crimes_at_sea_and_social_well-being/23007800) about illegal fishing (not recreational) and societal well-being. 
+- [Fishwatch](https://fishing.tas.gov.au/community/fishwatch) allows you to report illegal fishing in Tasmania. 
+- A [scientific article](https://figshare.utas.edu.au/articles/journal_contribution/The_intersection_between_illegal_fishing_crimes_at_sea_and_social_well-being/23007800) about illegal fishing (not recreational) and societal well-being. 
 
 ### Large shark {#sec-large-shark}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -303,15 +282,17 @@ A [scientific article](https://figshare.utas.edu.au/articles/journal_contributio
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Marine protected area {#sec-marine-protected-area}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -321,15 +302,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Poor water quality {#sec-poor-water-quality}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -339,15 +322,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### SCUBA equipment {#sec-scuba-equipment}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -357,15 +342,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Seaweed {#sec-seaweed}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -375,15 +362,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Severe weather {#sec-severe-weather}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -393,15 +382,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Shellfish reef {#sec-shellfish-reef}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -411,18 +402,20 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 
 ## Round end cards {#sec-round-end-cards}
 
 ### El Niño begins {#sec-el-nino-begins}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -432,15 +425,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Fisheries research occurs {#sec-fisheries-research}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -450,15 +445,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Localised species extinction {#sec-localised-species-extinction}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -468,15 +465,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Ocean acidification {#sec-ocean-acidification}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -486,15 +485,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Plankton swarm occurs {#sec-plankton-swarm}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -504,15 +505,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Seaweed planting occurs {#sec-seaweed-planting}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -522,15 +525,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Fisheries impose upper size limit {#sec-upper-size-limit}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -540,15 +545,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
 ### Long spined sea urchins arrive {#sec-urchins-arrive}
+
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -558,16 +565,17 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 
+### END OF GAME {#sec-end-game}
 
-### END GAME {#sec-end-game}
+*Quick intro*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -577,11 +585,11 @@ Learn more resources go here.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-How to play sentence goes here.
+*How to play sentence goes here.*
 :::
 ::::
 
 #### Learn more
 
-Learn more resources go here.
+*Learn more resources go here.*
 

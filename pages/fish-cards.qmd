@@ -11,6 +11,10 @@ sidebar: fish-sidebar
 
 ## Fish cards
 
+::: text-center
+*Quick intro, link to the wildcards and game rules pages.*
+:::
+
 <!-- This is the main fish grid -->
 :::::: {.grid .justify-contents-evenly .align-items-center .mx-5}
 <!-- Each fish has it's own sub-grid in the main grid -->

@@ -9,3 +9,68 @@ description-meta: |
 :::
 
 # About
+
+::: column-page
+This game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design). 
+
+Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.
+
+:::: {.grid .justify-contents-evenly .align-items-center .text-center .spacer-2em}
+::: g-col-3
+![](/resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot} 
+:::
+
+::: g-col-3
+![](/resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot} 
+:::
+
+::: g-col-3
+![](/resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot} 
+:::
+
+::: g-col-3
+![](/resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot} 
+:::
+::::
+
+## Contact us
+
+If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info@fishsizeproject.org](mailto:info@fishsizeproject.org).
+
+If you want to support this work, you can buy your very own copy of the BigFish card game!
+
+::: text-center
+[How to Buy](/pages/how-to-buy.qmd){.h3 .btn .btn-secondary}
+:::
+
+## Supporters
+
+This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to [Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte). 
+
+:::: {.grid .justify-contents-evenly .align-items-center .text-center .spacer-2em}
+::: g-col-2
+![](https://placehold.co/200x200)
+:::
+
+::: g-col-2
+![](https://placehold.co/200x200)
+:::
+
+::: g-col-2
+![](https://placehold.co/200x200)
+:::
+
+::: g-col-2
+![](https://placehold.co/200x200)
+:::
+
+::: g-col-2
+![](https://placehold.co/200x200)
+:::
+
+::: g-col-2
+![](https://placehold.co/200x200)
+:::
+::::
+
+:::
