@@ -52,7 +52,7 @@ Watch this short video where Matt Testoni explains how to play the game, or jump
 
 :::::: {.grid .justify-contents-evenly .align-items-center}
 ::::: {.g-col-4}
-![](/resources/images/setupPhoto.jpg)
+![](../resources/images/pretty-pics/setupPhoto.jpg)
 :::::
 
 ::::: {.g-col-8}
