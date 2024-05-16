@@ -247,7 +247,7 @@ Kelp is extremely important in providing habitats for all marine creatures, and 
 
 ### Humpback whale {#sec-humpback-whale}
 
-Whales such as the humpback whale or blue whale are key species in cycling nutrients in the ocean. Known as whale pumps, these animals help by feeding in the deep oceans and pooping out large quantities of nutrients in shallow waters. These nutrients are essential for smaller species such as phytoplankton to grow. Many whale populations have been decimated by whaling, but populations of humpback whales have recovered in the last decades. This wild card shows how a visiting whale can provide positive impacts on a local environment. While they may consume some krill or small fish for food they also supply vital nutrients that are required for a healthy marine habitat and good fishing. 
+Great whales such as the humpback whale and blue whale are key species in helping to cycle nutrients throughout the ocean. Known as whale pumps, these animals help by pooping out large quantities of nutrients that are essential for smaller species such as phytoplankton to grow. For example, whales feed in deep waters but breathe at the surface, so they bring the nutrients to the surface when they poop. 
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -257,14 +257,20 @@ Whales such as the humpback whale or blue whale are key species in cycling nutri
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-Discard a larval or juvenile fish from your fishing spot to grow a medium fish to a big fish. One grow per fish per turn still applies. Remember this card is discarded after use.
+Discard a larval or juvenile fish from your fishing spot to grow a medium fish to a big fish. 
+Remember this card is discarded after use. 
 :::
 ::::
+
+<!-- Take-home message -->
+This card is designed to showcase how a visiting large predator like a whale can provide positive impacts on a local environment. Whilst they may consume fish for food, they also supply vital nutrients that are required for a healthy marine habitat and fishing spot. This is why the card is discarded and why a smaller fish must be discarded to help a larger fish - while you may lose fish to whale feeding, you ultimately end up with more fish in the long run when whales are abundant in the ocean.
 
 #### Learn more
 
 - A [scientific article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013255) explaining the benefits of the "whale pump".
-- A [story](https://www.alaskawhalefoundation.org/post/the-whale-pump-investigating-humpback-whale-driven-nutrient-cycling-in-southeast-alaska) about the investigation of the whale nutrient pump. 
+- A [story](https://www.alaskawhalefoundation.org/post/the-whale-pump-investigating-humpback-whale-driven-nutrient-cycling-in-southeast-alaska) about the investigation of the whale nutrient pump
+<!-- https://au.whales.org/2022/05/23/pumps-and-conveyor-belts-how-could-more-whales-help-save-us/ -->
+- An article about how Australian whales 
 - A [popular article](https://www.rom.on.ca/en/collections-research/magazine/great-whales) about great whales, threats and actions that can be taken to prevent them (with a focus on Canada). 
 
 ### Illegal fishing {#sec-illegal-fishing}
