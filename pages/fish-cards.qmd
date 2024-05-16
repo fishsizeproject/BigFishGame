@@ -12,7 +12,7 @@ sidebar: fish-sidebar
 ## Fish cards
 
 ::: text-center
-*Quick intro, link to the wildcards and game rules pages.*
+*Quick intro, link to the [wildcards](../pages/special-cards.qmd) and [game rules](../pages/rules.qmd) pages.*
 :::
 
 <!-- This is the main fish grid -->
@@ -26,6 +26,8 @@ sidebar: fish-sidebar
 
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Abalone {#sec-abalone}
+
+*Grows to 23cm, usual depth 0-40m*
 
 Green-lip and Black-lip Abalone are found all around the south east of Australia and are common in Tasmania. Occasionally the two hybridise to create Jade Tiger Abalone. 
 :::
@@ -41,7 +43,9 @@ Green-lip and Black-lip Abalone are found all around the south east of Australia
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Australian Red Cod {#sec-australian-red-cod}
 
-Card text, or 'learn more' resources here?
+*Grows to 90cm, usual depth 2-115m*
+
+Usually found hiding under rocky ledges during the day, these fish are nocturnal hunters of fishes, crabs and crustaceans.
 :::
 ::::
 :::::
@@ -55,7 +59,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Banded Morwong {#sec-banded-morwong}
 
-'Learn more' resources go here.
+*Grows to 70cm, usual depth 1-50m*
+
+Banded Morwong can live to 100 years old.
 :::
 ::::
 :::::
@@ -69,7 +75,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Bastard Trumpeter {#sec-bastard-trumpeter}
 
-'Learn more' resources go here.
+*Grows to 65cm, usual depth 0-60m*
+
+As juveniles these fish inhabit shallow coastal reefs for the first few years of life. Currently in Tasmania, they are considered to be depleted, meaning their population is critically low.
 :::
 ::::
 :::::
@@ -83,7 +91,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Blue Fin Tuna {#sec-blue-fin-tuna}
 
-'Learn more' resources go here.
+*Grows to 2.2m, usual depth 0-500m*
+
+These fish are actually endotherms, meaning they can maintain a body temperature that is warmer than the surrounding water, just like mammals.
 :::
 ::::
 :::::
@@ -97,7 +107,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Blue Mackerel {#sec-blue-mackerel}
 
-'Learn more' resources go here.
+*Grows to 44 cm, usual depth 0-200m*
+
+As adults, these fish school in great numbers off the coast. However, when young they prefer the protection of inshore habitats.
 :::
 ::::
 :::::
@@ -111,7 +123,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Bluethroat Wrasse {#sec-bluethroat-wrasse}
 
-'Learn more' resources go here.
+*Grows to 50cm, usual depth 1-50m*
+
+These fish are all born as females and lack a characteristic blue throat. When no males are around, dominant females morph into a male by changing size, shape and colour.
 :::
 ::::
 :::::
@@ -125,7 +139,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Brownstriped Leatherjacket {#sec-brownstriped-leatherjacket}
 
-'Learn more' resources go here.
+*Grows to 30cm, usual depth 0-20m*
+
+Whilst uncommon around mainland Australia, this leatherjacket can be abundant on Tasmanian seaweed reefs.
 :::
 ::::
 :::::
@@ -139,7 +155,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Draughtboard Shark {#sec-draughtboard-shark}
 
-'Learn more' resources go here.
+*Grows to 1.5m, usual depth 3-60m*
+
+Draughtboard Sharks are benthic, meaning they spend most of their time on the seafloor.
 :::
 ::::
 :::::
@@ -153,7 +171,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Flounder {#sec-flounder}
 
-'Learn more' resources go here.
+*Grows to 45cm, usual depth 0-100m*
+
+Flounder are born with eye on either side of their head. When very young, one of these eyes migrates across the head so both eyes are on the same side. This is why flounder have such unusually amazing heads.
 :::
 ::::
 :::::
@@ -167,7 +187,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Herring Cale {#sec-herring-cale}
 
-'Learn more' resources go here.
+*Grows to 51cm, usual depth 0-30m*
+
+These fish love eating different brown seaweeds. Thus when eaten they have a strong seaweed flavour. The males and females have different colours and markings.
 :::
 ::::
 :::::
@@ -181,7 +203,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Longfin Pike {#sec-longfin-pike}
 
-'Learn more' resources go here.
+*Grows to 84cm, usual depth 0-60m*
+
+These fish are often found in large schools of over 100 hundred individuals. However, sometimes they prefer to be more solitary and may be found solo or in pairs.
 :::
 ::::
 :::::
@@ -195,7 +219,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Longsnout Boarfish {#sec-longsnout-boarfish}
 
-'Learn more' resources go here.
+*Grows to 50cm, usual depth 4-260m*
+
+Boarfish can often be found hanging out together in small groups under rocky ledges.
 :::
 ::::
 :::::
@@ -209,7 +235,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Marblefish {#sec-marblefish}
 
-'Learn more' resources go here.
+*Grows to 65cm, usual depth 0-40m*
+
+These fish are abundant in most Tasmanian seaweed reefs. However, they are known to taste highly unpleasant.
 :::
 ::::
 :::::
@@ -223,7 +251,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Purple Wrasse {#sec-purple-wrasse}
 
-'Learn more' resources go here.
+*Grows to 38cm, usual depth 1-90m*
+
+Purple wrasse have powerful jaws and strong teeth that allow them to crush and eat animals like barnacles, crabs and chitons.
 :::
 ::::
 :::::
@@ -237,7 +267,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Red Rock Crab {#sec-red-rock-crab}
 
-'Learn more' resources go here.
+*Grows to 7cm (carapace), usual depth 0-8m*
+
+These crabs have a very hard and tough shell. The shell is made of chitin and has a fine covering of felt in rows upon its legs.
 :::
 ::::
 :::::
@@ -251,7 +283,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Sand Flathead {#sec-sand-flathead}
 
-'Learn more' resources go here.
+*Grows to 46cm, usual depth 0-100m*
+
+The bigger a flathead, the more eggs it produces. In recent years their average size has been decreasing due in part to fishing pressure on large individuals.
 :::
 ::::
 :::::
@@ -265,7 +299,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Senator Wrasse {#sec-senator-wrasse}
 
-'Learn more' resources go here.
+*Grows to 23cm, usual depth 0-30m*
+
+The male of this species has a bright green body, while the female is orange in colour. These fish are curious about SCUBA divers and will often approach them.
 :::
 ::::
 :::::
@@ -279,7 +315,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Shaws Cowfish {#sec-shaws-cowfish}
 
-'Learn more' resources go here.
+*Grows to 20cm, usual depth 2-200cm*
+
+While pretty, these fish are highly poisonous and should never be eaten. Their poison can be released from their skin, and can poison aquariums.
 :::
 ::::
 :::::
@@ -293,7 +331,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Southern Rock Lobster {#sec-southern-rock-lobster}
 
-'Learn more' resources go here.
+*Grows to 23cm (carapace), usual depth 1-250m*
+
+These lobsters (also known as crayfish) often consume sea urchins, which helps protect important native kelp forests.
 :::
 ::::
 :::::
@@ -307,7 +347,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Toothbrush Leather Jacket {#sec-toothbrush-leather-jacket}
 
-'Learn more' resources go here.
+*Grows to 35cm, usual depth 0-40m*
+
+This species gets its name from the toothbrush-like bristles the males have on their sides. They can vary largely in colour, with males ranging from yellow to a dark blue-grey as shown above.
 :::
 ::::
 :::::
@@ -321,7 +363,9 @@ Card text, or 'learn more' resources here?
 ::: {.g-col-8 style="flex-grow: 1;"}
 ### Yellowtail Kingfish {#sec-yellowtail-kingfish}
 
-'Learn more' resources go here.
+*Grows to 2.5m, usual depth 1-150m*
+
+These fish are pelagic, which means they can be found out at sea. Individuals from certain regions can be heavily infected with parasitic worms. These worms can alter the flesh when cooked.
 :::
 ::::
 :::::
