@@ -439,7 +439,7 @@ Remember to discard after use.
 
 ### Shellfish reef {#sec-shellfish-reef}
 
-*Intro text*
+Shellfish reefs provide many important ecosystem services and improve the general health of marine environments. They are particularly good at providing the complex habitat that is important to the development of larval and juvenile fish. By providing places for the fish to hide and feed, they help increase the recruitment and survival of many fish species. They also benefit the ecosystem through processes like water filtering, overall increasing ecosystem health and thus fish stock levels.
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -449,14 +449,15 @@ Remember to discard after use.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+Place the shellfish reef into your fishing spot, and on the spawn phase of every subsequent turn you may take a fish from the face-up cards and place it in your fishing spot as a larval fish.
 :::
 ::::
 
 #### Learn more
 
-*Learn more*
-
+- [https://edis.ifas.ufl.edu/publication/FA250](This article) all about how oyster reefs impact fish populations
+- [https://researchonline.jcu.edu.au/63122/1/63122.pdf](Restoring shellfish reefs: Global guidelines for practitioners and scientists)
+- Check out these articles from the Nature Conservancy about [https://www.natureaustralia.org.au/what-we-do/our-priorities/oceans/ocean-stories/oyster-reef-habitat/](life on an oyster reef), and their projects [https://www.natureaustralia.org.au/what-we-do/our-priorities/oceans/ocean-stories/restoring-shellfish-reefs/](restoring shellfish reefs)
 
 ## Round end cards {#sec-round-end-cards}
 
