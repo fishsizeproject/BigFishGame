@@ -35,7 +35,13 @@ $accent-light:    $vermillion-light;
 $ghost:           #f9f8fe; // off-White
 
 $theme-colors: (
-  "secondary-light": #dee2e6
+  "primary":          $primary,
+  "primary-light":    $primary-light,
+  "secondary":        $secondary,
+  "secondary-light":  $secondary-light,
+  "accent":           $accent,
+  "accent-light":     $accent-light,
+  "ghost":            $ghost
 );
 
 //#9EB0BE; // Cadet grey: #

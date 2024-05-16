@@ -34,7 +34,7 @@ ol ::marker {
 /* To put a hero image on each page like on the lab website */
 
 .hero-img {
-    background-image: url(sea-large-edit.jpeg);
+    background-image: url(../images/pretty-pics/fish-school-waves-small.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -42,7 +42,7 @@ ol ::marker {
 
 .hero-strip-homepage {
   /* width: 100vw; */
-  height: calc(100vw/(1600*900)-75); /* enter dimensions of image */
+  height: calc(100vw/(4193*2359)-75); /* enter dimensions of image */
 }
 
 .hero-strip-page {

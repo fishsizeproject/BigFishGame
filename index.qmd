@@ -7,7 +7,7 @@ sidebar: false
 
 :::::: {.grid .justify-contents-evenly .align-items-center .column-screen .hero-img .hero-strip-homepage}
 ::::: {.g-col-6 .text-center}
-![](../resources/images/Bigfish-logo.png)
+![](../resources/images/Bigfish-logo.png){width="75%"}
 :::::
 
 ::::: {.g-col-6 style="margin-right: 5%;"}
@@ -41,14 +41,6 @@ The BigFish card game informs and engages everyone interested in fishing or mari
 The goal of the game is to collect the maximum number of points from catching fish, while also preserving a healthy ecosystem and fish size diversity for future catches.
 :::
 
-::::: {.column-screen style="background-color: var(--bs-secondary-light);"}
-:::: {.grid .spacer-3em .justify-contents-evenly .align-items-center .text-center}
-::: {.g-col-12 .py-2}
-<iframe width="700" height="390" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
-:::
-::::
-:::::
 
 ## Playing the game
 :::: {.grid .spacer-2em .justify-contents-evenly .align-items-center .column-page style="font-size: 1.2em;"}
@@ -57,7 +49,7 @@ The goal of the game is to collect the maximum number of points from catching fi
 :::
 
 ::: {.g-col-10}
-Big fish are worth more points than small fish, so players are tempted to catch them. But presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving fish for good fishing opportunities. 
+Big fish are worth more points than small fish, so players are tempted to catch them. But the presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving fish for good fishing opportunities. 
 :::
 
 ::: {.g-col-2 .g-start-2}
@@ -65,32 +57,40 @@ Big fish are worth more points than small fish, so players are tempted to catch 
 :::
 
 ::: {.g-col-8}
-In addition to fishing, other natural and human induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification and others. 
+In addition to fishing, other natural and human-induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification, and others. 
 :::
 
-::: {.g-col-2 .g-start-4}
-![](/resources/images/Bigfish-logo.png){width="95%"}
+::: {.g-col-2 .g-start-3}
+![](/resources/images/Bigfish-logo.png)
 :::
 
 ::: {.g-col-6}
 These events create unpredictability and new challenges and inform us on how humans impact aquatic ecosystems.
 :::
 
-::: {.g-col-12 .text-center style="flex-grow: 1;"}
+::: {.g-col-12 .text-center}
 [Read the Rules](pages/rules.qmd){.h3 .btn .btn-primary}
 :::
 ::::
 
-## Main messages {style="margin-top: 0.5em;"}
-<!-- ::::: g-col-4 -->
-<!-- ![](resources/images/pretty-pics/BandedMorwong.jpg) -->
+<!-- ::::: {.column-screen style="background-color: var(--bs-secondary-light);"} -->
+<!-- :::: {.grid .spacer-3em .justify-contents-evenly .align-items-center .text-center .my-5 .py-5} -->
+<!-- ::: {.g-col-6} -->
+<!-- <iframe width="700" height="390" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> -->
+<!-- </iframe> -->
+<!-- ::: -->
+<!-- :::: -->
 <!-- ::::: -->
-:::::: {.grid .justify-contents-evenly .align-items-center .column-screen .spacer-2em}
-::::: g-col-5
-![](resources/images/pretty-pics/sebastian-pena-lambarri-unsplash.jpg)
+
+::::::: {.column-screen  .spacer-2em}
+:::::: {.grid .justify-contents-evenly .align-items-center}
+::::: {.g-col-4}
+![](../resources/images/pretty-pics/RockyCape.jpg)
 :::::
 
-::::: {.g-col-7 style="margin-left: 1.5em; margin-right: 2.5em"}
+::::: {.g-col-8 style="margin-left: 1.5em; margin-right: 2.5em"}
+## Main messages {style="margin-top: 0.5em;"}
+
 This game aims to introduce three main messages that we care about:
 
 ### 1. Big fish are important
@@ -110,6 +110,7 @@ Fish grow relatively fast and we take the right measures, we can restore healthy
 :::
 :::::
 ::::::
+:::::::
 
 :::::: {.grid .justify-contents-evenly .align-items-center .column-page .spacer-2em}
 ::::: g-col-8

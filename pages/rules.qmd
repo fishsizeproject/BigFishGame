@@ -14,39 +14,42 @@ sidebar: false
 ::::::: column-page
 :::: {.grid .justify-contents-evenly .align-items-center .text-center}
 ::: {.g-col-3 style="flex-grow: 1;"}
-### [Setup](pages/rules.qmd#sec-setup) {.text-center}
+### [Setup](../pages/rules.qmd#sec-setup) {.text-center}
 
-[![](/resources/icons/children-solid.svg){width="50%"}](pages/rules.qmd#sec-setup)
+[![](/resources/icons/children-solid.svg){width="50%"}](../pages/rules.qmd#sec-setup)
 :::
 
 ::: {.g-col-3 style="flex-grow: 1;"}
-### [Gameplay](pages/rules.qmd#sec-gameplay) {.text-center}
+### [Gameplay](../pages/rules.qmd#sec-gameplay) {.text-center}
 
-[![](/resources/icons/children-solid.svg){width="50%"}](pages/rules.qmd#sec-gameplay)
+[![](/resources/icons/children-solid.svg){width="50%"}](../pages/rules.qmd#sec-gameplay)
 :::
 
 ::: {.g-col-3 style="flex-grow: 1;"}
-### [Round end](pages/rules.qmd#sec-round-end) {.text-center}
+### [Round end](../pages/rules.qmd#sec-round-end) {.text-center}
 
-[![](/resources/icons/children-solid.svg){width="50%"}](pages/rules.qmd#sec-round-end)
+[![](/resources/icons/children-solid.svg){width="50%"}](../pages/rules.qmd#sec-round-end)
 :::
 
 ::: {.g-col-3 style="flex-grow: 1;"}
-### [Game end](pages/rules.qmd#sec-game-end) {.text-center}
+### [Game end](../pages/rules.qmd#sec-game-end) {.text-center}
 
-[![](/resources/icons/children-solid.svg){width="50%"}](pages/rules.qmd#sec-game-end)
+[![](/resources/icons/children-solid.svg){width="50%"}](../pages/rules.qmd#sec-game-end)
 :::
+::::
 
+::::: {.column-screen style="background-color: var(--bs-primary-light);"}
+:::: {.grid .justify-contents-evenly .align-items-center .text-center}
 ::: {.g-col-8 .my-3}
 <iframe width="700" height="390" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 :::
 
-::: {.g-col-4 style="flex-grow: 1; font-size: 1.25em; margin-right: 2em;"}
-Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more.
+::: {.g-col-4 style="flex-grow: 1; font-size: 1.25em; margin-right: 2em; colour: var(--bs-secondary)"}
+Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section to read more.
 :::
-
 ::::
+:::::
 
 ## Setup {#sec-setup}
 
