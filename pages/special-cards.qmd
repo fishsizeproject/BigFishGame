@@ -203,7 +203,9 @@ Remember this card is discarded after use.
 
 ### Giant kelp {#sec-giant-kelp}
 
-Kelp provides a huge, complex, and food filled habitat. It is essential for healthy oceans and healthy fish populations and it also serves as an important refuge for marine organisms. However, giant kelp around Australia has declined drastically over the last decades, with nearly 95% of kelp around Tasmania lost. This is mostly due to climate change and invasion of long-spined sea urchins, who eat a lot of kelp and create urchin barrens. Loss of natural urchin predators, such as large rock lobsters and other large predatory fish, is one of the reasons for kelp decline, and kelp forests often survive better in no-take marine protected areas with abundant urchin predators. This huge loss of natural underwater "forests" remains largely unknown by the general public. Many scientists and organisations are working to restore these kelp forests and we all can play a role by protecting rock lobsters and aiming to restore the abundance of large lobsters and other large fish.
+Giant Kelp provides a huge, complex, and food-filled habitat which is essential for healthy oceans and healthy fish populations. Giant kelp forests produce much greater amounts of food for particularly important species of fish and invertebrate than other types of kelp forest, and those species feed back into the larger marine ecosystem. 
+
+However, giant kelp forests around Australia have been declining drastically for decades, mostly due to climate change. This is a huge loss of natural underwater “forests” that remains unknown by the general public. Many scientists and organisations are working to restore these kelp forests. 
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -213,9 +215,11 @@ Kelp provides a huge, complex, and food filled habitat. It is essential for heal
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-If you have a Giant Kelp card in your fishing spot you may grow two larval fish into juvenile fish each turn. The rule of one grow increment per fish per turn still applies.
+If you have a Giant Kelp card in your fishing spot you may grow two larval fish into juvenile fish each turn. The rule of one grow per fish per turn still applies. 
 :::
 ::::
+
+This card shows how much energy and habitat a patch of giant kelp can provide to the fish in a fishing spot. This card is also present in the game to draw attention to giant kelp decline and restoration efforts in Tasmania.
 
 #### Learn more
 
@@ -236,12 +240,10 @@ Check out these videos about giant kelp!
 Kelp is extremely important in providing habitats for all marine creatures, and there are currently many restoration efforts in progress. 
 
 - Read this [Guardian article](https://www.theguardian.com/australia-news/2022/mar/13/really-worth-a-crack-bringing-tasmanias-giant-kelp-forests-back-from-the-brink) about kelp forest loss and restoration, 
-
 - Learn about giant kelp restoration efforts by [IMAS](https://www.imas.utas.edu.au/news/news-items/restoring-tasmanias-giant-kelp-forests-the-focus-of-new-research-project), [OzFish](https://ozfish.org.au/projects/giant-kelp-restoration-project-tasmania/) and [The Nature Conservancy](https://www.natureaustralia.org.au/newsroom/giant-kelp-forest-restoration-partnership-announcement/)
-
 - Read a [scientific article](https://www.frontiersin.org/articles/10.3389/fmars.2020.00074/full#:~:text=Kelp%20forests%20dominate%20the%20rocky,communities%20of%20flora%20and%20fauna.) about reasons for kelp decline and restoration efforts. 
 
-![Healthy giant kelp. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](/resources/images/pretty-pics/KelpPhoto.jpg){width="65%" fig-align="center"}
+![A healthy giant kelp forest. Photo credit: Rick Stuart-Smith, reeflifesurvey.com](/resources/images/pretty-pics/KelpPhoto.jpg){width="65%" fig-align="center"}
 
 ### Humpback whale {#sec-humpback-whale}
 
