@@ -16,8 +16,7 @@ sidebar: special-sidebar
 
 ### Blue Groper {#sec-blue-groper}
 
-<!-- Directly from the card text -->
-Big fish like the Blue Groper love to eat sea urchins. They are a great example of how the presence of big fish can help reduce sea urchin impacts in marine ecosystems.
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -143,7 +142,7 @@ Remember this card is discarded after use.
 
 ### Delicious bait {#sec-delicious-bait}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -153,17 +152,17 @@ Remember this card is discarded after use.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### Fishing kayak {#sec-fishing-kayak}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -173,17 +172,17 @@ Remember this card is discarded after use.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### Fishing rod {#sec-fishing-rod}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -193,13 +192,13 @@ Remember this card is discarded after use.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### Giant kelp {#sec-giant-kelp}
 
@@ -354,7 +353,7 @@ both investigate the benefits of MPAs for the environment and local communities
 
 ### Poor water quality {#sec-poor-water-quality}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -364,17 +363,17 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### SCUBA equipment {#sec-scuba-equipment}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -384,17 +383,17 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### Seaweed {#sec-seaweed}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -404,17 +403,17 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### Severe weather {#sec-severe-weather}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -424,17 +423,17 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### Shellfish reef {#sec-shellfish-reef}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -444,20 +443,20 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 
 ## Round end cards {#sec-round-end-cards}
 
 ### El Niño begins {#sec-el-nino-begins}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -467,17 +466,17 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### Fisheries research occurs {#sec-fisheries-research}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -487,17 +486,17 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### Localised species extinction {#sec-localised-species-extinction}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -507,17 +506,17 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### Ocean acidification {#sec-ocean-acidification}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -527,17 +526,17 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### Plankton swarm occurs {#sec-plankton-swarm}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -547,17 +546,17 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### Seaweed planting occurs {#sec-seaweed-planting}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -567,17 +566,17 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### Fisheries impose upper size limit {#sec-upper-size-limit}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -587,17 +586,17 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### Long spined sea urchins arrive {#sec-urchins-arrive}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -607,17 +606,17 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
 ### END OF GAME {#sec-end-game}
 
-*Quick intro*
+*Intro text*
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -627,11 +626,11 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+*How to play*
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+*Learn more*
 
