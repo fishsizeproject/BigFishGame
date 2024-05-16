@@ -463,7 +463,7 @@ Place the shellfish reef into your fishing spot, and on the spawn phase of every
 
 ### El Niño begins {#sec-el-nino-begins}
 
-*Intro text*
+When an El Niño is present on the south east coast of Australia more heatwaves, strong swells and storms affect the ocean. Increases in sea surface temperature can also occur. This can mean smaller individuals of a species are less likely to be able to survive these events. Species such as [Abalone](fish-cards.qmd#sec-abalone) have also been observed as having decreased reproductive ability as heatwaves and severe weather cause physiological stress. There is also evidence that fish move away from certain coastal areas, meaning fishing ability is potentially changed in El Niño years. 
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -473,13 +473,16 @@ Place the shellfish reef into your fishing spot, and on the spawn phase of every
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+This card is revealed at the end of the round. When revealed, each player must discard a medium or juvenile fish from their habitat. 
 :::
 ::::
 
 #### Learn more
 
-*Learn more*
+- See [https://cosmosmagazine.com/earth/enso-iod-weather-patterns-explainer/#:~:text=In%20other%20years%2C%20the%20trade,and%20bushfires%20to%20eastern%20Australia](this Cosmos article) for an explanation of El Niño and La Niña climate patterns
+- The [https://wildlife.ca.gov/Conservation/Marine/El-Nino#26072342-how-does-el-nio-affect-sea-life-and-birds](California Department of Fish & Wilflife) has some great information on howEl Niño affect natural wildlife populations
+- See [https://climateextremes.org.au/what-is-el-ninos-impact-on-australias-weather-and-climate/#:~:text=During%20El%20Ni%C3%B1o%20the%20easterly,adapted%20from%20Bureau%20of%20Meteorology](this ARC site) for an explanation of how El Niño affects Australia's weather
+- Increases in marine heatwaves due to El Niño conditions have also affected [https://www.sciencedirect.com/science/article/pii/S1095643322000885#:~:text=Acute%20increases%20in%20temperature%20associated,precarious%20conditions%20for%20these%20animals](abalone) and [https://www.frontiersin.org/articles/10.3389/fmars.2019.00484/full](other important invertebrates) in Australia
 
 ### Fisheries research occurs {#sec-fisheries-research}
 
