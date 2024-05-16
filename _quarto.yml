@@ -8,11 +8,11 @@ website:
   title: "BigFish"
   repo-url: https://github.com/fishsizeproject/BigFishGame
   site-url: https://bigfishcardgame.com/
-  favicon: /resources/images/BigFish-notext.jpg
+  favicon: /resources/images/Bigfish-logo.png
   page-navigation: false
   back-to-top-navigation: false
   navbar:
-    logo: /resources/images/BigFish-notext.jpg
+    logo: /resources/images/Bigfish-logo.png
     pinned: true
     collapse: false
     left:
@@ -41,12 +41,11 @@ website:
       Battery Point TAS 7000<br>
       Australia<br>
     right: |
-      <i>We acknowledge the traditional owners of the land on which we live and work.<br>
-      Sovereignty was never ceded </i><img src="/resources/styling/Australian_Aboriginal_Flag.png" class="img-fluid" style="height: 1em;"> <br><br><br>
+      <i>We acknowledge the traditional owners of the land on which we live and work. Sovereignty was never ceded </i><img src="/resources/styling/Australian_Aboriginal_Flag.png" class="img-fluid" style="height: 1em;"> <br><br><br>
       © BigFish Card Game, 2024<br>
       Website created by [Tormey Reimer](https://drtreimer.com)
     center: |
-      [<img src="/resources/images/BigFish-notext.jpg" class="img-fluid" style="width: 10vw;">](/index.qmd)
+      [<img src="/resources/images/Bigfish-logo.png" class="img-fluid" style="width: 8.5vw;">](/index.qmd)
     border: false
     background: primary
     foreground: light
@@ -172,7 +171,7 @@ website:
 
 format:
   html:
-    logo: /resources/images/BigFish-notext.jpg
+    logo: /resources/images/Bigfish-logo.png
     theme: [lux, resources/styling/theming.scss]
     css: /resources/styling/styles.css
     toc: false

@@ -7,7 +7,7 @@ sidebar: false
 
 :::::: {.grid .justify-contents-evenly .align-items-center .column-screen .hero-img .hero-strip-homepage}
 ::::: {.g-col-6 .text-center}
-![](/resources/images/BigFish-notext.jpg)
+![](../resources/images/Bigfish-logo.png)
 :::::
 
 ::::: {.g-col-6 style="margin-right: 5%;"}
@@ -69,7 +69,7 @@ In addition to fishing, other natural and human induced events occur throughout 
 :::
 
 ::: {.g-col-2 .g-start-4}
-![](/resources/images/BigFish-notext.jpg){width="75%"}
+![](/resources/images/Bigfish-logo.png){width="95%"}
 :::
 
 ::: {.g-col-6}
