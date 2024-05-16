@@ -610,7 +610,7 @@ Each player must grow a larval fish into a juvenile fish.
 
 ### Fisheries impose upper size limit {#sec-upper-size-limit}
 
-*Intro text*
+Large, old fish often produce disproportionately large numbers of offspring compared to fish of smaller sizes. Larger fish therefore contribute more to the next generation of fish which can be harvested. Protecting large ‘mega-spawners’ results in a greater yield of future fish. A 80 cm snapper produces ~24 times the offspring of a 40 cm snapper (but they both taste just as good!) and releasing the larger fish means more fish next year. In addition to producing disproportionately more young, large fish also connect different populations of fish – ensuring a rich and diverse gene-pool for tackling disease outbreaks and adapting to new conditions. Not all fish are made equal – big fish are more important to fish conservation into the future.
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -620,13 +620,22 @@ Each player must grow a larval fish into a juvenile fish.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+Each player must spawn a larval fish into their fishing spot.
 :::
 ::::
 
 #### Learn more
 
-*Learn more*
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: {.g-col-6}
+- Learn why big snapper produce more offspring [here](https://www.pewtrusts.org/en/research-and-analysis/fact-sheets/2011/04/17/the-plan-to-save-red-snapper)
+- Learn about the plan to [Save the Red Snapper](https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2016/older-bigger-red-snapper-have-more-offspring-and-boost-species-recovery)
+:::
+
+::: {.g-col-6}
+![Photo of a fisherman with fish of different sizes. Photo: A.R. Coghlan.](../resources/images/Upper size limit.JPG)
+:::
+::::
 
 ### Long spined sea urchins arrive {#sec-urchins-arrive}
 
