@@ -37,7 +37,7 @@ Place into your fishing spot to prevent the effects of [Urchins](special-cards.q
 
 ### Catch or release {#sec-catch-or-release}
 
-Releasing caught fish, either because they are unwanted or for ocean health (i.e. releasing large breeding females) can reduce the impact of recreational fishing on fish stocks, thus leaving more fish for the future in a healthy ocean. Survival rates of fish featured in the game (such as [Yellowtail Kingfish](pages/fish-cards.qmd#sec-yellowtail-kingfish)) can be above 85% when released correctly, while flathead survival rates can be about 95%. 
+Releasing caught fish, either because they are unwanted or for ocean health (i.e. releasing large breeding females) can reduce the impact of recreational fishing on fish stocks, thus leaving more fish for the future in a healthy ocean. Survival rates of fish featured in the game (such as [Yellowtail Kingfish](fish-cards.qmd#sec-yellowtail-kingfish)) can be above 85% when released correctly, while flathead survival rates can be about 95%. 
 
 Releasing caught fish can greatly help fish populations. If minimum or maximum size limits are in place, fish too small or too large must be safely released. Anglers also often chose to release unwanted fish or fish that are especially valuable for the ocean and fish populations, such as predatory or large fish. In fact, all fish are valuable in the sea! All fish that will not be consumed should be released back into the ocean safely. When released correctly, survival rates are very high - often over 90%. 
 
