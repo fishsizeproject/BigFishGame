@@ -484,7 +484,9 @@ This card is revealed at the end of the round. When revealed, each player must d
 
 ### Fisheries research occurs {#sec-fisheries-research}
 
-*Intro text*
+Fisheries have collapsed in the past, and species have been overcaught to the verge of extinction. This can come as a surprise – there may still be fish being caught, and the fish may appear to be plentiful. In reality we are just getting better at catching them, or the remaining population can reach a critical point beyond which recovery is challenging without intervention. For instance, if most of the breeding population has been fished and the remaining population is being fished too fast, then the individuals left don’t have a chance to reproduce. 
+
+This is more likely with fish that mature at an old age, such as orange roughy that need to survive 27-32 years before they can reproduce. In the 1980s and 1990s orange roughy were being harvested by fisheries so fast that the fishery collapsed (it was no longer economically viable to harvest these fish as too few were being caught each trip). Without baseline information on how a population is structured in terms of age, size and genetics, we are unable to determine how the population is responding to harvesting by people. With this information however, managers can intervene to save a species and ensure sustainable harvesting into the future.
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -494,13 +496,22 @@ This card is revealed at the end of the round. When revealed, each player must d
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+Draw a face-down card. If it is a fish card, release it into your fishing spot as a medium sized fish. 
 :::
 ::::
 
 #### Learn more
 
-*Learn more*
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: {.g-col-6}
+- Learn why orange roughy is so vulnerable to overfishing [here](https://www.pmcsa.ac.nz/2021/02/21/orange-roughy-stock-health/)
+- Information on current orange roughy monitoring can be found [here](https://www.csiro.au/en/research/animals/fisheries/monitoring-orange-roughy) and [this article](https://www.abc.net.au/news/rural/2018-08-14/orange-roughy-returns-for-fishing-in-tasmania/10113938) shows how the species is now beginning to come back in Tasmania
+:::
+
+::: {.g-col-6}
+![Image of a diver being handed a stereo-video system. The diver will swim transects, and all fish observed will be counted and measured to get baseline information on species abundance and body size. Photo credit: A.R. Coghlan.](/resources/images/Fisheries research - diver operated video.jpg)
+:::
+::::
 
 ### Localised species extinction {#sec-localised-species-extinction}
 
