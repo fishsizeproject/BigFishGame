@@ -80,7 +80,9 @@ This card shows the importance of releasing fish back into the water when caught
 
 ### Citizen science {#sec-citizen-science}
 
-In the last decade, science and data collection have undergone a true revolution through what is called as citizen science. Collecting enough data or conducting large analyses is important in order to get more accurate information and knowledge. However, collecting large amounts of data can be difficult, time consuming and expensive. By creating ways for everyone to get involved and have input into a science project, the knowledge gained and the positive outcomes from research can be greatly amplified and shared with the wider community.
+The collection of data is key to many animal and marine life studies. Conducting large analyses is important to get more accurate information and knowledge, but collecting large amounts of data can be difficult, time consuming and expensive. In the last decade, science and data collection have undergone a true revolution through citizen science. By creating ways for everyone to get involved and have input into a science project, the knowledge gained and the positive outcomes from research can be greatly amplified and shared with the wider community. 
+
+The citizen science project [REDMap](https://www.redmap.org.au/) featured on the card stands for Range Extending Database. The research from REDMAP involves the collection of marine animal observations from all over Australia and examines how animals are extending their ranges due to warming oceans and changing climates. 
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -90,19 +92,23 @@ In the last decade, science and data collection have undergone a true revolution
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-Choose a fish card currently in your hand and place it as a big fish into your fishing spot. Remember this card is discarded after use.
+Choose a fish card currently in your hand and place it as a big fish into your fishing spot. 
+Remember this card is discarded after use. 
 :::
 ::::
 
+<!-- Take-home message -->
+By getting everyone involved in a science project the science is often more rigorous, accurate and concise and thus can produce better outcomes. 
+
 #### Learn more
 
-There are plenty of citizen science initiatives for everyone to get involved into. Here are some examples:
-
-- [RedMap](https://www.redmap.org.au/)
+- [Check out this article](https://www.unep.org/news-and-stories/story/citizen-scientists-dive-ocean-conservation) from UNEP on the benefits and rise of citizen science. There are plenty of citizen science initiatives that everyone can get involved in. Here are some examples:
+- [REDMap](https://www.redmap.org.au/)
 - [iNaturalist](https://www.inaturalist.org/)
 - [Oceanwatch Australia](https://www.oceanwatch.org.au/)
 - [Reef Life Survey](https://reeflifesurvey.com/)
 - [Tassie Fish Frame Collection Program](https://www.facebook.com/TassieFishFrameCollectionProgram)
+- Citizen science projects at [IMAS](https://www.imas.utas.edu.au/community/citizen-science) in Tasmania, Australia
 
 ![Citizen scientist helping with underwater surveys in the Reef Life Survey program. Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/)](/resources/images/pretty-pics/fishResearch.jpg){.lightbox width="65%"}
 
