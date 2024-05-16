@@ -32,7 +32,7 @@ Place into your fishing spot to prevent the effects of [Urchins](special-cards.q
 
 #### Learn more
 
-'Learn more' resources here.
+*Learn more*
 
 ### Catch or release {#sec-catch-or-release}
 
@@ -268,9 +268,7 @@ This card is designed to showcase how a visiting large predator like a whale can
 
 - A [scientific article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013255) explaining the benefits of the "whale pump".
 - A [story](https://www.alaskawhalefoundation.org/post/the-whale-pump-investigating-humpback-whale-driven-nutrient-cycling-in-southeast-alaska) about the investigation of the whale nutrient pump
-<!-- https://au.whales.org/2022/05/23/pumps-and-conveyor-belts-how-could-more-whales-help-save-us/ -->
-- An article about how Australian whales 
-- A [popular article](https://www.rom.on.ca/en/collections-research/magazine/great-whales) about great whales, threats and actions that can be taken to prevent them (with a focus on Canada). 
+- A [popular article](https://www.rom.on.ca/en/collections-research/magazine/great-whales) about great whales, threats and actions that can be taken to prevent them (with a focus on Canada)
 
 ### Illegal fishing {#sec-illegal-fishing}
 
@@ -318,9 +316,9 @@ Place the wildcard into your fishing spot to grow a juvenile fish into a medium 
 
 Sharks contribute so much more to ecosystems than many people realise. Check out these resources to learn more.
 
-- [https://australian.museum/publications/sharks/why-oceans-need-sharks/#:~:text=Sharks%20and%20healthy%20ecosystems,continue%20down%20the%20food%20chain]("Why oceans need sharks"), an article by the Australian Museum
-- Oceans Research News asks [https://www.oceans-research.com/why-do-we-need-sharks-for-our-ecosystem/]("Why do We Need Sharks for Our Ecosystem?")
-- [https://europe.oceana.org/importance-sharks-0/](The Importance of Sharks) from [Oceana](https://europe.oceana.org/)
+- ["Why oceans need sharks"](https://australian.museum/publications/sharks/why-oceans-need-sharks/#:~:text=Sharks%20and%20healthy%20ecosystems,continue%20down%20the%20food%20chain), an article by the Australian Museum
+- Oceans Research News answers the question: ["Why do We Need Sharks for Our Ecosystem?"](https://www.oceans-research.com/why-do-we-need-sharks-for-our-ecosystem/)
+- [The Importance of Sharks](https://europe.oceana.org/importance-sharks-0/) from [Oceana](https://europe.oceana.org/)
 
 ### Marine protected area {#sec-marine-protected-area}
 
@@ -344,11 +342,11 @@ This card is used during the draw phase of your turn. Before drawing any cards h
 
 #### Learn more
 
-- [https://www.dcceew.gov.au/sites/default/files/documents/benefits-mpas.pdf](This report) from Australian Department of Climate Change, Energy, the Environment and Water details the many benefits of Marine Protected Areas
-- [https://education.nationalgeographic.org/resource/importance-marine-protected-areas/](The Importance of Marine Protected Areas (MPAs)), an article by National Geographic
-- [https://www.americanprogress.org/article/marine-protected-areas-help-fisheries-ocean-ecosystems/](How Marine Protected Areas Help Fisheries and Ocean Ecosystems)
-- [https://pacificwild.org/5-benefits-of-mpas/](5 Benefits of Marine Protected Areas (MPAs))
-- [https://www.nature.com/articles/s41893-023-01150-4](This Nature article) and - [https://www.frontiersin.org/articles/10.3389/fmars.2021.613819/full](this Frontiers in Marine Science article)
+- [This report](https://www.dcceew.gov.au/sites/default/files/documents/benefits-mpas.pdf) from Australian Department of Climate Change, Energy, the Environment and Water details the many benefits of Marine Protected Areas
+- [The Importance of Marine Protected Areas (MPAs)](https://education.nationalgeographic.org/resource/importance-marine-protected-areas/), an article by National Geographic
+- [How Marine Protected Areas Help Fisheries and Ocean Ecosystems](https://www.americanprogress.org/article/marine-protected-areas-help-fisheries-ocean-ecosystems/)
+- [5 Benefits of Marine Protected Areas (MPAs)](https://pacificwild.org/5-benefits-of-mpas/)
+- [This Nature article](https://www.nature.com/articles/s41893-023-01150-4) and - [this Frontiers in Marine Science article](https://www.frontiersin.org/articles/10.3389/fmars.2021.613819/full)
 both investigate the benefits of MPAs for the environment and local communities
 
 ### Poor water quality {#sec-poor-water-quality}
@@ -369,8 +367,8 @@ When played, each player must discard a seaweed reef (or seagrass bed, featured 
 
 #### Learn more
 
-- [https://www.reefplan.qld.gov.au/__data/assets/pdf_file/0020/46172/scsu-chapter-1-marine-impacts.pdf](This scenientific consensus statement) from 2013 outlines many of the major sources and impacts of poor water quality on the Great Barrier Reef
-- Check out [https://www.epa.gov/nutrientpollution/effects-dead-zones-and-harmful-algal-blooms](this EPA article) about the effects of Dead Zones and Harmful Algal Blooms 
+- [This scientific consensus statement](https://www.reefplan.qld.gov.au/__data/assets/pdf_file/0020/46172/scsu-chapter-1-marine-impacts.pdf) from 2013 outlines many of the major sources and impacts of poor water quality on the Great Barrier Reef
+- Check out [this EPA article](https://www.epa.gov/nutrientpollution/effects-dead-zones-and-harmful-algal-blooms) about the effects of Dead Zones and Harmful Algal Blooms 
 
 ### SCUBA equipment {#sec-scuba-equipment}
 
@@ -410,10 +408,10 @@ Having a seaweed wild card in your fishing spot allows you to grow an additional
 
 #### Learn more
 
-- Check out [https://www.unsw.edu.au/newsroom/news/2023/02/a-million-hectares-of-kelp-forests-need-planting-by-2040--and-sc](this article) about recent seaweed restoration efforts by UNSW
-- The [https://greatsouthernreef.com/restoration](Great Sourthern Reef) restoration project
-- [https://sea-trees.org/pages/sydney-kelp-forest](Sea Trees) is a non-profit which funds coastal conservation projects, including seaweed restoration
-- [https://www.mossy.earth/projects/kelp-nursery](Scaling up Kelp Forest Restoration) in Portugal
+- Check out [this article](https://www.unsw.edu.au/newsroom/news/2023/02/a-million-hectares-of-kelp-forests-need-planting-by-2040--and-sc) about recent seaweed restoration efforts by UNSW
+- The [Great Sourthern Reef](https://greatsouthernreef.com/restoration) restoration project
+- [Sea Trees](https://sea-trees.org/pages/sydney-kelp-forest) is a non-profit which funds coastal conservation projects, including seaweed restoration
+- [Scaling up Kelp Forest Restoration](https://www.mossy.earth/projects/kelp-nursery) in Portugal
 
 ### Severe weather {#sec-severe-weather}
 
@@ -434,8 +432,8 @@ Remember to discard after use.
 
 #### Learn more
 
-- Check out [https://phys.org/news/2021-04-ocean-big-fish-affects-viability.html](this article) to learn why targeting big fish is making populations less resilient and less likely to continue into the future
-- [https://www.pnas.org/doi/10.1073/pnas.0702059104](This article) details how climate change is contributing to reduced fisheries production, but [https://www.pnas.org/doi/abs/10.1073/pnas.2100300118](this article) shows how having a size diversity in a fish population can help buffer it against the negative effects of a changing climate
+- Check out [this article](https://phys.org/news/2021-04-ocean-big-fish-affects-viability.html) to learn why targeting big fish is making populations less resilient and less likely to continue into the future
+- [This article](https://www.pnas.org/doi/10.1073/pnas.0702059104) details how climate change is contributing to reduced fisheries production, but [this article](https://www.pnas.org/doi/abs/10.1073/pnas.2100300118) shows how having a size diversity in a fish population can help buffer it against the negative effects of a changing climate
 
 ### Shellfish reef {#sec-shellfish-reef}
 
@@ -455,9 +453,9 @@ Place the shellfish reef into your fishing spot, and on the spawn phase of every
 
 #### Learn more
 
-- [https://edis.ifas.ufl.edu/publication/FA250](This article) all about how oyster reefs impact fish populations
-- [https://researchonline.jcu.edu.au/63122/1/63122.pdf](Restoring shellfish reefs: Global guidelines for practitioners and scientists)
-- Check out these articles from the Nature Conservancy about [https://www.natureaustralia.org.au/what-we-do/our-priorities/oceans/ocean-stories/oyster-reef-habitat/](life on an oyster reef), and their projects [https://www.natureaustralia.org.au/what-we-do/our-priorities/oceans/ocean-stories/restoring-shellfish-reefs/](restoring shellfish reefs)
+- [This article](https://edis.ifas.ufl.edu/publication/FA250) all about how oyster reefs impact fish populations
+- [Restoring shellfish reefs: Global guidelines for practitioners and scientists](https://researchonline.jcu.edu.au/63122/1/63122.pdf)
+- Check out these articles from the Nature Conservancy about [life on an oyster reef](https://www.natureaustralia.org.au/what-we-do/our-priorities/oceans/ocean-stories/oyster-reef-habitat/), and their projects [restoring shellfish reefs](https://www.natureaustralia.org.au/what-we-do/our-priorities/oceans/ocean-stories/restoring-shellfish-reefs/)
 
 ## Round end cards {#sec-round-end-cards}
 
@@ -479,10 +477,10 @@ This card is revealed at the end of the round. When revealed, each player must d
 
 #### Learn more
 
-- See [https://cosmosmagazine.com/earth/enso-iod-weather-patterns-explainer/#:~:text=In%20other%20years%2C%20the%20trade,and%20bushfires%20to%20eastern%20Australia](this Cosmos article) for an explanation of El Niño and La Niña climate patterns
-- The [https://wildlife.ca.gov/Conservation/Marine/El-Nino#26072342-how-does-el-nio-affect-sea-life-and-birds](California Department of Fish & Wilflife) has some great information on howEl Niño affect natural wildlife populations
-- See [https://climateextremes.org.au/what-is-el-ninos-impact-on-australias-weather-and-climate/#:~:text=During%20El%20Ni%C3%B1o%20the%20easterly,adapted%20from%20Bureau%20of%20Meteorology](this ARC site) for an explanation of how El Niño affects Australia's weather
-- Increases in marine heatwaves due to El Niño conditions have also affected [https://www.sciencedirect.com/science/article/pii/S1095643322000885#:~:text=Acute%20increases%20in%20temperature%20associated,precarious%20conditions%20for%20these%20animals](abalone) and [https://www.frontiersin.org/articles/10.3389/fmars.2019.00484/full](other important invertebrates) in Australia
+- See [this Cosmos article](https://cosmosmagazine.com/earth/enso-iod-weather-patterns-explainer/#:~:text=In%20other%20years%2C%20the%20trade,and%20bushfires%20to%20eastern%20Australia) for an explanation of El Niño and La Niña climate patterns
+- The [California Department of Fish & Wilflife](https://wildlife.ca.gov/Conservation/Marine/El-Nino#26072342-how-does-el-nio-affect-sea-life-and-birds) has some great information on howEl Niño affect natural wildlife populations
+- See [this ARC site](https://climateextremes.org.au/what-is-el-ninos-impact-on-australias-weather-and-climate/#:~:text=During%20El%20Ni%C3%B1o%20the%20easterly,adapted%20from%20Bureau%20of%20Meteorology) for an explanation of how El Niño affects Australia's weather
+- Increases in marine heatwaves due to El Niño conditions have also affected [abalone](https://www.sciencedirect.com/science/article/pii/S1095643322000885#:~:text=Acute%20increases%20in%20temperature%20associated,precarious%20conditions%20for%20these%20animals) and [other important invertebrates](https://www.frontiersin.org/articles/10.3389/fmars.2019.00484/full) in Australia
 
 ### Fisheries research occurs {#sec-fisheries-research}
 

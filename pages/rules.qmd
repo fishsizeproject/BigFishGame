@@ -104,7 +104,7 @@ Check to see if you have any pink wild cards with a clam shell in your fishing h
 2. Spawn fish (place them face up in your fishing site) from your hand as a larval fish.
 Check to see if you have any red wild cards with a dolphin in your fishing site (not in your hands) -- they allow you to spawn more fish.
 
-3. Grow fish to their next stage by rotating them from larval to juvenile, from juvenile to medium, or from medium and to big).
+3. Grow fish to their next stage by rotating them from larval to juvenile, from juvenile to medium, or from medium to big).
 You can grow a fish to the next stage for every big fish present in your fishing site, i.e. if you have two big fish you may grow to smaller fish to their next stage.
 Fish can only grow by one stage in each turn (larval to juvenile, medium to large, etc), i.e. larval juvenile cannot become big fish in one round even if you have three big fish and can have three "growth steps".
 Check to see if you have any green wild cards with a starfish in your fishing hole (not in your hands) -- they allow you to grow more fish.
