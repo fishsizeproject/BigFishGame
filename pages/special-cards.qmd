@@ -299,7 +299,9 @@ Remember this card is discarded after use.
 
 ### Large shark {#sec-large-shark}
 
-*Quick intro*
+The large shark card is present in BigFish to help show the value of apex predators in an ecosystem. Often, large predators are demonised by recreational fishers who mistakenly believe that they are actively predating on fish that could otherwise be caught. In fact, many sharks are primarily scavengers which feed upon sick and old fish, not those usually targeted during recreational fishing. Without large sharks, other food chains will be affected and the ocean can become out of balance. 
+
+Sharks also keep species that predate on other important pieces of an ocean ecosystem in check. For example, many of a shark’s prey species eat [seaweed](#sec-seaweed), and without sharks to keep the fish population in check seaweed can become scarce. Seaweed is incredibly important in providing some species of juvenile fish with places to hide and live while in a small and vulnerable stage of life. 
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -309,17 +311,25 @@ Remember this card is discarded after use.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+Place the wildcard into your fishing spot to grow a juvenile fish into a medium fish each turn. This is in addition to your grow turn and can take place at any point in the grow step. 
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+Sharks contribute so much more to ecosystems than many people realise. Check out these resources to learn more.
+
+- [https://australian.museum/publications/sharks/why-oceans-need-sharks/#:~:text=Sharks%20and%20healthy%20ecosystems,continue%20down%20the%20food%20chain]("Why oceans need sharks"), an article by the Australian Museum
+- Oceans Research News asks [https://www.oceans-research.com/why-do-we-need-sharks-for-our-ecosystem/]("Why do We Need Sharks for Our Ecosystem?")
+- [https://europe.oceana.org/importance-sharks-0/](The Importance of Sharks) from [Oceana](https://europe.oceana.org/)
 
 ### Marine protected area {#sec-marine-protected-area}
 
-*Quick intro*
+Marine protected areas (MPAs) are an important tool for habitat and species conservation. While they are not a standalone solution, they can be used to ensure species and ecosystems survive into the future. 
+
+One way marine protected areas benefit recreational fishers is that fish from the protected area can “spill over” into neighbouring areas. This works because the breeding stock of large individuals in the marine protected area are safe from fishing and will produce offspring to repopulate fishing spots. Without these protected areas, the big fish will lose protection and have the potential to be caught, so they won’t produce as many offspring for the future. 
+
+There are many other benefits to marine protected areas and while they need to be used in conjunction with planning and research they are still an important asset to recreational fishers. 
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -329,13 +339,18 @@ Remember this card is discarded after use.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play sentence goes here.*
+This card is used during the draw phase of your turn. Before drawing any cards have a look to see if any fish present in the face-up area match those present in an opponent’s fishing spot. If there are any matches then you may take that fish card into your hand in addition to any other cards drawn during the draw step. 
 :::
 ::::
 
 #### Learn more
 
-*Learn more resources go here.*
+- [https://www.dcceew.gov.au/sites/default/files/documents/benefits-mpas.pdf](This report) from Australian Department of Climate Change, Energy, the Environment and Water details the many benefits of Marine Protected Areas
+- [https://education.nationalgeographic.org/resource/importance-marine-protected-areas/](The Importance of Marine Protected Areas (MPAs)), an article by National Geographic
+- [https://www.americanprogress.org/article/marine-protected-areas-help-fisheries-ocean-ecosystems/](How Marine Protected Areas Help Fisheries and Ocean Ecosystems)
+- [https://pacificwild.org/5-benefits-of-mpas/](5 Benefits of Marine Protected Areas (MPAs))
+- [https://www.nature.com/articles/s41893-023-01150-4](This Nature article) and - [https://www.frontiersin.org/articles/10.3389/fmars.2021.613819/full](this Frontiers in Marine Science article)
+both investigate the benefits of MPAs for the environment and local communities
 
 ### Poor water quality {#sec-poor-water-quality}
 
