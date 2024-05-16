@@ -277,6 +277,8 @@ This card is designed to showcase how a visiting large predator like a whale can
 
 Illegal fishing means fishing that does not follow existing regulations, be they minimum or maximum size limits, bag limits, marine protected areas or other rules. Fishing regulations are essential for sustainable fishing, but in various countries up to 20% of anglers may not obey these rules. This card shows catching fish below or above the determined size limit hurts the population and the fishing, although the damage will naturally depend on how large the overall population is in the fishing spot. 
 
+Through discarding a card, players can start to understand the overall negative effects of illegal fishing. Fishing rules and regulations are there to protect fish stocks and prevent depletion and over fishing. Not obeying these limits means a less productive and functional marine ecosystem. 
+
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
 ![](/resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card .lightbox}
@@ -285,13 +287,14 @@ Illegal fishing means fishing that does not follow existing regulations, be they
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-Choose a player, they must choose two juvenile fish from their fishing spot and discard them (juvenile fish are below the minimum size limit and should not be fished). Remember this card is discarded after use. 
+Choose a player, they must choose a juvenile fish in their fishing spot and discard it. 
+Remember this card is discarded after use. 
 :::
 ::::
 
 #### Learn more
 
-- [Fishwatch](https://fishing.tas.gov.au/community/fishwatch) allows you to report illegal fishing in Tasmania. 
+- [Fishwatch](https://fishing.tas.gov.au/community/fishwatch) allows you to report illegal fishing in Tasmania.
 - A [scientific article](https://figshare.utas.edu.au/articles/journal_contribution/The_intersection_between_illegal_fishing_crimes_at_sea_and_social_well-being/23007800) about illegal fishing (not recreational) and societal well-being. 
 
 ### Large shark {#sec-large-shark}
