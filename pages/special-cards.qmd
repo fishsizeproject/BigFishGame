@@ -114,7 +114,9 @@ By getting everyone involved in a science project the science is often more rigo
 
 ### Centre for Marine Socioecology (CMS) {#sec-cms}
 
-The [Centre for Marine Socioecology (CMS)](https://marinesocioecology.org/) provides, develops and integrates multidisciplinary research to better understand and manage Australia's oceans. They do this by connecting, cooperating and collaborating across multiple organisations and different research disciplines. Their members range from marine scientists to philosophers, artists, economists and more. Collaborative work across diverse disciplines is often hard to achieve but is extremely important when tackling complex sustainability challenges. The CMS card in Big Fish aims to highlight how working together produces broad and wide reaching benefits for everyone.
+The [Centre for Marine Socioecology (CMS)](https://marinesocioecology.org/) provides, develops and integrates multidisciplinary research to better understand and manage Australia’s oceans. They do this by connecting, cooperating and collaborating across multiple organisations and different research disciplines. Their members range from marine scientists to philosophers, artists, economists and more.
+
+Collaboration across multiple fields is an extremely important aspect of research but is often difficult to achieve. The CMS card in Big Fish aims to highlight how working together in areas such as research produces many wide-reaching benefits. 
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -124,19 +126,20 @@ The [Centre for Marine Socioecology (CMS)](https://marinesocioecology.org/) prov
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-Draw two cards from the face-down card pile and put them in your hand. Then choose another player to draw one card from the face-down card pile that they will keep in their hand. Remember this card is discarded after use.
+Draw two cards from the face-down card pile and put them in your hand. Then choose another player to draw one card from the face-down card pile that they may keep in their hand.
+Remember this card is discarded after use. 
 :::
 ::::
 
 #### Learn more
 
-Check out some of the amazing CMS initiatives, such as [Curious Climate Schools](https://curiousclimate.org.au/schools/), where all schools can join in to ask experts questions about climate change.
+- Why do we need to collaborate? Read more about it [here](https://www.weforum.org/agenda/2021/06/4-views-on-why-scientific-collaboration-is-key-for-the-future/).
+- Check out some of the amazing CMS initiatives, such as [Curious Climate Schools](https://curiousclimate.org.au/schools/), where all schools can join in to ask experts questions about climate change.
+- See also this [Future Seas 2030](https://futureseas2030.org/) initiative, where a large group of researchers aimed to envision two alternative ocean futures for 2030. We can have a Business as usual or Sustainable and collaborative future. Which one do we chose? Don't forget to watch this fun thriller [Full metal aquatic](https://futureseas2030.org/full-metal-aquatic-a-future-seas-thriller-recording-and-interactive-game/) on how the two futures might play out.
+- You can also read this [mini-review article](https://www.frontiersin.org/articles/10.3389/fmars.2023.1234776/full) about art-science collaborations and the ocean
+
 
 ![Research themes of the Centre for Marine Socioecology. Check out [their website](https://marinesocioecology.org/) to learn more about the initiatives that support these themes.](/resources/images/CMSthemes.png){width="75%" fig-align="center"}
-
-Check out also this [Future Seas 2030](https://futureseas2030.org/) initiative, where a large group of researchers aimed to envision two alternative ocean futures for 2030. We can have a Business as usual or Sustainable and collaborative future. Which one do we chose? Don't forget to watch this fun thriller [Full metal aquatic](https://futureseas2030.org/full-metal-aquatic-a-future-seas-thriller-recording-and-interactive-game/) on how the two futures might play out.
-
-Why do we need to collaborate? Read more about it [here](https://www.weforum.org/agenda/2021/06/4-views-on-why-scientific-collaboration-is-key-for-the-future/).
 
 ### Delicious bait {#sec-delicious-bait}
 
