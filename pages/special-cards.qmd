@@ -394,7 +394,7 @@ When played, each player must discard a seaweed reef (or seagrass bed, featured 
 
 ### Seaweed {#sec-seaweed}
 
-*Intro text*
+Seaweeds create important habitats for many fish species. Inside seaweed reefs fish forage for food and seek refuge from predators. Without these reefs many small and juvenile fish will not survive. A lack of seaweed also alters the balance between herbivorous and carnivorous fish that can further degrade a marine ecosystem.
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -404,17 +404,20 @@ When played, each player must discard a seaweed reef (or seagrass bed, featured 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+Having a seaweed wild card in your fishing spot allows you to grow an additional fish each turn. However, the limits of one grow per fish per turn still applies. 
 :::
 ::::
 
 #### Learn more
 
-*Learn more*
+- Check out [https://www.unsw.edu.au/newsroom/news/2023/02/a-million-hectares-of-kelp-forests-need-planting-by-2040--and-sc](this article) about recent seaweed restoration efforts by UNSW
+- The [https://greatsouthernreef.com/restoration](Great Sourthern Reef) restoration project
+- [https://sea-trees.org/pages/sydney-kelp-forest](Sea Trees) is a non-profit which funds coastal conservation projects, including seaweed restoration
+- [https://www.mossy.earth/projects/kelp-nursery](Scaling up Kelp Forest Restoration) in Portugal
 
 ### Severe weather {#sec-severe-weather}
 
-*Intro text*
+Big fish can survive extreme weather events better than smaller fish of the same species. Therefore, the science shows that a population of fish is more at risk of decline and slower population recovery when larger individuals of that species are not present. This card highlights how a changing climate and more extreme weather events mean that fishing spots with larger fish of a species present are in a much better position to recover to prevent health levels than those lacking larger fish.
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -424,13 +427,15 @@ When played, each player must discard a seaweed reef (or seagrass bed, featured 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+Whoever plays this card gets to select a player who must then discard two larval, juvenile, or medium fish of their choice from their fishing spot. Fish cards in the player’s hand may not be used when discarding fish. 
+Remember to discard after use.
 :::
 ::::
 
 #### Learn more
 
-*Learn more*
+- Check out [https://phys.org/news/2021-04-ocean-big-fish-affects-viability.html](this article) to learn why targeting big fish is making populations less resilient and less likely to continue into the future
+- [https://www.pnas.org/doi/10.1073/pnas.0702059104](This article) details how climate change is contributing to reduced fisheries production, but [https://www.pnas.org/doi/abs/10.1073/pnas.2100300118](this article) shows how having a size diversity in a fish population can help buffer it against the negative effects of a changing climate
 
 ### Shellfish reef {#sec-shellfish-reef}
 
