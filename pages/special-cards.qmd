@@ -353,7 +353,7 @@ both investigate the benefits of MPAs for the environment and local communities
 
 ### Poor water quality {#sec-poor-water-quality}
 
-*Intro text*
+Poor water quality affects many parts of a marine ecosystem in many different ways. This card aims to show a more general effect, and not highlight a single source of poor water quality. Examples of the sources of poor water quality include excessive runoff from farming and stormwater which may contain excessive sediments or nutrients. Both of these contaminants can prevent photosynthesis both directly and indirectly, and so can damage seaweed reefs and seagrass beds. 
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -363,13 +363,14 @@ both investigate the benefits of MPAs for the environment and local communities
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+When played, each player must discard a seaweed reef (or seagrass bed, featured in BIG FISH V3 and beyond), unless a shellfish reef is present in their fishing habitat. This includes the player playing the card. Remember to discard after use.
 :::
 ::::
 
 #### Learn more
 
-*Learn more*
+- [https://www.reefplan.qld.gov.au/__data/assets/pdf_file/0020/46172/scsu-chapter-1-marine-impacts.pdf](This scenientific consensus statement) from 2013 outlines many of the major sources and impacts of poor water quality on the Great Barrier Reef
+- Check out [https://www.epa.gov/nutrientpollution/effects-dead-zones-and-harmful-algal-blooms](this EPA article) about the effects of Dead Zones and Harmful Algal Blooms 
 
 ### SCUBA equipment {#sec-scuba-equipment}
 
