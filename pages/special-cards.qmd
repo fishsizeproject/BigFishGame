@@ -515,7 +515,7 @@ Draw a face-down card. If it is a fish card, release it into your fishing spot a
 
 ### Localised species extinction {#sec-localised-species-extinction}
 
-*Intro text*
+Biodiversity loss (a decline in the number of species present in an ecosystem) is known to cause the ocean ecosystem to weaken in its ability to adapt and withstand changes. These changes include events such as marine heatwaves, climate change and weather patterns. An ecosystem with lower biodiversity is much more likely to suffer severe negative effects than a more biodiverse and resilient ocean ecosystem. 
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -525,13 +525,14 @@ Draw a face-down card. If it is a fish card, release it into your fishing spot a
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+When this card is drawn at the end of a round, the subsequent round will have no face-up cards present. This means that all cards that refer to face-up cards will no longer be able to be used during the round where this card is active.
 :::
 ::::
 
 #### Learn more
 
-*Learn more*
+- There is evidence of marine biodiversity decline - read about it [here](https://ocean-climate.org/en/awareness/the-decline-of-marine-biodiversity/#:~:text=The%20loss%20of%20marine%20biodiversity,global%20ecological%20and%20climate%20regulator), [here](https://oursharedseas.com/threats/threats-habitat-and-biodiversity/) and [here](https://www.nrdc.org/bio/lauren-kubiak/marine-biodiversity-dangerous-decline-finds-new-report).
+- Learn about the importance of marine biodiversity [here](https://www.msc.org/en-au/what-we-are-doing/oceans-at-risk/marine-biodiversity)
 
 ### Ocean acidification {#sec-ocean-acidification}
 
