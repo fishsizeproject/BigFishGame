@@ -536,7 +536,7 @@ When this card is drawn at the end of a round, the subsequent round will have no
 
 ### Ocean acidification {#sec-ocean-acidification}
 
-*Intro text*
+If any [abalone](fish-cards.qmd#sec-abalone), [lobster](fish-cards.qmd#sec-southern-rock-lobster), or [crab](fish-cards.qmd#sec-red-rock-crab) cards are present in a player’s fishing spot they must discard them. 
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
@@ -546,13 +546,16 @@ When this card is drawn at the end of a round, the subsequent round will have no
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+Increasing atmospheric carbon increases the amount of carbon which dissolves into the ocean at the surface, resulting in a change in the ocean’s pH. Between 1950 and 2020 the average pH of the ocean shifted from 8.15 to 8.0, meaning it has become more acidic. In more acidic waters, it becomes increasingly difficult for animals to grow their shells and carbonate skeletons.
 :::
 ::::
 
 #### Learn more
 
-*Learn more*
+- NOAA provides a great overview of ocean acidification on [their website](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification)
+- The Nature Education Knowledge Project also has a detailed explanation of the chemistry behind ocean acidification [here](https://www.nature.com/scitable/knowledge/library/ocean-acidification-25822734/)
+
+![Left: A heteropod (zooplanktonic gastropod mollusc) collected off eastern Australia during a planktonic trawl on the RV Investigator. Heteropods are considered particularly vulnerable to ocean acidification due to their aragonite shells, which are particularly sensitive to dissolving. Centre: Sea urchin spines, gastropod and bivavle mollusc shells as seen through a dissecting microscope, all subject to negative impacts of ocean acidification. Right: Shells of a polyplacophoran (chiton) as seen through a dissecting microscope. Photos: A.R. Coghlan.](../resources/images/Ocean acidification.png){width="65%" fig-align="center"}
 
 ### Plankton swarm occurs {#sec-plankton-swarm}
 
