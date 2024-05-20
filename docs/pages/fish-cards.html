@@ -103,7 +103,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Fish cards</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../pages/special-cards.html#sec-wildcards">
+    <a class="dropdown-item" href="../pages/special-cards.html">
  <span class="dropdown-text">Wildcards</span></a>
   </li>  
         <li>
@@ -986,7 +986,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","closeEffect":"zoom","selector":".lightbox","descPosition":"bottom","loop":false});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"openEffect":"zoom","descPosition":"bottom","closeEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

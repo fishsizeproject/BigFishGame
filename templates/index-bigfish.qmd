@@ -117,7 +117,7 @@ These events create unpredictability and new challenges, and inform players abou
 
 ::: text-center
 <button type="button" class="btn-primary my-button">
-[Learn the rules](pages/rules.qmd){.button-link}
+[Learn the rules](../pages/rules.qmd){.button-link}
 </button>
 :::
 
@@ -161,7 +161,7 @@ This game aims to introduce three main messages that we care about:
 
 ::: text-center
 <button type="button" class="btn-primary my-button">
-[Explore the science](pages/science.qmd){.button-link}
+[Explore the science](../pages/special-cards.qmd){.button-link}
 </button>
 :::
 
@@ -178,25 +178,25 @@ This game was developed by...
 
 :::: {.col .align-self-center .flex-width .buffer-10}
 ::: {.image-container .text-center}
-[<img src="/images/icons/contact.svg" style="width:25%; position:relative;"/>](pages/AboutDevs.qmd#sec-contact-us)
+[<img src="/images/icons/contact.svg" style="width:25%; position:relative;"/>](../pages/about.qmd)
 <br><br> 
-[Contact the developers of BigFish](pages/AboutDevs.qmd#sec-contact-us){style="text-decoration:none"}
+[Contact the developers of BigFish](../pages/about.qmd){style="text-decoration:none"}
 :::
 ::::
 
 :::: {.col .align-self-center .flex-width .buffer-10}
 ::: {.image-container .text-center}
-[<img src="/images/icons/supporters.svg" style="width:25%;"/>](pages/AboutDevs.qmd#sec-support)
+[<img src="/images/icons/supporters.svg" style="width:25%;"/>](../pages/about.qmd)
 <br><br> 
-[Our supporters and collaborators](pages/AboutDevs.qmd#sec-support){style="text-decoration:none"}
+[Our supporters and collaborators](../pages/about.qmd){style="text-decoration:none"}
 :::
 ::::
 
 :::: {.col .align-self-center .flex-width .buffer-10}
 ::: {.image-container .text-center}
-[<img src="/images/icons/who_are_we.svg" style="width:25%;"/>](pages/AboutDevs.qmd#sec-contact-us)
+[<img src="/images/icons/who_are_we.svg" style="width:25%;"/>](../pages/about.qmd)
 <br><br> 
-[Media enquiries](pages/AboutDevs.qmd#sec-contact-us){style="text-decoration:none"}
+[Media enquiries](../pages/about.qmd){style="text-decoration:none"}
 :::
 ::::
 
