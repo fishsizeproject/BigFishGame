@@ -17,19 +17,19 @@ Game testing, advice, interesting facts and many other details have been provide
 
 :::: {.grid .justify-contents-evenly .align-items-center .text-center .spacer-2em}
 ::: g-col-3
-![](/resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot} 
+![](../resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot} 
 :::
 
 ::: g-col-3
-![](/resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot} 
+![](../resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot} 
 :::
 
 ::: g-col-3
-![](/resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot} 
+![](../resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot} 
 :::
 
 ::: g-col-3
-![](/resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot} 
+![](../resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot} 
 :::
 ::::
 

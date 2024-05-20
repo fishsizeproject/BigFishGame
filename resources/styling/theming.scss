@@ -62,7 +62,8 @@ $headings-line-height: 1.25em;
 
 $toc-font-size:  0.6em;           // The font size for the page TOC.
 
-$link-color:     $accent;      // The link color.
+$link-color:            $accent;         // The link color.
+$link-hover-color:      $secondary;      // The link color. on hover
 
 $input-bg:       $light;   // The background color for HTML inputs.
 $popover-bg:     $light;   // The background color for popovers (e.g. when a citation preview is shown).
@@ -96,14 +97,14 @@ $btn-padding-y: 0.5em;
 //$toc-inactive-border:             $light-blue;  // The left border colors for inactive table of contents items.
 
 // Layout
-$content-padding-top:               1em;          // Padding before main content area (including sidebar, content, and TOC.
+$content-padding-top:               0em;          // Padding before main content area (including sidebar, content, and TOC.
 
 // Navigation
 $dropdown-bg:                       $white;
 $navbar-bg:                         $primary;
 $navbar-fg:                         $ghost;
 $navbar-hl:                         $light;
-$sidebar-bg:                        transparent;
+$sidebar-bg:                        lighten($primary, 50%);
 $sidebar-fg:                        $black;
 $sidebar-hl:                        $dark;
 $footer-bg:                         $primary;

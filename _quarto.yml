@@ -23,7 +23,7 @@ website:
           - text: "Fish cards"
             href: pages/fish-cards.qmd
           - text: "Wildcards"
-            href: pages/special-cards.qmd#sec-wildcards
+            href: pages/special-cards.qmd
           - text: "Round-end cards"
             href: pages/special-cards.qmd#sec-round-end-cards
       - text: "Media & Events"
@@ -49,6 +49,23 @@ website:
     border: false
     background: primary
     foreground: light
+
+# Sidebar options:
+# id: The identifier for this sidebar.
+# title: The sidebar title. Uses the project title if none is specified.
+# logo: Path to a logo image that will be displayed in the sidebar.
+# search: Include a search control in the sidebar.
+# tools: List of sidebar tools (see Sidebar Tools)
+# contents: List of navigation items to appear in the sidebar. Can also include section entries which in turn contain sub-lists of navigation items.
+# style: The style of sidebar (docked or floating).
+# background: The sidebar’s background color (named or hex color).
+# foreground: The sidebar’s foreground color (named or hex color).
+# border: Whether to show a border on the sidebar (defaults to true for ‘docked’ sidebars)
+# alignment: Alignment of the items within the sidebar (left, right, or center)
+# collapse-level: The depth at which the sidebar contents should be collapsed by default.
+# pinned: When collapsed, pin the collapsed sidebar to the top of the page.
+# header: Markdown to place above sidebar content (text or file path)
+# footer: Markdown to place below sidebar content (text or file path)
 
 # Different sidebars for different pages
   sidebar:
@@ -120,9 +137,8 @@ website:
         href: pages/rules.qmd
   - id: fish-sidebar
     style: "docked"
-    type: dark
-    border: false
-    pinned: true
+    border: true
+    pinned: false
     contents:
       - text: "Abalone"
         href: pages/fish-cards.qmd#sec-abalone
@@ -179,10 +195,10 @@ format:
     link-external-newwindow: true
     page-layout: full
     grid:
-      sidebar-width: 350px
-      body-width: 1200px
-      margin-width: 75px
-      gutter-width: 4em
+      sidebar-width: 450px
+      body-width: 1500px
+      margin-width: 0px
+      gutter-width: 0em
 
 editor: source
 

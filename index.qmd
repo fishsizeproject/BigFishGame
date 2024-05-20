@@ -7,7 +7,7 @@ sidebar: false
 
 :::::: {.grid .justify-contents-evenly .align-items-center .column-screen .hero-img .hero-strip-homepage}
 ::::: {.g-col-6 .text-center}
-![](../resources/images/Bigfish-logo.png){width="75%"}
+![](resources/images/Bigfish-logo.png){width="75%"}
 :::::
 
 ::::: {.g-col-6 style="margin-right: 5%;"}
@@ -21,13 +21,13 @@ sidebar: false
 
 :::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.25em; margin-bottom: 5%"}
 ::: g-col-6
-![](/resources/icons/children-solid.svg){width="25%"}
+![](resources/icons/children-solid.svg){width="25%"}
 
 Suitable for ages 10+
 :::
 
 ::: g-col-6
-![](/resources/icons/users-solid.svg){width="25%"}
+![](resources/icons/users-solid.svg){width="25%"}
 
 Best for groups of 2-5 players
 :::
@@ -45,7 +45,7 @@ The goal of the game is to collect the maximum number of points from catching fi
 ## Playing the game
 :::: {.grid .spacer-2em .justify-contents-evenly .align-items-center .column-page style="font-size: 1.2em;"}
 ::: {.g-col-2}
-![](/resources/images/esky.jpg){width="75%"}
+![](resources/images/esky.jpg){width="75%"}
 :::
 
 ::: {.g-col-10}
@@ -53,7 +53,7 @@ Big fish are worth more points than small fish, so players are tempted to catch 
 :::
 
 ::: {.g-col-2 .g-start-2}
-![](/resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card width="75%"}
+![](resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card width="75%"}
 :::
 
 ::: {.g-col-8}
@@ -61,7 +61,7 @@ In addition to fishing, other natural and human-induced events occur throughout 
 :::
 
 ::: {.g-col-2 .g-start-3}
-![](/resources/images/Bigfish-logo.png)
+![](resources/images/Bigfish-logo.png)
 :::
 
 ::: {.g-col-6}
@@ -85,7 +85,7 @@ These events create unpredictability and new challenges and inform us on how hum
 ::::::: {.column-screen  .spacer-2em}
 :::::: {.grid .justify-contents-evenly .align-items-center}
 ::::: {.g-col-4}
-![](../resources/images/pretty-pics/RockyCape.jpg)
+![](resources/images/pretty-pics/RockyCape.jpg)
 :::::
 
 ::::: {.g-col-8 style="margin-left: 1.5em; margin-right: 2.5em"}
@@ -130,11 +130,11 @@ If you would like to learn more about our work, adapt the game to your ecosystem
 :::::
 
 ::::: {.g-col-4 .text-center}
-![](resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot} 
-![](resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot}
+![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot} 
+![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot}
 
-![](resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot}
-![](resources/images/pretty-pics/BlueGrouperSm.jpg){.headshot}
+![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot}
+![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot}
 :::::
 ::::::
 

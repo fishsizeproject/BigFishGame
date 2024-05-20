@@ -59,6 +59,14 @@ ol ::marker {
     padding-top: 0;
   }
 
+/* Sidebar formatting */
+
+.sidebar-navigation a:hover {
+  color: var(--bs-link-hover-color);
+}
+
+/* Image and PDF tiles */
+
 .img-tile {
   object-fit: cover;
   height: 12.5vw;

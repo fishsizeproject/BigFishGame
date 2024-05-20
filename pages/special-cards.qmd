@@ -2,17 +2,32 @@
 pagetitle: Wildcards & Round-end cards | BigFish Card Game
 description-meta: |
   Meta description to go here
+
+# If the page has a sidebar, the hero banner works differently - see slight change to code below
 sidebar: special-sidebar
 ---
 
-::: {.column-screen .hero-img .hero-strip-page}
-   
+::: {.column-page-right .hero-img .hero-strip-page}
+
 :::
+
+<!-- This maintains the page body spacing on left and right, do not remove -->
+::: {.column-body style="margin-left: 3.5em; margin-right: 3.5em"}
+
 
 ## Wild cards {#sec-wildcards}
 
-<!-- On this page you can learn more about the Wild cards and Round end cards. We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please contact us and tell us all about it. -->
-<!-- ![Dive at Reef Life Survey sites. Photo: Rick Stuart-Smith, reeflifesurvey.com](/resources/images/pretty-pics/spongeDive.jpg){width="70%" fig-align="center"} -->
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-8}
+On this page you can learn more about the Wild cards and Round end cards included in the game. We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please [contact us](../pages/about.qmd)!
+:::
+
+::: {.g-col-4 .text-center}
+![](../resources/images/pretty-pics/Mel-and-the-seadragon.jpg){width="85%"}
+
+Dive at Reef Life Survey sites. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com)
+:::
+::::
 
 ### Blue Groper {#sec-blue-groper}
 
@@ -20,7 +35,7 @@ sidebar: special-sidebar
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/blue-groper.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/blue-groper.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -42,7 +57,7 @@ Releasing caught fish can greatly help fish populations. If minimum or maximum s
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/catch-or-release.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/catch-or-release.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -69,11 +84,11 @@ This card shows the importance of releasing fish back into the water when caught
 - You can learn about catch and release fishing from some of Australia's great angler organisations, such as [OzFish](https://ozfish.org.au/junior-ozfishers/learn-about-catch-and-release/) and [VRFish](https://www.vrfish.com.au/education/catch-and-release/)
 - [Here is a great site](https://www.dpi.nsw.gov.au/fishing/recreational/fishing-skills/catch-and-release) with information on catch and release survival rates for different NSW fish species
 - ["Keep Fish Wet"](https://www.keepfishwet.org/) is a great organisation in the USA, working with anglers to increase survival in catch and release fishing. They have three main rules to ensure released fish have good chances to survive. 
-- The [US National Parks Service](https://www.nps.gov/subjects/fishing/catch-and-release-fishing.htm#:~:text=Catch%20and%20release%20fishing%20improves,and%20reproduce%20in%20the%20ecosystem) and [NOAA](https://www.fisheries.noaa.gov/national/resources-fishing/catch-and-release-fishing-best-practices) both have some great tips on how to make sure released fish will survive. 
+- The [US National Parks Service](https://www.nps.gov/subjects/fishing/catch-and-release-fishing.htm#:~:text=Catch%20and%20release%20fishing%20improves,and%20reproduce%20in%20the%20ecosystem) and [NOAA](https://www.fisheries.noaa.gov/national../resources-fishing/catch-and-release-fishing-best-practices) both have some great tips on how to make sure released fish will survive. 
 :::
 
 ::: g-col-4
-![](/resources/images/pretty-pics/ReleaseFish.jpg){fig-alt="Catch or release fish"}
+![](../resources/images/pretty-pics/ReleaseFish.jpg){fig-alt="Catch or release fish"}
 :::
 ::::
 
@@ -85,7 +100,7 @@ The citizen science project [REDMap](https://www.redmap.org.au/) featured on the
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/citizen-science.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/citizen-science.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -109,7 +124,7 @@ By getting everyone involved in a science project the science is often more rigo
 - [Tassie Fish Frame Collection Program](https://www.facebook.com/TassieFishFrameCollectionProgram)
 - Citizen science projects at [IMAS](https://www.imas.utas.edu.au/community/citizen-science) in Tasmania, Australia
 
-![Citizen scientist helping with underwater surveys in the Reef Life Survey program. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/)](/resources/images/pretty-pics/fishResearch.jpg){.lightbox width="65%"}
+![Citizen scientist helping with underwater surveys in the Reef Life Survey program. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/)](../resources/images/pretty-pics/fishResearch.jpg){.lightbox width="65%"}
 
 ### Centre for Marine Socioecology (CMS) {#sec-cms}
 
@@ -119,7 +134,7 @@ Collaboration across multiple fields is an extremely important aspect of researc
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/cms.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/cms.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -138,7 +153,7 @@ Remember this card is discarded after use.
 - You can also read this [mini-review article](https://www.frontiersin.org/articles/10.3389/fmars.2023.1234776/full) about art-science collaborations and the ocean
 
 
-![Research themes of the Centre for Marine Socioecology. Check out [their website](https://marinesocioecology.org/) to learn more about the initiatives that support these themes.](/resources/images/CMSthemes.png){width="75%" fig-align="center"}
+![Research themes of the Centre for Marine Socioecology. Check out [their website](https://marinesocioecology.org/) to learn more about the initiatives that support these themes.](../resources/images/CMSthemes.png){width="75%" fig-align="center"}
 
 ### Delicious bait {#sec-delicious-bait}
 
@@ -146,7 +161,7 @@ Remember this card is discarded after use.
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/delicious-bait.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/delicious-bait.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -166,7 +181,7 @@ Remember this card is discarded after use.
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/fishing-kayak.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/fishing-kayak.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -186,7 +201,7 @@ Remember this card is discarded after use.
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/fishing-rod.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/fishing-rod.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -208,7 +223,7 @@ However, giant kelp forests around Australia have been declining drastically for
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/giant-kelp.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/giant-kelp.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -242,7 +257,7 @@ Kelp is extremely important in providing habitats for all marine creatures, and 
 - Learn about giant kelp restoration efforts by [IMAS](https://www.imas.utas.edu.au/news/news-items/restoring-tasmanias-giant-kelp-forests-the-focus-of-new-research-project), [OzFish](https://ozfish.org.au/projects/giant-kelp-restoration-project-tasmania/) and [The Nature Conservancy](https://www.natureaustralia.org.au/newsroom/giant-kelp-forest-restoration-partnership-announcement/)
 - Read a [scientific article](https://www.frontiersin.org/articles/10.3389/fmars.2020.00074/full#:~:text=Kelp%20forests%20dominate%20the%20rocky,communities%20of%20flora%20and%20fauna.) about reasons for kelp decline and restoration efforts. 
 
-![A healthy giant kelp forest. Photo: Rick Stuart-Smith, reeflifesurvey.com](/resources/images/pretty-pics/KelpPhoto.jpg){width="65%" fig-align="center"}
+![A healthy giant kelp forest. Photo: Rick Stuart-Smith, reeflifesurvey.com](../resources/images/pretty-pics/KelpPhoto.jpg){width="65%" fig-align="center"}
 
 ### Humpback whale {#sec-humpback-whale}
 
@@ -250,7 +265,7 @@ Great whales such as the humpback whale and blue whale are key species in helpin
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/humpback-whale.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/humpback-whale.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -278,7 +293,7 @@ Through discarding a card, players can start to understand the overall negative 
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -302,7 +317,7 @@ Sharks also keep species that predate on other important pieces of an ocean ecos
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/large-shark.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/large-shark.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -330,7 +345,7 @@ There are many other benefits to marine protected areas and while they need to b
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/marine-protected-area.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/marine-protected-area.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -355,7 +370,7 @@ Poor water quality affects many parts of a marine ecosystem in many different wa
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/poor-water-quality.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/poor-water-quality.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -376,7 +391,7 @@ When played, each player must discard a seaweed reef (or seagrass bed, featured 
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/scuba-equipment.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/scuba-equipment.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -396,7 +411,7 @@ Seaweeds create important habitats for many fish species. Inside seaweed reefs f
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/seaweed.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/seaweed.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -419,7 +434,7 @@ Big fish can survive extreme weather events better than smaller fish of the same
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/severe-weather.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/severe-weather.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -441,7 +456,7 @@ Shellfish reefs provide many important ecosystem services and improve the genera
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/wild-cards/shellfish-reef.jpg){.image-card .lightbox}
+![](../resources/images/cards/wild-cards/shellfish-reef.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -465,7 +480,7 @@ When an El Niño is present on the south east coast of Australia more heatwaves,
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/round-end-cards/el-nino-begins.jpg){.image-card .lightbox}
+![](../resources/images/cards/round-end-cards/el-nino-begins.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -490,7 +505,7 @@ This is more likely with fish that mature at an old age, such as orange roughy t
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/round-end-cards/fisheries-research.jpg){.image-card .lightbox}
+![](../resources/images/cards/round-end-cards/fisheries-research.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -519,7 +534,7 @@ Biodiversity loss (a decline in the number of species present in an ecosystem) i
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/round-end-cards/localised-species-extinction.jpg){.image-card .lightbox}
+![](../resources/images/cards/round-end-cards/localised-species-extinction.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -548,7 +563,7 @@ If any [abalone](fish-cards.qmd#sec-abalone), [lobster](fish-cards.qmd#sec-south
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/round-end-cards/ocean-acidification.jpg){.image-card .lightbox}
+![](../resources/images/cards/round-end-cards/ocean-acidification.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -573,7 +588,7 @@ The availability of key resources in the environment, mainly nutrients such as i
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/round-end-cards/plankton-swarm.jpg){.image-card .lightbox}
+![](../resources/images/cards/round-end-cards/plankton-swarm.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -602,7 +617,7 @@ Each player must grow a larval fish into a juvenile fish.
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/round-end-cards/seaweed-planting.jpg){.image-card .lightbox}
+![](../resources/images/cards/round-end-cards/seaweed-planting.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -622,7 +637,7 @@ Large, old fish often produce disproportionately large numbers of offspring comp
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/round-end-cards/upper-size-limit.jpg){.image-card .lightbox}
+![](../resources/images/cards/round-end-cards/upper-size-limit.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -651,7 +666,7 @@ Each player must spawn a larval fish into their fishing spot.
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/round-end-cards/urchins-arrive.jpg){.image-card .lightbox}
+![](../resources/images/cards/round-end-cards/urchins-arrive.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -671,7 +686,7 @@ Each player must spawn a larval fish into their fishing spot.
 
 :::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
 ::: {.g-col-2}
-![](/resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
+![](../resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
@@ -685,3 +700,5 @@ Each player must spawn a larval fish into their fishing spot.
 
 *Learn more*
 
+<!-- This maintains the page body spacing on left and right, do not remove -->
+:::

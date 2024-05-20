@@ -2,12 +2,17 @@
 pagetitle: Fish cards | BigFish Card Game
 description-meta: |
   Meta description to go here
+# If the page has a sidebar, the hero banner works differently - see slight change to code below
 sidebar: fish-sidebar
 ---
 
-::: {.column-screen .hero-img .hero-strip-page}
-   
+::: {.column-page-right .hero-img .hero-strip-page}
+
 :::
+
+<!-- This maintains the page body spacing on left and right, do not remove -->
+::: {.column-body style="margin-left: 3.5em; margin-right: 3.5em"}
+
 
 ## Fish cards
 
@@ -21,7 +26,7 @@ sidebar: fish-sidebar
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/abalone.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/abalone.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -37,7 +42,7 @@ Green-lip and Black-lip Abalone are found all around the south east of Australia
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/australian-red-cod.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/australian-red-cod.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -53,7 +58,7 @@ Usually found hiding under rocky ledges during the day, these fish are nocturnal
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/banded-morwong.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/banded-morwong.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -69,7 +74,7 @@ Banded Morwong can live to 100 years old.
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/bastard-trumpeter.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/bastard-trumpeter.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -85,7 +90,7 @@ As juveniles these fish inhabit shallow coastal reefs for the first few years of
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/blue-fin-tuna.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/blue-fin-tuna.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -101,7 +106,7 @@ These fish are actually endotherms, meaning they can maintain a body temperature
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/blue-mackerel.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/blue-mackerel.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -117,7 +122,7 @@ As adults, these fish school in great numbers off the coast. However, when young
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/abalone.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/abalone.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -133,7 +138,7 @@ These fish are all born as females and lack a characteristic blue throat. When n
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/brownstriped-leatherjacket.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/brownstriped-leatherjacket.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -149,7 +154,7 @@ Whilst uncommon around mainland Australia, this leatherjacket can be abundant on
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/draughtboard-shark.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/draughtboard-shark.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -165,7 +170,7 @@ Draughtboard Sharks are benthic, meaning they spend most of their time on the se
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/flounder.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/flounder.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -181,7 +186,7 @@ Flounder are born with eye on either side of their head. When very young, one of
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/herring-cale.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/herring-cale.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -197,7 +202,7 @@ These fish love eating different brown seaweeds. Thus when eaten they have a str
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/longfin-pike.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/longfin-pike.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -213,7 +218,7 @@ These fish are often found in large schools of over 100 hundred individuals. How
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/longsnout-boarfish.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/longsnout-boarfish.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -229,7 +234,7 @@ Boarfish can often be found hanging out together in small groups under rocky led
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/marblefish.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/marblefish.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -245,7 +250,7 @@ These fish are abundant in most Tasmanian seaweed reefs. However, they are known
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/purple-wrasse.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/purple-wrasse.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -261,7 +266,7 @@ Purple wrasse have powerful jaws and strong teeth that allow them to crush and e
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/red-rock-crab.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/red-rock-crab.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -277,7 +282,7 @@ These crabs have a very hard and tough shell. The shell is made of chitin and ha
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/sand-flathead.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/sand-flathead.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -293,7 +298,7 @@ The bigger a flathead, the more eggs it produces. In recent years their average 
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/senator-wrasse.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/senator-wrasse.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -309,7 +314,7 @@ The male of this species has a bright green body, while the female is orange in 
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/shaws-cowfish.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/shaws-cowfish.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -325,7 +330,7 @@ While pretty, these fish are highly poisonous and should never be eaten. Their p
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/southern-rock-lobster.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/southern-rock-lobster.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -341,7 +346,7 @@ These lobsters (also known as crayfish) often consume sea urchins, which helps p
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/toothbrush-leather-jacket.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/toothbrush-leather-jacket.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -357,7 +362,7 @@ This species gets its name from the toothbrush-like bristles the males have on t
 ::::: {.g-col-6 style="flex-grow: 1;"}
 :::: {.grid .align-items-center .p-2}
 ::: {.g-col-4 style="flex-grow: 1;"}
-![](/resources/images/cards/fish-cards/yellowtail-kingfish.jpg){.image-card .lightbox}
+![](../resources/images/cards/fish-cards/yellowtail-kingfish.jpg){.image-card .lightbox}
 :::
 
 ::: {.g-col-8 style="flex-grow: 1;"}
@@ -371,3 +376,5 @@ These fish are pelagic, which means they can be found out at sea. Individuals fr
 :::::
 ::::::
 
+<!-- This maintains the page body spacing on left and right, do not remove -->
+:::
