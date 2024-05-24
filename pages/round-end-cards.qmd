@@ -1,0 +1,264 @@
+---
+pagetitle: Wildcards & Round-end cards | BigFish Card Game
+description-meta: |
+  Meta description to go here
+
+# If the page has a sidebar, the hero banner works differently - see slight change to code below
+sidebar: special-sidebar
+---
+
+::: {.column-page-right .hero-img .hero-strip-page}
+
+:::
+
+<!-- This maintains the page body spacing on left and right, do not remove -->
+::::::::::: {.column-body style="margin-left: 3.5em; margin-right: 3.5em"}
+
+# Round-end cards
+
+::::: {.grid .justify-contents-evenly .align-items-center}
+:::: {.g-col-7}
+On this page you can learn more about the science behind all the round-end cards included in the game. You can find the science behind all the wildcards [here](../pages/wildcards.qmd).
+
+We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please [contact us](../pages/about.qmd)!
+
+::: {.caption-p style="text-align: right;"}
+A diver explores a collection of sponges and corals at one of the Reef Life Survey sites. Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com).
+:::
+::::
+
+:::: {.g-col-5 .text-center .img-container}
+![](../resources/images/pretty-pics/sponge-dive.jpg){width="95%"}
+::::
+:::::
+
+## El Niño begins {#sec-el-nino-begins}
+
+When an El Niño is present on the south east coast of Australia more heatwaves, strong swells and storms affect the ocean. Increases in sea surface temperature can also occur. This can mean smaller individuals of a species are less likely to be able to survive these events. Species such as [Abalone](fish-cards.qmd#sec-abalone) have also been observed as having decreased reproductive ability as heatwaves and severe weather cause physiological stress. There is also evidence that fish move away from certain coastal areas, meaning fishing ability is potentially changed in El Niño years. 
+
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](../resources/images/cards/round-end-cards/el-nino-begins.jpg){.image-card .lightbox}
+:::
+
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+### How to play
+
+This card is revealed at the end of the round. When revealed, each player must discard a medium or juvenile fish from their habitat. 
+:::
+::::
+
+### Learn more
+
+- See [this Cosmos article](https://cosmosmagazine.com/earth/enso-iod-weather-patterns-explainer/#:~:text=In%20other%20years%2C%20the%20trade,and%20bushfires%20to%20eastern%20Australia) for an explanation of El Niño and La Niña climate patterns
+- The [California Department of Fish & Wilflife](https://wildlife.ca.gov/Conservation/Marine/El-Nino#26072342-how-does-el-nio-affect-sea-life-and-birds) has some great information on howEl Niño affect natural wildlife populations
+- See [this ARC site](https://climateextremes.org.au/what-is-el-ninos-impact-on-australias-weather-and-climate/#:~:text=During%20El%20Ni%C3%B1o%20the%20easterly,adapted%20from%20Bureau%20of%20Meteorology) for an explanation of how El Niño affects Australia's weather
+- Increases in marine heatwaves due to El Niño conditions have also affected [abalone](https://www.sciencedirect.com/science/article/pii/S1095643322000885#:~:text=Acute%20increases%20in%20temperature%20associated,precarious%20conditions%20for%20these%20animals) and [other important invertebrates](https://www.frontiersin.org/articles/10.3389/fmars.2019.00484/full) in Australia
+
+## Fisheries research occurs {#sec-fisheries-research}
+
+Fisheries have collapsed in the past, and species have been overcaught to the verge of extinction. This can come as a surprise – there may still be fish being caught, and the fish may appear to be plentiful. In reality we are just getting better at catching them, or the remaining population can reach a critical point beyond which recovery is challenging without intervention. For instance, if most of the breeding population has been fished and the remaining population is being fished too fast, then the individuals left don’t have a chance to reproduce. 
+
+This is more likely with fish that mature at an old age, such as orange roughy that need to survive 27-32 years before they can reproduce. In the 1980s and 1990s orange roughy were being harvested by fisheries so fast that the fishery collapsed (it was no longer economically viable to harvest these fish as too few were being caught each trip). Without baseline information on how a population is structured in terms of age, size and genetics, we are unable to determine how the population is responding to harvesting by people. With this information however, managers can intervene to save a species and ensure sustainable harvesting into the future.
+
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](../resources/images/cards/round-end-cards/fisheries-research.jpg){.image-card .lightbox}
+:::
+
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+### How to play
+
+Draw a face-down card. If it is a fish card, release it into your fishing spot as a medium sized fish. 
+:::
+::::
+
+### Learn more
+
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: {.g-col-6}
+- Learn why orange roughy is so vulnerable to overfishing [here](https://www.pmcsa.ac.nz/2021/02/21/orange-roughy-stock-health/)
+- Information on current orange roughy monitoring can be found [here](https://www.csiro.au/en/research/animals/fisheries/monitoring-orange-roughy) and [this article](https://www.abc.net.au/news/rural/2018-08-14/orange-roughy-returns-for-fishing-in-tasmania/10113938) shows how the species is now beginning to come back in Tasmania
+:::
+
+::: {.g-col-6}
+![Image of a diver being handed a stereo-video system. The diver will swim transects, and all fish observed will be counted and measured to get baseline information on species abundance and body size. Photo: A.R. Coghlan.](../resources/images/pretty-pics/Fisheries research - diver operated video.jpg)
+:::
+::::
+
+## Localised species extinction {#sec-localised-species-extinction}
+
+Biodiversity loss (a decline in the number of species present in an ecosystem) is known to cause the ocean ecosystem to weaken in its ability to adapt and withstand changes. These changes include events such as marine heatwaves, climate change and weather patterns. An ecosystem with lower biodiversity is much more likely to suffer severe negative effects than a more biodiverse and resilient ocean ecosystem. 
+
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](../resources/images/cards/round-end-cards/localised-species-extinction.jpg){.image-card .lightbox}
+:::
+
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+### How to play
+
+When this card is drawn at the end of a round, the subsequent round will have no face-up cards present. This means that all cards that refer to face-up cards will no longer be able to be used during the round where this card is active.
+:::
+::::
+
+### Learn more
+
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: {.g-col-6}
+- There is evidence of marine biodiversity decline - read about it [here](https://ocean-climate.org/en/awareness/the-decline-of-marine-biodiversity/#:~:text=The%20loss%20of%20marine%20biodiversity,global%20ecological%20and%20climate%20regulator), [here](https://oursharedseas.com/threats/threats-habitat-and-biodiversity/) and [here](https://www.nrdc.org/bio/lauren-kubiak/marine-biodiversity-dangerous-decline-finds-new-report).
+- Learn about the importance of marine biodiversity [here](https://www.msc.org/en-au/what-we-are-doing/oceans-at-risk/marine-biodiversity)
+:::
+
+::: {.g-col-6}
+![The species featured on the Localised Species Extinction wildcard in the BigFish cardgame is the spotten handfish. The spotted handfish is endemic to Tasmania and is currently classified as critically endangered. Photo: Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/)](../resources/images/pretty-pics/large/spotted-handfish-1.jpg){width="50%" fig-align="center"}
+:::
+::::
+
+## Ocean acidification {#sec-ocean-acidification}
+
+If any [abalone](fish-cards.qmd#sec-abalone), [lobster](fish-cards.qmd#sec-southern-rock-lobster), or [crab](fish-cards.qmd#sec-red-rock-crab) cards are present in a player’s fishing spot they must discard them. 
+
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](../resources/images/cards/round-end-cards/ocean-acidification.jpg){.image-card .lightbox}
+:::
+
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+### How to play
+
+Increasing atmospheric carbon increases the amount of carbon which dissolves into the ocean at the surface, resulting in a change in the ocean’s pH. Between 1950 and 2020 the average pH of the ocean shifted from 8.15 to 8.0, meaning it has become more acidic. In more acidic waters, it becomes increasingly difficult for animals to grow their shells and carbonate skeletons.
+:::
+::::
+
+### Learn more
+
+- NOAA provides a great overview of ocean acidification on [their website](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification)
+- The Nature Education Knowledge Project also has a detailed explanation of the chemistry behind ocean acidification [here](https://www.nature.com/scitable/knowledge/library/ocean-acidification-25822734/)
+
+![Left: A heteropod (zooplanktonic gastropod mollusc) collected off eastern Australia during a planktonic trawl on the RV Investigator. Heteropods are considered particularly vulnerable to ocean acidification due to their aragonite shells, which are particularly sensitive to dissolving. Centre: Sea urchin spines, gastropod and bivavle mollusc shells as seen through a dissecting microscope, all subject to negative impacts of ocean acidification. Right: Shells of a polyplacophoran (chiton) as seen through a dissecting microscope. Photos: A.R. Coghlan.](../resources/images/pretty-pics/ocean-acidification-small.png){width="65%" fig-align="center"}
+
+## Plankton swarm occurs {#sec-plankton-swarm}
+
+Both phytoplankton (tiny plants) and the zooplankton (tiny animals) that feed on them are key steps in the food chain of many fish, shellfish, and other marine animals. Like plants, phytoplankton (which are usually microalgae) use sunlight to power chemical reactions that enable them to utilise resources in their environment and grow. This tiny little packages of nutrients are then predated upon by slightly larger (but still small) animals called zooplankton, and eventually fish. 
+
+The availability of key resources in the environment, mainly nutrients such as iron, is what limits  phytoplankton growth. When sudden inputs of these nutrients become available, often the phytoplankton have everything else they need to survive and flourish - sometimes to the extent that phytoplankton blooms cause problems for humans (such as red tides).
+
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](../resources/images/cards/round-end-cards/plankton-swarm.jpg){.image-card .lightbox}
+:::
+
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+### How to play
+
+Each player must grow a larval fish into a juvenile fish.
+:::
+::::
+
+### Learn more
+
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: {.g-col-6}
+- Learn about phytoplankton from the Australian museum [here](https://australian.museum/learn/animals/plankton/)
+- Check out [this article](https://aappartnership.org.au/mind-the-gaps-marine-zooplankton-futures-in-a-warming-world/#:~:text=Zooplankton%20play%20a%20critical%20role,respiring%20surface%20carbon%20at%20depth) about how a warming climate will affect zooplankton
+:::
+
+::: {.g-col-6}
+![Plankton are tiny plants that bloom under ideal conditions, and are the first step in a food chain from sunlight to fish. Photo: A.R. Coghlan.](../resources/images/pretty-pics/plankton-bloom.jpg)
+:::
+::::
+
+## Seaweed planting occurs {#sec-seaweed-planting}
+
+*Intro text*
+
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](../resources/images/cards/round-end-cards/seaweed-planting.jpg){.image-card .lightbox}
+:::
+
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+### How to play
+
+Place a [Seaweed](#sec-seaweed) or [Giant Kelp](#sec-giant-kelp) card from your hand into your fishing spot.
+:::
+::::
+
+### Learn more
+
+*Learn more*
+
+## Fisheries impose upper size limit {#sec-upper-size-limit}
+
+Large, old fish often produce disproportionately large numbers of offspring compared to fish of smaller sizes. Larger fish therefore contribute more to the next generation of fish which can be harvested. Protecting large ‘mega-spawners’ results in a greater yield of future fish. A 80 cm snapper produces ~24 times the offspring of a 40 cm snapper (but they both taste just as good!) and releasing the larger fish means more fish next year. In addition to producing disproportionately more young, large fish also connect different populations of fish – ensuring a rich and diverse gene-pool for tackling disease outbreaks and adapting to new conditions. Not all fish are made equal – big fish are more important to fish conservation into the future.
+
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](../resources/images/cards/round-end-cards/upper-size-limit.jpg){.image-card .lightbox}
+:::
+
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+### How to play
+
+Each player must spawn a larval fish into their fishing spot.
+:::
+::::
+
+### Learn more
+
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: {.g-col-6}
+- Learn why big snapper produce more offspring [here](https://www.pewtrusts.org/en/research-and-analysis/fact-sheets/2011/04/17/the-plan-to-save-red-snapper)
+- Learn about the plan to [Save the Red Snapper](https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2016/older-bigger-red-snapper-have-more-offspring-and-boost-species-recovery)
+:::
+
+::: {.g-col-6}
+![Photo of a fisherman with fish of different sizes. Photo: A.R. Coghlan.](../resources/images/pretty-pics/upper-size-limit.JPG)
+:::
+::::
+
+## Long spined sea urchins arrive {#sec-urchins-arrive}
+
+*Intro text*
+
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](../resources/images/cards/round-end-cards/urchins-arrive.jpg){.image-card .lightbox}
+:::
+
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+### How to play
+
+Each player must discard all [Seaweed](#sec-seaweed) and [Giant Kelp](#sec-giant-kelp) cards from their fishing spot. 
+:::
+::::
+
+### Learn more
+
+*Learn more*
+
+![](UrchinPhoto-small.jpg)
+
+## END OF GAME {#sec-end-game}
+
+*Intro text*
+
+:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::: {.g-col-2}
+![](../resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
+:::
+
+::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+### How to play
+
+The game is over, tally up your scores.
+:::
+::::
+
+### Learn more
+
+*Learn more*
+
+<!-- This maintains the page body spacing on left and right, do not remove -->
+:::::::::::

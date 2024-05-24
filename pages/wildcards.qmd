@@ -15,11 +15,13 @@ sidebar: special-sidebar
 ::::::::::: {.column-body style="margin-left: 3.5em; margin-right: 3.5em"}
 
 
-## Wild cards {#sec-wildcards}
+# Wild cards
 
-::::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+::::: {.grid .justify-contents-evenly .align-items-center}
 :::: {.g-col-7}
-On this page you can learn more about the science behind the [Wildcards](#sec-blue-groper) and [Round-end cards](#sec-round-end-cards) included in the game. We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please [contact us](../pages/about.qmd)!
+On this page you can learn more about the science behind all the wildcards included in the game. You can find the science behind all the round-end cards [here](../pages/round-end-cards.qmd).
+
+We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please [contact us](../pages/about.qmd)!
 
 ::: {.caption-p style="text-align: right;"}
 Mel finds a weedy seadragon while diving at one of the Reef Life Survey sites. Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com).
@@ -27,11 +29,11 @@ Mel finds a weedy seadragon while diving at one of the Reef Life Survey sites. P
 ::::
 
 :::: {.g-col-5 .text-center .img-container}
-![](../resources/images/pretty-pics/Mel-and-the-seadragon.jpg){width="85%"}
+![](../resources/images/pretty-pics/Mel-and-the-seadragon.jpg){width="95%"}
 ::::
 :::::
 
-### Blue Groper {#sec-blue-groper}
+## Blue Groper {#sec-blue-groper}
 
 *Intro text*
 
@@ -41,17 +43,17 @@ Mel finds a weedy seadragon while diving at one of the Reef Life Survey sites. P
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Place into your fishing spot to prevent the effects of [Urchins](special-cards.qmd#sec-urchins-arrive).
 :::
 ::::
 
-#### Learn more
+### Learn more
 
 *Learn more*
 
-### Catch or release {#sec-catch-or-release}
+## Catch or release {#sec-catch-or-release}
 
 Releasing caught fish, either because they are unwanted or for ocean health (i.e. releasing large breeding females) can reduce the impact of recreational fishing on fish stocks, thus leaving more fish for the future in a healthy ocean. Survival rates of fish featured in the game (such as [Yellowtail Kingfish](fish-cards.qmd#sec-yellowtail-kingfish)) can be above 85% when released correctly, while flathead survival rates can be about 95%. 
 
@@ -63,7 +65,7 @@ Releasing caught fish can greatly help fish populations. If minimum or maximum s
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Choose a fish from the available face-up cards in the centre area of the game and either place it in your esky or release it into your fishing spot. The size of the fish will be mentioned on the card, and different cards will have different sizes of fish to be released or caught. 
 Remember this card is discarded after use.
@@ -73,7 +75,7 @@ Remember this card is discarded after use.
 <!-- Take-home message -->
 This card shows the importance of releasing fish back into the water when caught, and demonstrates how everyday fishing actions can help ensure there are enough fish into the future. 
 
-#### Learn more
+### Learn more
 
 - You can learn about catch and release fishing from some of Australia's great angler organisations, such as [OzFish](https://ozfish.org.au/junior-ozfishers/learn-about-catch-and-release/) and [VRFish](https://www.vrfish.com.au/education/catch-and-release/)
 - [Here is a great site](https://www.dpi.nsw.gov.au/fishing/recreational/fishing-skills/catch-and-release) with information on catch and release survival rates for different NSW fish species
@@ -94,7 +96,7 @@ Learn how to release fish safely in this video with Steve Starling.
 ::::
 :::::
 
-### Citizen science {#sec-citizen-science}
+## Citizen science {#sec-citizen-science}
 
 The collection of data is key to many animal and marine life studies. Conducting large analyses is important to get more accurate information and knowledge, but collecting large amounts of data can be difficult, time consuming and expensive. In the last decade, science and data collection have undergone a true revolution through citizen science. By creating ways for everyone to get involved and have input into a science project, the knowledge gained and the positive outcomes from research can be greatly amplified and shared with the wider community. 
 
@@ -106,7 +108,7 @@ The citizen science project [REDMap](https://www.redmap.org.au/) featured on the
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Choose a fish card currently in your hand and place it as a big fish into your fishing spot. 
 Remember this card is discarded after use. 
@@ -116,7 +118,7 @@ Remember this card is discarded after use.
 <!-- Take-home message -->
 By getting everyone involved in a science project the science is often more rigorous, accurate and concise and thus can produce better outcomes. 
 
-#### Learn more
+### Learn more
 
 :::: {.grid .justify-contents-evenly .align-items-center}
 ::: g-col-7
@@ -138,7 +140,7 @@ A citizen scientist helping with underwater surveys in the Reef Life Survey prog
 :::
 ::::
 
-### Centre for Marine Socioecology (CMS) {#sec-cms}
+## Centre for Marine Socioecology (CMS) {#sec-cms}
 
 The [Centre for Marine Socioecology (CMS)](https://marinesocioecology.org/) provides, develops and integrates multidisciplinary research to better understand and manage Australia’s oceans. They do this by connecting, cooperating and collaborating across multiple organisations and different research disciplines. Their members range from marine scientists to philosophers, artists, economists and more.
 
@@ -150,14 +152,14 @@ Collaboration across multiple fields is an extremely important aspect of researc
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Draw two cards from the face-down card pile and put them in your hand. Then choose another player to draw one card from the face-down card pile that they may keep in their hand.
 Remember this card is discarded after use. 
 :::
 ::::
 
-#### Learn more
+### Learn more
 
 - Why do we need to collaborate? Read more about it [here](https://www.weforum.org/agenda/2021/06/4-views-on-why-scientific-collaboration-is-key-for-the-future/).
 - Check out some of the amazing CMS initiatives, such as [Curious Climate Schools](https://curiousclimate.org.au/schools/), where all schools can join in to ask experts questions about climate change.
@@ -171,7 +173,7 @@ Remember this card is discarded after use.
 These are the research themes of the Centre for Marine Socioecology. Check out [their website](https://marinesocioecology.org/) to learn more about the initiatives that support these themes.
 :::
 
-### Delicious bait {#sec-delicious-bait}
+## Delicious bait {#sec-delicious-bait}
 
 *Intro text*
 
@@ -181,17 +183,17 @@ These are the research themes of the Centre for Marine Socioecology. Check out [
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Place into your fishing spot to catch an additional fish each turn. If you do, discard a juvenile fish.
 :::
 ::::
 
-#### Learn more
+### Learn more
 
 *Learn more*
 
-### Fishing kayak {#sec-fishing-kayak}
+## Fishing kayak {#sec-fishing-kayak}
 
 *Intro text*
 
@@ -201,17 +203,17 @@ Place into your fishing spot to catch an additional fish each turn. If you do, d
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Catch a medium-sized fish from either the face-up cards or your fishing spot. Discard after use. 
 :::
 ::::
 
-#### Learn more
+### Learn more
 
 *Learn more*
 
-### Fishing rod {#sec-fishing-rod}
+## Fishing rod {#sec-fishing-rod}
 
 *Intro text*
 
@@ -221,17 +223,17 @@ Catch a medium-sized fish from either the face-up cards or your fishing spot. Di
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Place into your fishing spot to catch an additional from your fishing spot each turn.
 :::
 ::::
 
-#### Learn more
+### Learn more
 
 *Learn more*
 
-### Giant kelp {#sec-giant-kelp}
+## Giant kelp {#sec-giant-kelp}
 
 Giant Kelp provides a huge, complex, and food-filled habitat which is essential for healthy oceans and healthy fish populations. Giant kelp forests produce much greater amounts of food for particularly important species of fish and invertebrate than other types of kelp forest, and those species feed back into the larger marine ecosystem. 
 
@@ -243,7 +245,7 @@ However, giant kelp forests around Australia have been declining drastically for
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 If you have a Giant Kelp card in your fishing spot you may grow two larval fish into juvenile fish each turn. The rule of one grow per fish per turn still applies. 
 :::
@@ -251,7 +253,7 @@ If you have a Giant Kelp card in your fishing spot you may grow two larval fish 
 
 This card shows how much energy and habitat a patch of giant kelp can provide to the fish in a fishing spot. This card is also present in the game to draw attention to giant kelp decline and restoration efforts in Tasmania.
 
-#### Learn more
+### Learn more
 
 Check out these videos about giant kelp!
 
@@ -287,7 +289,7 @@ Kelp is extremely important in providing habitats for all marine creatures, and 
 Healthy giant kelp forests are essential to ocean health, and they're extremely beautiful. Photos: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/)
 ::::
 
-### Humpback whale {#sec-humpback-whale}
+## Humpback whale {#sec-humpback-whale}
 
 Great whales such as the humpback whale and blue whale are key species in helping to cycle nutrients throughout the ocean. Known as whale pumps, these animals help by pooping out large quantities of nutrients that are essential for smaller species such as phytoplankton to grow. For example, whales feed in deep waters but breathe at the surface, so they bring the nutrients to the surface when they poop. 
 
@@ -297,7 +299,7 @@ Great whales such as the humpback whale and blue whale are key species in helpin
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Discard a larval or juvenile fish from your fishing spot to grow a medium fish to a big fish. 
 Remember this card is discarded after use. 
@@ -307,7 +309,7 @@ Remember this card is discarded after use.
 <!-- Take-home message -->
 This card is designed to showcase how a visiting large predator like a whale can provide positive impacts on a local environment. Whilst they may consume fish for food, they also supply vital nutrients that are required for a healthy marine habitat and fishing spot. This is why the card is discarded and why a smaller fish must be discarded to help a larger fish - while you may lose fish to whale feeding, you ultimately end up with more fish in the long run when whales are abundant in the ocean.
 
-#### Learn more
+### Learn more
 
 :::: {.grid .justify-contents-evenly .align-items-center}
 :::: {.g-col-5  .text-center}
@@ -325,7 +327,7 @@ A humpback whale calf breathes at the surface. The fish gathered around it are h
 ::::
 :::::
 
-### Illegal fishing {#sec-illegal-fishing}
+## Illegal fishing {#sec-illegal-fishing}
 
 Illegal fishing means fishing that does not follow existing regulations, be they minimum or maximum size limits, bag limits, marine protected areas or other rules. Fishing regulations are essential for sustainable fishing, but in various countries up to 20% of anglers may not obey these rules. This card shows catching fish below or above the determined size limit hurts the population and the fishing, although the damage will naturally depend on how large the overall population is in the fishing spot. 
 
@@ -337,14 +339,14 @@ Through discarding a card, players can start to understand the overall negative 
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Choose a player, they must choose a juvenile fish in their fishing spot and discard it. 
 Remember this card is discarded after use. 
 :::
 ::::
 
-#### Learn more
+### Learn more
 
 - [Fishwatch](https://fishing.tas.gov.au/community/fishwatch) allows you to report illegal fishing in Tasmania.
 - A [scientific article](https://figshare.utas.edu.au/articles/journal_contribution/The_intersection_between_illegal_fishing_crimes_at_sea_and_social_well-being/23007800) about illegal fishing (not recreational) and societal well-being. 
@@ -367,7 +369,7 @@ Remember this card is discarded after use.
 Fisheries management makes sure that future generations will always be able to catch important species like Southern Rock Lobster (left), flathead (middle), and leatherjacket (right). Photos: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com).
 :::
 
-### Large shark {#sec-large-shark}
+## Large shark {#sec-large-shark}
 
 The large shark card is present in BigFish to help show the value of apex predators in an ecosystem. Often, large predators are demonised by recreational fishers who mistakenly believe that they are actively predating on fish that could otherwise be caught. In fact, many sharks are primarily scavengers which feed upon sick and old fish, not those usually targeted during recreational fishing. Without large sharks, other food chains will be affected and the ocean can become out of balance. 
 
@@ -379,13 +381,13 @@ Sharks also keep species that predate on other important pieces of an ocean ecos
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Place the wildcard into your fishing spot to grow a juvenile fish into a medium fish each turn. This is in addition to your grow turn and can take place at any point in the grow step. 
 :::
 ::::
 
-#### Learn more
+### Learn more
 
 :::: {.grid .justify-contents-evenly .align-items-center}
 ::: g-col-7
@@ -405,7 +407,7 @@ A swell shark in a rocky reef. Photo: Rick Stuart-Smith, [reeflifesurvey.com](ht
 :::
 ::::
 
-### Marine protected area {#sec-marine-protected-area}
+## Marine protected area {#sec-marine-protected-area}
 
 Marine protected areas (MPAs) are an important tool for habitat and species conservation. While they are not a standalone solution, they can be used to ensure species and ecosystems survive into the future. 
 
@@ -419,13 +421,13 @@ There are many other benefits to marine protected areas and while they need to b
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 This card is used during the draw phase of your turn. Before drawing any cards have a look to see if any fish present in the face-up area match those present in an opponent’s fishing spot. If there are any matches then you may take that fish card into your hand in addition to any other cards drawn during the draw step. 
 :::
 ::::
 
-#### Learn more
+### Learn more
 
 - [This report](https://www.dcceew.gov.au/sites/default/files/documents/benefits-mpas.pdf) from Australian Department of Climate Change, Energy, the Environment and Water details the many benefits of Marine Protected Areas
 - [The Importance of Marine Protected Areas (MPAs)](https://education.nationalgeographic.org/resource/importance-marine-protected-areas/), an article by National Geographic
@@ -440,7 +442,7 @@ both investigate the benefits of MPAs for the environment and local communities
 Marine protected areas are often diverse havens for fish of all sizes. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
 :::
 
-### Poor water quality {#sec-poor-water-quality}
+## Poor water quality {#sec-poor-water-quality}
 
 Poor water quality affects many parts of a marine ecosystem in many different ways. This card aims to show a more general effect, and not highlight a single source of poor water quality. Examples of the sources of poor water quality include excessive runoff from farming and stormwater which may contain excessive sediments or nutrients. Both of these contaminants can prevent photosynthesis both directly and indirectly, and so can damage seaweed reefs and seagrass beds. 
 
@@ -450,13 +452,13 @@ Poor water quality affects many parts of a marine ecosystem in many different wa
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 When played, each player must discard a seaweed reef (or seagrass bed, featured in BIG FISH V3 and beyond), unless a shellfish reef is present in their fishing habitat. This includes the player playing the card. Remember to discard after use.
 :::
 ::::
 
-#### Learn more
+### Learn more
 
 ::::: {.grid .justify-contents-evenly .align-items-center}
 :::: g-col-4
@@ -474,7 +476,7 @@ Kelp and other seaweeds are particularly affected by poor water quality, because
 :::::
 
 
-### SCUBA equipment {#sec-scuba-equipment}
+## SCUBA equipment {#sec-scuba-equipment}
 
 *Intro text*
 
@@ -484,17 +486,17 @@ Kelp and other seaweeds are particularly affected by poor water quality, because
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Place into your fishing spot to catch a [lobster](../pages.qmd#sec-southern-rock-lobster), [crab](../pages.qmd#sec-red-rock-crab) or [abalone](../pages.qmd#sec-abalone) from your fishing spot each turn.
 :::
 ::::
 
-#### Learn more
+### Learn more
 
 *Learn more*
 
-### Seaweed {#sec-seaweed}
+## Seaweed {#sec-seaweed}
 
 Seaweeds create important habitats for many fish species. Inside seaweed reefs fish forage for food and seek refuge from predators. Without these reefs many small and juvenile fish will not survive. A lack of seaweed also alters the balance between herbivorous and carnivorous fish that can further degrade a marine ecosystem.
 
@@ -504,13 +506,13 @@ Seaweeds create important habitats for many fish species. Inside seaweed reefs f
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Having a seaweed wild card in your fishing spot allows you to grow an additional fish each turn. However, the limits of one grow per fish per turn still applies. 
 :::
 ::::
 
-#### Learn more
+### Learn more
 
 :::: {.grid .justify-contents-evenly .align-items-center}
 ::: g-col-7
@@ -529,7 +531,7 @@ A cat shark seeks refuge in a kelp bed. Photo: Rick Stuart-Smith, [reeflifesurve
 :::
 ::::
 
-### Severe weather {#sec-severe-weather}
+## Severe weather {#sec-severe-weather}
 
 Big fish can survive extreme weather events better than smaller fish of the same species. Therefore, the science shows that a population of fish is more at risk of decline and slower population recovery when larger individuals of that species are not present. This card highlights how a changing climate and more extreme weather events mean that fishing spots with larger fish of a species present are in a much better position to recover to prevent health levels than those lacking larger fish.
 
@@ -539,14 +541,14 @@ Big fish can survive extreme weather events better than smaller fish of the same
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Whoever plays this card gets to select a player who must then discard two larval, juvenile, or medium fish of their choice from their fishing spot. Fish cards in the player’s hand may not be used when discarding fish. 
 Remember to discard after use.
 :::
 ::::
 
-#### Learn more
+### Learn more
 
 - Check out [this article](https://phys.org/news/2021-04-ocean-big-fish-affects-viability.html) to learn why targeting big fish is making populations less resilient and less likely to continue into the future
 - [This article](https://www.pnas.org/doi/10.1073/pnas.0702059104) details how climate change is contributing to reduced fisheries production, but [this article](https://www.pnas.org/doi/abs/10.1073/pnas.2100300118) shows how having a size diversity in a fish population can help buffer it against the negative effects of a changing climate
@@ -558,7 +560,7 @@ Reefs and everything living there are affected by high winds and large swells. P
 :::
 
 
-### Shellfish reef {#sec-shellfish-reef}
+## Shellfish reef {#sec-shellfish-reef}
 
 Shellfish reefs provide many important ecosystem services and improve the general health of marine environments. They are particularly good at providing the complex habitat that is important to the development of larval and juvenile fish. By providing places for the fish to hide and feed, they help increase the recruitment and survival of many fish species. They also benefit the ecosystem through processes like water filtering, overall increasing ecosystem health and thus fish stock levels.
 
@@ -568,247 +570,17 @@ Shellfish reefs provide many important ecosystem services and improve the genera
 :::
 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
+### How to play
 
 Place the shellfish reef into your fishing spot, and on the spawn phase of every subsequent turn you may take a fish from the face-up cards and place it in your fishing spot as a larval fish.
 :::
 ::::
 
-#### Learn more
+### Learn more
 
 - [This article](https://edis.ifas.ufl.edu/publication/FA250) all about how oyster reefs impact fish populations
 - [Restoring shellfish reefs: Global guidelines for practitioners and scientists](https://researchonline.jcu.edu.au/63122/1/63122.pdf)
 - Check out these articles from the Nature Conservancy about [life on an oyster reef](https://www.natureaustralia.org.au/what-we-do/our-priorities/oceans/ocean-stories/oyster-reef-habitat/), and their projects [restoring shellfish reefs](https://www.natureaustralia.org.au/what-we-do/our-priorities/oceans/ocean-stories/restoring-shellfish-reefs/)
-
-## Round end cards {#sec-round-end-cards}
-
-### El Niño begins {#sec-el-nino-begins}
-
-When an El Niño is present on the south east coast of Australia more heatwaves, strong swells and storms affect the ocean. Increases in sea surface temperature can also occur. This can mean smaller individuals of a species are less likely to be able to survive these events. Species such as [Abalone](fish-cards.qmd#sec-abalone) have also been observed as having decreased reproductive ability as heatwaves and severe weather cause physiological stress. There is also evidence that fish move away from certain coastal areas, meaning fishing ability is potentially changed in El Niño years. 
-
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
-![](../resources/images/cards/round-end-cards/el-nino-begins.jpg){.image-card .lightbox}
-:::
-
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
-
-This card is revealed at the end of the round. When revealed, each player must discard a medium or juvenile fish from their habitat. 
-:::
-::::
-
-#### Learn more
-
-- See [this Cosmos article](https://cosmosmagazine.com/earth/enso-iod-weather-patterns-explainer/#:~:text=In%20other%20years%2C%20the%20trade,and%20bushfires%20to%20eastern%20Australia) for an explanation of El Niño and La Niña climate patterns
-- The [California Department of Fish & Wilflife](https://wildlife.ca.gov/Conservation/Marine/El-Nino#26072342-how-does-el-nio-affect-sea-life-and-birds) has some great information on howEl Niño affect natural wildlife populations
-- See [this ARC site](https://climateextremes.org.au/what-is-el-ninos-impact-on-australias-weather-and-climate/#:~:text=During%20El%20Ni%C3%B1o%20the%20easterly,adapted%20from%20Bureau%20of%20Meteorology) for an explanation of how El Niño affects Australia's weather
-- Increases in marine heatwaves due to El Niño conditions have also affected [abalone](https://www.sciencedirect.com/science/article/pii/S1095643322000885#:~:text=Acute%20increases%20in%20temperature%20associated,precarious%20conditions%20for%20these%20animals) and [other important invertebrates](https://www.frontiersin.org/articles/10.3389/fmars.2019.00484/full) in Australia
-
-### Fisheries research occurs {#sec-fisheries-research}
-
-Fisheries have collapsed in the past, and species have been overcaught to the verge of extinction. This can come as a surprise – there may still be fish being caught, and the fish may appear to be plentiful. In reality we are just getting better at catching them, or the remaining population can reach a critical point beyond which recovery is challenging without intervention. For instance, if most of the breeding population has been fished and the remaining population is being fished too fast, then the individuals left don’t have a chance to reproduce. 
-
-This is more likely with fish that mature at an old age, such as orange roughy that need to survive 27-32 years before they can reproduce. In the 1980s and 1990s orange roughy were being harvested by fisheries so fast that the fishery collapsed (it was no longer economically viable to harvest these fish as too few were being caught each trip). Without baseline information on how a population is structured in terms of age, size and genetics, we are unable to determine how the population is responding to harvesting by people. With this information however, managers can intervene to save a species and ensure sustainable harvesting into the future.
-
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
-![](../resources/images/cards/round-end-cards/fisheries-research.jpg){.image-card .lightbox}
-:::
-
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
-
-Draw a face-down card. If it is a fish card, release it into your fishing spot as a medium sized fish. 
-:::
-::::
-
-#### Learn more
-
-:::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-6}
-- Learn why orange roughy is so vulnerable to overfishing [here](https://www.pmcsa.ac.nz/2021/02/21/orange-roughy-stock-health/)
-- Information on current orange roughy monitoring can be found [here](https://www.csiro.au/en/research/animals/fisheries/monitoring-orange-roughy) and [this article](https://www.abc.net.au/news/rural/2018-08-14/orange-roughy-returns-for-fishing-in-tasmania/10113938) shows how the species is now beginning to come back in Tasmania
-:::
-
-::: {.g-col-6}
-![Image of a diver being handed a stereo-video system. The diver will swim transects, and all fish observed will be counted and measured to get baseline information on species abundance and body size. Photo: A.R. Coghlan.](../resources/images/pretty-pics/Fisheries research - diver operated video.jpg)
-:::
-::::
-
-### Localised species extinction {#sec-localised-species-extinction}
-
-Biodiversity loss (a decline in the number of species present in an ecosystem) is known to cause the ocean ecosystem to weaken in its ability to adapt and withstand changes. These changes include events such as marine heatwaves, climate change and weather patterns. An ecosystem with lower biodiversity is much more likely to suffer severe negative effects than a more biodiverse and resilient ocean ecosystem. 
-
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
-![](../resources/images/cards/round-end-cards/localised-species-extinction.jpg){.image-card .lightbox}
-:::
-
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
-
-When this card is drawn at the end of a round, the subsequent round will have no face-up cards present. This means that all cards that refer to face-up cards will no longer be able to be used during the round where this card is active.
-:::
-::::
-
-#### Learn more
-
-:::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-6}
-- There is evidence of marine biodiversity decline - read about it [here](https://ocean-climate.org/en/awareness/the-decline-of-marine-biodiversity/#:~:text=The%20loss%20of%20marine%20biodiversity,global%20ecological%20and%20climate%20regulator), [here](https://oursharedseas.com/threats/threats-habitat-and-biodiversity/) and [here](https://www.nrdc.org/bio/lauren-kubiak/marine-biodiversity-dangerous-decline-finds-new-report).
-- Learn about the importance of marine biodiversity [here](https://www.msc.org/en-au/what-we-are-doing/oceans-at-risk/marine-biodiversity)
-:::
-
-::: {.g-col-6}
-![The species featured on the Localised Species Extinction wildcard in the BigFish cardgame is the spotten handfish. The spotted handfish is endemic to Tasmania and is currently classified as critically endangered. Photo: Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/)](../resources/images/pretty-pics/large/spotted-handfish-1.jpg){width="50%" fig-align="center"}
-:::
-::::
-
-### Ocean acidification {#sec-ocean-acidification}
-
-If any [abalone](fish-cards.qmd#sec-abalone), [lobster](fish-cards.qmd#sec-southern-rock-lobster), or [crab](fish-cards.qmd#sec-red-rock-crab) cards are present in a player’s fishing spot they must discard them. 
-
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
-![](../resources/images/cards/round-end-cards/ocean-acidification.jpg){.image-card .lightbox}
-:::
-
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
-
-Increasing atmospheric carbon increases the amount of carbon which dissolves into the ocean at the surface, resulting in a change in the ocean’s pH. Between 1950 and 2020 the average pH of the ocean shifted from 8.15 to 8.0, meaning it has become more acidic. In more acidic waters, it becomes increasingly difficult for animals to grow their shells and carbonate skeletons.
-:::
-::::
-
-#### Learn more
-
-- NOAA provides a great overview of ocean acidification on [their website](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification)
-- The Nature Education Knowledge Project also has a detailed explanation of the chemistry behind ocean acidification [here](https://www.nature.com/scitable/knowledge/library/ocean-acidification-25822734/)
-
-![Left: A heteropod (zooplanktonic gastropod mollusc) collected off eastern Australia during a planktonic trawl on the RV Investigator. Heteropods are considered particularly vulnerable to ocean acidification due to their aragonite shells, which are particularly sensitive to dissolving. Centre: Sea urchin spines, gastropod and bivavle mollusc shells as seen through a dissecting microscope, all subject to negative impacts of ocean acidification. Right: Shells of a polyplacophoran (chiton) as seen through a dissecting microscope. Photos: A.R. Coghlan.](../resources/images/pretty-pics/ocean-acidification-small.png){width="65%" fig-align="center"}
-
-### Plankton swarm occurs {#sec-plankton-swarm}
-
-Both phytoplankton (tiny plants) and the zooplankton (tiny animals) that feed on them are key steps in the food chain of many fish, shellfish, and other marine animals. Like plants, phytoplankton (which are usually microalgae) use sunlight to power chemical reactions that enable them to utilise resources in their environment and grow. This tiny little packages of nutrients are then predated upon by slightly larger (but still small) animals called zooplankton, and eventually fish. 
-
-The availability of key resources in the environment, mainly nutrients such as iron, is what limits  phytoplankton growth. When sudden inputs of these nutrients become available, often the phytoplankton have everything else they need to survive and flourish - sometimes to the extent that phytoplankton blooms cause problems for humans (such as red tides).
-
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
-![](../resources/images/cards/round-end-cards/plankton-swarm.jpg){.image-card .lightbox}
-:::
-
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
-
-Each player must grow a larval fish into a juvenile fish.
-:::
-::::
-
-#### Learn more
-
-:::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-6}
-- Learn about phytoplankton from the Australian museum [here](https://australian.museum/learn/animals/plankton/)
-- Check out [this article](https://aappartnership.org.au/mind-the-gaps-marine-zooplankton-futures-in-a-warming-world/#:~:text=Zooplankton%20play%20a%20critical%20role,respiring%20surface%20carbon%20at%20depth) about how a warming climate will affect zooplankton
-:::
-
-::: {.g-col-6}
-![Plankton are tiny plants that bloom under ideal conditions, and are the first step in a food chain from sunlight to fish. Photo: A.R. Coghlan.](../resources/images/pretty-pics/plankton-bloom.jpg)
-:::
-::::
-
-### Seaweed planting occurs {#sec-seaweed-planting}
-
-*Intro text*
-
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
-![](../resources/images/cards/round-end-cards/seaweed-planting.jpg){.image-card .lightbox}
-:::
-
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
-
-Place a [Seaweed](#sec-seaweed) or [Giant Kelp](#sec-giant-kelp) card from your hand into your fishing spot.
-:::
-::::
-
-#### Learn more
-
-*Learn more*
-
-### Fisheries impose upper size limit {#sec-upper-size-limit}
-
-Large, old fish often produce disproportionately large numbers of offspring compared to fish of smaller sizes. Larger fish therefore contribute more to the next generation of fish which can be harvested. Protecting large ‘mega-spawners’ results in a greater yield of future fish. A 80 cm snapper produces ~24 times the offspring of a 40 cm snapper (but they both taste just as good!) and releasing the larger fish means more fish next year. In addition to producing disproportionately more young, large fish also connect different populations of fish – ensuring a rich and diverse gene-pool for tackling disease outbreaks and adapting to new conditions. Not all fish are made equal – big fish are more important to fish conservation into the future.
-
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
-![](../resources/images/cards/round-end-cards/upper-size-limit.jpg){.image-card .lightbox}
-:::
-
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
-
-Each player must spawn a larval fish into their fishing spot.
-:::
-::::
-
-#### Learn more
-
-:::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-6}
-- Learn why big snapper produce more offspring [here](https://www.pewtrusts.org/en/research-and-analysis/fact-sheets/2011/04/17/the-plan-to-save-red-snapper)
-- Learn about the plan to [Save the Red Snapper](https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2016/older-bigger-red-snapper-have-more-offspring-and-boost-species-recovery)
-:::
-
-::: {.g-col-6}
-![Photo of a fisherman with fish of different sizes. Photo: A.R. Coghlan.](../resources/images/pretty-pics/upper-size-limit.JPG)
-:::
-::::
-
-### Long spined sea urchins arrive {#sec-urchins-arrive}
-
-*Intro text*
-
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
-![](../resources/images/cards/round-end-cards/urchins-arrive.jpg){.image-card .lightbox}
-:::
-
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
-
-Each player must discard all [Seaweed](#sec-seaweed) and [Giant Kelp](#sec-giant-kelp) cards from their fishing spot. 
-:::
-::::
-
-#### Learn more
-
-*Learn more*
-
-![](UrchinPhoto-small.jpg)
-
-### END OF GAME {#sec-end-game}
-
-*Intro text*
-
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
-![](../resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
-:::
-
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
-#### How to play
-
-The game is over, tally up your scores.
-:::
-::::
-
-#### Learn more
-
-*Learn more*
 
 <!-- This maintains the page body spacing on left and right, do not remove -->
 :::::::::::
