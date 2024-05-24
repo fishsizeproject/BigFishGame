@@ -45,7 +45,7 @@ Mel finds a weedy seadragon while diving at one of the Reef Life Survey sites. P
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 ### How to play
 
-Place into your fishing spot to prevent the effects of [Urchins](special-cards.qmd#sec-urchins-arrive).
+Place into your fishing spot to prevent the effects of [Urchins](../pages/round-end-cards.qmd#sec-urchins-arrive).
 :::
 ::::
 
@@ -488,7 +488,7 @@ Kelp and other seaweeds are particularly affected by poor water quality, because
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 ### How to play
 
-Place into your fishing spot to catch a [lobster](../pages.qmd#sec-southern-rock-lobster), [crab](../pages.qmd#sec-red-rock-crab) or [abalone](../pages.qmd#sec-abalone) from your fishing spot each turn.
+Place into your fishing spot to catch a [lobster](../pages/fish-cards.qmd#sec-southern-rock-lobster), [crab](../pages/fish-cards.qmd#sec-red-rock-crab) or [abalone](../pages/fish-cards.qmd#sec-abalone) from your fishing spot each turn.
 :::
 ::::
 

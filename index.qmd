@@ -116,7 +116,7 @@ Commercial and recreational fishing has removed most of the large fish from the 
 Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes.
 
 ::: {.text-center}
-[Explore the Science](pages/special-cards.qmd){.btn .btn-accent}
+[Explore the Science](pages/wildcards.qmd){.btn .btn-accent}
 :::
 :::::
 ::::::
