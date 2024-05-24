@@ -19,15 +19,15 @@ sidebar: false
 ## The sustainable fishing game {.newsubtitle}
 :::
 
-:::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.25em; margin-bottom: 5%"}
+:::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.25em; margin-bottom: 5%; color: var(--bs-accent);"}
 ::: g-col-6
-![](resources/icons/children-solid.svg){width="25%"}
+![](resources/icons/children-solid-vermillion.svg){width="25%"}
 
 Suitable for ages 10+
 :::
 
 ::: g-col-6
-![](resources/icons/users-solid.svg){width="25%"}
+![](resources/icons/users-line-solid-vermillion.svg){width="25%"}
 
 Best for groups of 2-5 players
 :::
@@ -79,7 +79,7 @@ These events create unpredictability and new challenges and inform us on how hum
 :::
 
 ::: {.g-col-12 .text-center .img-container style="margin-bottom: 1em; margin-top: 0.5em;"}
-[Read the Rules](pages/rules.qmd){.h3 .btn .btn-primary}
+[Read the Rules](pages/rules.qmd){.h3 .btn .btn-accent}
 :::
 ::::
 :::::
@@ -116,7 +116,7 @@ Commercial and recreational fishing has removed most of the large fish from the 
 Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes.
 
 ::: {.text-center}
-[Explore the Science](pages/special-cards.qmd){.h3 .btn .btn-primary}
+[Explore the Science](pages/special-cards.qmd){.btn .btn-accent}
 :::
 :::::
 ::::::
@@ -130,7 +130,7 @@ This game has been developed by the Institute of Marine and Antarctic Sciences (
 Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.
 
 ::: text-center
-[About Us](pages/about.qmd){.h3 .btn .btn-secondary}
+[About Us](pages/about.qmd){.h3 .btn .btn-accent}
 :::
 :::::
 
@@ -158,7 +158,7 @@ This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded t
 If you want to support this work, you can buy your very own copy of the BigFish card game!
 
 ::: text-center
-[How to Buy](pages/how-to-buy.qmd){.h3 .btn .btn-secondary}
+[How to Buy](pages/how-to-buy.qmd){.h3 .btn .btn-accent}
 :::
 ::::
 

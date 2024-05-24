@@ -15,7 +15,7 @@ sidebar: false
 # How to play
 
 :::::: {.grid .justify-contents-evenly .align-items-center .text-center}
-::::: {.g-col-6 .my-3 style="flex-shrink: 1; background-color: var(--bs-primary-light); padding: 2rem; margin: 0px;"}
+::::: {.g-col-6 .my-3 style="flex-shrink: 1; background-color: var(--bs-accent-light); padding: 2rem; margin: 0px;"}
 <iframe width="700" height="390" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 :::::
@@ -23,27 +23,27 @@ sidebar: false
 ::::: {.g-col-6 style="flex-grow: 1;"}
 Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more.
 
-:::: {.grid .justify-contents-evenly .align-items-center .text-center}
+:::: {.grid .justify-contents-evenly .align-items-end .text-center}
 ::: {.g-col-3 style="flex-grow: 1;"}
-[![](../resources/icons/children-solid.svg){width="50%"}](../pages/rules.qmd#sec-setup)
+[![](../resources/icons/users-rectangle-solid-vermillion.svg){width="50%"}](../pages/rules.qmd#sec-setup)
 
 #### [Setup](../pages/rules.qmd#sec-setup) {.text-center}
 :::
 
 ::: {.g-col-3 style="flex-grow: 1;"}
-[![](../resources/icons/children-solid.svg){width="50%"}](../pages/rules.qmd#sec-gameplay)
+[![](../resources/icons/fish-solid-vermillion.svg){width="50%"}](../pages/rules.qmd#sec-gameplay)
 
 #### [Gameplay](../pages/rules.qmd#sec-gameplay) {.text-center}
 :::
 
 ::: {.g-col-3 style="flex-grow: 1;"}
-[![](../resources/icons/children-solid.svg){width="50%"}](../pages/rules.qmd#sec-round-end)
+[![](../resources/icons/arrow-rotate-right-solid-vermillion.svg){width="50%"}](../pages/rules.qmd#sec-round-end)
 
 #### [Round end](../pages/rules.qmd#sec-round-end) {.text-center}
 :::
 
 ::: {.g-col-3 style="flex-grow: 1;"}
-[![](../resources/icons/children-solid.svg){width="50%"}](../pages/rules.qmd#sec-game-end)
+[![](../resources/icons/trophy-solid-vermillion.svg){width="50%"}](../pages/rules.qmd#sec-game-end)
 
 #### [Game end](../pages/rules.qmd#sec-game-end) {.text-center}
 :::
@@ -150,9 +150,7 @@ This encourages to keep a healthy ecosystem.
 Add these points to your total score.
 This encourages to keep a healthy ecosystem and large fish for the future.
 
-::: text-center
-### The winner is the player with the most points! {.text-center}
-:::
+### The winner is the player with the most points! {.text-center style="color: var(--bs-secondary);"}
 :::
 
 ::: {.g-col-3 .img-container .text-center}

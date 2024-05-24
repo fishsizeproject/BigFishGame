@@ -21,17 +21,16 @@ $vermillion: #B7322E;
 $vermillion-light: #E79E9C;
 $gold: #F09318;
 $gold-light: #F7C078;
-$purple: #404363; // #362B4F;
-$purple-light: #8588B0;
+$purple: #404363;
 $blue: #60CDE8;
 $turquoise-light: #A7E2F1;
 
 $primary:         $purple;
-$primary-light:   $purple-light;
+$primary-light:   lighten($primary, 40%);
 $secondary:       $gold;
-$secondary-light: $gold-light;
+$secondary-light: lighten($secondary, 40%);
 $accent:          $vermillion;
-$accent-light:    $vermillion-light;
+$accent-light:    lighten($accent, 20%);
 $ghost:           #f9f8fe; // off-White
 
 $theme-colors: (
@@ -63,7 +62,7 @@ $headings-line-height: 1.25em;
 $toc-font-size:  0.6em;           // The font size for the page TOC.
 
 $link-color:            $accent;         // The link color.
-$link-hover-color:      $secondary;      // The link color. on hover
+$link-hover-color:      $accent-light;   // The link color. on hover
 
 $input-bg:       $light;   // The background color for HTML inputs.
 $popover-bg:     $light;   // The background color for popovers (e.g. when a citation preview is shown).
@@ -76,12 +75,12 @@ $code-block-bg:                   $light;
 $code-block-bg-padding:           0.5em;
 
 // Code Copy (enable code-copy: true)
-$btn-code-copy-color:             $accent;
-$btn-code-copy-color-active:      $accent;
+$btn-code-copy-color:             $secondary;
+$btn-code-copy-color-active:      $secondary-light;
 
 // Inline Code
 $code-bg:         $light;   // The background color of inline code.
-$code-color:      $accent;      // The text color of inline code.
+$code-color:      $primary;  // The text color of inline code.
 
 $input-btn-padding-x:         1rem !default;
 $btn-font-weight:             300 !default;
@@ -102,14 +101,15 @@ $content-padding-top:               0em;          // Padding before main content
 // Navigation
 $dropdown-bg:                       $white;
 $navbar-bg:                         $primary;
-$navbar-fg:                         $ghost;
-$navbar-hl:                         $light;
-$sidebar-bg:                        lighten($primary, 50%);
+$navbar-fg:                         $light;
+$navbar-hl:                         $accent-light;
+$nav-link-hover-color:              $accent-light;
+$sidebar-bg:                        $primary-light; //lighten($primary, 50%);
 $sidebar-fg:                        $black;
-$sidebar-hl:                        $dark;
+$sidebar-hl:                        $accent-light;
 $footer-bg:                         $primary;
-$footer-fg:                         $ghost;
-$footer-hl:                         $light;
+$footer-fg:                         $light;
+$footer-hl:                         $accent-light;
 
 /*-- scss:rules --*/
 
@@ -153,18 +153,18 @@ main.content > section:first-of-type > .h2:first-child {
 .maintitle {
   font-size: min(max(calc(6vw), 60px), 125px) !important;
   text-align: center;
-  color: $primary !important;
   padding: 0% 5% 0% 5%;
   margin-top: 0.2em;
+  color: $accent !important;
 }
 
 .newsubtitle {
   font-size: min(max(calc(3vw), 25px), 50px) !important;
   text-align: center;
-  color: $primary !important;
   padding: 0%;
   line-height: 110%;
   margin-top: 0.2em;
+  color: $accent !important;
 }
 
 .feature-text {
@@ -184,20 +184,16 @@ main.content > section:first-of-type > .h2:first-child {
   font-style: italic;
 }
 
-.pagetitle {
-  font-size: min(calc(5vw), 100px) !important;
-  color: $ghost !important;
-  padding: 10%;
-  line-height: 100%;
-}
-
 .navbar {
   font-weight: $headings-font-weight;
-  //background-color: $white;  /* Modern Browsers */
-  //color: $primary;
   font-size: 1.25em;
   line-height: 150%;
   padding: 0.5em 0.5em;
+}
+
+.navbar-brand:hover, .navbar-brand:focus
+.nav-link:hover, .nav-link:focus {
+  color: $accent-light !important;
 }
 
 .nav-footer {
@@ -210,48 +206,36 @@ main.content > section:first-of-type > .h2:first-child {
   margin-top: 0;
 }
 
-/*
-.sidebar .collapse {
-  // position: fixed;
-  // left: 50px;
-  top: 300px;
-  max-height: calc(-300px + 100vh);
-  color: $black;
-}
-
-.quarto-sidebar-toggle {
-  //border-color: #dee2e6;
-  //border-bottom-left-radius: .25rem;
-  //border-bottom-right-radius: .25rem;
-  border-style: none;
-  border-width: 0px;
-  overflow: visible;
-  //border-top-width: 0px;
-  //padding-top: 0px !important;
-}
-*/
-
 .btn {
+  text-decoration: none !important;
+  color: $ghost !important;
   &-primary {
     background-color: $primary;
     border-color: shade-color($primary, 10%);
+    font-size: $h3-font-size;
+    &:hover {
+      background-color: shade-color($primary, 50%);
+      border-color: shade-color($primary, 60%);
+    }
   }
   &-secondary {
-    background-color: $primary;
-    border-color: shade-color($primary, 10%);
+    background-color: $secondary;
+    border-color: shade-color($secondary, 10%);
+    font-size: $h4-font-size;
+    &:hover {
+      background-color: shade-color($secondary, 20%);
+      border-color: shade-color($secondary, 30%);
+    }
   }
-}
-
-.btn-primary {
-  color: $ghost !important;
-  text-decoration: none !important;
-  font-size: $h4-font-size;
-}
-
-.btn-secondary {
-  color: $ghost !important;
-  text-decoration: none !important;
-  font-size: $h5-font-size;
+  &-accent {
+    background-color: $accent;
+    border-color: shade-color($accent, 10%);
+    font-size: $h4-font-size;
+    &:hover {
+      background-color: shade-color($accent, 30%);
+      border-color: shade-color($accent, 40%);
+    }
+  }
 }
 
 .btn {
@@ -263,17 +247,13 @@ main.content > section:first-of-type > .h2:first-child {
 	line-height: 1.25;
 	border-radius: 0.25rem;
 	transition: all 0.15s ease-in-out;
-  padding: 0.7em 1em 0.7em 1em;
+  padding: 0.7em 1.1em 0.7em 1.1em;
   margin: 0.25em;
 }
 
 .btn:focus,
 .btn:hover {
 	text-decoration: none;
-}
-
-.btn-outline-secondary {
-  color: var(--bs-primary-color);
 }
 
 .btn-group {

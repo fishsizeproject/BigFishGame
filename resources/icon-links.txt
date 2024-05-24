@@ -1,0 +1,18 @@
+Replace the last 6 characters of the URL with a HEX to get the correct colour
+
+https://fontawesome.com/icons/arrow-rotate-right?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/flag?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/fish?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/trophy?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/users-rectangle?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/children?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/address-card?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/circle-check?f=classic&s=regular&pc=%23F3F1EA
+https://fontawesome.com/icons/envelope?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/github?f=brands&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/rss?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/handshake-angle?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/hand-holding-heart?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/user?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/users?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/users-line?f=classic&s=solid&pc=%23F3F1EA
