@@ -76,13 +76,17 @@ Draw a face-down card. If it is a fish card, release it into your fishing spot a
 ### Learn more
 
 :::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-6}
+::: {.g-col-8}
 - Learn why orange roughy is so vulnerable to overfishing [here](https://www.pmcsa.ac.nz/2021/02/21/orange-roughy-stock-health/)
 - Information on current orange roughy monitoring can be found [here](https://www.csiro.au/en/research/animals/fisheries/monitoring-orange-roughy) and [this article](https://www.abc.net.au/news/rural/2018-08-14/orange-roughy-returns-for-fishing-in-tasmania/10113938) shows how the species is now beginning to come back in Tasmania
+
+::: {.caption-p style="text-align: right;"}
+A diver being handed a stereo-video system. The diver will swim transects, and all fish observed will be counted and measured to get baseline information on species abundance and body size. Photo: A.R. Coghlan.
+:::
 :::
 
-::: {.g-col-6}
-![Image of a diver being handed a stereo-video system. The diver will swim transects, and all fish observed will be counted and measured to get baseline information on species abundance and body size. Photo: A.R. Coghlan.](../resources/images/pretty-pics/Fisheries research - diver operated video.jpg)
+::: {.g-col-4}
+![](../resources/images/pretty-pics/Fisheries research - diver operated video.jpg)
 :::
 ::::
 
@@ -104,16 +108,20 @@ When this card is drawn at the end of a round, the subsequent round will have no
 
 ### Learn more
 
-:::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-6}
+::::: {.grid .justify-contents-evenly .align-items-center}
+:::: {.g-col-4 .text-center}
+![](../resources/images/pretty-pics/spotted-handfish-2-small-cropped.jpg)
+::::
+
+:::: {.g-col-8}
 - There is evidence of marine biodiversity decline - read about it [here](https://ocean-climate.org/en/awareness/the-decline-of-marine-biodiversity/#:~:text=The%20loss%20of%20marine%20biodiversity,global%20ecological%20and%20climate%20regulator), [here](https://oursharedseas.com/threats/threats-habitat-and-biodiversity/) and [here](https://www.nrdc.org/bio/lauren-kubiak/marine-biodiversity-dangerous-decline-finds-new-report).
 - Learn about the importance of marine biodiversity [here](https://www.msc.org/en-au/what-we-are-doing/oceans-at-risk/marine-biodiversity)
-:::
 
-::: {.g-col-6}
-![The species featured on the Localised Species Extinction wildcard in the BigFish cardgame is the spotten handfish. The spotted handfish is endemic to Tasmania and is currently classified as critically endangered. Photo: Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/)](../resources/images/pretty-pics/large/spotted-handfish-1.jpg){width="50%" fig-align="center"}
+::: {.caption-p style="text-align: left;"}
+The fish featured on the Localised Species Extinction card in the game is a spotten handfish. The spotted handfish is endemic to Tasmania and is currently classified as critically endangered. Photo: Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
 :::
 ::::
+:::::
 
 ## Ocean acidification {#sec-ocean-acidification}
 
@@ -136,7 +144,11 @@ Increasing atmospheric carbon increases the amount of carbon which dissolves int
 - NOAA provides a great overview of ocean acidification on [their website](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification)
 - The Nature Education Knowledge Project also has a detailed explanation of the chemistry behind ocean acidification [here](https://www.nature.com/scitable/knowledge/library/ocean-acidification-25822734/)
 
-![Left: A heteropod (zooplanktonic gastropod mollusc) collected off eastern Australia during a planktonic trawl on the RV Investigator. Heteropods are considered particularly vulnerable to ocean acidification due to their aragonite shells, which are particularly sensitive to dissolving. Centre: Sea urchin spines, gastropod and bivavle mollusc shells as seen through a dissecting microscope, all subject to negative impacts of ocean acidification. Right: Shells of a polyplacophoran (chiton) as seen through a dissecting microscope. Photos: A.R. Coghlan.](../resources/images/pretty-pics/ocean-acidification-small.png){width="65%" fig-align="center"}
+![](../resources/images/pretty-pics/ocean-acidification-small.png){width="70%" fig-align="center"}
+
+::: {.caption-p style="text-align: left;"}
+Left: A heteropod (zooplanktonic gastropod mollusc) collected off eastern Australia during a planktonic trawl on the RV Investigator. Heteropods are considered particularly vulnerable to ocean acidification due to their aragonite shells, which are particularly sensitive to dissolving. Centre: Sea urchin spines, gastropod and bivavle mollusc shells as seen through a dissecting microscope, all subject to negative impacts of ocean acidification. Right: Shells of a polyplacophoran (chiton) as seen through a dissecting microscope. Photos: A.R. Coghlan.
+:::
 
 ## Plankton swarm occurs {#sec-plankton-swarm}
 
@@ -159,13 +171,17 @@ Each player must grow a larval fish into a juvenile fish.
 ### Learn more
 
 :::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-6}
-- Learn about phytoplankton from the Australian museum [here](https://australian.museum/learn/animals/plankton/)
-- Check out [this article](https://aappartnership.org.au/mind-the-gaps-marine-zooplankton-futures-in-a-warming-world/#:~:text=Zooplankton%20play%20a%20critical%20role,respiring%20surface%20carbon%20at%20depth) about how a warming climate will affect zooplankton
+::: {.g-col-9}
+- Learn about phytoplankton from the Australian museum [here](https://australian.museum/learn/animals/plankton/).
+- Check out [this article](https://aappartnership.org.au/mind-the-gaps-marine-zooplankton-futures-in-a-warming-world/#:~:text=Zooplankton%20play%20a%20critical%20role,respiring%20surface%20carbon%20at%20depth) about how a warming climate will affect zooplankton.
+
+::: {.caption-p style="text-align: right;"}
+Plankton are tiny plants that bloom under ideal conditions, and are the first step in a food chain from sunlight to fish. Click on the picture to zoom in - the animals are tiny! Photo: A.R. Coghlan.
+:::
 :::
 
-::: {.g-col-6}
-![Plankton are tiny plants that bloom under ideal conditions, and are the first step in a food chain from sunlight to fish. Photo: A.R. Coghlan.](../resources/images/pretty-pics/plankton-bloom.jpg)
+::: {.g-col-3}
+![](../resources/images/pretty-pics/plankton-bloom.jpg){.lightbox}
 :::
 ::::
 
@@ -207,16 +223,14 @@ Each player must spawn a larval fish into their fishing spot.
 
 ### Learn more
 
-:::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-6}
 - Learn why big snapper produce more offspring [here](https://www.pewtrusts.org/en/research-and-analysis/fact-sheets/2011/04/17/the-plan-to-save-red-snapper)
 - Learn about the plan to [Save the Red Snapper](https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2016/older-bigger-red-snapper-have-more-offspring-and-boost-species-recovery)
-:::
 
-::: {.g-col-6}
-![Photo of a fisherman with fish of different sizes. Photo: A.R. Coghlan.](../resources/images/pretty-pics/upper-size-limit.JPG)
+![](../resources/images/upper-size-limit.JPG){width="65%" fig-align="center"}
+
+::: {.caption-p style="text-align: center;"}
+Photo of a fisherman with fish of different sizes. Photo: A.R. Coghlan.
 :::
-::::
 
 ## Long spined sea urchins arrive {#sec-urchins-arrive}
 
@@ -236,9 +250,19 @@ Each player must discard all [Seaweed](#sec-seaweed) and [Giant Kelp](#sec-giant
 
 ### Learn more
 
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: {.g-col-8}
 *Learn more*
 
-![](UrchinPhoto-small.jpg)
+::: {.caption-p style="text-align: right;"}
+Invasive or overabundant urchins can quickly strip a reef of all seaweed and algae, creating an "urchin barren". Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com).
+:::
+:::
+
+::: {.g-col-4}
+![](../resources/images/pretty-pics/UrchinPhoto-small.jpg)
+:::
+::::
 
 ## END OF GAME {#sec-end-game}
 
@@ -256,9 +280,9 @@ The game is over, tally up your scores.
 :::
 ::::
 
-### Learn more
+<!-- ### Learn more -->
 
-*Learn more*
+<!-- *Learn more* -->
 
 <!-- This maintains the page body spacing on left and right, do not remove -->
 :::::::::::

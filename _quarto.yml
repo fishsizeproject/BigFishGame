@@ -17,21 +17,21 @@ website:
     collapse: false
     left:
       - text: "Rules"
-        href: ../pages/rules.qmd
+        href: pages/rules.qmd
       - text: "Cards"
         menu:
           - text: "Fish cards"
-            href: ../pages/fish-cards.qmd
+            href: pages/fish-cards.qmd
           - text: "Wildcards"
-            href: ../pages/wildcards.qmd
+            href: pages/wildcards.qmd
           - text: "Round-end cards"
-            href: ../pages/round-end-cards.qmd
+            href: pages/round-end-cards.qmd
       - text: "Media & Events"
-        href: ../pages/media-events.qmd
+        href: pages/media-events.qmd
       - text: "About Us"
-        href: ../pages/about.qmd
+        href: pages/about.qmd
       - text: "How To Buy"
-        href: ../pages/how-to-buy.qmd
+        href: pages/how-to-buy.qmd
   page-footer:
     left: |
       [![](/resources/icons/ic--baseline-mail.svg)](mailto:info@fishsizeproject.org) [info@fishsizeproject.org](mailto:info@fishsizeproject.org)<br>
@@ -78,112 +78,112 @@ website:
       - section: "Wildcards"
         contents:
         - text: "Blue Groper"
-          href: ../pages/wildcards.qmd#sec-blue-groper
+          href: pages/wildcards.qmd#sec-blue-groper
         - text: "Catch or Release"
-          href: ../pages/wildcards.qmd#sec-catch-or-release
+          href: pages/wildcards.qmd#sec-catch-or-release
         - text: "Citizen science"
-          href: ../pages/wildcards.qmd#sec-citizen-science
+          href: pages/wildcards.qmd#sec-citizen-science
         - text: "Centre for Marine Socioecology (CMS)"
-          href: ../pages/wildcards.qmd#sec-cms
+          href: pages/wildcards.qmd#sec-cms
         - text: "Delicious bait"
-          href: ../pages/wildcards.qmd#sec-delicious-bait
+          href: pages/wildcards.qmd#sec-delicious-bait
         - text: "Fishing kayak"
-          href: ../pages/wildcards.qmd#sec-fishing-kayak
+          href: pages/wildcards.qmd#sec-fishing-kayak
         - text: "Fishing rod"
-          href: ../pages/wildcards.qmd#sec-fishing-rod
+          href: pages/wildcards.qmd#sec-fishing-rod
         - text: "Giant kelp"
-          href: ../pages/wildcards.qmd#sec-giant-kelp
+          href: pages/wildcards.qmd#sec-giant-kelp
         - text: "Humpback whale"
-          href: ../pages/wildcards.qmd#sec-humpback-whale
+          href: pages/wildcards.qmd#sec-humpback-whale
         - text: "Illegal fishing"
-          href: ../pages/wildcards.qmd#sec-illegal-fishing
+          href: pages/wildcards.qmd#sec-illegal-fishing
         - text: "Large shark"
-          href: ../pages/wildcards.qmd#sec-large-shark
+          href: pages/wildcards.qmd#sec-large-shark
         - text: "Marine protected area"
-          href: ../pages/wildcards.qmd#sec-marine-protected-area
+          href: pages/wildcards.qmd#sec-marine-protected-area
         - text: "Poor water quality"
-          href: ../pages/wildcards.qmd#sec-poor-water-quality
+          href: pages/wildcards.qmd#sec-poor-water-quality
         - text: "SCUBA equipment"
-          href: ../pages/wildcards.qmd#sec-scuba-equipment
+          href: pages/wildcards.qmd#sec-scuba-equipment
         - text: "Seaweed"
-          href: ../pages/wildcards.qmd#sec-seaweed
+          href: pages/wildcards.qmd#sec-seaweed
         - text: "Severe weather"
-          href: ../pages/wildcards.qmd#sec-severe-weather
+          href: pages/wildcards.qmd#sec-severe-weather
         - text: "Shellfish reef"
-          href: ../pages/wildcards.qmd#sec-shellfish-reef
+          href: pages/wildcards.qmd#sec-shellfish-reef
       - text: "-----"
       - section: "Round-End Cards"
         contents:
         - text: "El Niño begins"
-          href: ../pages/round-end-cards.qmd#sec-el-nino-begins
+          href: pages/round-end-cards.qmd#sec-el-nino-begins
         - text: "Fisheries research occurs"
-          href: ../pages/round-end-cards.qmd#sec-fisheries-research
+          href: pages/round-end-cards.qmd#sec-fisheries-research
         - text: "Localised species extinction"
-          href: ../pages/round-end-cards.qmd#sec-localised-species-extinction
+          href: pages/round-end-cards.qmd#sec-localised-species-extinction
         - text: "Ocean acidification"
-          href: ../pages/round-end-cards.qmd#sec-ocean-acidification
+          href: pages/round-end-cards.qmd#sec-ocean-acidification
         - text: "Plankton swarm occurs"
-          href: ../pages/round-end-cards.qmd#sec-plankton-swarm
+          href: pages/round-end-cards.qmd#sec-plankton-swarm
         - text: "Seaweed planting occurs"
-          href: ../pages/round-end-cards.qmd#sec-seaweed-planting
+          href: pages/round-end-cards.qmd#sec-seaweed-planting
         - text: "Fisheries impose upper size limit"
-          href: ../pages/round-end-cards.qmd#sec-upper-size-limit
+          href: pages/round-end-cards.qmd#sec-upper-size-limit
         - text: "Long spined sea urchins arrive"
-          href: ../pages/round-end-cards.qmd#sec-urchins-arrive
+          href: pages/round-end-cards.qmd#sec-urchins-arrive
         - text: "END GAME"
-          href: ../pages/round-end-cards.qmd#sec-end-game
+          href: pages/round-end-cards.qmd#sec-end-game
       - text: "-----"
       - text: " Game Setup & Rules"
-        href: ../pages/rules.qmd
+        href: pages/rules.qmd
   - id: fish-sidebar
     style: "docked"
     border: true
     pinned: false
     contents:
       - text: "Abalone"
-        href: ../pages/fish-cards.qmd#sec-abalone
+        href: pages/fish-cards.qmd#sec-abalone
       - text: "Australian Red Cod"
-        href: ../pages/fish-cards.qmd#sec-australian-red-cod
+        href: pages/fish-cards.qmd#sec-australian-red-cod
       - text: "Banded Morwong"
-        href: ../pages/fish-cards.qmd#sec-banded-morwong
+        href: pages/fish-cards.qmd#sec-banded-morwong
       - text: "Bastard Trumpeter"
-        href: ../pages/fish-cards.qmd#sec-bastard-trumpeter
+        href: pages/fish-cards.qmd#sec-bastard-trumpeter
       - text: "Blue Fin Tuna"
-        href: ../pages/fish-cards.qmd#sec-blue-fin-tuna
+        href: pages/fish-cards.qmd#sec-blue-fin-tuna
       - text: "Blue Mackerel"
-        href: ../pages/fish-cards.qmd#sec-blue-mackerel
+        href: pages/fish-cards.qmd#sec-blue-mackerel
       - text: "Bluethroat Wrasse"
-        href: ../pages/fish-cards.qmd#sec-bluethroat-wrasse
+        href: pages/fish-cards.qmd#sec-bluethroat-wrasse
       - text: "Brownstriped Leatherjacket"
-        href: ../pages/fish-cards.qmd#sec-brownstriped-leatherjacket
+        href: pages/fish-cards.qmd#sec-brownstriped-leatherjacket
       - text: "Draughtboard Shark"
-        href: ../pages/fish-cards.qmd#sec-draughtboard-shark
+        href: pages/fish-cards.qmd#sec-draughtboard-shark
       - text: "Flounder"
-        href: ../pages/fish-cards.qmd#sec-flounder
+        href: pages/fish-cards.qmd#sec-flounder
       - text: "Herring Cale"
-        href: ../pages/fish-cards.qmd#sec-herring-cale
+        href: pages/fish-cards.qmd#sec-herring-cale
       - text: "Longfin Pike"
-        href: ../pages/fish-cards.qmd#sec-longfin-pike
+        href: pages/fish-cards.qmd#sec-longfin-pike
       - text: "Longsnout Boarfish"
-        href: ../pages/fish-cards.qmd#sec-longsnout-boarfish
+        href: pages/fish-cards.qmd#sec-longsnout-boarfish
       - text: "Marblefish"
-        href: ../pages/fish-cards.qmd#sec-marblefish
+        href: pages/fish-cards.qmd#sec-marblefish
       - text: "Purple Wrasse"
-        href: ../pages/fish-cards.qmd#sec-purple-wrasse
+        href: pages/fish-cards.qmd#sec-purple-wrasse
       - text: "Red Rock Crab"
-        href: ../pages/fish-cards.qmd#sec-red-rock-crab
+        href: pages/fish-cards.qmd#sec-red-rock-crab
       - text: "Sand Flathead"
-        href: ../pages/fish-cards.qmd#sec-sand-flathead
+        href: pages/fish-cards.qmd#sec-sand-flathead
       - text: "Senator Wrasse"
-        href: ../pages/fish-cards.qmd#sec-senator-wrasse
+        href: pages/fish-cards.qmd#sec-senator-wrasse
       - text: "Shaws Cowfish"
-        href: ../pages/fish-cards.qmd#sec-shaws-cowfish
+        href: pages/fish-cards.qmd#sec-shaws-cowfish
       - text: "Southern Rock Lobster"
-        href: ../pages/fish-cards.qmd#sec-southern-rock-lobster
+        href: pages/fish-cards.qmd#sec-southern-rock-lobster
       - text: "Toothbrush Leather Jacket"
-        href: ../pages/fish-cards.qmd#sec-toothbrush-leather-jacket
+        href: pages/fish-cards.qmd#sec-toothbrush-leather-jacket
       - text: "Yellowtail Kingfish"
-        href: ../pages/fish-cards.qmd#sec-yellowtail-kingfish
+        href: pages/fish-cards.qmd#sec-yellowtail-kingfish
 
 format:
   html:
