@@ -35,22 +35,24 @@ Best for groups of 2-5 players
 :::::
 ::::::
 
-::: {.column-page  .spacer-3em .feature-text}
+::: {.column-page  .spacer-5rem .feature-text}
 The BigFish card game informs and engages everyone interested in fishing or marine conservation through fun play.
 
 The goal of the game is to collect the maximum number of points from catching fish, while also preserving a healthy ecosystem and fish size diversity for future catches.
 :::
 
-::: {.column-screen .img-container}
-![](resources/images/pretty-pics/goatfish-small.jpg){width="33.33333%" .img-tile-lg}![](resources/images/pretty-pics/goatfish-small.jpg){width="33.33333%" .img-tile-lg}![](resources/images/pretty-pics/goatfish-small.jpg){width="33.33333%" .img-tile-lg}
-:::
-*will replace with other images...*
+<!-- ::: {.column-screen .img-container} -->
+<!-- ![](resources/images/pretty-pics/goatfish-small.jpg){width="33.33333%" .img-tile-lg}![](resources/images/pretty-pics/goatfish-small.jpg){width="33.33333%" .img-tile-lg}![](resources/images/pretty-pics/goatfish-small.jpg){width="33.33333%" .img-tile-lg} -->
+<!-- ::: -->
 
+<!-- ::: spacer-3em -->
 
+<!-- ::: -->
+
+:::::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen}
+::::: {.g-col-8 .mx-5}
 ## Playing the game
 
-:::::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen .spacer-3em}
-::::: {.g-col-8 .mx-5}
 :::: {.grid .justify-contents-evenly .align-items-center .homepage-p}
 ::: {.g-col-2 .img-container .my-2}
 ![](resources/images/esky.jpg){width="75%"}
@@ -87,51 +89,23 @@ These events create unpredictability and new challenges and inform us on how hum
 :::::
 ::::::
 
-<!-- ## Playing the game -->
+## Main messages
 
-<!-- :::: {.grid  .spacer-3em .justify-contents-evenly .align-items-center .column-page .homepage-p} -->
-<!-- ::: {.g-col-2} -->
-<!-- ![](resources/images/esky.jpg){width="75%"} -->
-<!-- ::: -->
+<!-- This game aims to introduce three main messages that we care about: -->
 
-<!-- ::: {.g-col-10} -->
-<!-- Big fish are worth more points than small fish, so players are tempted to catch them. But the presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving fish for good fishing opportunities.  -->
-<!-- ::: -->
+::: {.homepage-p .text-center style="margin-bottom: 1.em"}
+Through its mechanics this game illustrates three main messages about the part big fish play in the ocean, and how human activities affect them.
+:::
 
-<!-- ::: {.g-col-2 .g-start-2} -->
-<!-- ![](resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card width="75%"} -->
-<!-- ::: -->
+:::::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen}
+::::: {.g-col-5 .img-container}
+![](resources/images/pretty-pics/urchin-zoanthid barren-small.jpg)
+:::::
 
-<!-- ::: {.g-col-8} -->
-<!-- In addition to fishing, other natural and human-induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification, and others.  -->
-<!-- ::: -->
-
-<!-- ::: {.g-col-2 .g-start-3} -->
-<!-- ![](resources/images/Bigfish-logo.png) -->
-<!-- ::: -->
-
-<!-- ::: {.g-col-6} -->
-<!-- These events create unpredictability and new challenges and inform us on how humans impact aquatic ecosystems. -->
-<!-- ::: -->
-
-<!-- ::: {.g-col-12 .text-center} -->
-<!-- [Read the Rules](pages/rules.qmd){.h3 .btn .btn-primary} -->
-<!-- ::: -->
-<!-- :::: -->
-
-<!-- :::::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen .spacer-3em} -->
-<!-- ::::: {.g-col-4 .img-container} -->
-<!-- ![](resources/images/pretty-pics/crayfish-2-small.jpg) -->
-<!-- ::::: -->
-
-::::: {.g-col-8 .mx-5}
-## Main messages {style="margin-top: 0.5em;"}
-
-This game aims to introduce three main messages that we care about:
-
+::::: {.g-col-7 .mx-5}
 ### 1. Big fish are important
 
-They are important for population resilience, ecosystem balance and simply because they are beautiful.
+Big are important for population resilience, ecosystem balance and simply because they are beautiful.
 
 ### 2. Big fish are mostly all gone
 
@@ -147,7 +121,7 @@ Fish grow relatively fast and we take the right measures, we can restore healthy
 :::::
 ::::::
 
-:::::: {.grid .justify-contents-evenly .align-items-center .column-page .spacer-3em .homepage-p}
+:::::: {.grid .justify-contents-evenly .align-items-center .column-page .spacer-5rem .homepage-p}
 ::::: {.g-col-8}
 ## Who we are {style="margin-top: 0.5em;"}
 
@@ -158,18 +132,20 @@ Game testing, advice, interesting facts and many other details have been provide
 ::: text-center
 [About Us](pages/about.qmd){.h3 .btn .btn-secondary}
 :::
+:::::
 
+::::: {.g-col-4 .text-center}
+![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot} 
+![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot}
+ 
+![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot} 
+![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot}
+:::::
+
+::::: {.g-col-12}
 ### Contact us
 
 If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info@fishsizeproject.org](mailto:info@fishsizeproject.org).
-:::::
-
-::::: {.g-col-4 .text-center .img-container}
-![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot} 
-![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot}
-
-![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot}
-![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot}
 :::::
 ::::::
 
