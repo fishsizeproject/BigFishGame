@@ -53,7 +53,7 @@ $body-color:          #120E1B;           // The page text color.
 
 //$headings-font-family: "Barlow", !default;
 //$headings-font-weight:        200 !default;
-$font-size-root: 1.05rem;
+$font-size-root: 1.1rem;
 $h4-font-size:   1.2rem;
 $h3-font-size:   1.5rem;
 $h2-font-size:   2.25rem;
@@ -176,6 +176,12 @@ main.content > section:first-of-type > .h2:first-child {
 
 .homepage-p {
   font-size: 1.1em;
+}
+
+.caption-p {
+  font-size: 0.9rem;
+  color: $primary !important;
+  font-style: italic;
 }
 
 .pagetitle {

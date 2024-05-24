@@ -12,22 +12,24 @@ sidebar: special-sidebar
 :::
 
 <!-- This maintains the page body spacing on left and right, do not remove -->
-::: {.column-body style="margin-left: 3.5em; margin-right: 3.5em"}
+::::::::::: {.column-body style="margin-left: 3.5em; margin-right: 3.5em"}
 
 
 ## Wild cards {#sec-wildcards}
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-8}
-On this page you can learn more about the Wild cards and Round end cards included in the game. We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please [contact us](../pages/about.qmd)!
-:::
+::::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
+:::: {.g-col-7}
+On this page you can learn more about the science behind the [Wildcards](#sec-blue-groper) and [Round-end cards](#sec-round-end-cards) included in the game. We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please [contact us](../pages/about.qmd)!
 
-::: {.g-col-4 .text-center}
-![](../resources/images/pretty-pics/Mel-and-the-seadragon.jpg){width="85%"}
-
-Dive at Reef Life Survey sites. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com)
+::: {.caption-p style="text-align: right;"}
+Mel finds a weedy seadragon while diving at one of the Reef Life Survey sites. Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com).
 :::
 ::::
+
+:::: {.g-col-5 .text-center .img-container}
+![](../resources/images/pretty-pics/Mel-and-the-seadragon.jpg){width="85%"}
+::::
+:::::
 
 ### Blue Groper {#sec-blue-groper}
 
@@ -73,24 +75,24 @@ This card shows the importance of releasing fish back into the water when caught
 
 #### Learn more
 
-::: text-center
-<!-- Learn how to release fish safely in this video with Steve Starling -->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MVdo0PIxxnI?si=JTEXce3p0E7EYRtD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-:::
-
-:::: {.grid .justify-contents-evenly .align-items-center}
-::: g-col-8
 - You can learn about catch and release fishing from some of Australia's great angler organisations, such as [OzFish](https://ozfish.org.au/junior-ozfishers/learn-about-catch-and-release/) and [VRFish](https://www.vrfish.com.au/education/catch-and-release/)
 - [Here is a great site](https://www.dpi.nsw.gov.au/fishing/recreational/fishing-skills/catch-and-release) with information on catch and release survival rates for different NSW fish species
 - ["Keep Fish Wet"](https://www.keepfishwet.org/) is a great organisation in the USA, working with anglers to increase survival in catch and release fishing. They have three main rules to ensure released fish have good chances to survive. 
 - The [US National Parks Service](https://www.nps.gov/subjects/fishing/catch-and-release-fishing.htm#:~:text=Catch%20and%20release%20fishing%20improves,and%20reproduce%20in%20the%20ecosystem) and [NOAA](https://www.fisheries.noaa.gov/national../resources-fishing/catch-and-release-fishing-best-practices) both have some great tips on how to make sure released fish will survive. 
-:::
 
-::: g-col-4
-![](../resources/images/pretty-pics/ReleaseFish.jpg){fig-alt="Catch or release fish"}
-:::
+:::: {.grid .justify-contents-evenly .align-items-center .text-center}
+:::: g-col-5
+If you release caught fish properly,they have a high chance of survival.
+
+![](../resources/images/pretty-pics/release-fish.jpg){fig-alt="Catch or release fish"}
 ::::
+
+:::: g-col-7
+Learn how to release fish safely in this video with Steve Starling.
+
+<iframe width="700" height="390" src="https://www.youtube.com/embed/MVdo0PIxxnI?si=JTEXce3p0E7EYRtD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+::::
+:::::
 
 ### Citizen science {#sec-citizen-science}
 
@@ -116,6 +118,8 @@ By getting everyone involved in a science project the science is often more rigo
 
 #### Learn more
 
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: g-col-7
 - [Check out this article](https://www.unep.org/news-and-stories/story/citizen-scientists-dive-ocean-conservation) from UNEP on the benefits and rise of citizen science. There are plenty of citizen science initiatives that everyone can get involved in. Here are some examples:
 - [REDMap](https://www.redmap.org.au/)
 - [iNaturalist](https://www.inaturalist.org/)
@@ -124,7 +128,15 @@ By getting everyone involved in a science project the science is often more rigo
 - [Tassie Fish Frame Collection Program](https://www.facebook.com/TassieFishFrameCollectionProgram)
 - Citizen science projects at [IMAS](https://www.imas.utas.edu.au/community/citizen-science) in Tasmania, Australia
 
-![Citizen scientist helping with underwater surveys in the Reef Life Survey program. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/)](../resources/images/pretty-pics/fishResearch.jpg){.lightbox width="65%"}
+::: {.caption-p style="text-align: right;"}
+A citizen scientist helping with underwater surveys in the Reef Life Survey program. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
+:::
+:::
+
+::: {.g-col-5 .text-center}
+![](../resources/images/pretty-pics/fish-research-small.jpg)
+:::
+::::
 
 ### Centre for Marine Socioecology (CMS) {#sec-cms}
 
@@ -153,7 +165,11 @@ Remember this card is discarded after use.
 - You can also read this [mini-review article](https://www.frontiersin.org/articles/10.3389/fmars.2023.1234776/full) about art-science collaborations and the ocean
 
 
-![Research themes of the Centre for Marine Socioecology. Check out [their website](https://marinesocioecology.org/) to learn more about the initiatives that support these themes.](../resources/images/CMSthemes.png){width="75%" fig-align="center"}
+![](../resources/images/CMSthemes.png){width="75%" fig-align="center"}
+
+::: {.caption-p .text-center}
+These are the research themes of the Centre for Marine Socioecology. Check out [their website](https://marinesocioecology.org/) to learn more about the initiatives that support these themes.
+:::
 
 ### Delicious bait {#sec-delicious-bait}
 
@@ -167,7 +183,7 @@ Remember this card is discarded after use.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+Place into your fishing spot to catch an additional fish each turn. If you do, discard a juvenile fish.
 :::
 ::::
 
@@ -187,7 +203,7 @@ Remember this card is discarded after use.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+Catch a medium-sized fish from either the face-up cards or your fishing spot. Discard after use. 
 :::
 ::::
 
@@ -207,7 +223,7 @@ Remember this card is discarded after use.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+Place into your fishing spot to catch an additional from your fishing spot each turn.
 :::
 ::::
 
@@ -257,7 +273,19 @@ Kelp is extremely important in providing habitats for all marine creatures, and 
 - Learn about giant kelp restoration efforts by [IMAS](https://www.imas.utas.edu.au/news/news-items/restoring-tasmanias-giant-kelp-forests-the-focus-of-new-research-project), [OzFish](https://ozfish.org.au/projects/giant-kelp-restoration-project-tasmania/) and [The Nature Conservancy](https://www.natureaustralia.org.au/newsroom/giant-kelp-forest-restoration-partnership-announcement/)
 - Read a [scientific article](https://www.frontiersin.org/articles/10.3389/fmars.2020.00074/full#:~:text=Kelp%20forests%20dominate%20the%20rocky,communities%20of%20flora%20and%20fauna.) about reasons for kelp decline and restoration efforts. 
 
-![A healthy giant kelp forest. Photo: Rick Stuart-Smith, reeflifesurvey.com](../resources/images/pretty-pics/KelpPhoto.jpg){width="65%" fig-align="center"}
+:::: {.grid .justify-contents-evenly .align-items-center .text-center}
+::: g-col-6
+![](../resources/images/pretty-pics/kelp-forest-1-small.jpg)
+:::
+
+::: g-col-6
+![](../resources/images/pretty-pics/giant-kelp-small.jpg)
+:::
+::::
+
+:::: {.caption-p .text-center}
+Healthy giant kelp forests are essential to ocean health, and they're extremely beautiful. Photos: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/)
+::::
 
 ### Humpback whale {#sec-humpback-whale}
 
@@ -281,9 +309,21 @@ This card is designed to showcase how a visiting large predator like a whale can
 
 #### Learn more
 
-- A [scientific article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013255) explaining the benefits of the "whale pump".
-- A [story](https://www.alaskawhalefoundation.org/post/the-whale-pump-investigating-humpback-whale-driven-nutrient-cycling-in-southeast-alaska) about the investigation of the whale nutrient pump
-- A [popular article](https://www.rom.on.ca/en/collections-research/magazine/great-whales) about great whales, threats and actions that can be taken to prevent them (with a focus on Canada)
+:::: {.grid .justify-contents-evenly .align-items-center}
+:::: {.g-col-5  .text-center}
+![](../resources/images/pretty-pics/humpback-whale-calf-small.jpg)
+::::
+
+:::: g-col-7
+- Here's a [scientific article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013255) explaining the benefits of the "whale pump".
+- You can also check out this [story](https://www.alaskawhalefoundation.org/post/the-whale-pump-investigating-humpback-whale-driven-nutrient-cycling-in-southeast-alaska) about the investigation of the whale nutrient pump.
+- This [popular article](https://www.rom.on.ca/en/collections-research/magazine/great-whales) is all about great whales, the threats against them and actions that can be taken to prevent those threats (with a focus on Canada).
+
+::: {.caption-p style="text-align: left;"}
+A humpback whale calf breathes at the surface. The fish gathered around it are hoping it will drop some of its next meal so they can scavenge. Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com).
+:::
+::::
+:::::
 
 ### Illegal fishing {#sec-illegal-fishing}
 
@@ -309,6 +349,24 @@ Remember this card is discarded after use.
 - [Fishwatch](https://fishing.tas.gov.au/community/fishwatch) allows you to report illegal fishing in Tasmania.
 - A [scientific article](https://figshare.utas.edu.au/articles/journal_contribution/The_intersection_between_illegal_fishing_crimes_at_sea_and_social_well-being/23007800) about illegal fishing (not recreational) and societal well-being. 
 
+::::: {.grid .justify-contents-evenly .align-items-center .text-center}
+:::: g-col-4
+![](../resources/images/pretty-pics/crayfish-2-small.jpg)
+::::
+
+:::: g-col-4
+![](../resources/images/pretty-pics/flathead-small.jpg)
+::::
+
+:::: g-col-4
+![](../resources/images/pretty-pics/leatherjacket-small-cropped.jpg)
+::::
+:::::
+
+::: {.caption-p style="text-align: center;"}
+Fisheries management makes sure that future generations will always be able to catch important species like Southern Rock Lobster (left), flathead (middle), and leatherjacket (right). Photos: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com).
+:::
+
 ### Large shark {#sec-large-shark}
 
 The large shark card is present in BigFish to help show the value of apex predators in an ecosystem. Often, large predators are demonised by recreational fishers who mistakenly believe that they are actively predating on fish that could otherwise be caught. In fact, many sharks are primarily scavengers which feed upon sick and old fish, not those usually targeted during recreational fishing. Without large sharks, other food chains will be affected and the ocean can become out of balance. 
@@ -329,11 +387,23 @@ Place the wildcard into your fishing spot to grow a juvenile fish into a medium 
 
 #### Learn more
 
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: g-col-7
 Sharks contribute so much more to ecosystems than many people realise. Check out these resources to learn more.
 
 - ["Why oceans need sharks"](https://australian.museum/publications/sharks/why-oceans-need-sharks/#:~:text=Sharks%20and%20healthy%20ecosystems,continue%20down%20the%20food%20chain), an article by the Australian Museum
 - Oceans Research News answers the question: ["Why do We Need Sharks for Our Ecosystem?"](https://www.oceans-research.com/why-do-we-need-sharks-for-our-ecosystem/)
 - [The Importance of Sharks](https://europe.oceana.org/importance-sharks-0/) from [Oceana](https://europe.oceana.org/)
+
+::: {.caption-p style="text-align: right;"}
+A swell shark in a rocky reef. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
+:::
+:::
+
+::: {.g-col-5 .text-center}
+![](../resources/images/pretty-pics/swell-shark-small.jpg)
+:::
+::::
 
 ### Marine protected area {#sec-marine-protected-area}
 
@@ -364,6 +434,12 @@ This card is used during the draw phase of your turn. Before drawing any cards h
 - [This Nature article](https://www.nature.com/articles/s41893-023-01150-4) and - [this Frontiers in Marine Science article](https://www.frontiersin.org/articles/10.3389/fmars.2021.613819/full)
 both investigate the benefits of MPAs for the environment and local communities
 
+![](../resources/images/pretty-pics/urchin-zoanthid barren-small.jpg){width="75%" fig-align="center"}
+
+::: {.caption-p style="text-align: center;"}
+Marine protected areas are often diverse havens for fish of all sizes. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
+:::
+
 ### Poor water quality {#sec-poor-water-quality}
 
 Poor water quality affects many parts of a marine ecosystem in many different ways. This card aims to show a more general effect, and not highlight a single source of poor water quality. Examples of the sources of poor water quality include excessive runoff from farming and stormwater which may contain excessive sediments or nutrients. Both of these contaminants can prevent photosynthesis both directly and indirectly, and so can damage seaweed reefs and seagrass beds. 
@@ -382,8 +458,21 @@ When played, each player must discard a seaweed reef (or seagrass bed, featured 
 
 #### Learn more
 
+::::: {.grid .justify-contents-evenly .align-items-center}
+:::: g-col-4
+![](../resources/images/pretty-pics/giant-kelp-small.jpg)
+::::
+
+:::: g-col-8
 - [This scientific consensus statement](https://www.reefplan.qld.gov.au/__data/assets/pdf_file/0020/46172/scsu-chapter-1-marine-impacts.pdf) from 2013 outlines many of the major sources and impacts of poor water quality on the Great Barrier Reef
 - Check out [this EPA article](https://www.epa.gov/nutrientpollution/effects-dead-zones-and-harmful-algal-blooms) about the effects of Dead Zones and Harmful Algal Blooms 
+
+::: {.caption-p}
+Kelp and other seaweeds are particularly affected by poor water quality, because they depend on sunlight to grow. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
+:::
+::::
+:::::
+
 
 ### SCUBA equipment {#sec-scuba-equipment}
 
@@ -397,7 +486,7 @@ When played, each player must discard a seaweed reef (or seagrass bed, featured 
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+Place into your fishing spot to catch a [lobster](../pages.qmd#sec-southern-rock-lobster), [crab](../pages.qmd#sec-red-rock-crab) or [abalone](../pages.qmd#sec-abalone) from your fishing spot each turn.
 :::
 ::::
 
@@ -423,10 +512,22 @@ Having a seaweed wild card in your fishing spot allows you to grow an additional
 
 #### Learn more
 
+:::: {.grid .justify-contents-evenly .align-items-center}
+::: g-col-7
 - Check out [this article](https://www.unsw.edu.au/newsroom/news/2023/02/a-million-hectares-of-kelp-forests-need-planting-by-2040--and-sc) about recent seaweed restoration efforts by UNSW
 - The [Great Sourthern Reef](https://greatsouthernreef.com/restoration) restoration project
 - [Sea Trees](https://sea-trees.org/pages/sydney-kelp-forest) is a non-profit which funds coastal conservation projects, including seaweed restoration
 - [Scaling up Kelp Forest Restoration](https://www.mossy.earth/projects/kelp-nursery) in Portugal
+
+::: {.caption-p style="text-align: right;"}
+A cat shark seeks refuge in a kelp bed. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
+:::
+:::
+
+::: {.g-col-5 .text-center}
+![](../resources/images/pretty-pics/cat-shark.jpg)
+:::
+::::
 
 ### Severe weather {#sec-severe-weather}
 
@@ -449,6 +550,13 @@ Remember to discard after use.
 
 - Check out [this article](https://phys.org/news/2021-04-ocean-big-fish-affects-viability.html) to learn why targeting big fish is making populations less resilient and less likely to continue into the future
 - [This article](https://www.pnas.org/doi/10.1073/pnas.0702059104) details how climate change is contributing to reduced fisheries production, but [this article](https://www.pnas.org/doi/abs/10.1073/pnas.2100300118) shows how having a size diversity in a fish population can help buffer it against the negative effects of a changing climate
+
+![](../resources/images/pretty-pics/sea-tulips cathedral-caves-small.jpg){fig-align="center" width="75%"}
+
+::: {.caption-p style="text-align: center;"}
+Reefs and everything living there are affected by high winds and large swells. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
+:::
+
 
 ### Shellfish reef {#sec-shellfish-reef}
 
@@ -623,7 +731,7 @@ Each player must grow a larval fish into a juvenile fish.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+Place a [Seaweed](#sec-seaweed) or [Giant Kelp](#sec-giant-kelp) card from your hand into your fishing spot.
 :::
 ::::
 
@@ -672,13 +780,15 @@ Each player must spawn a larval fish into their fishing spot.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+Each player must discard all [Seaweed](#sec-seaweed) and [Giant Kelp](#sec-giant-kelp) cards from their fishing spot. 
 :::
 ::::
 
 #### Learn more
 
 *Learn more*
+
+![](UrchinPhoto-small.jpg)
 
 ### END OF GAME {#sec-end-game}
 
@@ -692,7 +802,7 @@ Each player must spawn a larval fish into their fishing spot.
 ::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
 #### How to play
 
-*How to play*
+The game is over, tally up your scores.
 :::
 ::::
 
@@ -701,4 +811,4 @@ Each player must spawn a larval fish into their fishing spot.
 *Learn more*
 
 <!-- This maintains the page body spacing on left and right, do not remove -->
-:::
+:::::::::::
