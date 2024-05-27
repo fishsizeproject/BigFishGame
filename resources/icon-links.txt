@@ -1,18 +1,20 @@
 Replace the last 6 characters of the URL with a HEX to get the correct colour
 
-https://fontawesome.com/icons/arrow-rotate-right?f=classic&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/flag?f=classic&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/fish?f=classic&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/trophy?f=classic&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/users-rectangle?f=classic&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/children?f=classic&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/address-card?f=classic&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/circle-check?f=classic&s=regular&pc=%23F3F1EA
-https://fontawesome.com/icons/envelope?f=classic&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/github?f=brands&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/rss?f=classic&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/handshake-angle?f=classic&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/hand-holding-heart?f=classic&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/user?f=classic&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/users?f=classic&s=solid&pc=%23F3F1EA
-https://fontawesome.com/icons/users-line?f=classic&s=solid&pc=%23F3F1EA
+https://fontawesome.com/icons/arrow-rotate-right?f=classic&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/flag?f=classic&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/fish?f=classic&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/trophy?f=classic&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/users-rectangle?f=classic&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/children?f=classic&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/address-card?f=classic&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/circle-check?f=classic&s=regular&pc=%234a90a2
+https://fontawesome.com/icons/envelope?f=classic&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/github?f=brands&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/rss?f=classic&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/handshake-angle?f=classic&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/hand-holding-heart?f=classic&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/user?f=classic&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/users?f=classic&s=solid&pc=%234a90a2
+https://fontawesome.com/icons/users-line?f=classic&s=solid&pc=%234a90a2
+
+Contrast grid: https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23F9F8FE%2C%20Ghost%0D%0A%23000%2C%20Black%0D%0A%23D11026%2C%20Red%0D%0A%23AED332%2C%20Green%0D%0A%23A72571%2C%20Pink%0D%0A%23EC8612%2C%20Orange%0D%0A%2369CDE7%2C%20Blue%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa

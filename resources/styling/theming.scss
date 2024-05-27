@@ -12,35 +12,27 @@ $gray-800:      #333 !default;
 $gray-900:      #222 !default;
 $black:         #000 !default;
 
-$light:         #F3F1EA !default;
-$dark:          $gray-800 !default;
+$light:         #f9f8fe !default;
+$dark:          $black !default;
 
 $min-contrast-ratio:   1.9 !default;
 
-$vermillion: #B7322E;
-$vermillion-light: #E79E9C;
-$gold: #F09318;
-$gold-light: #F7C078;
-$purple: #404363;
-$blue: #60CDE8;
-$turquoise-light: #A7E2F1;
+$bigfish-red: #ee1d35; // #B7322E
+$bigfish-green: #aed332;
+$bigfish-pink: #d64398;
+$bigfish-orange: #f5921d; // #F09318
+$bigfish-blue: #69cde7;
 
-$primary:         $purple;
-$primary-light:   lighten($primary, 40%);
-$secondary:       $gold;
-$secondary-light: lighten($secondary, 40%);
-$accent:          $vermillion;
-$accent-light:    lighten($accent, 20%);
+$primary:         $bigfish-red;
+$secondary:       $bigfish-blue;
+$accent:          $bigfish-orange;
 $ghost:           #f9f8fe; // off-White
 
 $theme-colors: (
   "primary":          $primary,
-  "primary-light":    $primary-light,
   "secondary":        $secondary,
-  "secondary-light":  $secondary-light,
   "accent":           $accent,
-  "accent-light":     $accent-light,
-  "ghost":            $ghost
+  "ghost":            $ghost,
 );
 
 //#9EB0BE; // Cadet grey: #
@@ -48,7 +40,7 @@ $theme-colors: (
 
 //$body-font-family:    Roboto !default;
 $body-bg:             transparent;      // The page background color.
-$body-color:          #120E1B;           // The page text color.
+$body-color:          $black;           // The page text color.
 
 //$headings-font-family: "Barlow", !default;
 //$headings-font-weight:        200 !default;
@@ -61,8 +53,8 @@ $headings-line-height: 1.25em;
 
 $toc-font-size:  0.6em;           // The font size for the page TOC.
 
-$link-color:            $accent;         // The link color.
-$link-hover-color:      $accent-light;   // The link color. on hover
+$link-color:            shade-color($accent, 15%);         // The link color.
+$link-hover-color:      shade-color($accent, 30%);   // The link color. on hover
 
 $input-bg:       $light;   // The background color for HTML inputs.
 $popover-bg:     $light;   // The background color for popovers (e.g. when a citation preview is shown).
@@ -76,7 +68,7 @@ $code-block-bg-padding:           0.5em;
 
 // Code Copy (enable code-copy: true)
 $btn-code-copy-color:             $secondary;
-$btn-code-copy-color-active:      $secondary-light;
+$btn-code-copy-color-active:      $accent;
 
 // Inline Code
 $code-bg:         $light;   // The background color of inline code.
@@ -101,15 +93,16 @@ $content-padding-top:               0em;          // Padding before main content
 // Navigation
 $dropdown-bg:                       $white;
 $navbar-bg:                         $primary;
-$navbar-hl:                         $accent-light;
-$sidebar-bg:                        $primary-light; //lighten($primary, 50%);
 //$navbar-fg:                         $light;
+$navbar-hl:                         $accent;
 //$nav-link-hover-color:              $secondary;
+$sidebar-bg:                        lighten($primary, 30%);
 $sidebar-fg:                        $black;
 //$sidebar-hl:                        $secondary;
 $footer-bg:                         $primary;
-$footer-hl:                         $accent-light;
 //$footer-fg:                         $light;
+$footer-hl:                         $secondary;
+$footer-link-hover-color:           $secondary;
 
 /*-- scss:rules --*/
 
@@ -154,10 +147,10 @@ main.content > section:first-of-type > .h2:first-child {
   // Font sizes are ordered as min, variable, max
   font-size: min(max(60px, calc(8vw)), 150px) !important;
   text-align: center;
-  color: $accent !important;
   padding: 0% 3% 0% 3%;
   margin-top: 0.6em;
   margin-bottom: 0.3em;
+  color: $primary !important;
 }
 
 .newsubtitle {
@@ -166,9 +159,9 @@ main.content > section:first-of-type > .h2:first-child {
   text-align: center;
   padding: 0% 5% 0% 5%;
   line-height: 110%;
-  color: $accent !important;
   margin-top: 0.6em;
   margin-bottom: 0.3em;
+  color: $primary !important;
 }
 
 .feature-text {
@@ -184,7 +177,7 @@ main.content > section:first-of-type > .h2:first-child {
 
 .caption-p {
   font-size: 0.9rem;
-  color: $primary !important;
+  color: shade-color($secondary, 25%) !important;
   font-style: italic;
 }
 
@@ -218,7 +211,6 @@ main.content > section:first-of-type > .h2:first-child {
 /* All button formatting */
 
 .btn {
-  color: $ghost !important;
 	display: inline-block;
 	font-weight: inherit;
 	text-align: center;
@@ -234,6 +226,7 @@ main.content > section:first-of-type > .h2:first-child {
     background-color: $primary;
     border-color: shade-color($primary, 10%);
     font-size: $h3-font-size;
+    color: $ghost;
     &:hover {
       background-color: shade-color($primary, 50%);
       border-color: shade-color($primary, 60%);
@@ -243,6 +236,7 @@ main.content > section:first-of-type > .h2:first-child {
     background-color: $secondary;
     border-color: shade-color($secondary, 10%);
     font-size: $h4-font-size;
+    color: $black;
     &:hover {
       background-color: shade-color($secondary, 20%);
       border-color: shade-color($secondary, 30%);
@@ -252,6 +246,7 @@ main.content > section:first-of-type > .h2:first-child {
     background-color: $accent;
     border-color: shade-color($accent, 10%);
     font-size: $h4-font-size;
+    color: $black;
     &:hover {
       background-color: shade-color($accent, 30%);
       border-color: shade-color($accent, 40%);
@@ -361,7 +356,7 @@ main.content > section:first-of-type > .h2:first-child {
 
 .how-to-play-block {
     position: relative;
-    border: 5px dashed $secondary;
+    border: 5px dashed $accent;
     border-radius: 1em;
     padding-block: 0.5em;
 }

@@ -12,6 +12,8 @@ website:
   page-navigation: false
   back-to-top-navigation: false
   navbar:
+    background: primary
+    foreground: light
     logo: ../resources/images/Bigfish-logo.png
     pinned: true
     collapse: false
@@ -34,8 +36,8 @@ website:
         href: pages/how-to-buy.qmd
   page-footer:
     left: |
-      [![](/resources/icons/ic--baseline-mail.svg)](mailto:info@fishsizeproject.org) [info@fishsizeproject.org](mailto:info@fishsizeproject.org)<br>
-      [![](/resources/icons/mdi--github.svg)](https://github.com/fishsizeproject/) [fishsizeproject](https://github.com/fishsizeproject/)<br><br>
+      [![](/resources/icons/envelope-solid-ghost.svg){height="1em"}](mailto:info@fishsizeproject.org) [info@fishsizeproject.org](mailto:info@fishsizeproject.org)<br>
+      [![](/resources/icons/github-ghost.svg){height="1em"}](https://github.com/fishsizeproject/) [fishsizeproject](https://github.com/fishsizeproject/)<br><br>
       [Institute of Marine and Antarctic Research](https://www.imas.utas.edu.au/)<br>
       20 Castray Esplanade<br>
       Battery Point TAS 7000<br>

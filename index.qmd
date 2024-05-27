@@ -6,32 +6,32 @@ sidebar: false
 ---
 
 :::::: {.grid .justify-contents-evenly .align-items-center .column-screen .hero-img .hero-strip-homepage}
-::::: {.g-col-6 .text-center}
-![](resources/images/Bigfish-logo.png){width="75%"}
-:::::
-
-::::: {.g-col-6 style="margin-right: 5%;"}
-::: p
+::::: {.g-col-6 style="margin-left: 5%;"}
+::: .maintitle
 # BigFish {.maintitle}
 :::
 
-::: p
+::: .newsubtitle
 ## The sustainable fishing game {.newsubtitle}
 :::
 
-:::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.25em; margin-bottom: 5%; color: var(--bs-accent);"}
+:::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.25em; margin-bottom: 5%; color: var(--bs-primary);"}
 ::: g-col-6
-![](resources/icons/children-solid-vermillion.svg){width="25%"}
+![](resources/icons/children-solid-red.svg){width="25%"}
 
 Suitable for ages 10+
 :::
 
 ::: g-col-6
-![](resources/icons/users-line-solid-vermillion.svg){width="25%"}
+![](resources/icons/users-line-solid-red.svg){width="25%"}
 
 Best for groups of 2-5 players
 :::
 ::::
+:::::
+
+::::: {.g-col-6 .text-center}
+![](resources/images/Bigfish-logo.png){width="75%"}
 :::::
 ::::::
 
@@ -75,7 +75,7 @@ These events create unpredictability and new challenges and inform us on how hum
 :::
 
 ::: {.g-col-12 .text-center .img-container style="margin-bottom: 1em; margin-top: 0.5em;"}
-[Read the Rules](pages/rules.qmd){.h3 .btn .btn-accent}
+[Read the Rules](pages/rules.qmd){.h3 .btn .btn-secondary}
 :::
 ::::
 :::::
@@ -94,32 +94,41 @@ These events create unpredictability and new challenges and inform us on how hum
 <!-- This game aims to introduce three main messages that we care about: -->
 
 ::: {.homepage-p .text-center style="margin-bottom: 1.em"}
-Through its mechanics this game illustrates three main messages about the part big fish play in the ocean, and how human activities affect them.
+Even when there is an element of chance, all the best games need a strategy. Playing BigFish is no different, but the stakes are the survival of aquatic ecosystems, planet-wide. There are four key understandings that underpin your approach to the game:
 :::
 
 :::::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen}
-::::: {.g-col-5 .img-container}
+::::: {.g-col-6 .img-container}
 ![](resources/images/pretty-pics/urchin-zoanthid barren-small.jpg)
 :::::
 
-::::: {.g-col-7 .mx-5}
+::::: {.g-col-6 .mx-2 style="padding-right: 2em;"}
 ### 1. Big fish are important
 
-Big are important for population resilience, ecosystem balance and simply because they are beautiful.
+<!-- Big are important for population resilience, ecosystem balance and simply because they are beautiful. -->
+Big fish play a disproportionately important role in preserving the health and diversity of fresh and salt water ecosystems.
 
-### 2. Big fish are mostly all gone
+### 2. Big fish are vanishing fast
 
-Commercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers.
+<!-- Commercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers. -->
+Due to commercial and recreational fishing, big fish are vanishing from rivers, lakes and oceans, fast.
 
 ### 3. Big fish can return
 
-Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes.
+<!-- Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes. -->
+Many fish species grow quickly, so big fish can be restored within our lifetimes if we play the right cards now. 
 
-::: {.text-center}
-[Explore the Science](pages/wildcards.qmd){.btn .btn-accent}
-:::
+### 4. Big fish are worth saving
+
+Fish, in their countless forms, are beautiful and irreplaceable creatures. Big fish in particular are breathtaking in their form and function, and they are worth preserving.
 :::::
 ::::::
+
+::: {.column-page .text-center .homepage-p .spacer-2em}
+BigFish has been created by a passionate team who wish players to know more, care more, and contribute.
+
+[Explore the Science](pages/wildcards.qmd){.btn .btn-secondary}
+:::
 
 :::::: {.grid .justify-contents-evenly .align-items-center .column-page .spacer-5rem .homepage-p}
 ::::: {.g-col-8}
@@ -130,7 +139,7 @@ This game has been developed by the Institute of Marine and Antarctic Sciences (
 Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.
 
 ::: text-center
-[About Us](pages/about.qmd){.h3 .btn .btn-accent}
+[About Us](pages/about.qmd){.h3 .btn .btn-secondary}
 :::
 :::::
 
