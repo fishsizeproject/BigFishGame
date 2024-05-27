@@ -10,3 +10,8 @@ description-meta: |
 
 # How to buy
 
+::: text-center
+*An online ordering system is coming soon, but you can get your own copy of BigFish right now by emailing our team.*
+
+[Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary}
+:::

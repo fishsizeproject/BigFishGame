@@ -17,7 +17,7 @@ sidebar: fish-sidebar
 ## Fish cards
 
 ::: text-center
-*Quick intro, link to the [wildcards](../pages/wildcards.qmd), [round-end cards](../pages/round-end-cards.qmd) and [game rules](../pages/rules.qmd) pages.*
+*These are all the fish cards included in the standard BigFish game. You can also explore the science behind the [wildcards](../pages/wildcards.qmd) and [round-end cards](../pages/round-end-cards.qmd), or learn the [game rules](../pages/rules.qmd) pages.*
 :::
 
 <!-- This is the main fish grid -->
