@@ -41,10 +41,6 @@ The BigFish card game informs and engages everyone interested in fishing or mari
 The goal of the game is to collect the maximum number of points from catching fish, while also preserving a healthy ecosystem and fish size diversity for future catches.
 :::
 
-<!-- ::: {.column-screen .img-container} -->
-<!-- ![](resources/images/pretty-pics/goatfish-small.jpg){width="33.33333%" .img-tile-lg}![](resources/images/pretty-pics/goatfish-small.jpg){width="33.33333%" .img-tile-lg}![](resources/images/pretty-pics/goatfish-small.jpg){width="33.33333%" .img-tile-lg} -->
-<!-- ::: -->
-
 <!-- ::: spacer-3em -->
 
 <!-- ::: -->
@@ -88,6 +84,10 @@ These events create unpredictability and new challenges and inform us on how hum
 ![](resources/images/pretty-pics/RockyCape.jpg)
 :::::
 ::::::
+
+::: spacer-3em
+
+:::
 
 ## Main messages
 
@@ -158,7 +158,7 @@ This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded t
 If you want to support this work, you can buy your very own copy of the BigFish card game!
 
 ::: text-center
-[How to Buy](pages/how-to-buy.qmd){.h3 .btn .btn-accent}
+[How to Buy](pages/how-to-buy.qmd){.h3 .btn .btn-secondary}
 :::
 ::::
 
