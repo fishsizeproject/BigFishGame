@@ -101,15 +101,15 @@ $content-padding-top:               0em;          // Padding before main content
 // Navigation
 $dropdown-bg:                       $white;
 $navbar-bg:                         $primary;
-$navbar-fg:                         $light;
 $navbar-hl:                         $accent-light;
-$nav-link-hover-color:              $accent-light;
 $sidebar-bg:                        $primary-light; //lighten($primary, 50%);
+//$navbar-fg:                         $light;
+//$nav-link-hover-color:              $secondary;
 $sidebar-fg:                        $black;
-$sidebar-hl:                        $accent-light;
+//$sidebar-hl:                        $secondary;
 $footer-bg:                         $primary;
-$footer-fg:                         $light;
 $footer-hl:                         $accent-light;
+//$footer-fg:                         $light;
 
 /*-- scss:rules --*/
 
@@ -151,20 +151,24 @@ main.content > section:first-of-type > .h2:first-child {
 }
 
 .maintitle {
-  font-size: min(max(calc(6vw), 60px), 125px) !important;
+  // Font sizes are ordered as min, variable, max
+  font-size: min(max(60px, calc(8vw)), 150px) !important;
   text-align: center;
-  padding: 0% 5% 0% 5%;
-  margin-top: 0.2em;
   color: $accent !important;
+  padding: 0% 3% 0% 3%;
+  margin-top: 0.6em;
+  margin-bottom: 0.3em;
 }
 
 .newsubtitle {
-  font-size: min(max(calc(3vw), 25px), 50px) !important;
+  // Font sizes are ordered as min, variable, max
+  font-size: min(max(25px, calc(3vw)), 50px) !important;
   text-align: center;
-  padding: 0%;
+  padding: 0% 5% 0% 5%;
   line-height: 110%;
-  margin-top: 0.2em;
   color: $accent !important;
+  margin-top: 0.6em;
+  margin-bottom: 0.3em;
 }
 
 .feature-text {
@@ -191,11 +195,6 @@ main.content > section:first-of-type > .h2:first-child {
   padding: 0.5em 0.5em;
 }
 
-.navbar-brand:hover, .navbar-brand:focus
-.nav-link:hover, .nav-link:focus {
-  color: $accent-light !important;
-}
-
 .nav-footer {
   align-items: center;
 }
@@ -206,9 +205,31 @@ main.content > section:first-of-type > .h2:first-child {
   margin-top: 0;
 }
 
+.navbar-brand:hover, .navbar-brand:focus, .nav-link:hover, .nav-link:focus, .nav-footer a:hover {
+  /* Change links for background colours */
+  color: $accent !important;
+}
+
+.sidebar-navigation a:hover, {
+  /* Change links for background colours */
+  color: shade-color($accent, 30%) !important;
+}
+
+/* All button formatting */
+
 .btn {
-  text-decoration: none !important;
   color: $ghost !important;
+	display: inline-block;
+	font-weight: inherit;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	line-height: 1.25;
+	border-radius: 0.25rem;
+	transition: all 0.15s ease-in-out;
+  padding: 0.7em 1.1em 0.7em 1.1em;
+  margin: 0.25em;
+  text-decoration: none;
   &-primary {
     background-color: $primary;
     border-color: shade-color($primary, 10%);
@@ -236,24 +257,6 @@ main.content > section:first-of-type > .h2:first-child {
       border-color: shade-color($accent, 40%);
     }
   }
-}
-
-.btn {
-	display: inline-block;
-	font-weight: inherit;
-	text-align: center;
-	white-space: nowrap;
-	vertical-align: middle;
-	line-height: 1.25;
-	border-radius: 0.25rem;
-	transition: all 0.15s ease-in-out;
-  padding: 0.7em 1.1em 0.7em 1.1em;
-  margin: 0.25em;
-}
-
-.btn:focus,
-.btn:hover {
-	text-decoration: none;
 }
 
 .btn-group {
