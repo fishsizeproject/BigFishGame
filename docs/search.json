@@ -392,5 +392,47 @@
     "title": "BigFish",
     "section": "Timer 1",
     "text": "Timer 1\n\n  \n    DDDAYS\n  \n  \n    HHHOURS\n  \n  \n    MMMINUTES\n  \n  \n    SSSECONDS"
+  },
+  {
+    "objectID": "index.html#timer",
+    "href": "index.html#timer",
+    "title": "BigFish",
+    "section": "Timer",
+    "text": "Timer\n\n\n\nDD\n\n\n\n\nHH\n\n\n\n\nMM\n\n\n\n\nSS\n\n\n\nDAYS\n\n\nHOURS\n\n\nMINUTES\n\n\nSECONDS"
+  },
+  {
+    "objectID": "index.html#days",
+    "href": "index.html#days",
+    "title": "BigFish",
+    "section": "DAYS",
+    "text": "DAYS"
+  },
+  {
+    "objectID": "index.html#hours",
+    "href": "index.html#hours",
+    "title": "BigFish",
+    "section": "HOURS",
+    "text": "HOURS"
+  },
+  {
+    "objectID": "index.html#minutes",
+    "href": "index.html#minutes",
+    "title": "BigFish",
+    "section": "MINUTES",
+    "text": "MINUTES"
+  },
+  {
+    "objectID": "index.html#seconds",
+    "href": "index.html#seconds",
+    "title": "BigFish",
+    "section": "SECONDS",
+    "text": "SECONDS"
+  },
+  {
+    "objectID": "index.html#support-the-game",
+    "href": "index.html#support-the-game",
+    "title": "BigFish",
+    "section": "Support the game",
+    "text": "Support the game\nThe official BigFish game will launch on the 15th of September, 2024, and it will be available for sale here.\nUntil then, you can pre-order your very own copy now by emailing our team!\n\n\n\nDD\n\n\n\n\nHH\n\n\n\n\nMM\n\n\n\n\nSS\n\n\n\nDAYS\n\n\nHOURS\n\n\nMINUTES\n\n\nSECONDS"
   }
 ]

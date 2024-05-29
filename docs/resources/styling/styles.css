@@ -177,4 +177,19 @@ ul.navbar-nav.navbar-nav-scroll.me-auto li.nav-item.dropdown ul.dropdown-menu.sh
   padding-left: 0.25em; !important
 }
 
+.timertext {
+  color: var(--bs-accent);
+  font-weight: 750;
+  font-size: 4em;
+  margin: 0.25em; 0px; 0px; 0px;
+  padding: 0px;
+}
+
+.timerBox {
+  background-color: lighten(var(--bs-primary), 30%);
+  border: var(--bs-primary) 2px solid;
+  border-radius: 15px;
+  box-shadow: 0 5px 10px var(--bs-gray-300);
+}
+
 
