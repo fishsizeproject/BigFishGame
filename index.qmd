@@ -15,15 +15,15 @@ sidebar: false
 ## The sustainable fishing game {.newsubtitle}
 :::
 
-:::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.25em; margin-bottom: 5%; color: var(--bs-primary);"}
+:::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.25em; margin-bottom: 5%; margin-top: 5%; color: var(--bs-accent);"}
 ::: g-col-6
-![](resources/icons/children-solid-red.svg){width="25%"}
+![](resources/icons/children-solid-orange.svg){width="30%"}
 
 Suitable for ages 10+
 :::
 
 ::: g-col-6
-![](resources/icons/users-line-solid-red.svg){width="25%"}
+![](resources/icons/users-line-solid-orange.svg){width="30%"}
 
 Best for groups of 2-5 players
 :::

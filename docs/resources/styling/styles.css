@@ -46,8 +46,9 @@ ol ::marker {
 }
 
 .hero-strip-homepage {
-  /* width: 100vw; */
-  height: calc(100vw/(4193*2359)-75); /* enter dimensions of image */
+  width: 100vw;
+  /* height: calc(100vw/(4193*2359)-60); /* enter dimensions of image */
+  /* height: calc(100vh-60px); */
 }
 
 .hero-strip-page {
@@ -108,8 +109,14 @@ ol ::marker {
 }
 
 .navbar-brand-container img {
-    height : 300%;
+    height : 1.5em;
     /* width : 300%; */
+}
+
+.navbar-logo {
+  max-height: 1.5em;
+  width: auto;
+  padding-right: 10px;
 }
 
 .column-screen {

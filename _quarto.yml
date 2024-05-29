@@ -8,13 +8,13 @@ website:
   title: "BigFish"
   repo-url: https://github.com/fishsizeproject/BigFishGame
   site-url: https://bigfishcardgame.com/
-  favicon: ../resources/images/Bigfish-logo.png
+  favicon: ../resources/images/fishsize-logo-backed.png
   page-navigation: false
   back-to-top-navigation: false
   navbar:
     background: primary
     foreground: light
-    logo: ../resources/images/Bigfish-logo.png
+    logo: ../resources/images/fishsize-logo-backed.png
     pinned: true
     collapse: false
     left:
@@ -47,7 +47,7 @@ website:
       © BigFish Card Game, 2024<br>
       Website created by [Tormey Reimer](https://drtreimer.com)
     center: |
-      [<img src="/resources/images/Bigfish-logo.png" class="img-fluid" style="width: 8.5vw;">](/index.qmd)
+      [<img src="/resources/images/fishsize-logo-backed.png" class="img-fluid" style="width: 8.5vw;">](/index.qmd)
     border: false
     background: primary
     foreground: light
@@ -189,7 +189,7 @@ website:
 
 format:
   html:
-    logo: /resources/images/Bigfish-logo.png
+    logo: /resources/images/fishsize-logo-backed.png
     theme: [lux, resources/styling/theming.scss]
     css: /resources/styling/styles.css
     toc: false

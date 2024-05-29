@@ -17,13 +17,15 @@ $dark:          $black !default;
 
 $min-contrast-ratio:   1.9 !default;
 
-$bigfish-red: #ee1d35; // #B7322E
-$bigfish-green: #aed332;
-$bigfish-pink: #d64398;
-$bigfish-orange: #f5921d; // #F09318
-$bigfish-blue: #69cde7;
+$bigfish-red:     #ee1d35; // #B7322E
+$bigfish-green:   #aed332;
+$bigfish-pink:    #d64398;
+$bigfish-orange:  #E9560C; // #F09318
+$bigfish-blue:    #69cde7;
+$dark-blue:       #1D2C5F;
+$light-blue:      #1BACF2;
 
-$primary:         $bigfish-red;
+$primary:         $dark-blue;
 $secondary:       $bigfish-blue;
 $accent:          $bigfish-orange;
 $ghost:           #f9f8fe; // off-White
@@ -96,7 +98,7 @@ $navbar-bg:                         $primary;
 //$navbar-fg:                         $light;
 $navbar-hl:                         $accent;
 //$nav-link-hover-color:              $secondary;
-$sidebar-bg:                        lighten($primary, 30%);
+$sidebar-bg:                        lighten($secondary, 15%);
 $sidebar-fg:                        $black;
 //$sidebar-hl:                        $secondary;
 $footer-bg:                         $primary;
@@ -179,6 +181,12 @@ main.content > section:first-of-type > .h2:first-child {
   font-size: 0.9rem;
   color: shade-color($secondary, 25%) !important;
   font-style: italic;
+  padding: 0px;
+  margin: 0px;
+}
+
+.quarto-figure {
+  margin-bottom: 0.25em;
 }
 
 .navbar {
@@ -205,7 +213,7 @@ main.content > section:first-of-type > .h2:first-child {
 
 .sidebar-navigation a:hover, {
   /* Change links for background colours */
-  color: shade-color($accent, 30%) !important;
+  color: shade-color($accent, 10%) !important;
 }
 
 /* All button formatting */

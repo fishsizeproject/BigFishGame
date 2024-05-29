@@ -83,13 +83,15 @@ This card shows the importance of releasing fish back into the water when caught
 - The [US National Parks Service](https://www.nps.gov/subjects/fishing/catch-and-release-fishing.htm#:~:text=Catch%20and%20release%20fishing%20improves,and%20reproduce%20in%20the%20ecosystem) and [NOAA](https://www.fisheries.noaa.gov/national../resources-fishing/catch-and-release-fishing-best-practices) both have some great tips on how to make sure released fish will survive. 
 
 :::: {.grid .justify-contents-evenly .align-items-center .text-center}
-:::: g-col-5
-If you release caught fish properly,they have a high chance of survival.
+<!-- :::: g-col-5 -->
+<!-- ::: caption-p -->
+<!-- If you release caught fish properly,they have a high chance of survival. -->
+<!-- ::: -->
 
-![](../resources/images/pretty-pics/release-fish.jpg){fig-alt="Catch or release fish"}
-::::
+<!-- ![](../resources/images/pretty-pics/release-fish.jpg){fig-alt="Catch or release fish"} -->
+<!-- :::: -->
 
-:::: g-col-7
+:::: g-col-12
 Learn how to release fish safely in this video with Steve Starling.
 
 <iframe width="700" height="390" src="https://www.youtube.com/embed/MVdo0PIxxnI?si=JTEXce3p0E7EYRtD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
