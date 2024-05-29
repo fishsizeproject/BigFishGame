@@ -4,10 +4,10 @@ const __hours = document.querySelector("#hours")
 const __minutes = document.querySelector("#minutes")
 const __seconds  = document.querySelector("#seconds")
 
-// Change the of this variable.
+// Change this variable.
 // ex: May 22 2024 18:00:00
 // May 22, 2024 at 6PM
-const newYearEnd = 'Jan 01 2025 00:00:00';
+const newYearEnd = 'Sep 15 2024 12:00:00';
 
 function countdown(){
     const newYearEndDate = new Date(newYearEnd);

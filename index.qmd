@@ -5,7 +5,7 @@ description-meta: |
 sidebar: false
 include-after-body:
   text: |
-    <script type="text/javascript" src="../resources/simple-countdown-timer/dist/script.js"></script>
+    <script type="text/javascript" src="resources/simple-countdown-timer/dist/script.js"></script>
 ---
 
 ::: {.grid .justify-contents-evenly .align-items-center .column-screen .hero-img .hero-strip-homepage}
@@ -44,8 +44,10 @@ The BigFish card game informs and engages everyone interested in fishing or mari
 The goal of the game is to collect the maximum number of points from catching fish, while also preserving a healthy ecosystem and fish size diversity for future catches.
 :::
 
-::::: {.column-page .spacer-2rem .text-center .homepage-p}
-## Support the game
+::::: {.column-page .text-center .homepage-p}
+::: p
+## Support the game! {style="color: var(--bs-accent); margin-top: 0px;"}
+:::
 
 The official BigFish game will launch on the 15th of September, 2024, and it will be available for sale [here](pages/how-to-buy.qmd). 
 
@@ -87,7 +89,7 @@ Until then, you can pre-order your very own copy now by [emailing our team](mail
 :::::
 
 ::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen .my-5}
-::: {.g-col-8 .mx-5}
+::: {.g-col-8 .mx-5 .my-3}
 ## Playing the game
 
 ::: {.grid .justify-contents-evenly .align-items-center .homepage-p}
