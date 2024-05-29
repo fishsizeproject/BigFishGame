@@ -2,6 +2,9 @@
 pagetitle: About | BigFish Card Game
 description-meta: |
   Meta description to go here
+include-in-header:
+  text: |
+    <script type="text/javascript" src="../resources/simple-countdown-timer/dist/script.js"></script>
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}
@@ -12,8 +15,75 @@ description-meta: |
    
 :::
 
-## Colours
+## Timer 1
 
+```{=html}
+<div class="wrapper">
+  <div class="days">
+    <h2 id="days">DD</h2>DAYS
+  </div>
+  <div class="hours">
+    <h2 id="hours">HH</h2>HOURS
+  </div>
+  <div class="minutes">
+    <h2 id="minutes">MM</h2>MINUTES
+  </div>
+  <div class="seconds">
+    <h2 id="seconds">SS</h2>SECONDS
+  </div>
+</div>
+```
+
+## Timer
+
+::::: {.grid .timeContainer}
+:::: g-col-3
+```{=html}
+<h3 id="days" style="margin-top: 0px;">DD</h3>
+```
+### DAYS
+::::
+
+:::: g-col-3
+```{=html}
+<h3 id="hours" style="margin-top: 0px;">HH</h3>
+```
+### HOURS
+::::
+
+:::: g-col-3
+```{=html}
+<h3 id="minutes" style="margin-top: 0px;">MM</h3>
+```
+### MINUTES
+::::
+
+:::: g-col-3
+```{=html}
+<h3 id="seconds" style="margin-top: 0px;">SS</h3>
+```
+### SECONDS
+::::
+:::::
+
+<!-- ```{=html} -->
+<!-- <section class="timeContainer"> -->
+<!--   <div class="wrapper"> -->
+<!--     <div class="days"> -->
+<!--       <h2 id="days">DD</h2>DAYS -->
+<!--     </div> -->
+<!--     <div class="hours"> -->
+<!--       <h2 id="hours">HH</h2>HOURS -->
+<!--     </div> -->
+<!--     <div class="minutes"> -->
+<!--       <h2 id="minutes">MM</h2>MINUTES -->
+<!--     </div> -->
+<!--     <div class="seconds"> -->
+<!--       <h2 id="seconds">SS</h2>SECONDS -->
+<!--     </div> -->
+<!--   </div> -->
+<!-- </section> -->
+<!-- ``` -->
 ## Columns
 
 ::: {.column-body .text-center style="background-color: #dee2e6; border: solid 2px;"}
@@ -39,4 +109,3 @@ column-screen-inset
 ::: {.column-screen .text-center style="background-color: #dee2e6; border: solid 2px;"}
 column-screen
 :::
-
