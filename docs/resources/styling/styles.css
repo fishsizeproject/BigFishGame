@@ -180,9 +180,17 @@ ul.navbar-nav.navbar-nav-scroll.me-auto li.nav-item.dropdown ul.dropdown-menu.sh
 .timertext {
   color: var(--bs-accent);
   font-weight: 750;
-  font-size: 4em;
+  /* Font sizes are ordered as min, variable, max */
+  font-size: min(max(1.5rem, calc(5vw)), 4rem) !important;
   margin: 0.25em; 0px; 0px; 0px;
   padding: 0px;
+}
+
+.timerlabel {
+  /* Font sizes are ordered as min, variable, max */
+  font-size: min(max(1rem, calc(2vw)), 1.5rem) !important;
+  margin-top: 0px;
+  padding-top: 0px;
 }
 
 .timerBox {
