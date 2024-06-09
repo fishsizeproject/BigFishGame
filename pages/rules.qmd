@@ -21,7 +21,7 @@ sidebar: false
 :::::
 
 ::::: {.g-col-6 style="flex-grow: 1;"}
-Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more.
+<!-- Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more. -->
 
 :::: {.grid .justify-contents-evenly .align-items-end .text-center}
 ::: {.g-col-3 style="flex-grow: 1;"}
@@ -56,7 +56,7 @@ Watch this short video where Matt Testoni explains how to play the game, or jump
 
 ::::: {.grid .justify-contents-evenly .align-items-center}
 :::: {.g-col-5}
-![](../resources/images/pretty-pics/setupPhoto.jpg)
+![](../resources/images/gameOnSandSm.jpg)
 ::::
 
 :::: {.g-col-7}
@@ -73,25 +73,48 @@ Deal each player five cards from the gameplay.
 At the start of the game each player places up to three fish from their hand into their fishing site: one as a big fish, one as a medium fish, and one as a juvenile fish. 
 If the player does not have three fish in their hand, they must place the bigger fish first (so they will have only one big and one medium fish, or one big fish). 
 
-::: caption-p
-Photo: Matt Testoni and the BigFish team test out their game.<br>
-Snacks aren't specified in the rules, but they are highly recommended.
-:::
+<!-- ::: caption-p -->
+<!-- Photo: Matt Testoni and the BigFish team test out their game.<br> -->
+<!-- Snacks aren't specified in the rules, but they are highly recommended. -->
+<!-- ::: -->
 ::::
 :::::
+
+## Keep track of fish size 
+
+The orientation of the card in your fishing site or ice box is essential. All fish start as larval fish, then become juveniles, medium sized and then large fish. You get different number of points for catching different sized fish. Remember, in each turn a fish can only grow by one size increment. It takes a while to bring back big fish. 
+
+
+:::: {.grid .justify-contents-evenly .align-items-center .gap-3 style="margin-top: 2em;"}
+::: {.g-col-3 .text-center .img-container}
+![](../resources/images/cards/fish-cards/Kingfish_Larv.jpg)
+:::
+
+::: {.g-col-3 .text-center .img-container}
+![](../resources/images/cards/fish-cards/KingfishJuvenile.jpg)
+:::
+
+::: {.g-col-3 .text-center .img-container}
+![](../resources/images/cards/fish-cards/KingfishMedium.jpg)
+:::
+
+::: {.g-col-3 .text-center .img-container}
+![](../resources/images/cards/fish-cards/yellowtail-kingfish.jpg)
+:::
+
+::::
+
+
 
 ## Gameplay {#sec-gameplay}
 
 :::: {.grid .justify-contents-evenly .align-items-center}
 ::: g-col-9
-During the round each player follows these steps. The turn order card is available to help you keep track.
+During the round each player follows these steps. Use the turn order to keep track.
 
-1. Draw new cards equal to the number of large fish you have in your fishing hole, up to a maximum of 5 cards.
-These cards can be drawn from the face-up pile or the gameplay deck.
-This means that a player can either chose some unknown card or play safe and only take cards that they know (from the face-up cards).
-Check to see if you have any pink wild cards with a clam shell in your fishing hole (not in your hands) - they allow you to draw more cards.
+1. **DRAW** new cards equal to the number of large fish you have in your fishing site, but **no more than 5 cards**. You can draw these cards from the face-up cards, the deck, or both. This means that a player can draw unknown card from the deck or play safe and take what they can see (from the face-up cards). Check to see if you have any pink wild cards in your fishing site (not in your hands) - they allow you to draw more cards.
 
-2. Spawn fish (place them face up in your fishing site) from your hand as a larval fish.
+2. **SPANW** new fish equal to the number of large fish you have in your fishing site. This is done by placing cards from your hand into your fishing site in the larval fish orientation. 
 Check to see if you have any red wild cards with a dolphin in your fishing site (not in your hands) -- they allow you to spawn more fish.
 
 3. Grow fish to their next stage by rotating them from larval to juvenile, from juvenile to medium, or from medium to big).
