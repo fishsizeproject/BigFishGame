@@ -18,7 +18,7 @@ include-after-body:
 ## The sustainable fishing game {.newsubtitle}
 :::
 
-::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.25em; margin-bottom: 5%; margin-top: 5%; color: var(--bs-accent);"}
+::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.3em; margin-bottom: 5%; margin-top: 5%; color: var(--bs-accent);"}
 ::: g-col-6
 ![](resources/icons/children-solid-orange.svg){width="30%"}
 
@@ -38,20 +38,52 @@ Best for groups of 2-5 players
 :::
 :::
 
-::: {.column-page .spacer-5rem .feature-text}
-The BigFish card game informs and engages everyone interested in fishing or marine conservation through fun play.
+::: {.column-page .spacer-10rem .feature-text}
+<!-- ::: {.subtitle .text-center style="font-size: 1.4em;"} -->
+The BigFish card game informs and engages everyone interested in fishing or marine ecosystems through fun play.
 
-The goal of the game is to collect the maximum number of points from catching fish, while also preserving a healthy ecosystem and fish size diversity for future catches.
+The goal of the game is to collect the maximum number of points from catching fish, while also preserving a healthy ecosystem and keeping some big fish to improve future catches.
 :::
 
-::::: {.column-page .text-center .homepage-p}
-::: p
-## Support the game! {style="color: var(--bs-accent); margin-top: 0px;"}
+
+:::: {.grid .justify-contents-evenly .align-items-center .gap-3}
+::: {.g-col-3 .text-center .img-container}
+![](resources/images/GameOnSand2Sm.jpg)
 :::
 
-The official BigFish game will launch on the 15th of September, 2024, and it will be available for sale [here](pages/how-to-buy.qmd). 
+::: {.g-col-3 .text-center .img-container}
+![](resources/images/PlayingGame4.jpg)
+:::
 
-Until then, you can pre-order your very own copy now by [emailing our team](mailto:info@fishsizeproject.org)!
+::: {.g-col-3 .text-center .img-container}
+![](resources/images/PlayingGame1a.jpg)
+:::
+
+::: {.g-col-3 .text-center .img-container}
+![](resources/images/PlayingGame2.jpg)
+:::
+
+::::
+
+::::: {.column-page .text-center .homepage-p style="font-size: 1.4em;"}
+::: .p
+# Crowdfunding! {style="color: var(--bs-accent); margin-top: 0px;"}
+:::
+
+<!-- To make the game available in Tasmania and worldwide and to run our engagement activities we are launching a **crowdfunding** campaign. Currently the game is not available for sale and you can only the game through crowdfunding. By pledging to this campaign you will secure your copy of the game and support education and engagement activities on marine science and sustainable recreational fishing.  -->
+<!-- ::: -->
+
+<!-- ::: {.subtitle .text-center style="font-size: 1.45em;"} -->
+<!-- The official BigFish game will **launch on the 15th of September, 2024**, and it will be available for sale [here](pages/how-to-buy.qmd).  -->
+<!-- ::: -->
+
+::: {.text-center style="font-size: 1.33em;"} 
+To make the game available in Tasmania and worldwide and to run our engagement activities we are launching a **crowdfunding** campaign. Currently the game is not available for sale and you can only the game through crowdfunding. By pledging to this campaign you will secure your copy of the game and support education and engagement activities on marine science and sustainable recreational fishing. The crowdfunding will **launch on September, 15, 2024**.
+:::
+
+::: text-center
+[Crowdfunding page](https://bigfishcardgame.com){.btn .btn-primary style="font-size: 2em;"}
+:::
 
 :::::: {.grid .text-center .justify-contents-evenly .align-items-center .homepage-p .my-2 .mx-5 .px-5 .timerBox}
 ::::: {.g-col-3}
@@ -81,7 +113,7 @@ Until then, you can pre-order your very own copy now by [emailing our team](mail
 ::::: {.g-col-2}
 <h2 class="timertext" id="minutes">MM</h2>
 
-### MINUTES {.text-center .timerlabel .unlisted}
+### MIN {.text-center .timerlabel .unlisted}
 :::::
 
 ::::: g-col-1
@@ -93,10 +125,19 @@ Until then, you can pre-order your very own copy now by [emailing our team](mail
 ::::: {.g-col-2}
 <h2 class="timertext" id="seconds">SS</h2>
 
-### SECONDS {.text-center .timerlabel .unlisted}
+### SEC {.text-center .timerlabel .unlisted}
 :::::
 ::::::
 :::::::
+
+::: {.text-center style="font-size: 1.33em;"} 
+Would you like to get reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes. You will get no more than one email per month and two reminders about the crowdfunding start. 
+:::
+
+::: text-center
+[Subscribe to news](https://bigfishcardgame.com){.btn .btn-primary style="font-size: 1.4em;"}
+:::
+
 
 ::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen .my-5}
 ::: {.g-col-8 .mx-5 .my-3}
@@ -143,36 +184,37 @@ These events create unpredictability and new challenges and inform us on how hum
 <!-- This game aims to introduce three main messages that we care about: -->
 
 ::: {.homepage-p .text-center style="margin-bottom: 1.em"}
-Even when there is an element of chance, all the best games need a strategy. Playing BigFish is no different, but the stakes are the survival of aquatic ecosystems, planet-wide. There are four key understandings that underpin your approach to the game:
+
+To win the game you need a good strategy and luck. There is always an element of chance, but a good fisher and player knows how to their luck. In this game you need to think about the long term strategy! The game has three main messages:
 :::
 
 ::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen}
 ::: {.g-col-6 .img-container}
-![](resources/images/pretty-pics/urchin-zoanthid%20barren-small.jpg)
+![](resources/images/pretty-pics/flathead-small.jpg)
 :::
 
 ::: {.g-col-6 .mx-2 style="padding-right: 2em;"}
 ### 1. Big fish are important
 
-<!-- Big are important for population resilience, ecosystem balance and simply because they are beautiful. -->
+Preserving the big fish in the oceans, lakes and rivers is important for fish reproduction and resilience, ecosystem balance or simply because big fish are beautiful.
 
-Big fish play a disproportionately important role in preserving the health and diversity of fresh and salt water ecosystems.
+<!-- Big fish play a disproportionately important role in preserving the health and diversity of fresh and salt water ecosystems. -->
 
-### 2. Big fish are vanishing fast
+### 2. Big fish are mostly gone
 
 <!-- Commercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers. -->
 
-Due to commercial and recreational fishing, big fish are vanishing from rivers, lakes and oceans, fast.
+Due to commercial and recreational fishing, big fish have mostly vanished from rivers, lakes and oceans.
 
 ### 3. Big fish can return
 
-<!-- Fish grow relatively fast and we take the right measures, we can restore healthy ecosystems and their beauty within our lifetimes. -->
+Fish grow relatively fast and if we take the right measures, we can restore them within our lifetimes and enjoy healthy ecosystems again.
 
-Many fish species grow quickly, so big fish can be restored within our lifetimes if we play the right cards now.
+<!-- Many fish species grow quickly, so big fish can be restored within our lifetimes if we play the right cards now. -->
 
-### 4. Big fish are worth saving
+<!-- ### 4. Big fish are worth saving -->
 
-Fish, in their countless forms, are beautiful and irreplaceable creatures. Big fish in particular are breathtaking in their form and function, and they are worth preserving.
+<!-- Fish, in their countless forms, are beautiful and irreplaceable creatures. Big fish in particular are breathtaking in their form and function, and they are worth preserving. -->
 :::
 :::
 
@@ -208,44 +250,60 @@ If you would like to learn more about our work, adapt the game to your ecosystem
 :::
 :::
 
-::: {.grid .justify-contents-evenly .align-items-center .column-page .text-center .spacer-2em .homepage-p}
-::: g-col-12
+<!-- ::: {.grid .justify-contents-evenly .align-items-center .column-page .text-center .spacer-2em .homepage-p} -->
+<!-- ::: g-col-12 -->
+
 ## Supporters
 
-This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to [Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte).
-
-If you want to support this work, you can buy your very own copy of the BigFish card game!
-
-::: text-center
-[How to Buy](pages/how-to-buy.qmd){.h3 .btn .btn-secondary}
-:::
+:::: {.grid .justify-contents-evenly .align-items-center .gap-3}
+::: {.g-col-6 .text-center .img-container}
+2020 Pew Fellowship in Marine Conservation to Asta. 
 :::
 
-::: g-col-12
-::: {.grid .justify-contents-evenly .align-items-center}
-::: g-col-2
-![](https://placehold.co/200x200)
+::: {.g-col-6 .text-center .img-container}
+![](resources/images/CMS.png)
 :::
 
-::: g-col-2
-![](https://placehold.co/200x200)
-:::
+<!-- ::: {.g-col-3 .text-center .img-container} -->
+<!-- Your logo here! -->
+<!-- ::: -->
+::::
 
-::: g-col-2
-![](https://placehold.co/200x200)
-:::
+::: {.p style="margin-top: 1.5em;"}
 
-::: g-col-2
-![](https://placehold.co/200x200)
-:::
+You can support the game by pledging on our crowdfunding or by contacting us. If you would like to sponsor a card, representing your organisation or initiative, get in touch and we will discuss. We will only include cards that are truly important for sustainable fisheries and marine ecosystems. 
 
-::: g-col-2
-![](https://placehold.co/200x200)
 :::
+<!-- ::: text-center -->
+<!-- [How to Buy](pages/how-to-buy.qmd){.h3 .btn .btn-secondary} -->
+<!-- ::: -->
+<!-- ::: -->
 
-::: g-col-2
-![](https://placehold.co/200x200)
-:::
-:::
-:::
-:::
+<!-- ::: g-col-12 -->
+<!-- ::: {.grid .justify-contents-evenly .align-items-center} -->
+<!-- ::: g-col-2 -->
+<!-- ![](https://placehold.co/200x200) -->
+<!-- ::: -->
+
+<!-- ::: g-col-2 -->
+<!-- ![](https://placehold.co/200x200) -->
+<!-- ::: -->
+
+<!-- ::: g-col-2 -->
+<!-- ![](https://placehold.co/200x200) -->
+<!-- ::: -->
+
+<!-- ::: g-col-2 -->
+<!-- ![](https://placehold.co/200x200) -->
+<!-- ::: -->
+
+<!-- ::: g-col-2 -->
+<!-- ![](https://placehold.co/200x200) -->
+<!-- ::: -->
+
+<!-- ::: g-col-2 -->
+<!-- ![](https://placehold.co/200x200) -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: -->
