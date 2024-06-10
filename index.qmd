@@ -256,13 +256,20 @@ If you would like to learn more about our work, adapt the game to your ecosystem
 <!-- ::: {.g-col-3 .text-center .img-container} -->
 <!-- Your logo here! -->
 <!-- ::: -->
-::::
 
-::: {.p style="margin-top: 1.5em;"}
-
+::: {.g-col-12 .text-center}
 You can support the game by pledging on our crowdfunding or by contacting us. If you would like to sponsor a card, representing your organisation or initiative, get in touch and we will discuss. We will only include cards that are truly important for sustainable fisheries and marine ecosystems. 
-
 :::
+
+::: {.g-col-6 .text-center}
+[Pledge](pages/how-to-buy.qmd){.btn .btn-secondary}
+:::
+
+::: {.g-col-6 .text-center}
+[Contact us](pages/about.qmd){.btn .btn-secondary}
+:::
+
+::::
 <!-- ::: text-center -->
 <!-- [How to Buy](pages/how-to-buy.qmd){.h3 .btn .btn-secondary} -->
 <!-- ::: -->
