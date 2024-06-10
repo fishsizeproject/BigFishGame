@@ -113,13 +113,6 @@ $footer-link-hover-color:           $secondary;
   background-color: $light;
 }
 
-hr {
-  border: none;
-  height: 3px;
-  /* Set the hr color */
-  background-color: #333;  /* Modern Browsers */
-}
-
 .h1, h1, .h2, h2 {
   color: $primary;
   border-bottom: none;
@@ -129,14 +122,17 @@ hr {
   margin-top: 1em;
 }
 
+// First H2 heading of each page has a slightly larger space above it
 main.content > section:first-of-type > h2:first-child,
 main.content > section:first-of-type > .h2:first-child {
   margin-top: 1em;
 }
 
+// If you don't want the heading text to be in all caps
 .no-caps {
   text-transform: none !important;
 }
+
 
 .h3, h3, .h4, h4 {
   color: $primary;
@@ -145,6 +141,7 @@ main.content > section:first-of-type > .h2:first-child {
   padding: 0.5em;
 }
 
+// Custom typography for the banner text on the homepage
 .maintitle {
   // Font sizes are ordered as min, variable, max
   font-size: min(max(60px, calc(8vw)), 150px) !important;
@@ -166,19 +163,20 @@ main.content > section:first-of-type > .h2:first-child {
   color: $primary !important;
 }
 
+// Custom classes for homepage text (slightly larger than regular) and feature text (slightly larger again)
 .feature-text {
-  font-size: 1.45em;
+  font-size: calc(1.25 * $font-size-root);
   text-align: center;
   color: $primary !important;
   line-height: 110%;
 }
 
 .homepage-p {
-  font-size: 1.1em;
+  font-size: calc(1.1 * $font-size-root);
 }
 
 .caption-p {
-  font-size: 0.9rem;
+  font-size: calc(0.9 * $font-size-root);
   color: shade-color($secondary, 25%) !important;
   font-style: italic;
   padding: 0px;
@@ -216,8 +214,7 @@ main.content > section:first-of-type > .h2:first-child {
   color: shade-color($accent, 10%) !important;
 }
 
-/* All button formatting */
-
+// All button formatting
 .btn {
 	display: inline-block;
 	font-weight: inherit;
@@ -243,7 +240,7 @@ main.content > section:first-of-type > .h2:first-child {
   &-secondary {
     background-color: $secondary;
     border-color: shade-color($secondary, 10%);
-    font-size: $h4-font-size;
+    font-size: $h3-font-size;
     color: $black;
     &:hover {
       background-color: shade-color($secondary, 20%);
@@ -354,8 +351,7 @@ main.content > section:first-of-type > .h2:first-child {
   }
 }
 
-/** Image containers for cards and their descriptions **/
-
+// Image containers for cards and their descriptions *
 .image-card {
     box-shadow: 10px 10px 5px $gray-400;
     width: 15vw;
@@ -368,4 +364,13 @@ main.content > section:first-of-type > .h2:first-child {
     border-radius: 1em;
     padding-block: 0.5em;
 }
+
+hr { // means horizontal rule
+  border: none;
+  height: 3px;
+  /* Set the hr color */
+  background-color: #333;  /* Modern Browsers */
+}
+
+
 
