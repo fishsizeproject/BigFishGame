@@ -122,6 +122,15 @@ $footer-link-hover-color:           $secondary;
   margin-top: 1em;
 }
 
+body, .body, p, .p, .homepage-p {
+  font-weight: $body-font-weight;
+  letter-spacing: 1px;
+}
+
+strong, .strong {
+  font-weight: $font-weight-bold;
+}
+
 // First H2 heading of each page has a slightly larger space above it
 main.content > section:first-of-type > h2:first-child,
 main.content > section:first-of-type > .h2:first-child {
