@@ -114,7 +114,7 @@ During the round each player follows these steps. Use the turn order to keep tra
 
 1. **DRAW** new cards equal to the number of large fish you have in your fishing site, but **no more than 5 cards**. You can draw these cards from the face-up cards, the deck, or both. This means that a player can draw unknown card from the deck or play safe and take what they can see (from the face-up cards). Check to see if you have any pink wild cards in your fishing site (not in your hands) - they allow you to draw more cards.
 
-2. **SPANW** new fish equal to the number of large fish you have in your fishing site. This is done by placing cards from your hand into your fishing site in the larval fish orientation. 
+2. **SPAWN** new fish equal to the number of large fish you have in your fishing site. This is done by placing cards from your hand into your fishing site in the larval fish orientation. 
 Check to see if you have any red wild cards with a dolphin in your fishing site (not in your hands) -- they allow you to spawn more fish.
 
 3. Grow fish to their next stage by rotating them from larval to juvenile, from juvenile to medium, or from medium to big).
