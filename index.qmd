@@ -8,7 +8,8 @@ include-after-body:
     <script type="text/javascript" src="resources/simple-countdown-timer/dist/script.js"></script>
 ---
 
-::: {.grid .justify-contents-evenly .align-items-center .column-screen .hero-img .hero-strip-homepage}
+<!-- START SPECIAL BIGFISH BANNER SECTION -->
+:::::: {.grid .justify-contents-evenly .align-items-center .column-screen .hero-img .hero-strip-homepage}
 ::: {.g-col-6 style="margin-left: 5%;"}
 ::: maintitle
 # BigFish {.maintitle}
@@ -36,17 +37,19 @@ Best for groups of 2-5 players
 ::: {.g-col-6 .text-center}
 ![](resources/images/Bigfish-logo.png){width="75%"}
 :::
-:::
+::::::
+<!-- END SPECIAL BIGFISH BANNER SECTION -->
 
-::: {.column-page .spacer-10rem .feature-text}
-<!-- ::: {.subtitle .text-center style="font-size: 1.4em;"} -->
+<!-- This column-page extends through the tagline, crowdfunding and timer sections -->
+::::::::::::::: {.column-page .feature-text}
+
+::: {.spacer-3em}
 The BigFish card game informs and engages everyone interested in fishing or marine ecosystems through fun play.
 
 The goal of the game is to collect the maximum number of points from catching fish, while also preserving a healthy ecosystem and keeping some big fish to improve future catches.
 :::
 
-
-:::: {.grid .justify-contents-evenly .align-items-center .gap-3}
+::::::: {.grid .justify-contents-evenly .align-items-center .gap-3}
 ::: {.g-col-3 .text-center .img-container}
 ![](resources/images/GameOnSand2Sm.jpg)
 :::
@@ -62,29 +65,23 @@ The goal of the game is to collect the maximum number of points from catching fi
 ::: {.g-col-3 .text-center .img-container}
 ![](resources/images/PlayingGame2.jpg)
 :::
+:::::::
 
-::::
-
-::::: {.column-page .text-center .homepage-p style="font-size: 1.4em;"}
-::: .p
-# Crowdfunding! {style="color: var(--bs-accent); margin-top: 0px;"}
+::: p
+## Crowdfunding! {style="color: var(--bs-accent);"}
 :::
 
-<!-- To make the game available in Tasmania and worldwide and to run our engagement activities we are launching a **crowdfunding** campaign. Currently the game is not available for sale and you can only the game through crowdfunding. By pledging to this campaign you will secure your copy of the game and support education and engagement activities on marine science and sustainable recreational fishing.  -->
-<!-- ::: -->
+::: {.text-center} 
+To make the game available in Tasmania and worldwide and to run our engagement activities we are launching a **crowdfunding** campaign. Currently the game is not available for sale and you can only get it through crowdfunding. 
 
-<!-- ::: {.subtitle .text-center style="font-size: 1.45em;"} -->
-<!-- The official BigFish game will **launch on the 15th of September, 2024**, and it will be available for sale [here](pages/how-to-buy.qmd).  -->
-<!-- ::: -->
-
-::: {.text-center style="font-size: 1.33em;"} 
-To make the game available in Tasmania and worldwide and to run our engagement activities we are launching a **crowdfunding** campaign. Currently the game is not available for sale and you can only the game through crowdfunding. By pledging to this campaign you will secure your copy of the game and support education and engagement activities on marine science and sustainable recreational fishing. The crowdfunding will **launch on September, 15, 2024**.
+By pledging to this campaign you will secure your copy of the game and support education and engagement activities on marine science and sustainable recreational fishing. The campaign will launch on **September 15, 2024**.
 :::
 
 ::: text-center
-[Crowdfunding page](https://bigfishcardgame.com){.btn .btn-primary style="font-size: 2em;"}
+[Crowdfunding page](https://bigfishcardgame.com){.btn .btn-primary}
 :::
 
+<!-- begin timer grid -->
 :::::: {.grid .text-center .justify-contents-evenly .align-items-center .homepage-p .my-2 .mx-5 .px-5 .timerBox}
 ::::: {.g-col-3}
 <h2 class="timertext" id="days">DD</h2>
@@ -128,22 +125,25 @@ To make the game available in Tasmania and worldwide and to run our engagement a
 ### SEC {.text-center .timerlabel .unlisted}
 :::::
 ::::::
-:::::::
+<!-- end timer grid -->
 
-::: {.text-center style="font-size: 1.33em;"} 
-Would you like to get reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes. You will get no more than one email per month and two reminders about the crowdfunding start. 
+::: {.text-center .spacer-1em} 
+Would you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes. You will get no more than one email per month and two reminders about the crowdfunding start. 
 :::
 
 ::: text-center
-[Subscribe to news](https://bigfishcardgame.com){.btn .btn-primary style="font-size: 1.4em;"}
+[Subscribe to news](https://bigfishcardgame.com){.btn .btn-primary}
 :::
 
+<!-- end of column-page section -->
+:::::::::::::::
 
-::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen .my-5}
-::: {.g-col-8 .mx-5 .my-3}
+<!-- Playing the Game section has its own grid that spans the screen  -->
+::::::::::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen .my-5}
+:::::::: {.g-col-8 .mx-5 .my-3}
 ## Playing the game
 
-::: {.grid .justify-contents-evenly .align-items-center .homepage-p}
+::::: {.grid .justify-contents-evenly .align-items-center}
 ::: {.g-col-2 .img-container .my-2}
 ![](resources/images/esky.jpg){width="75%"}
 :::
@@ -169,26 +169,27 @@ These events create unpredictability and new challenges and inform us on how hum
 :::
 
 ::: {.g-col-12 .text-center .img-container style="margin-bottom: 1em; margin-top: 0.5em;"}
-[Read the Rules](pages/rules.qmd){.h3 .btn .btn-secondary}
+[Read the Rules](pages/rules.qmd){.btn .btn-secondary}
 :::
-:::
-:::
+:::::
+::::::::
 
-::: {.g-col-4 .img-container}
+<!-- "align-self-end" aligns the picture column vertically to the end (bottom) of the rest of the grid -->
+::: {.g-col-4 .img-container .align-self-end}
 ![](resources/images/pretty-pics/RockyCape.jpg)
 :::
-:::
+
+:::::::::::
+<!-- end of Playing the Game section grid -->
 
 ## Main messages
 
-<!-- This game aims to introduce three main messages that we care about: -->
-
 ::: {.homepage-p .text-center style="margin-bottom: 1.em"}
-
 To win the game you need a good strategy and luck. There is always an element of chance, but a good fisher and player knows how to their luck. In this game you need to think about the long term strategy! The game has three main messages:
 :::
 
-::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen}
+<!-- begin main messages picture and text grid -->
+:::::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen}
 ::: {.g-col-6 .img-container}
 ![](resources/images/pretty-pics/flathead-small.jpg)
 :::
@@ -198,25 +199,15 @@ To win the game you need a good strategy and luck. There is always an element of
 
 Preserving the big fish in the oceans, lakes and rivers is important for fish reproduction and resilience, ecosystem balance or simply because big fish are beautiful.
 
-<!-- Big fish play a disproportionately important role in preserving the health and diversity of fresh and salt water ecosystems. -->
-
 ### 2. Big fish are mostly gone
-
-<!-- Commercial and recreational fishing has removed most of the large fish from the ocean, lakes and rivers. -->
 
 Due to commercial and recreational fishing, big fish have mostly vanished from rivers, lakes and oceans.
 
 ### 3. Big fish can return
 
 Fish grow relatively fast and if we take the right measures, we can restore them within our lifetimes and enjoy healthy ecosystems again.
-
-<!-- Many fish species grow quickly, so big fish can be restored within our lifetimes if we play the right cards now. -->
-
-<!-- ### 4. Big fish are worth saving -->
-
-<!-- Fish, in their countless forms, are beautiful and irreplaceable creatures. Big fish in particular are breathtaking in their form and function, and they are worth preserving. -->
 :::
-:::
+::::::
 
 ::: {.column-page .text-center .homepage-p .spacer-2em}
 BigFish has been created by a passionate team who wish players to know more, care more, and contribute.
@@ -224,7 +215,8 @@ BigFish has been created by a passionate team who wish players to know more, car
 [Explore the Science](pages/wildcards.qmd){.btn .btn-secondary}
 :::
 
-::: {.grid .justify-contents-evenly .align-items-center .column-page .spacer-5rem .homepage-p}
+<!-- begin Who We Are grid -->
+:::::: {.grid .justify-contents-evenly .align-items-center .column-page .spacer-5rem .homepage-p}
 ::: g-col-8
 ## Who we are {style="margin-top: 0.5em;"}
 
@@ -248,14 +240,11 @@ Game testing, advice, interesting facts and many other details have been provide
 
 If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info\@fishsizeproject.org](mailto:info@fishsizeproject.org).
 :::
-:::
-
-<!-- ::: {.grid .justify-contents-evenly .align-items-center .column-page .text-center .spacer-2em .homepage-p} -->
-<!-- ::: g-col-12 -->
+::::::
 
 ## Supporters
 
-:::: {.grid .justify-contents-evenly .align-items-center .gap-3}
+:::: {.grid .justify-contents-evenly .align-items-center .gap-3 .homepage-p .column-page}
 ::: {.g-col-6 .text-center .img-container}
 2020 Pew Fellowship in Marine Conservation to Asta. 
 :::
