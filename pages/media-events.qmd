@@ -18,9 +18,9 @@ description-meta: |
 
 ### Resources and popular science
 
-**Short video about Asta's Pew fellowship project and vision for healthy oceans**
+<!-- **Short video about Asta's Pew fellowship project and vision for healthy oceans** -->
 
-Story about the collaboration between Microsoft and Australian Government's Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - [Citizen scientists, AI and cloud bond to boost billabong health in the Top End](https://news.microsoft.com/en-au/features/citizen-scientists-ai-and-cloud-bond-to-boost-billabong-health-in-the-top-end/)
+Story about the collaboration between Microsoft and Australian Government's Supervising Scientist Branch to build the baited remote underwater video image dataset from images at the Kakadu National park - [Citizen scientists, AI and cloud bond to boost billabong health in the Top End](https://news.microsoft.com/en-au/features/citizen-scientists-ai-and-cloud-bond-to-boost-billabong-health-in-the-top-end/)
 
 ### Science about the importance of large fish
 
