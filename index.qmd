@@ -110,7 +110,7 @@ By pledging to this campaign you will secure your copy of the game and support e
 ::::: {.g-col-2}
 <h2 class="timertext" id="minutes">MM</h2>
 
-### MIN {.text-center .timerlabel .unlisted}
+### MINUTES {.text-center .timerlabel .unlisted}
 :::::
 
 ::::: g-col-1
@@ -122,7 +122,7 @@ By pledging to this campaign you will secure your copy of the game and support e
 ::::: {.g-col-2}
 <h2 class="timertext" id="seconds">SS</h2>
 
-### SEC {.text-center .timerlabel .unlisted}
+### SECONDS {.text-center .timerlabel .unlisted}
 :::::
 ::::::
 <!-- end timer grid -->
