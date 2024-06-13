@@ -1,17 +1,83 @@
 ---
 pagetitle: How to Buy | BigFish Card Game
+sidebar: false
 description-meta: |
-  Meta description to go here
+  We're currently crowdfunding the BigFish game, and the official campaign will launch on September 15, 2024.
+include-after-body:
+  text: |
+    <script type="text/javascript" src="/resources/simple-countdown-timer/dist/script.js"></script>
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}
    
 :::
 
-# How to buy
+::::::::::::::: {.column-page}
+
+# We're crowdfunding!
 
 ::: text-center
-An online ordering system is coming soon, but you can get your own copy of BigFish right now by emailing our team.
+To make the game available in Tasmania and worldwide and to run our engagement activities we are launching a **crowdfunding** campaign. Currently the game is not available for sale and you can only get it through crowdfunding. 
 
-[Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary}
+By pledging to this campaign you will secure your copy of the game and support education and engagement activities on marine science and sustainable recreational fishing. The campaign will launch on **September 15, 2024**.
+
+<!-- An online ordering system is coming soon, but you can get your own copy of BigFish right now by emailing our team. -->
+
+<!-- [Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary} -->
 :::
+
+<!-- begin timer grid -->
+:::::: {.grid .text-center .justify-contents-evenly .align-items-center .homepage-p .my-2 .mx-5 .px-5 .timerBox}
+::::: {.g-col-3}
+<h2 class="timertext" id="days">DD</h2>
+
+### DAYS {.text-center .timerlabel .unlisted}
+:::::
+
+::::: g-col-1
+<h2 class="timertext">:</h2>
+
+### : {.text-center .timerlabel style="color: var(--bs-body-bg);" .unlisted}
+:::::
+
+::::: {.g-col-2}
+<h2 class="timertext" id="hours">HH</h2>
+
+### HOURS {.text-center .timerlabel .unlisted}
+:::::
+
+::::: g-col-1
+<h2 class="timertext">:</h2>
+
+### : {.text-center .timerlabel style="color: var(--bs-body-bg);" .unlisted}
+:::::
+
+::::: {.g-col-2}
+<h2 class="timertext" id="minutes">MM</h2>
+
+### MIN {.text-center .timerlabel .unlisted}
+:::::
+
+::::: g-col-1
+<h2 class="timertext">:</h2>
+
+### : {.text-center .timerlabel style="color: var(--bs-body-bg);" .unlisted}
+:::::
+
+::::: {.g-col-2}
+<h2 class="timertext" id="seconds">SS</h2>
+
+### SEC {.text-center .timerlabel .unlisted}
+:::::
+::::::
+<!-- end timer grid -->
+
+::: {.text-center .spacer-1em} 
+Would you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes. You will get no more than one email per month and two reminders about the crowdfunding start. 
+:::
+
+::: text-center
+[Subscribe to news](https://bigfishcardgame.com){.btn .btn-primary}
+:::
+
+:::::::::::::::
