@@ -43,11 +43,15 @@ website:
       Battery Point TAS 7000<br>
       Australia<br>
     right: |
-      <i>We acknowledge the traditional owners of the land on which we live and work. Sovereignty was never ceded </i><img src="/resources/styling/Australian_Aboriginal_Flag.png" class="img-fluid" style="height: 1em;"> <br><br><br>
+      <i>We acknowledge the traditional owners of the land on which we live and work.Sovereignty was never ceded </i><img src="/resources/styling/Australian_Aboriginal_Flag.png" class="img-fluid" style="height: 1em;">
+      <br><br><br>
       © BigFish Card Game, 2024<br>
       Website created by [Tormey Reimer](https://drtreimer.com)
     center: |
-      [<img src="/resources/images/fishsize-logo-backed.png" class="img-fluid" style="width: 8.5vw;">](/index.qmd)
+      [<img src="/resources/styling/UniTas_IMAS.png" class="img-fluid" style="width: 20%;">](https://www.imas.utas.edu.au)
+      [<img src="/resources/images/fishsize-logo-backed.png" class="img-fluid" style="width: 20%; margin-left: 2.5%;">](/index.qmd)
+      [<img src="/resources/styling/CMS.png" class="img-fluid" style="width: 27.5%;">](https://marinesocioecology.org)
+
     border: false
     background: primary
     foreground: light

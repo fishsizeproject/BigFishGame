@@ -297,6 +297,10 @@ ul.navbar-nav.navbar-nav-scroll.me-auto li.nav-item.dropdown ul.dropdown-menu.sh
   align-items: center;
 }
 
+.nav-footer-center {
+  flex-basis: 40vw;
+}
+
 // Hero image styling
 #quarto-content > * {
 /* Hero image is pinned to the navbar without a gap */
