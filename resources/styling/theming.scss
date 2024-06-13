@@ -380,6 +380,12 @@ main.content > section:first-of-type > .h2:first-child {
     min-width: 150px;
 }
 
+.image-card-sideways {
+    box-shadow: 10px 10px 5px $gray-400;
+    height: 15vw;
+    min-height: 150px;
+}
+
 .how-to-play-block {
     position: relative;
     border: 5px dashed $accent;
