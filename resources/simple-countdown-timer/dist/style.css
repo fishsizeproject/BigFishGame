@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
 
+/* These were the styles that came with the timer I downloaded. They are not in use. */
+
 /* TIMER STYLES */
 .timeContainer {
   z-index: 2;
