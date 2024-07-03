@@ -28,10 +28,10 @@ website:
             href: pages/wildcards.qmd
           - text: "Round-end cards"
             href: pages/round-end-cards.qmd
-      - text: "Media & Events"
-        href: pages/media-events.qmd
-      - text: "About Us"
-        href: pages/about.qmd
+      # - text: "Media & Events"
+      #   href: pages/media-events.qmd
+      # - text: "About Us"
+        # href: pages/about.qmd
       - text: "Get yours"
         href: pages/how-to-buy.qmd
   page-footer:

@@ -12,7 +12,8 @@ include-after-body:
 :::::: {.grid .justify-contents-evenly .align-items-center .column-screen .hero-img .hero-strip-homepage}
 ::: {.g-col-6 style="margin-left: 5%;"}
 ::: maintitle
-# BigFish {.maintitle}
+<!-- # BigFish {.maintitle} -->
+![](resources/images/BigFish_orange.png){width="70%"}
 :::
 
 ::: newsubtitle
@@ -23,13 +24,13 @@ include-after-body:
 ::: g-col-6
 ![](resources/icons/children-solid-orange.svg){width="30%"}
 
-Suitable for ages 10+
+**Suitable for ages 10+**
 :::
 
 ::: g-col-6
 ![](resources/icons/users-line-solid-orange.svg){width="30%"}
 
-Best for groups of 2-5 players
+**Best for 2-5 players**
 :::
 :::
 :::
@@ -43,11 +44,15 @@ Best for groups of 2-5 players
 <!-- This column-page extends through the tagline, crowdfunding and timer sections -->
 ::::::::::::::: {.column-page .feature-text}
 
-::: {.spacer-3em}
-The BigFish card game informs and engages everyone interested in fishing or marine ecosystems through fun play.
+<!-- ::: {.spacer-3em} -->
+::: p
+The BigFish card game for everyone interested in fun card games, fishing or marine life.
 
-The goal of the game is to collect the maximum number of points from catching fish, while also preserving a healthy ecosystem and keeping some big fish to improve future catches.
+To win the game you must find the best fishing strategy to collect points from catching fish, while keeping your fishing spot healthy and protected from natural disasters and other players. 
 :::
+
+<!-- Edits required: three photos should go below the text introducing the game (above) - GameOnSand2Sm.jpg and two photos of people playing on the beach. Then the other four photos should ideally go on each side of the crowdfunding campaign section, to make it very clear what people get if they pledge. Also, at the moment the font and font style is different here compared to what is below (line spacing differs, etc). This font should be a bigger but same style -->
+
 
 ::::::: {.grid .justify-contents-evenly .align-items-center .gap-3}
 ::: {.g-col-3 .text-center .img-container}
@@ -65,6 +70,19 @@ The goal of the game is to collect the maximum number of points from catching fi
 ::: {.g-col-3 .text-center .img-container}
 ![](resources/images/PlayingGame2.jpg)
 :::
+
+::: {.g-col-3 .text-center .img-container}
+![](resources/images/ShelfishReefCard.jpg)
+:::
+
+::: {.g-col-3 .text-center .img-container}
+![](resources/images/WhaleCard.jpg)
+:::
+
+::: {.g-col-3 .text-center .img-container}
+![](resources/images/GameOnSandSm.jpg)
+:::
+
 :::::::
 
 ::: p
@@ -72,13 +90,15 @@ The goal of the game is to collect the maximum number of points from catching fi
 :::
 
 ::: {.text-center} 
-To make the game available in Tasmania and worldwide and to run our engagement activities we are launching a **crowdfunding** campaign. Currently the game is not available for sale and you can only get it through crowdfunding. 
+Get your own copy of the game and support education on sustainable fishing and marine life. 
 
-By pledging to this campaign you will secure your copy of the game and support education and engagement activities on marine science and sustainable recreational fishing. The campaign will launch on **September 15, 2024**.
+All proceeds from the crowdfunding campaign will go for outreach activities and developing the game further. We will aim to have the game available in shops, but this is not certain. Which means that this **crowdfunding** is the best way you secure your own copy of the game and other great rewards. 
+
+The campaign will launch on **September 15, 2024**.
 :::
 
 ::: text-center
-[Crowdfunding page](https://bigfishcardgame.com){.btn .btn-primary}
+[Crowdfunding page](https://bigfishcardgame.com){.btn .btn-secondary}
 :::
 
 <!-- begin timer grid -->
@@ -128,11 +148,11 @@ By pledging to this campaign you will secure your copy of the game and support e
 <!-- end timer grid -->
 
 ::: {.text-center .spacer-1em} 
-Would you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes. You will get no more than one email per month and two reminders about the crowdfunding start. 
+Would you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes. Subscribe to our newsletter. You will get a max of one email per month and two reminders about the crowdfunding start. 
 :::
 
 ::: text-center
-[Subscribe to news](https://bigfishcardgame.com){.btn .btn-primary}
+[Subscribe to news](https://forms.office.com/r/wVcaiUSxNF){.btn .btn-secondary}
 :::
 
 <!-- end of column-page section -->
@@ -149,7 +169,7 @@ Would you like to be reminded about the crowdfunding launch? You can get the gam
 :::
 
 ::: g-col-10
-Big fish are worth more points than small fish, so players are tempted to catch them. But the presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving fish for good fishing opportunities.
+Big fish are worth more points than small fish, so players want to catch them. But the presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving big fish for good fishing opportunities in the future. 
 :::
 
 ::: {.g-col-2 .img-container .my-2}
@@ -157,7 +177,7 @@ Big fish are worth more points than small fish, so players are tempted to catch 
 :::
 
 ::: g-col-10
-In addition to fishing, other natural and human-induced events occur throughout the game, such as fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification, and others.
+In addition to fishing, other natural and human-induced events occur throughout the game: fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification, sea urchin arrival and others.
 :::
 
 ::: {.g-col-2 .img-container .my-2}
@@ -165,7 +185,7 @@ In addition to fishing, other natural and human-induced events occur throughout 
 :::
 
 ::: g-col-10
-These events create unpredictability and new challenges and inform us on how humans impact aquatic ecosystems.
+These events create unpredictability and new challenges. Players can partly protect their fishing spots by finding the best game strategy. 
 :::
 
 ::: {.g-col-12 .text-center .img-container style="margin-bottom: 1em; margin-top: 0.5em;"}
@@ -184,12 +204,16 @@ These events create unpredictability and new challenges and inform us on how hum
 
 ## Main messages
 
-::: {.homepage-p .text-center style="margin-bottom: 1.em"}
-To win the game you need a good strategy and luck. There is always an element of chance, but a good fisher and player knows how to their luck. In this game you need to think about the long term strategy! The game has three main messages:
+::: {.homepage-p .text-center style="font-size: 1.5em;"}
+<!-- Edits needed: we need to have a wide space after this text below and the flathead photo and messages. I tried to add margin bottom after the font size style, but it does not work  -->
+
+<!-- To win the game you need a good strategy and luck. There is always an element of chance, but a good fisher and player knows how to get their luck. In this game you need to think about the long term strategy! The game has three main messages: -->
+
+We developed the game because we love fun card games and we love the ocean. We also love big fish. 
 :::
 
 <!-- begin main messages picture and text grid -->
-:::::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen}
+:::::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen style="margin-top: 1em;"}
 ::: {.g-col-6 .img-container}
 ![](resources/images/pretty-pics/flathead-small.jpg)
 :::
@@ -197,20 +221,20 @@ To win the game you need a good strategy and luck. There is always an element of
 ::: {.g-col-6 .mx-2 style="padding-right: 2em;"}
 ### 1. Big fish are important
 
-Preserving the big fish in the oceans, lakes and rivers is important for fish reproduction and resilience, ecosystem balance or simply because big fish are beautiful.
+Preserving the big fish in the oceans, lakes and rivers is important for fish reproduction and resilience, ecosystem balance, for the fun of fishing, or simply because big fish are beautiful.
 
 ### 2. Big fish are mostly gone
 
-Due to commercial and recreational fishing, big fish have mostly vanished from rivers, lakes and oceans.
+Due to commercial and recreational fishing, big fish have mostly vanished from oceans, rivers and lakes.
 
 ### 3. Big fish can return
 
-Fish grow relatively fast and if we take the right measures, we can restore them within our lifetimes and enjoy healthy ecosystems again.
+Fish grow relatively fast and if we take the right actions, we can restore them within our lifetimes and enjoy their beauty and benefits again.
 :::
 ::::::
 
 ::: {.column-page .text-center .homepage-p .spacer-2em}
-BigFish has been created by a passionate team who wish players to know more, care more, and contribute.
+<!-- BigFish has been created by a passionate team who wish players to know more, care more, and contribute. -->
 
 [Explore the Science](pages/wildcards.qmd){.btn .btn-secondary}
 :::
@@ -220,33 +244,35 @@ BigFish has been created by a passionate team who wish players to know more, car
 ::: g-col-8
 ## Who we are {style="margin-top: 0.5em;"}
 
-This game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design).
+This game has been developed by the Institute of Marine and Antarctic Sciences, University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings), Matt Testoni (photos, design) and Stacey McCormack (design).
 
 Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.
 
 ::: text-center
-[About Us](pages/about.qmd){.h3 .btn .btn-secondary}
+[Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary}
 :::
 :::
 
 ::: {.g-col-4 .text-center}
-![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot} ![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot}
+![](resources/images/matt.png){.headshot} 
+![](resources/images/amy.jpg){.headshot}
 
-![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot} ![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot}
+![](resources/images/asta.jpg){.headshot} 
+![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot}
 :::
 
-::: g-col-12
-### Contact us
+<!-- ::: g-col-12 -->
+<!-- ### Contact us -->
 
-If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info\@fishsizeproject.org](mailto:info@fishsizeproject.org).
-:::
+<!-- If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info\@fishsizeproject.org](mailto:info@fishsizeproject.org). -->
+<!-- ::: -->
 ::::::
 
 ## Supporters
 
 :::: {.grid .justify-contents-evenly .align-items-center .gap-3 .homepage-p .column-page}
-::: {.g-col-6 .text-center .img-container}
-2020 Pew Fellowship in Marine Conservation to Asta. 
+::: {.g-col-6 .text-center .img-container style="font-size: 1.5em;"}
+*Pew Fellowship in Marine Conservation*
 :::
 
 ::: {.g-col-6 .text-center .img-container}
@@ -258,7 +284,9 @@ If you would like to learn more about our work, adapt the game to your ecosystem
 <!-- ::: -->
 
 ::: {.g-col-12 .text-center}
-You can support the game by pledging on our crowdfunding or by contacting us. If you would like to sponsor a card, representing your organisation or initiative, get in touch and we will discuss. We will only include cards that are truly important for sustainable fisheries and marine ecosystems. 
+**You can support the game** by pledging on our crowdfunding or by contacting us. 
+
+If you would like to sponsor a card, representing your organisation or initiative, get in touch and we will discuss. We will only include cards that are truly important for sustainable fisheries and marine ecosystems. 
 :::
 
 ::: {.g-col-6 .text-center}
@@ -266,7 +294,7 @@ You can support the game by pledging on our crowdfunding or by contacting us. If
 :::
 
 ::: {.g-col-6 .text-center}
-[Contact us](pages/about.qmd){.btn .btn-secondary}
+[Contact us](mailto:info@fishsizeproject.org){.btn .btn-secondary}
 :::
 
 ::::

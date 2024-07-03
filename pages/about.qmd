@@ -47,34 +47,34 @@ If you want to support this work, you can buy your very own copy of the BigFish 
 [Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary}
 :::
 
-## Supporters
+<!-- ## Supporters -->
 
-This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to [Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte). 
+<!-- This work is supported by a 2020 Pew Fellowship in Marine Conservation awarded to [Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte).  -->
 
-:::: {.grid .justify-contents-evenly .align-items-center .text-center .spacer-2em}
-::: g-col-2
-![](https://placehold.co/200x200)
-:::
+<!-- :::: {.grid .justify-contents-evenly .align-items-center .text-center .spacer-2em} -->
+<!-- ::: g-col-2 -->
+<!-- ![](https://placehold.co/200x200) -->
+<!-- ::: -->
 
-::: g-col-2
-![](https://placehold.co/200x200)
-:::
+<!-- ::: g-col-2 -->
+<!-- ![](https://placehold.co/200x200) -->
+<!-- ::: -->
 
-::: g-col-2
-![](https://placehold.co/200x200)
-:::
+<!-- ::: g-col-2 -->
+<!-- ![](https://placehold.co/200x200) -->
+<!-- ::: -->
 
-::: g-col-2
-![](https://placehold.co/200x200)
-:::
+<!-- ::: g-col-2 -->
+<!-- ![](https://placehold.co/200x200) -->
+<!-- ::: -->
 
-::: g-col-2
-![](https://placehold.co/200x200)
-:::
+<!-- ::: g-col-2 -->
+<!-- ![](https://placehold.co/200x200) -->
+<!-- ::: -->
 
-::: g-col-2
-![](https://placehold.co/200x200)
-:::
-::::
+<!-- ::: g-col-2 -->
+<!-- ![](https://placehold.co/200x200) -->
+<!-- ::: -->
+<!-- :::: -->
 
 :::
