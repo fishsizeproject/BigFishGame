@@ -20,7 +20,7 @@ include-after-body:
 ## The sustainable fishing game {.newsubtitle}
 :::
 
-::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.3em; margin-bottom: 5%; margin-top: 5%; color: var(--bs-accent);"}
+::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.45em; margin-bottom: 5%; margin-top: 5%; color: var(--bs-accent);"}
 ::: g-col-6
 ![](resources/icons/children-solid-orange.svg){width="30%"}
 
