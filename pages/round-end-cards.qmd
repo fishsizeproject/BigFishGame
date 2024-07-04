@@ -187,7 +187,7 @@ Plankton are tiny plants that bloom under ideal conditions, and are the first st
 
 ## Seaweed planting occurs {#sec-seaweed-planting}
 
-*More information on this card coming soon!*
+*More information on this card coming soon!* 
 
 :::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
