@@ -1,4 +1,4 @@
-# website
+# BigFish website
 
-Repository for the website about the Big Fish card game and related information. 
+Repository for the website about the BigFish card game and related information. 
 
