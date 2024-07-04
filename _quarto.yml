@@ -31,8 +31,8 @@ website:
             href: pages/round-end-cards.qmd
       # - text: "Media & Events"
       #   href: pages/media-events.qmd
-      # - text: "About Us"
-        # href: pages/about.qmd
+      - text: "About Us"
+        href: pages/about.qmd#sec-blue-groper
       - text: "Get yours"
         href: pages/how-to-buy.qmd
   page-footer:

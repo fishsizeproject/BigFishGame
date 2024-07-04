@@ -43,7 +43,7 @@ include-after-body:
 <!-- END SPECIAL BIGFISH BANNER SECTION -->
 
 <!-- This column-page extends through the tagline, crowdfunding and timer sections -->
-::::::::::::::: {.column-page .feature-text}
+::::::::::::::: {.column-screen style="margin-left: 2.5em; margin-right: 2.5em;" .feature-text }
 
 ::: {.p .spacer-3em}
 The BigFish card game is for everyone interested in fun card games, fishing or marine life.
@@ -152,7 +152,7 @@ Would you like to be reminded about the crowdfunding launch? You can get the gam
 [Subscribe to news](https://forms.office.com/r/wVcaiUSxNF){.btn .btn-secondary}
 :::
 
-<!-- end of column-page section -->
+<!-- end of column-screen section -->
 :::::::::::::::
 
 <!-- Playing the Game section has its own grid that spans the screen  -->
@@ -199,7 +199,7 @@ These events create unpredictability and new challenges. Players can partly prot
 :::::::::::
 <!-- end of Playing the Game section grid -->
 
-:::::::::::: .column-page
+:::::::::::: {.column-screen}
 ::: {.homepage-p .text-center .column-page style="font-size: 1.5em; margin-bottom: 1.5em;"}
 ## Main messages 
 
@@ -240,7 +240,7 @@ Fish grow relatively fast and if we take the right actions, we can restore them 
 :::
 
 <!-- begin Who We Are grid -->
-:::::: {.grid .justify-contents-evenly .align-items-center .column-page .spacer-5rem .homepage-p}
+:::::: {.grid .justify-contents-evenly .align-items-center .spacer-5rem .homepage-p .column-screen style="padding-left: 2.5em; padding-right: 2.5em;"}
 ::: {.g-col-12 .g-col-lg-8}
 ## Who we are {style="margin-top: 0.5em;"}
 
@@ -269,11 +269,11 @@ Game testing, advice, interesting facts and many other details have been provide
 ::::::
 
 <!-- Begin column-page section for Supporter -->
-::::::::::::::: {.column-page .feature-text}
+::::::::::::::: {.column-screen style="padding-left: 2.5em; padding-right: 2.5em;" .feature-text}
 
 ## Supporters
 
-:::: {.grid .justify-contents-evenly .align-items-center .gap-3 .homepage-p .column-page}
+:::: {.grid .justify-contents-evenly .align-items-center .gap-3 .homepage-p}
 ::: {.g-col-6 .text-center .img-container .px-1 style="font-size: 1.5em;"}
 *Pew Fellowship in Marine Conservation*
 :::
