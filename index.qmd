@@ -13,7 +13,7 @@ include-after-body:
 ::: {.g-col-12 .g-col-md-6 style="margin-left: 5%;"}
 ::: maintitle
 <!-- # BigFish {.maintitle} -->
-![](resources/images/BigFish_orange.png){width="70%"}
+![](resources/images/BigFish_darkorange.png){width="70%"}
 :::
 
 ::: new-subtitle
@@ -43,7 +43,7 @@ include-after-body:
 <!-- END SPECIAL BIGFISH BANNER SECTION -->
 
 <!-- This column-page extends through the tagline, crowdfunding and timer sections -->
-::::::::::::::: {.column-screen style="margin-left: 2.5em; margin-right: 2.5em;" .feature-text }
+::::::::::::::: {.column-screen style="margin-left: 2em; margin-right: 2em;" .feature-text }
 
 ::: {.p .spacer-3em}
 The BigFish card game is for everyone interested in fun card games, fishing or marine life.

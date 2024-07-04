@@ -8,14 +8,14 @@ website:
   title: "BigFish"
   repo-url: https://github.com/fishsizeproject/BigFishGame
   site-url: https://bigfishcardgame.com/
-  favicon: ../resources/images/fishsize-logo-backed.png
+  favicon: /resources/images/BigFish_white.png
   page-navigation: false
   back-to-top-navigation: false
   navbar:
     title: false
     background: primary
     foreground: light
-    logo: ../resources/images/BigFish_orange.png
+    logo: /resources/images/BigFish_white.png
     pinned: true
     collapse: true
     left:
@@ -50,7 +50,7 @@ website:
       Website created by [Tormey Reimer](https://drtreimer.com)
     center: |
       [<img src="/resources/styling/UniTas_IMAS.png" class="img-fluid" style="width: 20%;">](https://www.imas.utas.edu.au)
-      [<img src="/resources/images/BigFish_orange.png" class="img-fluid" style="width: 20%; margin-left: 2.5%;">](/index.qmd)
+      [<img src="/resources/images/fishsize-logo-backed.png" class="img-fluid" style="width: 20%; margin-left: 2.5%;">](https://fishsizeproject.org/)
       [<img src="/resources/styling/CMS.png" class="img-fluid" style="width: 27.5%;">](https://marinesocioecology.org)
 
     border: false
