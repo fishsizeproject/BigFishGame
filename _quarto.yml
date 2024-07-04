@@ -17,7 +17,7 @@ website:
     foreground: light
     logo: ../resources/images/BigFish_orange.png
     pinned: true
-    collapse: false
+    collapse: true
     left:
       - text: "Rules"
         href: pages/rules.qmd
@@ -202,7 +202,7 @@ format:
     link-external-newwindow: true
     page-layout: full
     grid:
-      sidebar-width: 450px
+      sidebar-width: 400px
       body-width: 1500px
       margin-width: 0px
       gutter-width: 0em
