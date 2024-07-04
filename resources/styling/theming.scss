@@ -176,7 +176,7 @@ ol ::marker {
 }
 
 .column-screen {
-    margin: 0 !important; /* Set margin to 0 and use !important to ensure it overrides other styles */
+    margin: 0; /* Set margin to 0 and use !important to ensure it overrides other styles */
     padding: 0;
 }
 
@@ -320,7 +320,7 @@ ul.navbar-nav.navbar-nav-scroll.me-auto li.nav-item.dropdown ul.dropdown-menu.sh
 }
 
 .hero-strip-homepage {
-  width: 100vw;
+  width: calc(100vw - 17px);
 }
 
 .hero-strip-page {
