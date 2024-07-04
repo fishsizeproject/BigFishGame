@@ -8,14 +8,14 @@ website:
   title: "BigFish"
   repo-url: https://github.com/fishsizeproject/BigFishGame
   site-url: https://bigfishcardgame.com/
-  favicon: ../resources/images/fishsize-logo-backed.png
+  favicon: /resources/images/BigFish_white.png
   page-navigation: false
   back-to-top-navigation: false
   navbar:
     title: false
     background: primary
     foreground: light
-    logo: ../resources/images/BigFish_orange.png
+    logo: /resources/images/BigFish_white.png
     pinned: true
     collapse: true
     left:
