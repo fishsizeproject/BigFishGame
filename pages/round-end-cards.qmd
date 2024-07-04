@@ -12,12 +12,12 @@ sidebar: special-sidebar
 :::
 
 <!-- This maintains the page body spacing on left and right, do not remove -->
-::::::::::: {.column-body style="margin-left: 3.5em; margin-right: 3.5em"}
+::::::::::: {.column-body style="margin-left: 2em; margin-right: 2em"}
 
 # Round-end cards
 
 ::::: {.grid .justify-contents-evenly .align-items-center}
-:::: {.g-col-7}
+:::: {.g-col-12 .g-col-md-7}
 On this page you can learn more about the science behind all the round-end cards included in the game. You can find the science behind all the wildcards [here](../pages/wildcards.qmd).
 
 We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please [contact us](../pages/about.qmd)!
@@ -27,7 +27,7 @@ A diver explores a collection of sponges and corals at one of the Reef Life Surv
 :::
 ::::
 
-:::: {.g-col-5 .text-center .img-container}
+:::: {.g-col-12 .g-col-md-5 .text-center .img-container}
 ![](../resources/images/pretty-pics/sponge-dive.jpg){width="95%"}
 ::::
 :::::
@@ -36,12 +36,12 @@ A diver explores a collection of sponges and corals at one of the Reef Life Surv
 
 When an El Niño is present on the south east coast of Australia more heatwaves, strong swells and storms affect the ocean. Increases in sea surface temperature can also occur. This can mean smaller individuals of a species are less likely to be able to survive these events. Species such as [Abalone](fish-cards.qmd#sec-abalone) have also been observed as having decreased reproductive ability as heatwaves and severe weather cause physiological stress. There is also evidence that fish move away from certain coastal areas, meaning fishing ability is potentially changed in El Niño years. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/round-end-cards/el-nino-begins.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 This card is revealed at the end of the round. When revealed, each player must discard a medium or juvenile fish from their habitat. 
@@ -61,12 +61,12 @@ Fisheries have collapsed in the past, and species have been overcaught to the ve
 
 This is more likely with fish that mature at an old age, such as orange roughy that need to survive 27-32 years before they can reproduce. In the 1980s and 1990s orange roughy were being harvested by fisheries so fast that the fishery collapsed (it was no longer economically viable to harvest these fish as too few were being caught each trip). Without baseline information on how a population is structured in terms of age, size and genetics, we are unable to determine how the population is responding to harvesting by people. With this information however, managers can intervene to save a species and ensure sustainable harvesting into the future.
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/round-end-cards/fisheries-research.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Draw a face-down card. If it is a fish card, release it into your fishing spot as a medium sized fish. 
@@ -94,12 +94,12 @@ A diver being handed a stereo-video system. The diver will swim transects, and a
 
 Biodiversity loss (a decline in the number of species present in an ecosystem) is known to cause the ocean ecosystem to weaken in its ability to adapt and withstand changes. These changes include events such as marine heatwaves, climate change and weather patterns. An ecosystem with lower biodiversity is much more likely to suffer severe negative effects than a more biodiverse and resilient ocean ecosystem. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/round-end-cards/localised-species-extinction.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 When this card is drawn at the end of a round, the subsequent round will have no face-up cards present. This means that all cards that refer to face-up cards will no longer be able to be used during the round where this card is active.
@@ -127,12 +127,12 @@ The fish featured on the Localised Species Extinction card in the game is a spot
 
 If any [abalone](fish-cards.qmd#sec-abalone), [lobster](fish-cards.qmd#sec-southern-rock-lobster), or [crab](fish-cards.qmd#sec-red-rock-crab) cards are present in a player’s fishing spot they must discard them. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/round-end-cards/ocean-acidification.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Increasing atmospheric carbon increases the amount of carbon which dissolves into the ocean at the surface, resulting in a change in the ocean’s pH. Between 1950 and 2020 the average pH of the ocean shifted from 8.15 to 8.0, meaning it has become more acidic. In more acidic waters, it becomes increasingly difficult for animals to grow their shells and carbonate skeletons.
@@ -156,12 +156,12 @@ Both phytoplankton (tiny plants) and the zooplankton (tiny animals) that feed on
 
 The availability of key resources in the environment, mainly nutrients such as iron, is what limits  phytoplankton growth. When sudden inputs of these nutrients become available, often the phytoplankton have everything else they need to survive and flourish - sometimes to the extent that phytoplankton blooms cause problems for humans (such as red tides).
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/round-end-cards/plankton-swarm.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Each player must grow a larval fish into a juvenile fish.
@@ -189,12 +189,12 @@ Plankton are tiny plants that bloom under ideal conditions, and are the first st
 
 *Intro text*
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/round-end-cards/seaweed-planting.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Place a [Seaweed](#sec-seaweed) or [Giant Kelp](#sec-giant-kelp) card from your hand into your fishing spot.
@@ -209,12 +209,12 @@ Place a [Seaweed](#sec-seaweed) or [Giant Kelp](#sec-giant-kelp) card from your 
 
 Large, old fish often produce disproportionately large numbers of offspring compared to fish of smaller sizes. Larger fish therefore contribute more to the next generation of fish which can be harvested. Protecting large ‘mega-spawners’ results in a greater yield of future fish. A 80 cm snapper produces ~24 times the offspring of a 40 cm snapper (but they both taste just as good!) and releasing the larger fish means more fish next year. In addition to producing disproportionately more young, large fish also connect different populations of fish – ensuring a rich and diverse gene-pool for tackling disease outbreaks and adapting to new conditions. Not all fish are made equal – big fish are more important to fish conservation into the future.
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/round-end-cards/upper-size-limit.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Each player must spawn a larval fish into their fishing spot.
@@ -236,12 +236,12 @@ Photo of a fisherman with fish of different sizes. Photo: A.R. Coghlan.
 
 *Intro text*
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/round-end-cards/urchins-arrive.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Each player must discard all [Seaweed](#sec-seaweed) and [Giant Kelp](#sec-giant-kelp) cards from their fishing spot. 
@@ -266,14 +266,14 @@ Invasive or overabundant urchins can quickly strip a reef of all seaweed and alg
 
 ## END OF GAME {#sec-end-game}
 
-*Intro text*
+Fishing season is closed, end of the game!
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 The game is over, tally up your scores.
