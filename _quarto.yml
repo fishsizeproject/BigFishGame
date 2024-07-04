@@ -32,7 +32,7 @@ website:
       # - text: "Media & Events"
       #   href: pages/media-events.qmd
       - text: "About Us"
-        href: pages/about.qmd#sec-blue-groper
+        href: index.qmd#sec-about
       - text: "Get yours"
         href: pages/how-to-buy.qmd
   page-footer:

@@ -242,7 +242,7 @@ Fish grow relatively fast and if we take the right actions, we can restore them 
 <!-- begin Who We Are grid -->
 :::::: {.grid .justify-contents-evenly .align-items-center .spacer-5rem .homepage-p .column-screen style="padding-left: 2.5em; padding-right: 2.5em;"}
 ::: {.g-col-12 .g-col-lg-8}
-## Who we are {style="margin-top: 0.5em;"}
+## Who we are {#sec-about style="margin-top: 0.5em;"}
 
 This game has been developed by the Institute of Marine and Antarctic Sciences, University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings), Matt Testoni (photos, design) and Stacey McCormack (design).
 
