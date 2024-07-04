@@ -37,12 +37,12 @@ Mel finds a weedy seadragon while diving at one of the Reef Life Survey sites. P
 
 *Intro text*
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/blue-groper.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Place into your fishing spot to prevent the effects of [Urchins](../pages/round-end-cards.qmd#sec-urchins-arrive).
@@ -59,12 +59,12 @@ Releasing caught fish, either because they are unwanted or for ocean health (i.e
 
 Releasing caught fish can greatly help fish populations. If minimum or maximum size limits are in place, fish too small or too large must be safely released. Anglers also often chose to release unwanted fish or fish that are especially valuable for the ocean and fish populations, such as predatory or large fish. In fact, all fish are valuable in the sea! All fish that will not be consumed should be released back into the ocean safely. When released correctly, survival rates are very high - often over 90%. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/catch-or-release.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Choose a fish from the available face-up cards in the centre area of the game and either place it in your esky or release it into your fishing spot. The size of the fish will be mentioned on the card, and different cards will have different sizes of fish to be released or caught. 
@@ -104,12 +104,12 @@ The collection of data is key to many animal and marine life studies. Conducting
 
 The citizen science project [REDMap](https://www.redmap.org.au/) featured on the card stands for Range Extending Database. The research from REDMAP involves the collection of marine animal observations from all over Australia and examines how animals are extending their ranges due to warming oceans and changing climates. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/citizen-science.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Choose a fish card currently in your hand and place it as a big fish into your fishing spot. 
@@ -148,12 +148,12 @@ The [Centre for Marine Socioecology (CMS)](https://marinesocioecology.org/) prov
 
 Collaboration across multiple fields is an extremely important aspect of research but is often difficult to achieve. The CMS card in Big Fish aims to highlight how working together in areas such as research produces many wide-reaching benefits. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/cms.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Draw two cards from the face-down card pile and put them in your hand. Then choose another player to draw one card from the face-down card pile that they may keep in their hand.
@@ -179,12 +179,12 @@ These are the research themes of the Centre for Marine Socioecology. Check out [
 
 *Intro text*
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/delicious-bait.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Place into your fishing spot to catch an additional fish each turn. If you do, discard a juvenile fish.
@@ -199,12 +199,12 @@ Place into your fishing spot to catch an additional fish each turn. If you do, d
 
 *Intro text*
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/fishing-kayak.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Catch a medium-sized fish from either the face-up cards or your fishing spot. Discard after use. 
@@ -219,12 +219,12 @@ Catch a medium-sized fish from either the face-up cards or your fishing spot. Di
 
 *Intro text*
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/fishing-rod.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Place into your fishing spot to catch an additional from your fishing spot each turn.
@@ -241,12 +241,12 @@ Giant Kelp provides a huge, complex, and food-filled habitat which is essential 
 
 However, giant kelp forests around Australia have been declining drastically for decades, mostly due to climate change. This is a huge loss of natural underwater “forests” that remains unknown by the general public. Many scientists and organisations are working to restore these kelp forests. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/giant-kelp.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 If you have a Giant Kelp card in your fishing spot you may grow two larval fish into juvenile fish each turn. The rule of one grow per fish per turn still applies. 
@@ -295,12 +295,12 @@ Healthy giant kelp forests are essential to ocean health, and they're extremely 
 
 Great whales such as the humpback whale and blue whale are key species in helping to cycle nutrients throughout the ocean. Known as whale pumps, these animals help by pooping out large quantities of nutrients that are essential for smaller species such as phytoplankton to grow. For example, whales feed in deep waters but breathe at the surface, so they bring the nutrients to the surface when they poop. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/humpback-whale.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Discard a larval or juvenile fish from your fishing spot to grow a medium fish to a big fish. 
@@ -335,12 +335,12 @@ Illegal fishing means fishing that does not follow existing regulations, be they
 
 Through discarding a card, players can start to understand the overall negative effects of illegal fishing. Fishing rules and regulations are there to protect fish stocks and prevent depletion and over fishing. Not obeying these limits means a less productive and functional marine ecosystem. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Choose a player, they must choose a juvenile fish in their fishing spot and discard it. 
@@ -377,12 +377,12 @@ The large shark card is present in BigFish to help show the value of apex predat
 
 Sharks also keep species that predate on other important pieces of an ocean ecosystem in check. For example, many of a shark’s prey species eat [seaweed](#sec-seaweed), and without sharks to keep the fish population in check seaweed can become scarce. Seaweed is incredibly important in providing some species of juvenile fish with places to hide and live while in a small and vulnerable stage of life. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/large-shark.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Place the wildcard into your fishing spot to grow a juvenile fish into a medium fish each turn. This is in addition to your grow turn and can take place at any point in the grow step. 
@@ -417,12 +417,12 @@ One way marine protected areas benefit recreational fishers is that fish from th
 
 There are many other benefits to marine protected areas and while they need to be used in conjunction with planning and research they are still an important asset to recreational fishers. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/marine-protected-area.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 This card is used during the draw phase of your turn. Before drawing any cards have a look to see if any fish present in the face-up area match those present in an opponent’s fishing spot. If there are any matches then you may take that fish card into your hand in addition to any other cards drawn during the draw step. 
@@ -448,12 +448,12 @@ Marine protected areas are often diverse havens for fish of all sizes. Photo: Ri
 
 Poor water quality affects many parts of a marine ecosystem in many different ways. This card aims to show a more general effect, and not highlight a single source of poor water quality. Examples of the sources of poor water quality include excessive runoff from farming and stormwater which may contain excessive sediments or nutrients. Both of these contaminants can prevent photosynthesis both directly and indirectly, and so can damage seaweed reefs and seagrass beds. 
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/poor-water-quality.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 When played, each player must discard a seaweed reef (or seagrass bed, featured in BIG FISH V3 and beyond), unless a shellfish reef is present in their fishing habitat. This includes the player playing the card. Remember to discard after use.
@@ -482,12 +482,12 @@ Kelp and other seaweeds are particularly affected by poor water quality, because
 
 *Intro text*
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/scuba-equipment.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Place into your fishing spot to catch a [lobster](../pages/fish-cards.qmd#sec-southern-rock-lobster), [crab](../pages/fish-cards.qmd#sec-red-rock-crab) or [abalone](../pages/fish-cards.qmd#sec-abalone) from your fishing spot each turn.
@@ -502,12 +502,12 @@ Place into your fishing spot to catch a [lobster](../pages/fish-cards.qmd#sec-so
 
 Seaweeds create important habitats for many fish species. Inside seaweed reefs fish forage for food and seek refuge from predators. Without these reefs many small and juvenile fish will not survive. A lack of seaweed also alters the balance between herbivorous and carnivorous fish that can further degrade a marine ecosystem.
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/seaweed.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Having a seaweed wild card in your fishing spot allows you to grow an additional fish each turn. However, the limits of one grow per fish per turn still applies. 
@@ -537,12 +537,12 @@ A cat shark seeks refuge in a kelp bed. Photo: Rick Stuart-Smith, [reeflifesurve
 
 Big fish can survive extreme weather events better than smaller fish of the same species. Therefore, the science shows that a population of fish is more at risk of decline and slower population recovery when larger individuals of that species are not present. This card highlights how a changing climate and more extreme weather events mean that fishing spots with larger fish of a species present are in a much better position to recover to prevent health levels than those lacking larger fish.
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/severe-weather.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Whoever plays this card gets to select a player who must then discard two larval, juvenile, or medium fish of their choice from their fishing spot. Fish cards in the player’s hand may not be used when discarding fish. 
@@ -566,12 +566,12 @@ Reefs and everything living there are affected by high winds and large swells. P
 
 Shellfish reefs provide many important ecosystem services and improve the general health of marine environments. They are particularly good at providing the complex habitat that is important to the development of larval and juvenile fish. By providing places for the fish to hide and feed, they help increase the recruitment and survival of many fish species. They also benefit the ecosystem through processes like water filtering, overall increasing ecosystem health and thus fish stock levels.
 
-:::: {.grid .justify-contents-evenly .align-items-center .mx-5 .px-5 .py-1}
-::: {.g-col-2}
+:::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
 ![](../resources/images/cards/wild-cards/shellfish-reef.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-10 .how-to-play-block .px-3 .mx-3}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4 .py-2}
 ### How to play
 
 Place the shellfish reef into your fishing spot, and on the spawn phase of every subsequent turn you may take a fish from the face-up cards and place it in your fishing spot as a larval fish.
