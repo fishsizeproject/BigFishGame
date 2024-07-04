@@ -10,7 +10,7 @@ sidebar: false
 :::
 
 <!-- Centers all content horizontally, do not remove -->
-::::::: column-page
+::::::: {.column-screen style="margin-left: 2.5em; margin-right: 2.5em;"}
 
 # How to play
 

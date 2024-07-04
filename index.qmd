@@ -84,7 +84,7 @@ To win the game you must find the best fishing strategy to collect points from c
 ::: {.text-center} 
 Get your own copy of the game and support education on sustainable fishing and marine life. 
 
-All proceeds from the crowdfunding campaign will go for outreach activities and developing the game further. We will aim to have the game available in shops, but this is not certain. Which means that this **crowdfunding** is the best way you secure your own copy of the game and other great rewards. 
+All proceeds from the crowdfunding campaign will go for outreach activities and developing the game further. We will aim to have the game available in shops, but this is not certain. Which means that **crowdfunding** is the best way to secure your own copy of the game and other great rewards. 
 
 The campaign will launch on **September 15, 2024**.
 :::
@@ -127,7 +127,7 @@ The campaign will launch on **September 15, 2024**.
 ::::: {.g-col-6 .g-start-4 .g-col-md-2}
 <h2 class="timertext" id="minutes">MM</h2>
 
-### MINUTES {.text-center .timerlabel .unlisted}
+### MINS {.text-center .timerlabel .unlisted}
 :::::
 
 ::::: {.g-col-1 .g-col-md-1 style="max-width: max(0px, calc((100vw - 750px)*999)); overflow: hidden;"}
@@ -139,7 +139,7 @@ The campaign will launch on **September 15, 2024**.
 ::::: {.g-col-6 .g-start-4 .g-col-md-3}
 <h2 class="timertext" id="seconds">SS</h2>
 
-### SECONDS {.text-center .timerlabel .unlisted}
+### SECS {.text-center .timerlabel .unlisted}
 :::::
 ::::::
 <!-- end timer grid -->
@@ -161,27 +161,27 @@ Would you like to be reminded about the crowdfunding launch? You can get the gam
 ## Playing the game
 
 ::::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-12 .g-col-md-6 .g-col-lg-2 .text-center .img-container .my-2}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center .img-container .my-2}
 ![](resources/images/cooler-no-text.jpg){width="75%"}
 :::
 
-::: {.g-col-12 .g-col-md-6 .g-col-lg-10}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10}
 Big fish are worth more points than small fish, so players want to catch them. But the presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving big fish for good fishing opportunities in the future. 
 :::
 
-::: {.g-col-12 .g-col-md-6 .g-col-lg-2 .text-center .img-container .my-2}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center .img-container .my-2}
 ![](resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card width="75%"}
 :::
 
-::: {.g-col-12 .g-col-md-6 .g-col-lg-10}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10}
 In addition to fishing, other natural and human-induced events occur throughout the game: fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification, sea urchin arrival and others.
 :::
 
-::: {.g-col-12 .g-col-md-6 .g-col-lg-2 .text-center .img-container .my-2}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center .img-container .my-2}
 ![](resources/images/Bigfish-logo.png)
 :::
 
-::: {.g-col-12 .g-col-md-6 .g-col-lg-10}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10}
 These events create unpredictability and new challenges. Players can partly protect their fishing spots by finding the best game strategy. 
 :::
 
@@ -255,10 +255,10 @@ Game testing, advice, interesting facts and many other details have been provide
 
 ::: {.g-col-12 .g-col-lg-4 .text-center}
 ![](resources/images/matt.png){.headshot} 
-![](resources/images/amy.jpg){.headshot}
+![](resources/images/amy.jpg){.headshot} 
 
 ![](resources/images/asta.jpg){.headshot} 
-![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot}
+![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot} 
 :::
 
 <!-- ::: g-col-12 -->

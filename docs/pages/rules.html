@@ -115,6 +115,10 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
+    <a class="nav-link" href="../index.html#sec-about"> 
+<span class="menu-text">About Us</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../pages/how-to-buy.html"> 
 <span class="menu-text">Get yours</span></a>
   </li>  
@@ -140,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
 <p>&nbsp;&nbsp;&nbsp;</p>
 </div>
 <!-- Centers all content horizontally, do not remove -->
-<section id="how-to-play" class="level1 column-page">
+<section id="how-to-play" class="level1 column-screen" style="margin-left: 2.5em; margin-right: 2.5em;">
 <h1>How to play</h1>
 <div class="grid justify-contents-evenly align-items-center text-center">
 <div class="g-col-12 g-col-xl-6 my-2" style="flex-shrink: 1; padding: 2rem; margin: 0px;">
@@ -694,7 +698,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","loop":false,"selector":".lightbox","openEffect":"zoom","closeEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"selector":".lightbox","openEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
