@@ -51,6 +51,7 @@ To win the game you must find the best fishing strategy to collect points from c
 :::
 
 <!-- Edits required: three photos should go below the text introducing the game (above) - GameOnSand2Sm.jpg and two photos of people playing on the beach. Then the other four photos should ideally go on each side of the crowdfunding campaign section, to make it very clear what people get if they pledge. Also, at the moment the font and font style is different here compared to what is below (line spacing differs, etc). This font should be a bigger but same style -->
+<!-- Done Tormey 04-07-24 -->
 
 
 ::::::: {.grid .justify-contents-evenly .align-items-center .gap-3}
@@ -205,8 +206,7 @@ These events create unpredictability and new challenges. Players can partly prot
 
 ::: {.homepage-p .text-center style="font-size: 1.5em; margin-bottom: 1.5em;"}
 <!-- Edits needed: we need to have a wide space after this text below and the flathead photo and messages. I tried to add margin bottom after the font size style, but it does not work  -->
-
-<!-- Tormey: done -->
+<!-- Done Tormey 04-07-24 -->
 
 <!-- To win the game you need a good strategy and luck. There is always an element of chance, but a good fisher and player knows how to get their luck. In this game you need to think about the long term strategy! The game has three main messages: -->
 
