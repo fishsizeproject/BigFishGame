@@ -1,7 +1,7 @@
 ---
 pagetitle: Wildcards & Round-end cards | BigFish Card Game
 description-meta: |
-  Meta description to go here
+  Learn about the science behind all the round-end cards included in the BigFish game.
 
 # If the page has a sidebar, the hero banner works differently - see slight change to code below
 sidebar: special-sidebar

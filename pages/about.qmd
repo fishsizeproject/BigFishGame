@@ -1,7 +1,7 @@
 ---
 pagetitle: About | BigFish Card Game
 description-meta: |
-  Meta description to go here
+  The BigFish cardgame was developed by a team at IMAS, UTAS, with help from many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. To learn more, please contact us.
 ---
 
 ::: {.column-screen .hero-img .hero-strip-page}

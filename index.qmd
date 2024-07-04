@@ -1,7 +1,7 @@
 ---
 pagetitle: Home | BigFish Card Game
 description-meta: |
-  Meta description to go here
+  The BigFish card game is for everyone interested in fun card games, fishing or marine life. Best for 2-5 players, suitable for ages 10+.
 sidebar: false
 include-after-body:
   text: |
@@ -46,7 +46,7 @@ include-after-body:
 ::::::::::::::: {.column-page .feature-text}
 
 ::: {.p .spacer-3em}
-The BigFish card game for everyone interested in fun card games, fishing or marine life.
+The BigFish card game is for everyone interested in fun card games, fishing or marine life.
 
 To win the game you must find the best fishing strategy to collect points from catching fish, while keeping your fishing spot healthy and protected from natural disasters and other players. 
 :::

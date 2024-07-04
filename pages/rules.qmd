@@ -1,7 +1,7 @@
 ---
 pagetitle: Game rules | BigFish Card Game
 description-meta: |
-  Meta description to go here
+  Learn how to play the BigFish game.
 sidebar: false
 ---
 

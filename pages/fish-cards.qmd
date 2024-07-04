@@ -1,7 +1,7 @@
 ---
 pagetitle: Fish cards | BigFish Card Game
 description-meta: |
-  Meta description to go here
+  Explore all the fish cards included in the standard BigFish game.
 # If the page has a sidebar, the hero banner works differently - see slight change to code below
 sidebar: fish-sidebar
 ---
