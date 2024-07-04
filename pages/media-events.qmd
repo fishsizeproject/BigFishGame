@@ -8,7 +8,7 @@ description-meta: |
    
 :::
 
-::: column-page
+::::::: {.column-page style="margin-left: 2em; margin-right: 2em;"}
 ## Media & Events
 
 ::: text-center
@@ -25,4 +25,4 @@ Story about the collaboration between Microsoft and Australian Government's Supe
 ### Science about the importance of large fish
 
 A Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. [2022.]{style="color:black;"} *Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte*. [Sustainability 14 (21), 14324](https://www.mdpi.com/2071-1050/14/21/14324)
-:::
+:::::::
