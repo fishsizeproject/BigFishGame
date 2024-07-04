@@ -44,8 +44,7 @@ include-after-body:
 <!-- This column-page extends through the tagline, crowdfunding and timer sections -->
 ::::::::::::::: {.column-page .feature-text}
 
-<!-- ::: {.spacer-3em} -->
-::: p
+::: {.p .spacer-3em}
 The BigFish card game for everyone interested in fun card games, fishing or marine life.
 
 To win the game you must find the best fishing strategy to collect points from catching fish, while keeping your fishing spot healthy and protected from natural disasters and other players. 
@@ -55,36 +54,27 @@ To win the game you must find the best fishing strategy to collect points from c
 
 
 ::::::: {.grid .justify-contents-evenly .align-items-center .gap-3}
-::: {.g-col-3 .text-center .img-container}
+::: {.g-col-4 .text-center .img-container}
+![](resources/images/PlayingGame1a-cropped.jpg)
+:::
+
+::: {.g-col-4 .text-center .img-container}
 ![](resources/images/GameOnSand2Sm.jpg)
 :::
 
-::: {.g-col-3 .text-center .img-container}
-![](resources/images/PlayingGame4.jpg)
-:::
-
-::: {.g-col-3 .text-center .img-container}
-![](resources/images/PlayingGame1a.jpg)
-:::
-
-::: {.g-col-3 .text-center .img-container}
+::: {.g-col-4 .text-center .img-container}
 ![](resources/images/PlayingGame2.jpg)
 :::
-
-::: {.g-col-3 .text-center .img-container}
-![](resources/images/ShelfishReefCard.jpg)
-:::
-
-::: {.g-col-3 .text-center .img-container}
-![](resources/images/WhaleCard.jpg)
-:::
-
-::: {.g-col-3 .text-center .img-container}
-![](resources/images/GameOnSandSm.jpg)
-:::
-
 :::::::
 
+:::::: {.grid .justify-contents-evenly .align-items-center}
+::::: {.g-col-3 .text-center .img-container}
+![](resources/images/PlayingGame4-16x9.jpg)
+<br><br>
+![](resources/images/ShelfishReefCard-16x9.jpg)
+:::::
+
+::::: {.g-col-6 .text-center .img-container}
 ::: p
 ## Crowdfunding! {style="color: var(--bs-accent);"}
 :::
@@ -100,6 +90,15 @@ The campaign will launch on **September 15, 2024**.
 ::: text-center
 [Crowdfunding page](https://bigfishcardgame.com){.btn .btn-secondary}
 :::
+:::::
+
+::::: {.g-col-3 .text-center .img-container}
+![](resources/images/GameOnSandSm-16x9.jpg)
+<br><br>
+![](resources/images/WhaleCard-16x9.jpg)
+:::::
+
+::::::
 
 <!-- begin timer grid -->
 :::::: {.grid .text-center .justify-contents-evenly .align-items-center .homepage-p .my-2 .mx-5 .px-5 .timerBox}
