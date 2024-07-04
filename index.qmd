@@ -13,7 +13,7 @@ include-after-body:
 ::: {.g-col-12 .g-col-md-6 style="margin-left: 5%;"}
 ::: maintitle
 <!-- # BigFish {.maintitle} -->
-![](resources/images/BigFish_orange.png){width="70%"}
+![](resources/images/BigFish_darkorange.png){width="70%"}
 :::
 
 ::: new-subtitle
