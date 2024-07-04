@@ -15,34 +15,34 @@ sidebar: false
 # How to play
 
 :::::: {.grid .justify-contents-evenly .align-items-center .text-center}
-::::: {.g-col-6 .my-3 style="flex-shrink: 1; background-color: var(--bs-secondary-light); padding: 2rem; margin: 0px;"}
-<iframe width="700" height="390" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+::::: {.g-col-12 .g-col-xl-6 .my-2 style="flex-shrink: 1; padding: 2rem; margin: 0px;"}
+<iframe width="650" height="380" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 :::::
 
-::::: {.g-col-6 style="flex-grow: 1;"}
-<!-- Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more. -->
+::::: {.g-col-12 .g-col-xl-6 style="flex-grow: 1;"}
+Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more.
 
 :::: {.grid .justify-contents-evenly .align-items-end .text-center}
-::: {.g-col-3 style="flex-grow: 1;"}
+::: {.g-col-6 .g-col-sm-3 .g-col-xl-3 style="flex-grow: 1;"}
 [![](../resources/icons/users-rectangle-solid-orange.svg){width="55%"}](../pages/rules.qmd#sec-setup)
 
 #### [Setup](../pages/rules.qmd#sec-setup) {.text-center}
 :::
 
-::: {.g-col-3 style="flex-grow: 1;"}
+::: {.g-col-6 .g-col-sm-3 .g-col-xl-3 style="flex-grow: 1;"}
 [![](../resources/icons/fish-solid-orange.svg){width="55%"}](../pages/rules.qmd#sec-gameplay)
 
 #### [Gameplay](../pages/rules.qmd#sec-gameplay) {.text-center}
 :::
 
-::: {.g-col-3 style="flex-grow: 1;"}
+::: {.g-col-6 .g-col-sm-3 .g-col-xl-3 style="flex-grow: 1;"}
 [![](../resources/icons/arrow-rotate-right-solid-orange.svg){width="50%"}](../pages/rules.qmd#sec-round-end)
 
 #### [Round end](../pages/rules.qmd#sec-round-end) {.text-center}
 :::
 
-::: {.g-col-3 style="flex-grow: 1;"}
+::: {.g-col-6 .g-col-sm-3 .g-col-xl-3 style="flex-grow: 1;"}
 [![](../resources/icons/trophy-solid-orange.svg){width="50%"}](../pages/rules.qmd#sec-game-end)
 
 #### [Game end](../pages/rules.qmd#sec-game-end) {.text-center}
@@ -55,11 +55,11 @@ sidebar: false
 <!-- style="margin-top: 0.5em;" -->
 
 ::::: {.grid .justify-contents-evenly .align-items-center}
-:::: {.g-col-5}
+:::: {.g-col-12 .g-col-lg-4 .g-col-xl-5}
 ![](../resources/images/gameOnSandSm.jpg)
 ::::
 
-:::: {.g-col-7}
+:::: {.g-col-12 .g-col-lg-8 .g-col-xl-7}
 Shuffle all fish cards and wildcards together into the gameplay deck and place in the middle of the play area.
 From this deck, draw cards equal to the number of players +2 and place them face-up in the middle of the play area.
 These are the face-up cards. 
@@ -84,19 +84,19 @@ The orientation of the fish cards in your fishing site or ice box is essential. 
 
 
 :::: {.grid .justify-contents-evenly .align-items-center .gap-3 .text-center style="margin-top: 2em;"}
-::: {.g-col-3 .text-center .img-container}
+::: {.g-col-6 .g-col-md-3 .text-center .img-container}
 ![](../resources/images/cards/fish-cards/Kingfish_Larv.jpg){.image-card-sideways}
 :::
 
-::: {.g-col-3 .text-center .img-container}
+::: {.g-col-6 .g-col-md-3 .text-center .img-container}
 ![](../resources/images/cards/fish-cards/KingfishJuvenile.jpg){.image-card}
 :::
 
-::: {.g-col-3 .text-center .img-container}
+::: {.g-col-6 .g-col-md-3 .text-center .img-container}
 ![](../resources/images/cards/fish-cards/KingfishMedium.jpg){.image-card-sideways}
 :::
 
-::: {.g-col-3 .text-center .img-container}
+::: {.g-col-6 .g-col-md-3 .text-center .img-container}
 ![](../resources/images/cards/fish-cards/yellowtail-kingfish.jpg){.image-card}
 :::
 
@@ -107,7 +107,7 @@ The orientation of the fish cards in your fishing site or ice box is essential. 
 ## Gameplay {#sec-gameplay}
 
 :::: {.grid .justify-contents-evenly .align-items-center}
-::: g-col-9
+::: {.g-col-12 .g-col-lg-9}
 During the round each player follows these steps. Use the turn order to keep track.
 
 1. **DRAW** new cards equal to the number of big fish you have in your fishing site, but **no more than 5 cards**. You can draw these cards from the face-up cards, the deck, or both. This means that you can draw unknown card from the deck or play safe and take what you  see (from the face-up cards). Check to see if you have any pink wild cards in your fishing site (not in your hands) - they allow you to draw more cards.
@@ -125,7 +125,7 @@ Check to see if you have any green wild cards with a starfish in your fishing ho
 5. If you like, play **ONE WILD CARD** from your hand into your fishing site. Wild cards come in multiple colours that do different things. Coloured cards are played (placed) into your fishing site to give you extra abilities or improve your site. They are permanent and apply each round. Black wildcards give one-off effects and must be discarded once they are played.
 :::
 
-::: {.g-col-3 .img-container .text-center}
+::: {.g-col-12 .g-col-lg-3 .img-container .text-center}
 ![](../resources/images/turn order v2.JPG){.image-card .lightbox}
 :::
 ::::
@@ -133,11 +133,11 @@ Check to see if you have any green wild cards with a starfish in your fishing ho
 ## Round end {#sec-round-end}
 
 :::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-3 .img-container .text-center}
+::: {.g-col-12 .g-col-md-3 .img-container .text-center}
 ![](../resources/images/cards/round-end-cards/localised-species-extinction.jpg){.image-card .lightbox}
 :::
 
-::: g-col-9
+::: {.g-col-12 .g-col-md-9}
 Once each player has had one turn, follow the round end steps to complete the round.
 
 1. **Reveal** the top round end event card and follow its directions.
@@ -156,7 +156,7 @@ This ensures that the first player gets the choice of new face-up cards equally.
 ## Game end {#sec-game-end}
 
 :::: {.grid .justify-contents-evenly .align-items-center}
-::: g-col-9
+::: {.g-col-12 .g-col-md-9}
 The game ends randomly, once the flipped round end card is the "End of the game" card.
 This should happen after the end of 5 rounds or more.
 Now count your points.
@@ -174,7 +174,7 @@ Add these points to your total score.
 ::::
 :::
 
-::: {.g-col-3 .img-container .text-center}
+::: {.g-col-12 .g-col-lg-3 .img-container .text-center}
 ![](../resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
 :::
 ::::
