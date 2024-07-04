@@ -35,7 +35,7 @@ Mel finds a weedy seadragon while diving at one of the Reef Life Survey sites. P
 
 ## Blue Groper {#sec-blue-groper}
 
-*Intro text*
+*More information on this card coming soon!*
 
 :::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
@@ -51,7 +51,7 @@ Place into your fishing spot to prevent the effects of [Urchins](../pages/round-
 
 ### Learn more
 
-*Learn more*
+*More information on this card coming soon!*
 
 ## Catch or release {#sec-catch-or-release}
 
@@ -177,7 +177,7 @@ These are the research themes of the Centre for Marine Socioecology. Check out [
 
 ## Delicious bait {#sec-delicious-bait}
 
-*Intro text*
+*More information on this card coming soon!*
 
 :::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
@@ -193,11 +193,11 @@ Place into your fishing spot to catch an additional fish each turn. If you do, d
 
 ### Learn more
 
-*Learn more*
+*More information on this card coming soon!*
 
 ## Fishing kayak {#sec-fishing-kayak}
 
-*Intro text*
+*More information on this card coming soon!*
 
 :::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
@@ -213,11 +213,11 @@ Catch a medium-sized fish from either the face-up cards or your fishing spot. Di
 
 ### Learn more
 
-*Learn more*
+*More information on this card coming soon!*
 
 ## Fishing rod {#sec-fishing-rod}
 
-*Intro text*
+*More information on this card coming soon!*
 
 :::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
@@ -233,7 +233,7 @@ Place into your fishing spot to catch an additional from your fishing spot each 
 
 ### Learn more
 
-*Learn more*
+*More information on this card coming soon!*
 
 ## Giant kelp {#sec-giant-kelp}
 
@@ -480,7 +480,7 @@ Kelp and other seaweeds are particularly affected by poor water quality, because
 
 ## SCUBA equipment {#sec-scuba-equipment}
 
-*Intro text*
+*More information on this card coming soon!*
 
 :::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
@@ -496,7 +496,7 @@ Place into your fishing spot to catch a [lobster](../pages/fish-cards.qmd#sec-so
 
 ### Learn more
 
-*Learn more*
+*More information on this card coming soon!*
 
 ## Seaweed {#sec-seaweed}
 

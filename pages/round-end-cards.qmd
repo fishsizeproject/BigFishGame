@@ -187,7 +187,7 @@ Plankton are tiny plants that bloom under ideal conditions, and are the first st
 
 ## Seaweed planting occurs {#sec-seaweed-planting}
 
-*Intro text*
+*More information on this card coming soon!*
 
 :::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
@@ -203,7 +203,7 @@ Place a [Seaweed](#sec-seaweed) or [Giant Kelp](#sec-giant-kelp) card from your 
 
 ### Learn more
 
-*Learn more*
+*More information on this card coming soon!*
 
 ## Fisheries impose upper size limit {#sec-upper-size-limit}
 
@@ -234,7 +234,7 @@ Photo of a fisherman with fish of different sizes. Photo: A.R. Coghlan.
 
 ## Long spined sea urchins arrive {#sec-urchins-arrive}
 
-*Intro text*
+*More information on this card coming soon!*
 
 :::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
@@ -252,7 +252,7 @@ Each player must discard all [Seaweed](#sec-seaweed) and [Giant Kelp](#sec-giant
 
 :::: {.grid .justify-contents-evenly .align-items-center}
 ::: {.g-col-8}
-*Learn more*
+*More information on this card coming soon!*
 
 ::: {.caption-p style="text-align: right;"}
 Invasive or overabundant urchins can quickly strip a reef of all seaweed and algae, creating an "urchin barren". Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com).
