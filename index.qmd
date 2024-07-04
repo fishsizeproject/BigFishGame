@@ -10,18 +10,19 @@ include-after-body:
 
 <!-- START SPECIAL BIGFISH BANNER SECTION -->
 :::::: {.grid .justify-contents-evenly .align-items-center .column-screen .hero-img .hero-strip-homepage}
-::: {.g-col-6 style="margin-left: 5%;"}
+::: {.g-col-12 .g-col-md-6 style="margin-left: 5%;"}
 ::: maintitle
 <!-- # BigFish {.maintitle} -->
 ![](resources/images/BigFish_orange.png){width="70%"}
 :::
 
-::: newsubtitle
+::: new-subtitle
 ## The sustainable fishing game {.newsubtitle}
 :::
 
-::: {.grid .justify-contents-evenly .align-items-center .text-center style="font-size: 1.45em; margin-bottom: 5%; margin-top: 5%; color: var(--bs-accent);"}
-::: g-col-6
+<!-- style="font-size: 1.45em; -->
+::: {.grid .justify-contents-evenly .align-items-center .text-center .new-banner-text style="margin-bottom: 5%; margin-top: 5%;"}
+::: {.g-col-6}
 ![](resources/icons/children-solid-orange.svg){width="30%"}
 
 **Suitable for ages 10+**
@@ -35,7 +36,7 @@ include-after-body:
 :::
 :::
 
-::: {.g-col-6 .text-center}
+::: {.g-col-12 .g-col-md-6 .text-center}
 ![](resources/images/Bigfish-logo.png){width="75%"}
 :::
 ::::::
@@ -54,28 +55,28 @@ To win the game you must find the best fishing strategy to collect points from c
 <!-- Done Tormey 04-07-24 -->
 
 
-::::::: {.grid .justify-contents-evenly .align-items-center .gap-3}
-::: {.g-col-4 .text-center .img-container}
+::::::: {.grid .justify-contents-evenly .align-items-center .gap-3 .spacer-2em}
+::: {.g-col-6 .g-col-md-4 .text-center .img-container}
 ![](resources/images/PlayingGame1a-cropped.jpg)
 :::
 
-::: {.g-col-4 .text-center .img-container}
+::: {.g-col-6 .g-col-md-4 .text-center .img-container}
 ![](resources/images/GameOnSand2Sm.jpg)
 :::
 
-::: {.g-col-4 .text-center .img-container}
+::: {.g-col-12 .g-col-md-4 .text-center .img-container}
 ![](resources/images/PlayingGame2.jpg)
 :::
 :::::::
 
 :::::: {.grid .justify-contents-evenly .align-items-center}
-::::: {.g-col-3 .text-center .img-container}
+::::: {.g-col-12 .g-col-md-3 .text-center .img-container}
 ![](resources/images/PlayingGame4-16x9.jpg)
 <br><br>
 ![](resources/images/ShelfishReefCard-16x9.jpg)
 :::::
 
-::::: {.g-col-6 .text-center .img-container}
+::::: {.g-col-12 .g-col-md-6 .text-center .img-container}
 ::: p
 ## Crowdfunding! {style="color: var(--bs-accent);"}
 :::
@@ -93,7 +94,7 @@ The campaign will launch on **September 15, 2024**.
 :::
 :::::
 
-::::: {.g-col-3 .text-center .img-container}
+::::: {.g-col-12 .g-col-md-3 .text-center .img-container}
 ![](resources/images/GameOnSandSm-16x9.jpg)
 <br><br>
 ![](resources/images/WhaleCard-16x9.jpg)
@@ -103,43 +104,43 @@ The campaign will launch on **September 15, 2024**.
 
 <!-- begin timer grid -->
 :::::: {.grid .text-center .justify-contents-evenly .align-items-center .homepage-p .my-2 .mx-5 .px-5 .timerBox}
-::::: {.g-col-3}
+::::: {.g-col-9 .g-col-md-3}
 <h2 class="timertext" id="days">DD</h2>
 
 ### DAYS {.text-center .timerlabel .unlisted}
 :::::
 
-::::: g-col-1
+::::: {.g-col-1 .g-col-md-2 style="max-width: max(0px, calc((100% - 120px)*999)); overflow: hidden;"}
 <h2 class="timertext">:</h2>
 
-### : {.text-center .timerlabel style="color: var(--bs-body-bg);" .unlisted}
+<!-- ### : {.text-center .timerlabel style="color: var(--bs-body-bg);" .unlisted} -->
 :::::
 
-::::: {.g-col-2}
+::::: {.g-col-9 .g-col-md-3}
 <h2 class="timertext" id="hours">HH</h2>
 
 ### HOURS {.text-center .timerlabel .unlisted}
 :::::
 
-::::: g-col-1
+::::: {.g-col-1 .g-col-md-2 style="max-width: max(0px, calc((100% - 120px)*999)); overflow: hidden;"}
 <h2 class="timertext">:</h2>
 
-### : {.text-center .timerlabel style="color: var(--bs-body-bg);" .unlisted}
+<!-- ### : {.text-center .timerlabel style="color: var(--bs-body-bg);" .unlisted} -->
 :::::
 
-::::: {.g-col-2}
+::::: {.g-col-9 .g-col-md-2}
 <h2 class="timertext" id="minutes">MM</h2>
 
 ### MINUTES {.text-center .timerlabel .unlisted}
 :::::
 
-::::: g-col-1
+::::: {.g-col-1 .g-col-md-2 style="max-width: max(0px, calc((100% - 120px)*999)); overflow: hidden;"}
 <h2 class="timertext">:</h2>
 
-### : {.text-center .timerlabel style="color: var(--bs-body-bg);" .unlisted}
+<!-- ### : {.text-center .timerlabel style="color: var(--bs-body-bg);" .unlisted} -->
 :::::
 
-::::: {.g-col-2}
+::::: {.g-col-9 .g-col-md-2}
 <h2 class="timertext" id="seconds">SS</h2>
 
 ### SECONDS {.text-center .timerlabel .unlisted}
@@ -160,31 +161,31 @@ Would you like to be reminded about the crowdfunding launch? You can get the gam
 
 <!-- Playing the Game section has its own grid that spans the screen  -->
 ::::::::::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen .my-5}
-:::::::: {.g-col-8 .mx-5 .my-3}
+:::::::: {.g-col-12 .g-col-md-8 .mx-5 .my-3}
 ## Playing the game
 
 ::::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-2 .img-container .my-2}
+::: {.g-col-12 .g-col-md-2 .text-center .img-container .my-2}
 ![](resources/images/cooler-no-text.jpg){width="75%"}
 :::
 
-::: g-col-10
+::: {.g-col-12 .g-col-md-10}
 Big fish are worth more points than small fish, so players want to catch them. But the presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving big fish for good fishing opportunities in the future. 
 :::
 
-::: {.g-col-2 .img-container .my-2}
+::: {.g-col-12 .g-col-md-2 .text-center .img-container .my-2}
 ![](resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card width="75%"}
 :::
 
-::: g-col-10
+::: {.g-col-12 .g-col-md-10}
 In addition to fishing, other natural and human-induced events occur throughout the game: fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification, sea urchin arrival and others.
 :::
 
-::: {.g-col-2 .img-container .my-2}
+::: {.g-col-12 .g-col-md-2 .text-center .img-container .my-2}
 ![](resources/images/Bigfish-logo.png)
 :::
 
-::: g-col-10
+::: {.g-col-12 .g-col-md-10}
 These events create unpredictability and new challenges. Players can partly protect their fishing spots by finding the best game strategy. 
 :::
 
@@ -195,7 +196,7 @@ These events create unpredictability and new challenges. Players can partly prot
 ::::::::
 
 <!-- "align-self-end" aligns the picture column vertically to the end (bottom) of the rest of the grid -->
-::: {.g-col-4 .img-container .align-self-end}
+::: {.g-col-12 .g-col-md-4 .img-container .align-self-end}
 ![](resources/images/pretty-pics/RockyCape.jpg)
 :::
 
@@ -215,11 +216,11 @@ We developed the game because we love fun card games and we love the ocean. We a
 
 <!-- begin main messages picture and text grid -->
 :::::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen}
-::: {.g-col-6 .img-container}
+::: {.g-col-12 .g-col-md-6 .img-container}
 ![](resources/images/pretty-pics/flathead-small.jpg)
 :::
 
-::: {.g-col-6 .mx-2 style="padding-right: 2em;"}
+::: {.g-col-12 .g-col-md-5 .mx-2}
 ### 1. Big fish are important
 
 Preserving the big fish in the oceans, lakes and rivers is important for fish reproduction and resilience, ecosystem balance, for the fun of fishing, or simply because big fish are beautiful.
@@ -242,7 +243,7 @@ Fish grow relatively fast and if we take the right actions, we can restore them 
 
 <!-- begin Who We Are grid -->
 :::::: {.grid .justify-contents-evenly .align-items-center .column-page .spacer-5rem .homepage-p}
-::: g-col-8
+::: {.g-col-12 .g-col-md-8}
 ## Who we are {style="margin-top: 0.5em;"}
 
 This game has been developed by the Institute of Marine and Antarctic Sciences, University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings), Matt Testoni (photos, design) and Stacey McCormack (design).
@@ -254,7 +255,7 @@ Game testing, advice, interesting facts and many other details have been provide
 :::
 :::
 
-::: {.g-col-4 .text-center}
+::: {.g-col-12 .g-col-md-4 .text-center}
 ![](resources/images/matt.png){.headshot} 
 ![](resources/images/amy.jpg){.headshot}
 
@@ -275,11 +276,11 @@ Game testing, advice, interesting facts and many other details have been provide
 ## Supporters
 
 :::: {.grid .justify-contents-evenly .align-items-center .gap-3 .homepage-p .column-page}
-::: {.g-col-6 .text-center .img-container style="font-size: 1.5em;"}
+::: {.g-col-6 .text-center .img-container .px-1 style="font-size: 1.5em;"}
 *Pew Fellowship in Marine Conservation*
 :::
 
-::: {.g-col-6 .text-center .img-container}
+::: {.g-col-6 .text-center .px-1 .img-container}
 ![](resources/images/CMS.png)
 :::
 
@@ -293,11 +294,11 @@ Game testing, advice, interesting facts and many other details have been provide
 If you would like to sponsor a card, representing your organisation or initiative, get in touch and we will discuss. We will only include cards that are truly important for sustainable fisheries and marine ecosystems. 
 :::
 
-::: {.g-col-6 .text-center}
+::: {.g-col-12 .g-col-md-6 .text-center}
 [Pledge](pages/how-to-buy.qmd){.btn .btn-secondary}
 :::
 
-::: {.g-col-6 .text-center}
+::: {.g-col-12 .g-col-md-6 .text-center}
 [Contact us](mailto:info@fishsizeproject.org){.btn .btn-secondary}
 :::
 
