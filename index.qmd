@@ -104,43 +104,39 @@ The campaign will launch on **September 15, 2024**.
 
 <!-- begin timer grid -->
 :::::: {.grid .text-center .justify-contents-evenly .align-items-center .homepage-p .my-2 .mx-5 .px-5 .timerBox}
-::::: {.g-col-9 .g-col-md-3}
+::::: {.g-col-6 .g-start-4 .g-col-md-2}
 <h2 class="timertext" id="days">DD</h2>
 
 ### DAYS {.text-center .timerlabel .unlisted}
 :::::
 
-::::: {.g-col-1 .g-col-md-2 style="max-width: max(0px, calc((100% - 120px)*999)); overflow: hidden;"}
+::::: {.g-col-1 .g-col-md-1 style="max-width: max(0px, calc((100vw - 750px)*999)); overflow: hidden;"}
 <h2 class="timertext">:</h2>
-
-<!-- ### : {.text-center .timerlabel style="color: var(--bs-body-bg);" .unlisted} -->
 :::::
 
-::::: {.g-col-9 .g-col-md-3}
+::::: {.g-col-6 .g-start-4 .g-col-md-2}
 <h2 class="timertext" id="hours">HH</h2>
 
 ### HOURS {.text-center .timerlabel .unlisted}
 :::::
 
-::::: {.g-col-1 .g-col-md-2 style="max-width: max(0px, calc((100% - 120px)*999)); overflow: hidden;"}
+::::: {.g-col-1 .g-col-md-1 style="max-width: max(0px, calc((100vw - 750px)*999)); overflow: hidden;"}
 <h2 class="timertext">:</h2>
-
-<!-- ### : {.text-center .timerlabel style="color: var(--bs-body-bg);" .unlisted} -->
 :::::
 
-::::: {.g-col-9 .g-col-md-2}
+::::: {.g-col-6 .g-start-4 .g-col-md-2}
 <h2 class="timertext" id="minutes">MM</h2>
 
 ### MINUTES {.text-center .timerlabel .unlisted}
 :::::
 
-::::: {.g-col-1 .g-col-md-2 style="max-width: max(0px, calc((100% - 120px)*999)); overflow: hidden;"}
+::::: {.g-col-1 .g-col-md-1 style="max-width: max(0px, calc((100vw - 750px)*999)); overflow: hidden;"}
 <h2 class="timertext">:</h2>
 
 <!-- ### : {.text-center .timerlabel style="color: var(--bs-body-bg);" .unlisted} -->
 :::::
 
-::::: {.g-col-9 .g-col-md-2}
+::::: {.g-col-6 .g-start-4 .g-col-md-3}
 <h2 class="timertext" id="seconds">SS</h2>
 
 ### SECONDS {.text-center .timerlabel .unlisted}
@@ -161,31 +157,31 @@ Would you like to be reminded about the crowdfunding launch? You can get the gam
 
 <!-- Playing the Game section has its own grid that spans the screen  -->
 ::::::::::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen .my-5}
-:::::::: {.g-col-12 .g-col-md-8 .mx-5 .my-3}
+:::::::: {.g-col-12 .g-col-md-12 .g-col-lg-8 .mx-5 .my-3}
 ## Playing the game
 
 ::::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-12 .g-col-md-2 .text-center .img-container .my-2}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-2 .text-center .img-container .my-2}
 ![](resources/images/cooler-no-text.jpg){width="75%"}
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-10}
 Big fish are worth more points than small fish, so players want to catch them. But the presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving big fish for good fishing opportunities in the future. 
 :::
 
-::: {.g-col-12 .g-col-md-2 .text-center .img-container .my-2}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-2 .text-center .img-container .my-2}
 ![](resources/images/cards/wild-cards/illegal-fishing.jpg){.image-card width="75%"}
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-10}
 In addition to fishing, other natural and human-induced events occur throughout the game: fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification, sea urchin arrival and others.
 :::
 
-::: {.g-col-12 .g-col-md-2 .text-center .img-container .my-2}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-2 .text-center .img-container .my-2}
 ![](resources/images/Bigfish-logo.png)
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-10}
 These events create unpredictability and new challenges. Players can partly protect their fishing spots by finding the best game strategy. 
 :::
 
@@ -196,16 +192,17 @@ These events create unpredictability and new challenges. Players can partly prot
 ::::::::
 
 <!-- "align-self-end" aligns the picture column vertically to the end (bottom) of the rest of the grid -->
-::: {.g-col-12 .g-col-md-4 .img-container .align-self-end}
+::: {.g-col-12 .g-col-lg-4 .img-container .align-self-end}
 ![](resources/images/pretty-pics/RockyCape.jpg)
 :::
 
 :::::::::::
 <!-- end of Playing the Game section grid -->
 
-## Main messages
+:::::::::::: .column-page
+::: {.homepage-p .text-center .column-page style="font-size: 1.5em; margin-bottom: 1.5em;"}
+## Main messages 
 
-::: {.homepage-p .text-center style="font-size: 1.5em; margin-bottom: 1.5em;"}
 <!-- Edits needed: we need to have a wide space after this text below and the flathead photo and messages. I tried to add margin bottom after the font size style, but it does not work  -->
 <!-- Done Tormey 04-07-24 -->
 
@@ -216,11 +213,11 @@ We developed the game because we love fun card games and we love the ocean. We a
 
 <!-- begin main messages picture and text grid -->
 :::::: {.grid .justify-contents-evenly .align-items-center .homepage-p .column-screen}
-::: {.g-col-12 .g-col-md-6 .img-container}
+::: {.g-col-12 .g-col-md-12 .g-col-xl-6 .img-container}
 ![](resources/images/pretty-pics/flathead-small.jpg)
 :::
 
-::: {.g-col-12 .g-col-md-5 .mx-2}
+::: {.g-col-12 .g-col-md-12 .g-col-xl-5 .mx-2}
 ### 1. Big fish are important
 
 Preserving the big fish in the oceans, lakes and rivers is important for fish reproduction and resilience, ecosystem balance, for the fun of fishing, or simply because big fish are beautiful.
@@ -234,6 +231,7 @@ Due to commercial and recreational fishing, big fish have mostly vanished from o
 Fish grow relatively fast and if we take the right actions, we can restore them within our lifetimes and enjoy their beauty and benefits again.
 :::
 ::::::
+::::::::::::
 
 ::: {.column-page .text-center .homepage-p .spacer-3em}
 <!-- BigFish has been created by a passionate team who wish players to know more, care more, and contribute. -->
@@ -243,7 +241,7 @@ Fish grow relatively fast and if we take the right actions, we can restore them 
 
 <!-- begin Who We Are grid -->
 :::::: {.grid .justify-contents-evenly .align-items-center .column-page .spacer-5rem .homepage-p}
-::: {.g-col-12 .g-col-md-8}
+::: {.g-col-12 .g-col-lg-8}
 ## Who we are {style="margin-top: 0.5em;"}
 
 This game has been developed by the Institute of Marine and Antarctic Sciences, University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings), Matt Testoni (photos, design) and Stacey McCormack (design).
@@ -255,7 +253,7 @@ Game testing, advice, interesting facts and many other details have been provide
 :::
 :::
 
-::: {.g-col-12 .g-col-md-4 .text-center}
+::: {.g-col-12 .g-col-lg-4 .text-center}
 ![](resources/images/matt.png){.headshot} 
 ![](resources/images/amy.jpg){.headshot}
 
@@ -294,11 +292,11 @@ Game testing, advice, interesting facts and many other details have been provide
 If you would like to sponsor a card, representing your organisation or initiative, get in touch and we will discuss. We will only include cards that are truly important for sustainable fisheries and marine ecosystems. 
 :::
 
-::: {.g-col-12 .g-col-md-6 .text-center}
+::: {.g-col-12 .g-col-lg-6 .text-center}
 [Pledge](pages/how-to-buy.qmd){.btn .btn-secondary}
 :::
 
-::: {.g-col-12 .g-col-md-6 .text-center}
+::: {.g-col-12 .g-col-lg-6 .text-center}
 [Contact us](mailto:info@fishsizeproject.org){.btn .btn-secondary}
 :::
 

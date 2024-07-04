@@ -219,15 +219,26 @@ main.content > section:first-of-type > .h2:first-child {
   color: $primary !important;
 }
 
-.newsubtitle {
+.new-subtitle {
   // Font sizes are ordered as min, variable, max
-  font-size: min(max(25px, calc(3vw)), 50px) !important;
+  font-size: min(max(40px, calc(3vw)), 60px) !important;
   text-align: center;
   padding: 0% 5% 0% 5%;
   line-height: 110%;
   margin-top: 0.6em;
   margin-bottom: 0.3em;
   color: $primary !important;
+}
+
+.new-banner-text {
+  // Font sizes are ordered as min, variable, max
+  font-size: min(max(20px, calc(2vw)), 35px) !important;
+  text-align: center;
+  padding: 0% 5% 0% 5%;
+  line-height: 110%;
+  margin-top: 0.6em;
+  margin-bottom: 0.3em;
+  color: $accent !important;
 }
 
 // Custom classes for homepage text (slightly larger than regular) and feature text (slightly larger again)
