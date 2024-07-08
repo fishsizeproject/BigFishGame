@@ -56,7 +56,7 @@ Watch this short video where Matt Testoni explains how to play the game, or jump
 
 ::::: {.grid .justify-contents-evenly .align-items-center}
 :::: {.g-col-12 .g-col-lg-4 .g-col-xl-5}
-![](../resources/images/gameOnSandSm.jpg)
+![](../resources/images/GameOnSandSm-16x9.jpg)
 ::::
 
 :::: {.g-col-12 .g-col-lg-8 .g-col-xl-7}
