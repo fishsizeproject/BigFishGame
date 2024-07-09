@@ -597,5 +597,10 @@ hr { // means horizontal rule
   background-color: $light;
 }
 
+// TESTING STUFF
+
+@media screen and (min-width: 30em) and (orientation: landscape) {
+  /* … */
+}
 
 
