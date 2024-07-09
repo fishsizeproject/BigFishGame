@@ -233,15 +233,15 @@ Fish grow relatively fast and if we take the right actions, we can restore them 
 ::::::
 ::::::::::::
 
-::: {.column-page .text-center .homepage-p .spacer-3em}
+::: {.column-screen-padded .text-center .homepage-p .spacer-3em}
 <!-- BigFish has been created by a passionate team who wish players to know more, care more, and contribute. -->
 
 [Explore the Science](pages/wildcards.qmd){.btn .btn-secondary}
 :::
 
 <!-- begin Who We Are grid -->
-:::::: {.grid .justify-contents-evenly .align-items-center .spacer-5rem .homepage-p .column-screen style="padding-left: 2.5em; padding-right: 2.5em;"}
-::: {.g-col-12 .g-col-lg-8}
+:::::: {.grid .justify-contents-evenly .align-items-center .spacer-5rem .homepage-p .column-screen-padded}
+::: {.g-col-12 .g-col-md-8 .g-col-lg-8}
 ## Who we are {#sec-about style="margin-top: 0.5em;"}
 
 This game has been developed by the Institute of Marine and Antarctic Sciences, University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings), Matt Testoni (photos, design) and Stacey McCormack (design).
@@ -253,7 +253,7 @@ Game testing, advice, interesting facts and many other details have been provide
 :::
 :::
 
-::: {.g-col-12 .g-col-lg-4 .text-center}
+::: {.g-col-12 .g-col-md-4 .g-col-lg-4 .text-center}
 ![](resources/images/matt.png){.headshot} 
 ![](resources/images/amy.jpg){.headshot} 
 
