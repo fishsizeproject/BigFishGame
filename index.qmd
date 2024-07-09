@@ -197,7 +197,7 @@ These events create unpredictability and new challenges. Players can partly prot
 :::
 
 ::: {.g-col-12 .text-center .img-container style="margin-bottom: 1em; margin-top: 0.5em;"}
-[Read the Rules](rules.qmd){.btn .btn-secondary}
+[Read the Rules](pages/rules.qmd){.btn .btn-secondary}
 :::
 
 <!-- end main text section grid -->
