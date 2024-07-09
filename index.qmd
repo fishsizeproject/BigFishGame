@@ -268,17 +268,17 @@ Game testing, advice, interesting facts and many other details have been provide
 <!-- ::: -->
 ::::::
 
-<!-- Begin column-page section for Supporter -->
-::::::::::::::: {.column-screen style="padding-left: 2.5em; padding-right: 2.5em;" .feature-text}
+<!-- Begin column-screen-padded section for Supporters -->
+::::::::::::::: {.column-screen-padded .feature-text}
 
 ## Supporters
 
-:::: {.grid .justify-contents-evenly .align-items-center .gap-3 .homepage-p}
-::: {.g-col-6 .text-center .img-container .px-1 style="font-size: 1.5em;"}
+:::: {.grid .justify-contents-evenly .align-items-center .py-4 .homepage-p style="--bs-gap: 0;"}
+::: {.g-col-12 .g-col-sm-6 .text-center .img-container .px-1 style="font-size: 1.5em;"}
 *Pew Fellowship in Marine Conservation*
 :::
 
-::: {.g-col-6 .text-center .px-1 .img-container}
+::: {.g-col-12 .g-col-sm-6 .text-center .px-1 .img-container}
 ![](resources/images/CMS.png)
 :::
 
