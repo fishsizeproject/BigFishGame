@@ -200,12 +200,12 @@ format:
     toc: false
     anchor-sections: false
     link-external-newwindow: true
-    page-layout: full
+    page-layout: custom
     grid:
-      sidebar-width: 400px
-      body-width: 1500px
-      margin-width: 0px
-      gutter-width: 0em
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 2.5em
 
 editor: source
 
