@@ -12,31 +12,31 @@ sidebar: false
 # How to play
 
 <!-- start padded grid -->
-:::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .text-center .my-4 .show-grid}
+:::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .text-center .my-4}
 <!-- text column -->
-::::::::: {.g-col-12 .g-col-lg-5 .g-col-xl-6 .g-col-xxl-6 .mx-1 .mx-lg-2 .mx-xl-4 .show-grid}
+::::::::: {.g-col-12 .g-col-lg-5 .g-col-xl-6 .g-col-xxl-6 .mx-1 .mx-lg-2 .mx-xl-4}
 Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more.
 
-:::::: {.grid .justify-contents-evenly .align-items-center .text-center .show-grid}
-::: {.g-col-6 .g-col-md-3 .g-col-lg-6 .mx-3 .mx-sm-4 .mx-md-0 .mx-lg-0 .mx-xl-4 .mx-xxl-4 .show-grid}
+:::::: {.grid .justify-contents-evenly .align-items-center .text-center}
+::: {.g-col-6 .g-col-md-3 .g-col-lg-6 .mx-3 .mx-sm-4 .mx-md-0 .mx-lg-0 .mx-xl-4 .mx-xxl-4}
 [![](../resources/icons/users-rectangle-solid-orange.svg){width="55%"}](../pages/rules.qmd#sec-setup)
 
 #### [Setup](../pages/rules.qmd#sec-setup) {.text-center}
 :::
 
-::: {.g-col-6 .g-col-md-3 .g-col-lg-6 .mx-3 .mx-sm-4 .mx-md-0 .mx-lg-0 .mx-xl-4 .mx-xxl-4 .show-grid}
+::: {.g-col-6 .g-col-md-3 .g-col-lg-6 .mx-3 .mx-sm-4 .mx-md-0 .mx-lg-0 .mx-xl-4 .mx-xxl-4}
 [![](../resources/icons/fish-solid-orange.svg){width="55%"}](../pages/rules.qmd#sec-gameplay)
 
 #### [Gameplay](../pages/rules.qmd#sec-gameplay) {.text-center}
 :::
 
-::: {.g-col-6 .g-col-md-3 .g-col-lg-6 .mx-3 .mx-sm-4 .mx-md-0 .mx-lg-0 .mx-xl-4 .mx-xxl-4 .show-grid}
+::: {.g-col-6 .g-col-md-3 .g-col-lg-6 .mx-3 .mx-sm-4 .mx-md-0 .mx-lg-0 .mx-xl-4 .mx-xxl-4}
 [![](../resources/icons/arrow-rotate-right-solid-orange.svg){width="50%"}](../pages/rules.qmd#sec-round-end)
 
 #### [Round end](../pages/rules.qmd#sec-round-end) {.text-center}
 :::
 
-::: {.g-col-6 .g-col-md-3 .g-col-lg-6 .mx-3 .mx-sm-4 .mx-md-0 .mx-lg-0 .mx-xl-4 .mx-xxl-4 .show-grid}
+::: {.g-col-6 .g-col-md-3 .g-col-lg-6 .mx-3 .mx-sm-4 .mx-md-0 .mx-lg-0 .mx-xl-4 .mx-xxl-4}
 [![](../resources/icons/trophy-solid-orange.svg){width="50%"}](../pages/rules.qmd#sec-game-end)
 
 #### [Game end](../pages/rules.qmd#sec-game-end) {.text-center}
@@ -47,7 +47,7 @@ Watch this short video where Matt Testoni explains how to play the game, or jump
 
 <!-- image column  -->
 <!-- width="650" height="380"  -->
-:::::::: {.g-col-12 .g-col-lg-7 .g-col-xl-6 .g-col-xxl-6 .text-center .img-container .mx-1 .mx-lg-2 .mx-xl-4 .show-grid}
+:::::::: {.g-col-12 .g-col-lg-7 .g-col-xl-6 .g-col-xxl-6 .text-center .img-container .mx-1 .mx-lg-2 .mx-xl-4}
 ::: youtube-box
 <iframe class="youtube" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
@@ -86,19 +86,19 @@ If the player does not have three fish in their hand, they must place the bigger
 The orientation of the fish cards in your fishing site or ice box is essential. All fish start as larval fish, then become juveniles, medium sized and then large fish. You get different number of points for catching different sized fish. Remember, in each turn a fish can only grow by one size increment. It takes a while to bring back big fish. 
 ::::::
 
-::: {.g-col-6 .g-col-md-3 .mx-1 .mx-md-3 .text-center .img-container}
+::: {.g-col-6 .g-col-md-3 .mx-1 .mx-md-3 .my-2 .text-center .img-container}
 ![](../resources/images/cards/fish-cards/Kingfish_Larv.jpg){.image-card-sideways}
 :::
 
-::: {.g-col-6 .g-col-md-3 .text-center .img-container}
+::: {.g-col-6 .g-col-md-3 .mx-1 .mx-md-3 .text-center .my-2 .img-container}
 ![](../resources/images/cards/fish-cards/KingfishJuvenile.jpg){.image-card}
 :::
 
-::: {.g-col-6 .g-col-md-3 .text-center .img-container}
+::: {.g-col-6 .g-col-md-3 .mx-1 .mx-md-3 .text-center .my-2 .img-container}
 ![](../resources/images/cards/fish-cards/KingfishMedium.jpg){.image-card-sideways}
 :::
 
-::: {.g-col-6 .g-col-md-3 .text-center .img-container}
+::: {.g-col-6 .g-col-md-3 .mx-1 .mx-md-3 .text-center .my-2 .img-container}
 ![](../resources/images/cards/fish-cards/yellowtail-kingfish.jpg){.image-card}
 :::
 :::::::::
