@@ -215,14 +215,15 @@ These events create unpredictability and new challenges. Players can partly prot
 :::::::::
 <!-- end flush grid -->
 ::::::::::::
- 
-::: {.homepage-p .text-center .column-screen-padded style="font-size: 1.5em; margin-bottom: 1.5em;"}
+
 ## Main messages 
 
+<!-- messages text grid -->
+::::::::::: {.grid .column-screen-padded .text-center .spacer-3em style="--bs-columns: 1;"}
 <!-- To win the game you need a good strategy and luck. There is always an element of chance, but a good fisher and player knows how to get their luck. In this game you need to think about the long term strategy! The game has three main messages: -->
 
 We developed the game because we love fun card games and we love the ocean. We also love big fish. 
-:::
+:::::::::::
 
 ::::::::: {.column-screen-left}
 <!-- begin main messages picture and text grid -->
