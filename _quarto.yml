@@ -49,9 +49,9 @@ website:
       © BigFish Card Game, 2024<br>
       Website created by [Tormey Reimer](https://drtreimer.com)
     center: |
-      [<img src="/resources/styling/UniTas_IMAS.png" class="img-fluid" style="width: 20%;">](https://www.imas.utas.edu.au)
+      [<img src="/resources/images/UniTas_IMAS_V_Rev_Col_RGB@2x.png" class="img-fluid" style="width: 20%;">](https://www.imas.utas.edu.au)
       [<img src="/resources/images/fishsize-logo-backed.png" class="img-fluid" style="width: 20%; margin-left: 2.5%;">](https://fishsizeproject.org/)
-      [<img src="/resources/styling/CMS.png" class="img-fluid" style="width: 27.5%;">](https://marinesocioecology.org)
+      [<img src="/resources/images/CMS.png" class="img-fluid" style="width: 27.5%;">](https://marinesocioecology.org)
 
     border: false
     background: primary
