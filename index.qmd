@@ -42,8 +42,6 @@ include-after-body:
 ::::::
 <!-- END SPECIAL BIGFISH BANNER SECTION -->
 
-<!-- This column-page extends through the tagline, crowdfunding and timer sections -->
-::::::::::::::: {.column-screen style="margin-left: 2em; margin-right: 2em;" .feature-text }
 <!-- sets default body text of whole page slightly larger -->
 :::::::::::::: homepage-p
 
@@ -164,8 +162,6 @@ Would you like to be reminded about the crowdfunding launch? You can get the gam
 :::
 :::::::::::
 
-<!-- end of column-screen section -->
-:::::::::::::::
 
 ## Playing the game
 
