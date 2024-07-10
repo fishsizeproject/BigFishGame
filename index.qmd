@@ -154,12 +154,10 @@ The campaign will launch on **September 15, 2024**.
 ::::::
 
 <!-- subscribe to news section -->
-::::::::::: {.grid .column-screen-padded .spacer-1em style="--bs-columns: 1;"}
+::::::::::: {.grid .column-screen-padded .spacer-1em .text-center style="--bs-columns: 1;"}
 Would you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes. Subscribe to our newsletter. You will get a max of one email per month and two reminders about the crowdfunding start. 
 
-::: text-center
 [Subscribe to news](https://forms.office.com/r/wVcaiUSxNF){.btn .btn-secondary}
-:::
 :::::::::::
 
 
