@@ -13,10 +13,12 @@ sidebar: false
 
 <!-- start padded grid -->
 :::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .text-center .my-4}
+::::::::: {.g-col-12 .mx-1 .mx-lg-2 .mx-xl-4}
+Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more.
+:::::::::
+
 <!-- text column -->
 ::::::::: {.g-col-12 .g-col-lg-5 .g-col-xl-6 .g-col-xxl-6 .mx-1 .mx-lg-2 .mx-xl-4}
-Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more.
-
 :::::: {.grid .justify-contents-evenly .align-items-center .text-center}
 ::: {.g-col-6 .g-col-md-3 .g-col-lg-6 .mx-3 .mx-sm-4 .mx-md-0 .mx-lg-0 .mx-xl-4 .mx-xxl-4}
 [![](../resources/icons/users-rectangle-solid-orange.svg){width="55%"}](../pages/rules.qmd#sec-setup)
