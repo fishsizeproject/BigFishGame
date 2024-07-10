@@ -553,7 +553,8 @@ hr { // means horizontal rule
   border: $primary 2px solid;
   border-radius: 15px;
   box-shadow: 0 5px 10px $gray-300;
-  flex-wrap: 1;
+  margin-left: min(max(5rem, calc(8vw)), 6rem) !important;
+  margin-right: min(max(5rem, calc(8vw)), 6rem) !important;
 }
 
 /* Team page styling */

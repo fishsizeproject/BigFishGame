@@ -103,46 +103,44 @@ The campaign will launch on **September 15, 2024**.
 ::::::
 
 <!-- begin timer grid -->
-:::::: {.grid .text-center .justify-contents-evenly .align-items-center .homepage-p .my-2 .mx-5 .px-5 .timerBox}
-::::: {.g-col-6 .g-start-4 .g-col-md-2}
+:::::: {.grid .timerBox style="--bs-columns: 11;" .text-center .justify-contents-evenly .align-items-center .my-2}
+::: {.g-col-5 .g-col-md-2}
 <h2 class="timertext" id="days">DD</h2>
 
 ### DAYS {.text-center .timerlabel .unlisted}
-:::::
+:::
 
-::::: {.g-col-1 .g-col-md-1 style="max-width: max(0px, calc((100vw - 750px)*999)); overflow: hidden;"}
+::: {.g-col-1}
 <h2 class="timertext">:</h2>
-:::::
+:::
 
-::::: {.g-col-6 .g-start-4 .g-col-md-2}
+::: {.g-col-5 .g-col-md-2}
 <h2 class="timertext" id="hours">HH</h2>
 
 ### HOURS {.text-center .timerlabel .unlisted}
-:::::
+:::
 
-::::: {.g-col-1 .g-col-md-1 style="max-width: max(0px, calc((100vw - 750px)*999)); overflow: hidden;"}
+::: {.g-col-0 .g-col-md-1 style="max-width: max(0px, calc((100vw - 768px)*999)); overflow: hidden;"}
 <h2 class="timertext">:</h2>
-:::::
+:::
 
-::::: {.g-col-6 .g-start-4 .g-col-md-2}
+::: {.g-col-3 .g-col-md-2}
 <h2 class="timertext" id="minutes">MM</h2>
 
 ### MINS {.text-center .timerlabel .unlisted}
-:::::
+:::
 
-::::: {.g-col-1 .g-col-md-1 style="max-width: max(0px, calc((100vw - 750px)*999)); overflow: hidden;"}
+::: {.g-col-3 .g-col-md-1}
 <h2 class="timertext">:</h2>
+:::
 
-<!-- ### : {.text-center .timerlabel style="color: var(--bs-body-bg);" .unlisted} -->
-:::::
-
-::::: {.g-col-6 .g-start-4 .g-col-md-3}
+::: {.g-col-3 .g-col-md-2}
 <h2 class="timertext" id="seconds">SS</h2>
 
 ### SECS {.text-center .timerlabel .unlisted}
-:::::
-::::::
+:::
 <!-- end timer grid -->
+::::::
 
 ::: {.text-center .spacer-1em} 
 Would you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes. Subscribe to our newsletter. You will get a max of one email per month and two reminders about the crowdfunding start. 
