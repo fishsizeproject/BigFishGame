@@ -126,6 +126,28 @@ $footer-link-hover-color:           $secondary;
 
 /*-- scss:rules --*/
 
+.column-screen {
+    &-padded {
+        //margin-left: 1rem !important;
+        //margin-right: 1rem !important;
+        margin-left: min(max(0.75rem, calc(2vw)), 2rem) !important;
+        margin-right: min(max(0.75rem, calc(2vw)), 2rem) !important;
+    }
+    &-nogap {
+      margin-left: 0;
+      margin-right: 0;
+      gap: 0;
+    }
+    &-left {
+        margin-left: 0;
+        margin-right: min(max(0.5em, calc(5vw)), 2.5em);
+    }
+    &-right {
+        margin-left: min(max(0.5em, calc(5vw)), 2.5em);
+        margin-right: 0;
+    }
+  }
+
 // Basic layout and spacing rules for paragraphs
 .p, p {
   padding: 0.5em;
@@ -608,21 +630,9 @@ $grid-breakpoints: (
 );
 */
 
-
-.column-screen {
-    &-padded {
-        margin-left: min(max(0.5em, calc(5vw)), 2.5em);
-        margin-right: min(max(0.5em, calc(5vw)), 2.5em);
-    }
-    &-left {
-        margin-left: 0;
-        margin-right: min(max(0.5em, calc(5vw)), 2.5em);
-    }
-    &-right {
-        margin-left: min(max(0.5em, calc(5vw)), 2.5em);
-        margin-right: 0;
-    }
-  }
+.show-grid {
+  border: solid 2px;
+}
 
 @media screen and (min-width: 576px) and (max-width: 768px) {
   .column-screen-content {
