@@ -261,8 +261,8 @@ Fish grow relatively fast and if we take the right actions, we can restore them 
 :::
 
 <!-- begin Who We Are grid -->
-:::::: {.grid .justify-contents-evenly .align-items-center .spacer-5rem .homepage-p .column-screen-padded}
-::: {.g-col-12 .g-col-md-8 .g-col-lg-8}
+:::::::::::: {.grid .justify-contents-evenly .align-items-center .spacer-5rem .column-screen-padded}
+::::::::: {.g-col-12 .g-col-md-8 .g-col-lg-8}
 ## Who we are {#sec-about style="margin-top: 0.5em;"}
 
 This game has been developed by the Institute of Marine and Antarctic Sciences, University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings), Matt Testoni (photos, design) and Stacey McCormack (design).
@@ -272,25 +272,29 @@ Game testing, advice, interesting facts and many other details have been provide
 ::: text-center
 [Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary}
 :::
+:::::::::
+
+::::::::: {.g-col-12 .g-col-md-4 .g-col-lg-4 .text-center}
+:::::: {.grid .m-1 .img-container}
+::: {.g-col-6 .g-col-sm-3 .g-col-md-12 .g-col-lg-6 .img-container}
+![](resources/images/matt.png){.headshot} 
 :::
 
-::: {.g-col-12 .g-col-md-4 .g-col-lg-4 .text-center}
-![](resources/images/matt.png){.headshot} 
+::: {.g-col-6 .g-col-sm-3 .g-col-md-12 .g-col-lg-6 .img-container}
 ![](resources/images/amy.jpg){.headshot} 
+:::
 
+::: {.g-col-6 .g-col-sm-3 .g-col-md-12 .g-col-lg-6 .img-container}
 ![](resources/images/asta.jpg){.headshot} 
+:::
+
+::: {.g-col-6 .g-col-sm-3 .g-col-md-12 .g-col-lg-6 .img-container}
 ![](resources/images/pretty-pics/blue-Grouper-1-small.jpg){.headshot} 
 :::
-
-<!-- ::: g-col-12 -->
-<!-- ### Contact us -->
-
-<!-- If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info\@fishsizeproject.org](mailto:info@fishsizeproject.org). -->
-<!-- ::: -->
 ::::::
-
-<!-- Begin column-screen-padded section for Supporters -->
-::::::::::::::: {.column-screen-padded .feature-text}
+:::::::::
+<!-- end who we are grid -->
+::::::::::::
 
 ## Supporters
 
