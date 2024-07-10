@@ -176,7 +176,7 @@ Would you like to be reminded about the crowdfunding launch? You can get the gam
 :::
 
 <!-- text-step column -->
-::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-lg-8 .img-container}
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-lg-8 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .img-container}
 Big fish are worth more points than small fish, so players want to catch them. But the presence of big fish also allows players to draw new cards, spawn new fish and also grow them. The player has to find a balance between collecting points by catching fish and preserving big fish for good fishing opportunities in the future. 
 :::
 
@@ -186,7 +186,7 @@ Big fish are worth more points than small fish, so players want to catch them. B
 :::
 
 <!-- text-step column -->
-::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-lg-8 .img-container}
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-lg-8 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .img-container}
 In addition to fishing, other natural and human-induced events occur throughout the game: fisheries research, poor water quality, citizen science, illegal fishing, ocean acidification, sea urchin arrival and others.
 :::
 
@@ -196,7 +196,7 @@ In addition to fishing, other natural and human-induced events occur throughout 
 :::
 
 <!-- text-step column -->
-::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-lg-8 .img-container}
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-lg-8 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .img-container}
 These events create unpredictability and new challenges. Players can partly protect their fishing spots by finding the best game strategy. 
 :::
 <!-- end text section grid -->
