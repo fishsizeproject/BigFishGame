@@ -64,8 +64,7 @@ description-meta: |
 <!-- end flush grid -->
 :::::::::::
 
-<!-- ## Flush on both sides -->
-
+<!-- start flush on both sides grid -->
 :::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .my-4}
 <!-- image column  -->
 ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-xl-3 .text-center .img-container .show-grid}
