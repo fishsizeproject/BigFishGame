@@ -54,20 +54,20 @@ The BigFish card game is for everyone interested in fun card games, fishing or m
 To win the game you must find the best fishing strategy to collect points from catching fish, while keeping your fishing spot healthy and protected from natural disasters and other players. 
 :::::::::::
 
-
-::::::: {.grid .justify-contents-evenly .align-items-center .gap-3 .spacer-2em}
-::: {.g-col-6 .g-col-md-4 .text-center .img-container}
+<!-- feature images grid -->
+:::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .spacer-2em}
+::: {.g-col-6 .g-col-md-4 .m-1 .text-center .img-container}
 ![](resources/images/PlayingGame1a-cropped.jpg)
 :::
 
-::: {.g-col-6 .g-col-md-4 .text-center .img-container}
+::: {.g-col-6 .g-col-md-4 .m-1 .text-center .img-container}
 ![](resources/images/GameOnSand2Sm.jpg)
 :::
 
-::: {.g-col-12 .g-col-md-4 .text-center .img-container}
+::: {.g-col-12 .g-col-md-4 .m-1 .text-center .img-container}
 ![](resources/images/PlayingGame2.jpg)
 :::
-:::::::
+::::::
 
 :::::: {.grid .justify-contents-evenly .align-items-center}
 ::::: {.g-col-12 .g-col-md-3 .text-center .img-container}
