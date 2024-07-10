@@ -81,11 +81,12 @@ If the player does not have three fish in their hand, they must place the bigger
 
 ## Keep track of fish size 
 
+::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .my-2}
+:::::: {.g-col-12 .mx-1 .mx-md-3 .mx-xl-4}
 The orientation of the fish cards in your fishing site or ice box is essential. All fish start as larval fish, then become juveniles, medium sized and then large fish. You get different number of points for catching different sized fish. Remember, in each turn a fish can only grow by one size increment. It takes a while to bring back big fish. 
+::::::
 
-
-:::: {.grid .justify-contents-evenly .align-items-center .gap-3 .text-center style="margin-top: 2em;"}
-::: {.g-col-6 .g-col-md-3 .text-center .img-container}
+::: {.g-col-6 .g-col-md-3 .mx-1 .mx-md-3 .text-center .img-container}
 ![](../resources/images/cards/fish-cards/Kingfish_Larv.jpg){.image-card-sideways}
 :::
 
@@ -100,10 +101,7 @@ The orientation of the fish cards in your fishing site or ice box is essential. 
 ::: {.g-col-6 .g-col-md-3 .text-center .img-container}
 ![](../resources/images/cards/fish-cards/yellowtail-kingfish.jpg){.image-card}
 :::
-
-::::
-
-
+:::::::::
 
 ## Gameplay {#sec-gameplay}
 
