@@ -164,8 +164,14 @@ This ensures that the first player gets the choice of new face-up cards equally.
 
 ## Game end {#sec-game-end}
 
-:::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-12 .g-col-md-9}
+:::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center}
+::: {.order-2 .g-col-12 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}
+![](../resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
+
+Click on the image to zoom in
+:::
+
+::: {.order-1 .g-col-12 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-2 .mx-md-3 .mx-xl-5}
 The game ends randomly, once the flipped round end card is the "End of the game" card.
 This should happen after the end of 5 rounds or more.
 Now count your points.
@@ -177,13 +183,10 @@ Add these points to your total score.
 
 3. Each big fish remaining alive in your fishing site give you 2 points.
 Add these points to your total score.
+:::
 
-:::: {.h3 .text-center style="color: var(--bs-accent);"}
+::: {.order-3 .g-col-12 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-1 .mx-md-3 .mx-xl-4 .text-center .h3 style="color: var(--bs-accent); margin-top: 0px; margin-bottom: 2em;"}
 **The player with the most points wins! **
-::::
 :::
+::::::
 
-::: {.g-col-12 .g-col-lg-3 .img-container .text-center}
-![](../resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
-:::
-::::
