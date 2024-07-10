@@ -47,14 +47,12 @@ include-after-body:
 <!-- sets default body text of whole page slightly larger -->
 :::::::::::::: homepage-p
 
-::: {.p .spacer-3em}
+<!-- feature text grid -->
+::::::::::: {.grid .column-screen-padded .feature-text .spacer-3em style="--bs-columns: 1;"}
 The BigFish card game is for everyone interested in fun card games, fishing or marine life.
 
 To win the game you must find the best fishing strategy to collect points from catching fish, while keeping your fishing spot healthy and protected from natural disasters and other players. 
-:::
-
-<!-- Edits required: three photos should go below the text introducing the game (above) - GameOnSand2Sm.jpg and two photos of people playing on the beach. Then the other four photos should ideally go on each side of the crowdfunding campaign section, to make it very clear what people get if they pledge. Also, at the moment the font and font style is different here compared to what is below (line spacing differs, etc). This font should be a bigger but same style -->
-<!-- Done Tormey 04-07-24 -->
+:::::::::::
 
 
 ::::::: {.grid .justify-contents-evenly .align-items-center .gap-3 .spacer-2em}
