@@ -58,29 +58,26 @@ Watch this short video where Matt Testoni explains how to play the game, or jump
 
 ## Setup {#sec-setup}
 
-::::: {.grid .justify-contents-evenly .align-items-center}
-:::: {.g-col-12 .g-col-lg-4 .g-col-xl-5}
-![](../resources/images/GameOnSandSm-16x9.jpg)
-::::
-
-:::: {.g-col-12 .g-col-lg-8 .g-col-xl-7}
+::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center}
+:::: {.order-1 .g-col-12 .g-col-lg-12 .g-col-xl-12 .mx-1 .mx-md-3 .mx-xl-4}
 Shuffle all fish cards and wildcards together into the gameplay deck and place in the middle of the play area.
 From this deck, draw cards equal to the number of players +2 and place them face-up in the middle of the play area.
 These are the face-up cards. 
 
 Find the "End of game" card and set it aside, then shuffle the remaining round-end cards. 
 Remove four round-end cards and put them aside, shuffle the "End of game" card into the rest of the deck, and place the four removed cards on top. Place the round-end deck in the centre of the play area. The game will end randomly at any time after the first four rounds.
+::::
 
+:::: {.order-2 .g-col-12 .g-col-lg-6 .g-col-xxl-4 .mx-1 .mx-md-3 .mx-xl-4}
+![](../resources/images/GameOnSandSm-16x9.jpg)
+::::
+
+:::: {.order-3 .g-col-12 .g-col-lg-6 .g-col-xxl-8 .mx-1 .mx-md-3 .mx-xl-4}
 Identify a large clear space in front of each player - this will be their fishing site. Deal each player six cards. 
 To start the game each player places up to three fish from their hand into their fishing site: one as a big fish, one as a medium fish, and one as a juvenile fish. 
 If the player does not have three fish in their hand, they must place the bigger fish first (so they will have only one big and one medium fish, or only one big fish). 
-
-<!-- ::: caption-p -->
-<!-- Photo: Matt Testoni and the BigFish team test out their game.<br> -->
-<!-- Snacks aren't specified in the rules, but they are highly recommended. -->
-<!-- ::: -->
 ::::
-:::::
+:::::::
 
 ## Keep track of fish size 
 
