@@ -559,7 +559,7 @@ hr { // means horizontal rule
   color: $accent;
   font-weight: 750;
   /* Font sizes are ordered as min, variable, max */
-  font-size: min(max(1.5rem, calc(5vw)), 4rem) !important;
+  font-size: min(max(1.5rem, calc(4vw)), 2.5rem) !important;
   margin: 0.25em 0px 0px 0px;
   padding: 0px;
 }
@@ -567,7 +567,9 @@ hr { // means horizontal rule
 .timerlabel {
   /* Font sizes are ordered as min, variable, max */
   font-size: min(max(1rem, calc(2vw)), 1.5rem) !important;
-  margin-top: 0px;
+  margin: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
   padding-top: 0px;
 }
 
@@ -576,8 +578,9 @@ hr { // means horizontal rule
   border: $primary 2px solid;
   border-radius: 15px;
   box-shadow: 0 5px 10px $gray-300;
-  margin-left: min(max(5rem, calc(8vw)), 6rem) !important;
-  margin-right: min(max(5rem, calc(8vw)), 6rem) !important;
+  gap: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 /* Team page styling */
