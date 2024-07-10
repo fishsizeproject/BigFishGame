@@ -342,6 +342,7 @@ ul.navbar-nav.navbar-nav-scroll.me-auto li.nav-item.dropdown ul.dropdown-menu.sh
 
 .hero-strip-page {
   height: 200px;
+  scrollbar-gutter: stable both-edges;
 }
 
 .hero-strip-page:before {

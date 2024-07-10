@@ -5,7 +5,7 @@ description-meta: |
 sidebar: false
 ---
 
-::: {.column-screen .hero-img .hero-strip-page}
+::: {.column-screen-nogap .hero-img .hero-strip-page .img-container}
    
 :::
 

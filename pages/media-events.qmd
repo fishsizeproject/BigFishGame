@@ -4,7 +4,7 @@ description-meta: |
   Lots of fun and useful things will be added here soon!
 ---
 
-::: {.column-screen .hero-img .hero-strip-page}
+::: {.column-screen-nogap .hero-img .hero-strip-page .img-container}
    
 :::
 

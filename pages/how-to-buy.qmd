@@ -8,7 +8,7 @@ include-after-body:
     <script type="text/javascript" src="/resources/simple-countdown-timer/dist/script.js"></script>
 ---
 
-::: {.column-screen .hero-img .hero-strip-page}
+::: {.column-screen-nogap .hero-img .hero-strip-page .img-container}
    
 :::
 

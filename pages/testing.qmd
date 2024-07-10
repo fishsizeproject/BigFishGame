@@ -4,7 +4,7 @@ description-meta: |
   This page is just for website testing purposes
 ---
 
-::: {.column-screen .hero-img .hero-strip-page}
+::: {.column-screen-nogap .hero-img .hero-strip-page .img-container}
    
 :::
 

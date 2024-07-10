@@ -6,7 +6,7 @@ description-meta: |
 sidebar: fish-sidebar
 ---
 
-::: {.column-page-right .hero-img .hero-strip-page}
+::: {.column-screen-nogap .hero-img .hero-strip-page .img-container}
 
 :::
 
