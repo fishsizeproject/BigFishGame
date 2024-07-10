@@ -298,7 +298,7 @@ Game testing, advice, interesting facts and many other details have been provide
 
 ## Supporters
 
-:::: {.grid .justify-contents-evenly .align-items-center .py-4 .homepage-p style="--bs-gap: 0;"}
+:::::: {.grid .column-screen-padded .justify-contents-evenly .align-items-center .py-4}
 ::: {.g-col-12 .g-col-sm-6 .text-center .img-container .px-1 style="font-size: 1.5em;"}
 *Pew Fellowship in Marine Conservation*
 :::
@@ -307,14 +307,12 @@ Game testing, advice, interesting facts and many other details have been provide
 ![](resources/images/CMS.png)
 :::
 
-<!-- ::: {.g-col-3 .text-center .img-container} -->
-<!-- Your logo here! -->
-<!-- ::: -->
-
 ::: {.g-col-12 .text-center}
 **You can support the game** by pledging on our crowdfunding or by contacting us. 
 
 If you would like to sponsor a card, representing your organisation or initiative, get in touch and we will discuss. We will only include cards that are truly important for sustainable fisheries and marine ecosystems. 
+
+<!-- If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info\@fishsizeproject.org](mailto:info@fishsizeproject.org). -->
 :::
 
 ::: {.g-col-12 .g-col-lg-6 .text-center}
@@ -324,12 +322,7 @@ If you would like to sponsor a card, representing your organisation or initiativ
 ::: {.g-col-12 .g-col-lg-6 .text-center}
 [Contact us](mailto:info@fishsizeproject.org){.btn .btn-secondary}
 :::
-
-::::
-
-<!-- end of column-page section -->
-:::::::::::::::
-
+::::::
 
 <!-- ::: text-center -->
 <!-- [How to Buy](pages/how-to-buy.qmd){.h3 .btn .btn-secondary} -->
