@@ -225,14 +225,10 @@ These events create unpredictability and new challenges. Players can partly prot
 We developed the game because we love fun card games and we love the ocean. We also love big fish. 
 :::::::::::
 
-::::::::: {.column-screen-left}
-<!-- begin main messages picture and text grid -->
-:::::: {.grid .justify-contents-evenly .align-items-center .homepage-p}
-::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-4 .g-col-xl-4 .img-container style="--bs-gap: 0;"}
-![](resources/images/pretty-pics/flathead-small.jpg)
-:::
-
-::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-8 .my-3 style="--bs-gap: 0;"}
+<!-- start flush grid -->
+:::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .my-3 .show-grid}
+<!-- text column -->
+::::::::: {.order-2 .g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-8 .g-col-xl-8 .g-col-xxl-8 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .show-grid}
 ### 1. Big fish are important
 
 Preserving the big fish in the oceans, lakes and rivers is important for fish reproduction and resilience, ecosystem balance, for the fun of fishing, or simply because big fish are beautiful.
@@ -244,12 +240,21 @@ Due to commercial and recreational fishing, big fish have mostly vanished from o
 ### 3. Big fish can return
 
 Fish grow relatively fast and if we take the right actions, we can restore them within our lifetimes and enjoy their beauty and benefits again.
-:::
-::::::
-<!-- end column-screen-left -->
 :::::::::
 
-::: {.column-screen-padded .text-center .homepage-p .spacer-3em}
+<!-- button column -->
+::: {.order-3 .g-start-lg-5 .g-start-xl-5 .g-start-xxl-5 .g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-8 .g-col-xl-8 .g-col-xxl-8 .my-4 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .text-center .img-container .show-grid}
+[Explore the Science](pages/wildcards.qmd){.btn .btn-secondary}
+:::
+
+<!-- image column  -->
+::::::::: {.order-1 .g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-4 .g-col-xl-4 .g-col-xxl-4 .text-center .img-container .show-grid}
+![](resources/images/pretty-pics/flathead-small.jpg)
+:::::::::
+<!-- end flush grid -->
+::::::::::::
+
+::: {.column-screen-padded .text-center .spacer-3em}
 <!-- BigFish has been created by a passionate team who wish players to know more, care more, and contribute. -->
 
 [Explore the Science](pages/wildcards.qmd){.btn .btn-secondary}
