@@ -137,14 +137,18 @@ Check to see if you have any green wild cards with a starfish in your fishing ho
 
 ## Round end {#sec-round-end}
 
-:::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-12 .g-col-md-3 .img-container .text-center}
-![](../resources/images/cards/round-end-cards/localised-species-extinction.jpg){.image-card .lightbox}
+:::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center}
+::: {.order-1 .g-col-12 .mx-1 .mx-md-3 .mx-xl-4 .text-center}
+Once each player has had one turn, follow the round end steps to complete the round.
 :::
 
-::: {.g-col-12 .g-col-md-9}
-Once each player has had one turn, follow the round end steps to complete the round.
+::: {.order-2 .g-col-12 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}
+![](../resources/images/cards/round-end-cards/localised-species-extinction.jpg){.image-card .lightbox}
 
+Click on the image to zoom in
+:::
+
+::: {.order-3 .g-col-12 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-2 .mx-md-3 .mx-xl-5}
 1. **Reveal** the top round end event card and follow its directions.
 If this is a round 5 or more, the round end card might also be the end of the game card.
 
@@ -156,7 +160,7 @@ This is rarely needed, but helps maintain the balance of the game.
 4. **Rotate** the first player by passing the first player card clockwise.
 This ensures that the first player gets the choice of new face-up cards equally.
 :::
-::::
+::::::
 
 ## Game end {#sec-game-end}
 
