@@ -9,50 +9,54 @@ sidebar: false
    
 :::
 
-<!-- Centers all content horizontally, do not remove -->
-::::::: {.column-screen style="margin-left: 2.5em; margin-right: 2.5em;"}
-
 # How to play
 
-:::::: {.grid .justify-contents-evenly .align-items-center .text-center}
-::::: {.g-col-12 .g-col-xl-6 .my-2 style="flex-shrink: 1; padding: 2rem; margin: 0px;"}
-<iframe width="650" height="380" style="margin: 0px; padding: 0px;" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
-:::::
-
-::::: {.g-col-12 .g-col-xl-6 style="flex-grow: 1;"}
+<!-- start padded grid -->
+:::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .text-center .my-4 .show-grid}
+<!-- text column -->
+::::::::: {.g-col-12 .g-col-lg-5 .g-col-xl-6 .g-col-xxl-6 .mx-1 .mx-lg-2 .mx-xl-4 .show-grid}
 Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more.
 
-:::: {.grid .justify-contents-evenly .align-items-end .text-center}
-::: {.g-col-6 .g-col-sm-3 .g-col-xl-3 style="flex-grow: 1;"}
+:::::: {.grid .justify-contents-evenly .align-items-center .text-center .show-grid}
+::: {.g-col-6 .g-col-md-3 .g-col-lg-6 .mx-3 .mx-sm-4 .mx-md-0 .mx-lg-0 .mx-xl-4 .mx-xxl-4 .show-grid}
 [![](../resources/icons/users-rectangle-solid-orange.svg){width="55%"}](../pages/rules.qmd#sec-setup)
 
 #### [Setup](../pages/rules.qmd#sec-setup) {.text-center}
 :::
 
-::: {.g-col-6 .g-col-sm-3 .g-col-xl-3 style="flex-grow: 1;"}
+::: {.g-col-6 .g-col-md-3 .g-col-lg-6 .mx-3 .mx-sm-4 .mx-md-0 .mx-lg-0 .mx-xl-4 .mx-xxl-4 .show-grid}
 [![](../resources/icons/fish-solid-orange.svg){width="55%"}](../pages/rules.qmd#sec-gameplay)
 
 #### [Gameplay](../pages/rules.qmd#sec-gameplay) {.text-center}
 :::
 
-::: {.g-col-6 .g-col-sm-3 .g-col-xl-3 style="flex-grow: 1;"}
+::: {.g-col-6 .g-col-md-3 .g-col-lg-6 .mx-3 .mx-sm-4 .mx-md-0 .mx-lg-0 .mx-xl-4 .mx-xxl-4 .show-grid}
 [![](../resources/icons/arrow-rotate-right-solid-orange.svg){width="50%"}](../pages/rules.qmd#sec-round-end)
 
 #### [Round end](../pages/rules.qmd#sec-round-end) {.text-center}
 :::
 
-::: {.g-col-6 .g-col-sm-3 .g-col-xl-3 style="flex-grow: 1;"}
+::: {.g-col-6 .g-col-md-3 .g-col-lg-6 .mx-3 .mx-sm-4 .mx-md-0 .mx-lg-0 .mx-xl-4 .mx-xxl-4 .show-grid}
 [![](../resources/icons/trophy-solid-orange.svg){width="50%"}](../pages/rules.qmd#sec-game-end)
 
 #### [Game end](../pages/rules.qmd#sec-game-end) {.text-center}
 :::
-::::
-:::::
 ::::::
+<!-- end text column -->
+:::::::::
+
+<!-- image column  -->
+<!-- width="650" height="380"  -->
+:::::::: {.g-col-12 .g-col-lg-7 .g-col-xl-6 .g-col-xxl-6 .text-center .img-container .mx-1 .mx-lg-2 .mx-xl-4 .show-grid}
+::: youtube-box
+<iframe class="youtube" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
+:::
+::::::::
+<!-- end padded grid -->
+::::::::::::
 
 ## Setup {#sec-setup}
-<!-- style="margin-top: 0.5em;" -->
 
 ::::: {.grid .justify-contents-evenly .align-items-center}
 :::: {.g-col-12 .g-col-lg-4 .g-col-xl-5}
@@ -178,6 +182,3 @@ Add these points to your total score.
 ![](../resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
 :::
 ::::
-
-<!-- Centers all content horizontally, do not remove -->
-:::::::
