@@ -254,12 +254,6 @@ Fish grow relatively fast and if we take the right actions, we can restore them 
 <!-- end flush grid -->
 ::::::::::::
 
-::: {.column-screen-padded .text-center .spacer-3em}
-<!-- BigFish has been created by a passionate team who wish players to know more, care more, and contribute. -->
-
-[Explore the Science](pages/wildcards.qmd){.btn .btn-secondary}
-:::
-
 <!-- begin Who We Are grid -->
 :::::::::::: {.grid .justify-contents-evenly .align-items-center .spacer-5rem .column-screen-padded}
 ::::::::: {.g-col-12 .g-col-md-8 .g-col-lg-8}
