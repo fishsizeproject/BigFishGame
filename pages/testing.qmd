@@ -2,6 +2,7 @@
 pagetitle: Testing | BigFish Card Game
 description-meta: |
   This page is just for website testing purposes
+sidebar: fish-sidebar
 ---
 
 ::: {.column-screen-nogap .hero-img .hero-strip-page .img-container}

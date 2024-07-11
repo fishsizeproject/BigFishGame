@@ -52,7 +52,6 @@ website:
       [<img src="/resources/images/UniTas_IMAS_V_Rev_Col_RGB.png" class="img-fluid" style="width: 20%;">](https://www.imas.utas.edu.au)
       [<img src="/resources/images/fishsize-logo-backed.png" class="img-fluid" style="width: 20%; margin-left: 2.5%;">](https://fishsizeproject.org/)
       [<img src="/resources/images/CMS.png" class="img-fluid" style="width: 27.5%;">](https://marinesocioecology.org)
-
     border: false
     background: primary
     foreground: light
@@ -76,11 +75,10 @@ website:
 
 # Different sidebars for different pages
   sidebar:
-  - id: special-sidebar
+  - id: "special-sidebar"
     style: "docked"
-    type: dark
     border: false
-    pinned: true
+    pinned: false
     contents:
       - section: "Wildcards"
         contents:
@@ -142,9 +140,9 @@ website:
       - text: "-----"
       - text: " Game Setup & Rules"
         href: pages/rules.qmd
-  - id: fish-sidebar
+  - id: "fish-sidebar"
     style: "docked"
-    border: true
+    border: false
     pinned: false
     contents:
       - text: "Abalone"
@@ -200,12 +198,12 @@ format:
     toc: false
     anchor-sections: false
     link-external-newwindow: true
-    page-layout: custom
+    page-layout: full
     grid:
-      sidebar-width: 300px
-      body-width: 900px
-      margin-width: 300px
-      gutter-width: 2.5em
+      sidebar-width: 450px
+      body-width: 1400px
+      margin-width: 0px
+      gutter-width: 0px
 
 editor: source
 

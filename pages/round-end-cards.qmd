@@ -7,12 +7,9 @@ description-meta: |
 sidebar: special-sidebar
 ---
 
-::: {.column-screen-nogap .hero-img .hero-strip-page .img-container}
+::: {.column-page-right .hero-img .hero-strip-page .img-container}
 
 :::
-
-<!-- This maintains the page body spacing on left and right, do not remove -->
-::::::::::: {.column-body style="margin-left: 2em; margin-right: 2em"}
 
 # Round-end cards
 
@@ -284,5 +281,3 @@ The game is over, tally up your scores.
 
 <!-- *Learn more* -->
 
-<!-- This maintains the page body spacing on left and right, do not remove -->
-:::::::::::

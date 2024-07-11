@@ -7,13 +7,9 @@ description-meta: |
 sidebar: special-sidebar
 ---
 
-::: {.column-screen-nogap .hero-img .hero-strip-page .img-container}
+::: {.column-page-right .hero-img .hero-strip-page .img-container}
 
 :::
-
-<!-- This maintains the page body spacing on left and right, do not remove -->
-::::::::::: {.column-body style="margin-left: 3.5em; margin-right: 3.5em"}
-
 
 # Wild cards
 
@@ -584,5 +580,3 @@ Place the shellfish reef into your fishing spot, and on the spawn phase of every
 - [Restoring shellfish reefs: Global guidelines for practitioners and scientists](https://researchonline.jcu.edu.au/63122/1/63122.pdf)
 - Check out these articles from the Nature Conservancy about [life on an oyster reef](https://www.natureaustralia.org.au/what-we-do/our-priorities/oceans/ocean-stories/oyster-reef-habitat/), and their projects [restoring shellfish reefs](https://www.natureaustralia.org.au/what-we-do/our-priorities/oceans/ocean-stories/restoring-shellfish-reefs/)
 
-<!-- This maintains the page body spacing on left and right, do not remove -->
-:::::::::::

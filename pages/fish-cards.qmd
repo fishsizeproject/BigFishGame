@@ -2,17 +2,14 @@
 pagetitle: Fish cards | BigFish Card Game
 description-meta: |
   Explore all the fish cards included in the standard BigFish game.
+
 # If the page has a sidebar, the hero banner works differently - see slight change to code below
 sidebar: fish-sidebar
 ---
 
-::: {.column-screen-nogap .hero-img .hero-strip-page .img-container}
+::: {.column-page-right .hero-img .hero-strip-page .img-container}
 
 :::
-
-<!-- This maintains the page body spacing on left and right, do not remove -->
-::: {.column-body style="margin-left: 3em; margin-right: 3em"}
-
 
 ## Fish cards
 
@@ -378,5 +375,3 @@ These fish are pelagic, which means they can be found out at sea. Individuals fr
 :::::
 ::::::
 
-<!-- This maintains the page body spacing on left and right, do not remove -->
-:::
