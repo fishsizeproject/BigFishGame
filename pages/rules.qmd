@@ -5,14 +5,14 @@ description-meta: |
 sidebar: false
 ---
 
-::: {.column-screen-nogap .hero-img .hero-strip-page .img-container}
+::: {.column-screen .hero-img .hero-strip-page .img-container}
    
 :::
 
 # How to play
 
 <!-- start padded grid -->
-:::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .text-center .my-4}
+:::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center .text-center .my-4}
 ::::::::: {.g-col-12 .mx-1 .mx-lg-2 .mx-xl-4}
 Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more.
 :::::::::
@@ -60,7 +60,7 @@ Watch this short video where Matt Testoni explains how to play the game, or jump
 
 ## Setup {#sec-setup}
 
-::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center}
+::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
 :::: {.order-1 .g-col-12 .g-col-lg-12 .g-col-xl-12 .mx-1 .mx-md-3 .mx-xl-4}
 Shuffle all fish cards and wildcards together into the gameplay deck and place in the middle of the play area.
 From this deck, draw cards equal to the number of players +2 and place them face-up in the middle of the play area.
@@ -83,7 +83,7 @@ If the player does not have three fish in their hand, they must place the bigger
 
 ## Keep track of fish size 
 
-::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .my-2}
+::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center .my-2}
 :::::: {.g-col-12 .mx-1 .mx-md-3 .mx-xl-4}
 The orientation of the fish cards in your fishing site or ice box is essential. All fish start as larval fish, then become juveniles, medium sized and then large fish. You get different number of points for catching different sized fish. Remember, in each turn a fish can only grow by one size increment. It takes a while to bring back big fish. 
 ::::::
@@ -107,7 +107,7 @@ The orientation of the fish cards in your fishing site or ice box is essential. 
 
 ## Gameplay {#sec-gameplay}
 
-::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center}
+::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
 :::: {.order-1 .g-col-12 .mx-1 .mx-md-3 .mx-xl-4}
 During the round each player follows these steps. Use the turn order to keep track.
 ::::
@@ -139,7 +139,7 @@ Check to see if you have any green wild cards with a starfish in your fishing ho
 
 ## Round end {#sec-round-end}
 
-:::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center}
+:::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
 ::: {.order-1 .g-col-12 .mx-1 .mx-md-3 .mx-xl-4 .text-center}
 Once each player has had one turn, follow the round end steps to complete the round.
 :::
@@ -166,7 +166,7 @@ This ensures that the first player gets the choice of new face-up cards equally.
 
 ## Game end {#sec-game-end}
 
-:::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center}
+:::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
 ::: {.order-2 .g-col-12 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}
 ![](../resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
 

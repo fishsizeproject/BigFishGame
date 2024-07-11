@@ -46,14 +46,14 @@ include-after-body:
 :::::::::::::: homepage-p
 
 <!-- feature text grid -->
-::::::::::: {.grid .column-screen-padded .feature-text .spacer-3em style="--bs-columns: 1;"}
+::::::::::: {.grid .column-screen .feature-text .spacer-3em style="--bs-columns: 1;"}
 The BigFish card game is for everyone interested in fun card games, fishing or marine life.
 
 To win the game you must find the best fishing strategy to collect points from catching fish, while keeping your fishing spot healthy and protected from natural disasters and other players. 
 :::::::::::
 
 <!-- feature images grid -->
-:::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .spacer-2em}
+:::::: {.grid .column-screen .justify-contents-evenly .align-items-center .spacer-2em}
 ::: {.g-col-6 .g-col-md-4 .m-1 .text-center .img-container}
 ![](resources/images/PlayingGame1a-cropped.jpg)
 :::
@@ -68,7 +68,7 @@ To win the game you must find the best fishing strategy to collect points from c
 ::::::
 
 <!-- begin crowdfunding grid -->
-:::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .my-4 .my-xl-1}
+:::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .my-4 .my-xl-1}
 <!-- first image column  -->
 ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-xl-3 .text-center .img-container}
 :::::: {.grid .m-1 .img-container}
@@ -114,7 +114,7 @@ The campaign will launch on **September 15, 2024**.
 ::::::::::::
 
 <!-- begin timer grid -->
-:::::: {.grid .timerBox style="--bs-columns: 11;" .text-center .justify-contents-evenly .align-items-center .my-2 .mx-5}
+:::::: {.grid .column-screen .timerBox style="--bs-columns: 11;" .text-center .justify-contents-evenly .align-items-center .my-2 .mx-5}
 ::: {.g-col-4 .g-start-2 .g-start-md-1 .g-col-md-2 .mx-0 .px-0}
 <h2 class="timertext" id="days">DD</h2>
 
@@ -154,7 +154,7 @@ The campaign will launch on **September 15, 2024**.
 ::::::
 
 <!-- subscribe to news section -->
-::::::::::: {.grid .column-screen-padded .spacer-1em .text-center style="--bs-columns: 1;"}
+::::::::::: {.grid .column-screen .spacer-1em .text-center style="--bs-columns: 1;"}
 Would you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes. Subscribe to our newsletter. You will get a max of one email per month and two reminders about the crowdfunding start. 
 
 [Subscribe](https://forms.office.com/r/wVcaiUSxNF){.btn .btn-secondary}
@@ -164,7 +164,7 @@ Would you like to be reminded about the crowdfunding launch? You can get the gam
 ## Playing the game
 
 <!-- start flush grid -->
-:::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .my-3}
+:::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .my-3}
 <!-- text column -->
 ::::::::: {.order-1 .g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-8 .g-col-xl-8 .g-col-xxl-8 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5}
 
@@ -219,14 +219,14 @@ These events create unpredictability and new challenges. Players can partly prot
 ## Main messages 
 
 <!-- messages text grid -->
-::::::::::: {.grid .column-screen-padded .text-center .spacer-3em style="--bs-columns: 1;"}
+::::::::::: {.grid .column-screen .text-center .spacer-3em style="--bs-columns: 1;"}
 <!-- To win the game you need a good strategy and luck. There is always an element of chance, but a good fisher and player knows how to get their luck. In this game you need to think about the long term strategy! The game has three main messages: -->
 
 We developed the game because we love fun card games and we love the ocean. We also love big fish. 
 :::::::::::
 
 <!-- start flush grid -->
-:::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .my-3}
+:::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .my-3}
 <!-- text column -->
 ::::::::: {.order-2 .g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-8 .g-col-xl-8 .g-col-xxl-8 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5}
 ### 1. Big fish are important
@@ -255,8 +255,8 @@ Fish grow relatively fast and if we take the right actions, we can restore them 
 ::::::::::::
 
 <!-- begin Who We Are grid -->
-:::::::::::: {.grid .justify-contents-evenly .align-items-center .spacer-5rem .column-screen-padded}
-::::::::: {.g-col-12 .g-col-md-8 .g-col-lg-8}
+:::::::::::: {.grid .justify-contents-evenly .align-items-center .spacer-5rem .column-screen}
+::::::::: {.g-col-12 .g-col-md-8 .g-col-lg-8 .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4}
 ## Who we are {#sec-about style="margin-top: 0.5em;"}
 
 This game has been developed by the Institute of Marine and Antarctic Sciences, University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings), Matt Testoni (photos, design) and Stacey McCormack (design).
@@ -292,7 +292,7 @@ Game testing, advice, interesting facts and many other details have been provide
 
 ## Supporters
 
-:::::: {.grid .column-screen-padded .justify-contents-evenly .align-items-center .py-4}
+:::::: {.grid .column-screen .justify-contents-evenly .align-items-center .py-4 .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4}
 ::: {.g-col-12 .g-col-sm-6 .text-center .img-container .px-1 style="font-size: 1.5em;"}
 *Pew Fellowship in Marine Conservation*
 :::

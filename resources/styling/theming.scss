@@ -126,6 +126,10 @@ $footer-link-hover-color:           $secondary;
 
 /*-- scss:rules --*/
 
+.page-columns > .column-screen {
+  grid-column-start: screen-start;
+}
+
 .column-screen {
     &-padded {
         //margin-left: 1rem !important;
