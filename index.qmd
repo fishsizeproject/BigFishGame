@@ -115,37 +115,37 @@ The campaign will launch on **September 15, 2024**.
 
 <!-- begin timer grid -->
 :::::: {.grid .timerBox style="--bs-columns: 11;" .text-center .justify-contents-evenly .align-items-center .my-2 .mx-5}
-::: {.g-col-4 .g-start-2 .g-start-md-1 .g-col-md-2 .mx-0 .px-0 .show-grid}
+::: {.g-col-4 .g-start-2 .g-start-md-1 .g-col-md-2 .mx-0 .px-0}
 <h2 class="timertext" id="days">DD</h2>
 
 ### DAYS {.text-center .timerlabel .unlisted}
 :::
 
-::: {.g-col-1 .mx-0 .px-0 .show-grid}
+::: {.g-col-1 .mx-0 .px-0}
 <h2 class="timertext">:</h2>
 :::
 
-::: {.g-col-4 .g-col-md-2 .mx-0 .px-0 .show-grid}
+::: {.g-col-4 .g-col-md-2 .mx-0 .px-0}
 <h2 class="timertext" id="hours">HH</h2>
 
 ### HOURS {.text-center .timerlabel .unlisted}
 :::
 
-::: {.g-col-1 .mx-0 .px-0 style="max-width: max(0px, calc((100vw - 768px)*999)); overflow: hidden;" .show-grid}
+::: {.g-col-1 .mx-0 .px-0 style="max-width: max(0px, calc((100vw - 768px)*999)); overflow: hidden;"}
 <h2 class="timertext">:</h2>
 :::
 
-::: {.g-col-4 .g-start-2 .g-start-md-7 .g-col-md-2 .mx-0 .px-0 .show-grid}
+::: {.g-col-4 .g-start-2 .g-start-md-7 .g-col-md-2 .mx-0 .px-0}
 <h2 class="timertext" id="minutes">MM</h2>
 
 ### MINS {.text-center .timerlabel .unlisted}
 :::
 
-::: {.g-col-1 .mx-0 .px-0 .show-grid}
+::: {.g-col-1 .mx-0 .px-0}
 <h2 class="timertext">:</h2>
 :::
 
-::: {.g-col-4 .g-col-md-2 .mx-0 .px-0 .show-grid}
+::: {.g-col-4 .g-col-md-2 .mx-0 .px-0}
 <h2 class="timertext" id="seconds">SS</h2>
 
 ### SECS {.text-center .timerlabel .unlisted}
