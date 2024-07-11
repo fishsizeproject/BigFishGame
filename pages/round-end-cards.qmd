@@ -131,7 +131,7 @@ The fish featured on the Localised Species Extinction card in the game is a spot
 :::
 ::::::
 :::::::::
-:::::::::
+::::::
 
 :::::: {.g-col-12  .mx-1 .mx-sm-2 .mx-md-3 .mx-lg-4}
 ## Ocean acidification {#sec-ocean-acidification}
@@ -188,7 +188,7 @@ Each player must grow a larval fish into a juvenile fish.
 ### Learn more
 
 :::: {.grid .justify-contents-evenly .align-items-center}
-::: {.g-col-9}
+::: {.g-col-12 .g-col-lg-9}
 - Learn about phytoplankton from the Australian museum [here](https://australian.museum/learn/animals/plankton/).
 - Check out [this article](https://aappartnership.org.au/mind-the-gaps-marine-zooplankton-futures-in-a-warming-world/#:~:text=Zooplankton%20play%20a%20critical%20role,respiring%20surface%20carbon%20at%20depth) about how a warming climate will affect zooplankton.
 
@@ -197,7 +197,7 @@ Plankton are tiny plants that bloom under ideal conditions, and are the first st
 :::
 :::
 
-::: {.g-col-3}
+::: {.g-col-12 .g-col-lg-3}
 ![](../resources/images/pretty-pics/plankton-bloom.jpg){.lightbox}
 :::
 ::::
