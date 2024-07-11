@@ -13,7 +13,7 @@ sidebar: fish-sidebar
 
 ## Fish cards
 
-::: {.text-center}
+::: {.text-center .m-2 .m-md-3 .m-xl-4}
 These are all the fish cards included in the standard BigFish game. You can also explore the science behind the [wildcards](../pages/wildcards.qmd) and [round-end cards](../pages/round-end-cards.qmd), or learn the [rules of the game](../pages/rules.qmd).
 :::
 
@@ -28,7 +28,7 @@ These are all the fish cards included in the standard BigFish game. You can also
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Abalone {#sec-abalone}
+### Abalone {#sec-abalone style="margin-top: 0.5em;"}
 
 *Grows to 23cm, usual depth 0-40m*
 
@@ -45,7 +45,7 @@ Green-lip and Black-lip Abalone are found all around the south east of Australia
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Australian Red Cod {#sec-australian-red-cod}
+### Australian Red Cod {#sec-australian-red-cod style="margin-top: 0.5em;"}
 
 *Grows to 90cm, usual depth 2-115m*
 
@@ -61,7 +61,7 @@ Usually found hiding under rocky ledges during the day, these fish are nocturnal
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Banded Morwong {#sec-banded-morwong}
+### Banded Morwong {#sec-banded-morwong style="margin-top: 0.5em;"}
 
 *Grows to 70cm, usual depth 1-50m*
 
@@ -77,7 +77,7 @@ Banded Morwong can live to 100 years old.
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Bastard Trumpeter {#sec-bastard-trumpeter}
+### Bastard Trumpeter {#sec-bastard-trumpeter style="margin-top: 0.5em;"}
 
 *Grows to 65cm, usual depth 0-60m*
 
@@ -93,7 +93,7 @@ As juveniles these fish inhabit shallow coastal reefs for the first few years of
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Blue Fin Tuna {#sec-blue-fin-tuna}
+### Blue Fin Tuna {#sec-blue-fin-tuna style="margin-top: 0.5em;"}
 
 *Grows to 2.2m, usual depth 0-500m*
 
@@ -109,7 +109,7 @@ These fish are actually endotherms, meaning they can maintain a body temperature
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Blue Mackerel {#sec-blue-mackerel}
+### Blue Mackerel {#sec-blue-mackerel style="margin-top: 0.5em;"}
 
 *Grows to 44 cm, usual depth 0-200m*
 
@@ -125,7 +125,7 @@ As adults, these fish school in great numbers off the coast. However, when young
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Bluethroat Wrasse {#sec-bluethroat-wrasse}
+### Bluethroat Wrasse {#sec-bluethroat-wrasse style="margin-top: 0.5em;"}
 
 *Grows to 50cm, usual depth 1-50m*
 
@@ -141,7 +141,7 @@ These fish are all born as females and lack a characteristic blue throat. When n
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Brownstriped Leatherjacket {#sec-brownstriped-leatherjacket}
+### Brownstriped Leatherjacket {#sec-brownstriped-leatherjacket style="margin-top: 0.5em;"}
 
 *Grows to 30cm, usual depth 0-20m*
 
@@ -157,7 +157,7 @@ Whilst uncommon around mainland Australia, this leatherjacket can be abundant on
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Draughtboard Shark {#sec-draughtboard-shark}
+### Draughtboard Shark {#sec-draughtboard-shark style="margin-top: 0.5em;"}
 
 *Grows to 1.5m, usual depth 3-60m*
 
@@ -173,7 +173,7 @@ Draughtboard Sharks are benthic, meaning they spend most of their time on the se
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Flounder {#sec-flounder}
+### Flounder {#sec-flounder style="margin-top: 0.5em;"}
 
 *Grows to 45cm, usual depth 0-100m*
 
@@ -189,7 +189,7 @@ Flounder are born with eye on either side of their head. When very young, one of
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Herring Cale {#sec-herring-cale}
+### Herring Cale {#sec-herring-cale style="margin-top: 0.5em;"}
 
 *Grows to 51cm, usual depth 0-30m*
 
@@ -205,7 +205,7 @@ These fish love eating different brown seaweeds. Thus when eaten they have a str
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Longfin Pike {#sec-longfin-pike}
+### Longfin Pike {#sec-longfin-pike style="margin-top: 0.5em;"}
 
 *Grows to 84cm, usual depth 0-60m*
 
@@ -221,7 +221,7 @@ These fish are often found in large schools of over 100 hundred individuals. How
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Longsnout Boarfish {#sec-longsnout-boarfish}
+### Longsnout Boarfish {#sec-longsnout-boarfish style="margin-top: 0.5em;"}
 
 *Grows to 50cm, usual depth 4-260m*
 
@@ -237,7 +237,7 @@ Boarfish can often be found hanging out together in small groups under rocky led
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Marblefish {#sec-marblefish}
+### Marblefish {#sec-marblefish style="margin-top: 0.5em;"}
 
 *Grows to 65cm, usual depth 0-40m*
 
@@ -253,7 +253,7 @@ These fish are abundant in most Tasmanian seaweed reefs. However, they are known
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Purple Wrasse {#sec-purple-wrasse}
+### Purple Wrasse {#sec-purple-wrasse style="margin-top: 0.5em;"}
 
 *Grows to 38cm, usual depth 1-90m*
 
@@ -269,7 +269,7 @@ Purple wrasse have powerful jaws and strong teeth that allow them to crush and e
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Red Rock Crab {#sec-red-rock-crab}
+### Red Rock Crab {#sec-red-rock-crab style="margin-top: 0.5em;"}
 
 *Grows to 7cm (carapace), usual depth 0-8m*
 
@@ -285,7 +285,7 @@ These crabs have a very hard and tough shell. The shell is made of chitin and ha
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Sand Flathead {#sec-sand-flathead}
+### Sand Flathead {#sec-sand-flathead style="margin-top: 0.5em;"}
 
 *Grows to 46cm, usual depth 0-100m*
 
@@ -301,7 +301,7 @@ The bigger a flathead, the more eggs it produces. In recent years their average 
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Senator Wrasse {#sec-senator-wrasse}
+### Senator Wrasse {#sec-senator-wrasse style="margin-top: 0.5em;"}
 
 *Grows to 23cm, usual depth 0-30m*
 
@@ -317,7 +317,7 @@ The male of this species has a bright green body, while the female is orange in 
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Shaws Cowfish {#sec-shaws-cowfish}
+### Shaws Cowfish {#sec-shaws-cowfish style="margin-top: 0.5em;"}
 
 *Grows to 20cm, usual depth 2-200cm*
 
@@ -333,7 +333,7 @@ While pretty, these fish are highly poisonous and should never be eaten. Their p
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Southern Rock Lobster {#sec-southern-rock-lobster}
+### Southern Rock Lobster {#sec-southern-rock-lobster style="margin-top: 0.5em;"}
 
 *Grows to 23cm (carapace), usual depth 1-250m*
 
@@ -349,7 +349,7 @@ These lobsters (also known as crayfish) often consume sea urchins, which helps p
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Toothbrush Leather Jacket {#sec-toothbrush-leather-jacket}
+### Toothbrush Leather Jacket {#sec-toothbrush-leather-jacket style="margin-top: 0.5em;"}
 
 *Grows to 35cm, usual depth 0-40m*
 
@@ -365,7 +365,7 @@ This species gets its name from the toothbrush-like bristles the males have on t
 :::
 
 ::: {.g-col-12 .g-col-sm-7 .g-col-xxl-8}
-### Yellowtail Kingfish {#sec-yellowtail-kingfish}
+### Yellowtail Kingfish {#sec-yellowtail-kingfish style="margin-top: 0.5em;"}
 
 *Grows to 2.5m, usual depth 1-150m*
 

@@ -200,7 +200,7 @@ format:
     link-external-newwindow: true
     page-layout: full
     grid:
-      sidebar-width: 450px
+      sidebar-width: 400px
       body-width: 1400px
       margin-width: 0px
       gutter-width: 0px
