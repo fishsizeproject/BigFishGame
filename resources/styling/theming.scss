@@ -650,6 +650,10 @@ hr { // means horizontal rule
 
 // TESTING STUFF
 
+.show-grid {
+  border: solid 2px;
+}
+
 /*
 $grid-breakpoints: (
   xs: 0,
@@ -659,11 +663,7 @@ $grid-breakpoints: (
   xl: 1200px,
   xxl: 1400px
 );
-*/
 
-.show-grid {
-  border: solid 2px;
-}
 
 @media screen and (min-width: 576px) and (max-width: 768px) {
   .column-screen-content {
@@ -671,5 +671,6 @@ $grid-breakpoints: (
     margin-right: min(max(0.5em, calc(5vw)), 2em);
   }
 }
+*/
 
 
