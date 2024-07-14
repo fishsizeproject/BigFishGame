@@ -16,7 +16,6 @@ include-after-body:
 # We're crowdfunding!
 
 To make the game available in Tasmania and worldwide and to run our engagement activities we are launching a **crowdfunding** campaign. Currently the game is not available for sale and you can only get it through crowdfunding. 
-
 By pledging to this campaign you will secure your copy of the game and support education and engagement activities on marine science and sustainable recreational fishing. The campaign will launch on **September 15, 2024**.
 
 <!-- An online ordering system is coming soon, but you can get your own copy of BigFish right now by emailing our team. -->

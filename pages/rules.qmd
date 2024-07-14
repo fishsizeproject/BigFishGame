@@ -108,18 +108,16 @@ The orientation of the fish cards in your fishing site or ice box is essential. 
 ## Gameplay {#sec-gameplay .column-screen}
 
 ::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
-:::: {.order-1 .g-col-12 .mx-1 .mx-md-3 .mx-xl-4}
+:::: {.order-1 .g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-1 .mx-md-3 .mx-xl-5}
 During the round each player follows these steps. Use the turn order to keep track.
-::::
 
-:::: {.order-2 .g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-1 .mx-md-3 .mx-xl-5}
 1. **DRAW** new cards equal to the number of big fish you have in your fishing site, but **no more than 5 cards**. You can draw these cards from the face-up cards, the deck, or both. This means that you can draw unknown card from the deck or play safe and take what you  see (from the face-up cards). Check to see if you have any pink wild cards in your fishing site (not in your hands) - they allow you to draw more cards.
 
 2. **SPAWN** new fish equal to the number of big fish you have in your fishing site. This is done by placing cards from your hand into your fishing site in the larval fish orientation. 
 Check to see if you have any red wild cards in your fishing site (not in your hands) - they allow you to spawn more fish.
 ::::
 
-:::: {.order-3 .g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}
+:::: {.order-2 .g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}
 ![](../resources/images/turn order v2.JPG){.image-card .lightbox}
 
 Click on the image to zoom in
@@ -140,17 +138,15 @@ Check to see if you have any green wild cards with a starfish in your fishing ho
 ## Round end {#sec-round-end .column-screen}
 
 :::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
-::: {.order-1 .g-col-12 .mx-1 .mx-md-3 .mx-xl-4 .text-center}
-Once each player has had one turn, follow the round end steps to complete the round.
-:::
-
-::: {.order-2 .g-col-12 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}
+::: {.order-1 .g-col-12 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}
 ![](../resources/images/cards/round-end-cards/localised-species-extinction.jpg){.image-card .lightbox}
 
 Click on the image to zoom in
 :::
 
-::: {.order-3 .g-col-12 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-2 .mx-md-3 .mx-xl-5}
+::: {.order-2 .g-col-12 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-2 .mx-md-3 .mx-xl-5}
+Once each player has had one turn, follow the round end steps to complete the round.
+
 1. **Reveal** the top round end event card and follow its directions.
 If this is a round 5 or more, the round end card might also be the end of the game card.
 
