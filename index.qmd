@@ -161,7 +161,7 @@ Would you like to be reminded about the crowdfunding launch? You can get the gam
 :::::::::::
 
 
-## Playing the game
+## Playing the game {.column-screen}
 
 <!-- start flush grid -->
 :::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .my-3}
@@ -216,7 +216,7 @@ These events create unpredictability and new challenges. Players can partly prot
 <!-- end flush grid -->
 ::::::::::::
 
-## Main messages 
+## Main messages {.column-screen}
 
 <!-- messages text grid -->
 ::::::::::: {.grid .column-screen .text-center .spacer-3em style="--bs-columns: 1;"}
@@ -290,7 +290,7 @@ Game testing, advice, interesting facts and many other details have been provide
 <!-- end who we are grid -->
 ::::::::::::
 
-## Supporters
+## Supporters {.column-screen}
 
 :::::: {.grid .column-screen .justify-contents-evenly .align-items-center .py-4 .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4}
 ::: {.g-col-12 .g-col-sm-6 .text-center .img-container .px-1 style="font-size: 1.5em;"}
