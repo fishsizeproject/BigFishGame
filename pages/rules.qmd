@@ -9,7 +9,7 @@ sidebar: false
    
 :::
 
-# How to play
+# How to play {.column-screen}
 
 <!-- start padded grid -->
 :::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center .text-center .my-4}
@@ -58,7 +58,7 @@ Watch this short video where Matt Testoni explains how to play the game, or jump
 <!-- end padded grid -->
 ::::::::::::
 
-## Setup {#sec-setup}
+## Setup {#sec-setup .column-screen}
 
 ::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
 :::: {.order-1 .g-col-12 .g-col-lg-12 .g-col-xl-12 .mx-1 .mx-md-3 .mx-xl-4}
@@ -81,7 +81,7 @@ If the player does not have three fish in their hand, they must place the bigger
 ::::
 :::::::
 
-## Keep track of fish size 
+## Keep track of fish size {.column-screen}
 
 ::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center .my-2}
 :::::: {.g-col-12 .mx-1 .mx-md-3 .mx-xl-4}
@@ -105,7 +105,7 @@ The orientation of the fish cards in your fishing site or ice box is essential. 
 :::
 :::::::::
 
-## Gameplay {#sec-gameplay}
+## Gameplay {#sec-gameplay .column-screen}
 
 ::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
 :::: {.order-1 .g-col-12 .mx-1 .mx-md-3 .mx-xl-4}
@@ -137,7 +137,7 @@ Check to see if you have any green wild cards with a starfish in your fishing ho
 ::::
 :::::::
 
-## Round end {#sec-round-end}
+## Round end {#sec-round-end .column-screen}
 
 :::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
 ::: {.order-1 .g-col-12 .mx-1 .mx-md-3 .mx-xl-4 .text-center}
@@ -164,7 +164,7 @@ This ensures that the first player gets the choice of new face-up cards equally.
 :::
 ::::::
 
-## Game end {#sec-game-end}
+## Game end {#sec-game-end .column-screen}
 
 :::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
 ::: {.order-2 .g-col-12 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}

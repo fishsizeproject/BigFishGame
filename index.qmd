@@ -10,7 +10,7 @@ include-after-body:
 
 <!-- START SPECIAL BIGFISH BANNER SECTION -->
 :::::: {.grid .justify-contents-evenly .align-items-center .column-screen .hero-img .hero-strip-homepage}
-::: {.g-col-12 .g-col-md-6 style="margin-left: 5%;"}
+::: {.g-col-12 .g-col-md-6 .mx-4}
 ::: maintitle
 <!-- # BigFish {.maintitle} -->
 ![](resources/images/BigFish_darkorange.png){width="70%"}
@@ -21,7 +21,7 @@ include-after-body:
 :::
 
 <!-- style="font-size: 1.45em; -->
-::: {.grid .justify-contents-evenly .align-items-center .text-center .new-banner-text style="margin-bottom: 5%; margin-top: 5%;"}
+::: {.grid .justify-contents-evenly .align-items-center .text-center .new-banner-text .my-5}
 ::: {.g-col-6}
 ![](resources/icons/children-solid-orange.svg){width="30%"}
 
