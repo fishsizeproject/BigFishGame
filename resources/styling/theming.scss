@@ -295,6 +295,16 @@ main.content > section:first-of-type > .h2:first-child {
   padding: 0.5em 0.5em;
 }
 
+.nav-footer-left {
+  text-align: center;
+}
+@media(max-width: 768px) {
+  .nav-footer-left {
+    margin-bottom:1em;
+    flex:100%;
+  }
+}
+
 /* Make the logo in the navbar look nice */
 .navbar-brand-container {
     margin-top: 0px;
