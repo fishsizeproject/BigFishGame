@@ -350,13 +350,16 @@ ul.navbar-nav.navbar-nav-scroll.me-auto li.nav-item.dropdown ul.dropdown-menu.sh
 }
 
 .hero-strip-homepage {
-  width: calc(100vw);
-  scrollbar-gutter: stable both-edges;
+  //width: calc(100vw);
+  //scrollbar-gutter: stable both-edges;
+  // overflow: hidden;
+  width: calc(var(--vw, 1vw) * 100);
 }
 
 .hero-strip-page {
   height: 200px;
   scrollbar-gutter: stable both-edges;
+  //width: calc(var(--vw, 1vw) * 100);
 }
 
 .hero-strip-page:before {

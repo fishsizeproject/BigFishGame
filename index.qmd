@@ -6,6 +6,7 @@ sidebar: false
 include-after-body:
   text: |
     <script type="text/javascript" src="resources/simple-countdown-timer/dist/script.js"></script>
+    <script type="text/javascript" src="resources/fix-the-horizontal-scroll.js"></script>
 ---
 
 <!-- START SPECIAL BIGFISH BANNER SECTION -->
