@@ -318,38 +318,6 @@ If you would like to sponsor a card, representing your organisation or initiativ
 :::
 ::::::
 
-<!-- ::: text-center -->
-<!-- [How to Buy](pages/how-to-buy.qmd){.h3 .btn .btn-secondary} -->
-<!-- ::: -->
-<!-- ::: -->
 
-<!-- ::: g-col-12 -->
-<!-- ::: {.grid .justify-contents-evenly .align-items-center} -->
-<!-- ::: g-col-2 -->
-<!-- ![](https://placehold.co/200x200) -->
-<!-- ::: -->
-
-<!-- ::: g-col-2 -->
-<!-- ![](https://placehold.co/200x200) -->
-<!-- ::: -->
-
-<!-- ::: g-col-2 -->
-<!-- ![](https://placehold.co/200x200) -->
-<!-- ::: -->
-
-<!-- ::: g-col-2 -->
-<!-- ![](https://placehold.co/200x200) -->
-<!-- ::: -->
-
-<!-- ::: g-col-2 -->
-<!-- ![](https://placehold.co/200x200) -->
-<!-- ::: -->
-
-<!-- ::: g-col-2 -->
-<!-- ![](https://placehold.co/200x200) -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
 
 ::::::::::::::
