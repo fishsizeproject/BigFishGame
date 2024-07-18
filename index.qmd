@@ -318,6 +318,15 @@ If you would like to sponsor a card, representing your organisation or initiativ
 :::
 ::::::
 
+:::::: {.grid .column-screen .justify-contents-evenly .align-items-center .py-1 .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4}
+::: {.g-col-12 .text-center}
+Underwater photography for this site is provided by [Matt Testoroni](https://www.mtunderwatermedia.com/). 
+:::
 
+::: {.g-col-12 .text-center .img-container}
+![](resources/images/pretty-pics/stripeyTrumpeterNarrow.jpg){width="75%"}
+:::
+::::::
 
+<!-- ends larger homepage font section -->
 ::::::::::::::
