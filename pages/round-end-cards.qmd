@@ -20,7 +20,8 @@ On this page you can learn more about the science behind all the round-end cards
 We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please [contact us](../pages/about.qmd)!
 
 ::: {.caption-p style="text-align: right;"}
-A diver explores a collection of sponges and corals at one of the Reef Life Survey sites. Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com).
+A diver explores a collection of sponges and corals at one of the Reef Life Survey sites. 
+<!-- Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com). -->
 :::
 ::::::
 
@@ -127,7 +128,8 @@ When this card is drawn at the end of a round, the subsequent round will have no
 - Learn about the importance of marine biodiversity [here](https://www.msc.org/en-au/what-we-are-doing/oceans-at-risk/marine-biodiversity)
 
 ::: {.caption-p style="text-align: left;"}
-The fish featured on the Localised Species Extinction card in the game is a spotten handfish. The spotted handfish is endemic to Tasmania and is currently classified as critically endangered. Photo: Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
+The fish featured on the Localised Species Extinction card in the game is a spotten handfish. The spotted handfish is endemic to Tasmania and is currently classified as critically endangered. 
+<!-- Photo: Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/). -->
 :::
 ::::::
 :::::::::
@@ -284,7 +286,8 @@ Each player must discard all [Seaweed](#sec-seaweed) and [Giant Kelp](#sec-giant
 *More information on this card coming soon!*
 
 ::: {.caption-p style="text-align: right;"}
-Invasive or overabundant urchins can quickly strip a reef of all seaweed and algae, creating an "urchin barren". Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com).
+Invasive or overabundant urchins can quickly strip a reef of all seaweed and algae, creating an "urchin barren". 
+<!-- Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com). -->
 :::
 :::
 

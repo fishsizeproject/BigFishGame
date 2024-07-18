@@ -20,7 +20,8 @@ On this page you can learn more about the science behind all the wildcards inclu
 We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please [contact us](../pages/about.qmd)!
 
 ::: {.caption-p style="text-align: right;"}
-Mel finds a weedy seadragon while diving at one of the Reef Life Survey sites. Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com).
+Mel finds a weedy seadragon while diving at one of the Reef Life Survey sites. 
+<!-- Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com). -->
 :::
 ::::::
 
@@ -138,7 +139,8 @@ By getting everyone involved in a science project the science is often more rigo
 - Citizen science projects at [IMAS](https://www.imas.utas.edu.au/community/citizen-science) in Tasmania, Australia
 
 :::::: {.caption-p style="text-align: right;"}
-A citizen scientist helping with underwater surveys in the Reef Life Survey program. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
+A citizen scientist helping with underwater surveys in the Reef Life Survey program. 
+<!-- Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/). -->
 ::::::
 :::::::::
 
@@ -328,7 +330,8 @@ Kelp is extremely important in providing habitats for all marine creatures, and 
 
 :::::: {.g-col-12 .p-1 .img-container}
 ::::::::: {.caption-p .text-center}
-Healthy giant kelp forests are essential to ocean health, and they're extremely beautiful. Photos: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/)
+Healthy giant kelp forests are essential to ocean health, and they're extremely beautiful. 
+<!-- Photos: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/) -->
 :::::::::
 :::::: 
 :::
@@ -371,7 +374,8 @@ This card is designed to showcase how a visiting large predator like a whale can
 - This [popular article](https://www.rom.on.ca/en/collections-research/magazine/great-whales) is all about great whales, the threats against them and actions that can be taken to prevent those threats (with a focus on Canada).
 
 ::: {.caption-p style="text-align: left;"}
-A humpback whale calf breathes at the surface. The fish gathered around it are hoping it will drop some of its next meal so they can scavenge. Photo credit: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com).
+A humpback whale calf breathes at the surface. The fish gathered around it are hoping it will drop some of its next meal so they can scavenge. 
+<!-- Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com). -->
 :::
 :::
 ::::::
@@ -421,7 +425,8 @@ Remember this card is discarded after use.
 ::::::
 
 ::: {.caption-p style="text-align: center;"}
-Fisheries management makes sure that future generations will always be able to catch important species like Southern Rock Lobster (left), flathead (middle), and leatherjacket (right). Photos: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com).
+Fisheries management makes sure that future generations will always be able to catch important species like Southern Rock Lobster (left), flathead (middle), and leatherjacket (right). 
+<!-- Photos: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com). -->
 :::
 :::::::::
 
@@ -459,7 +464,8 @@ Sharks contribute so much more to ecosystems than many people realise. Check out
 - [The Importance of Sharks](https://europe.oceana.org/importance-sharks-0/) from [Oceana](https://europe.oceana.org/)
 
 ::: {.caption-p style="text-align: right;"}
-A swell shark in a rocky reef. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
+A swell shark in a rocky reef. 
+<!-- Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/). -->
 :::
 :::
 
@@ -506,7 +512,8 @@ both investigate the benefits of MPAs for the environment and local communities
 ![](../resources/images/pretty-pics/urchin-zoanthid barren-small.jpg){width="75%" fig-align="center"}
 
 ::: {.caption-p style="text-align: center;"}
-Marine protected areas are often diverse havens for fish of all sizes. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
+Marine protected areas are often diverse havens for fish of all sizes. 
+<!-- Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/). -->
 :::
 :::::::::
 
@@ -543,7 +550,8 @@ When played, each player must discard a seaweed reef (or seagrass bed, featured 
 - Check out [this EPA article](https://www.epa.gov/nutrientpollution/effects-dead-zones-and-harmful-algal-blooms) about the effects of Dead Zones and Harmful Algal Blooms 
 
 ::: {.caption-p}
-Kelp and other seaweeds are particularly affected by poor water quality, because they depend on sunlight to grow. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
+Kelp and other seaweeds are particularly affected by poor water quality, because they depend on sunlight to grow. 
+<!-- Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/). -->
 :::
 :::
 ::::::
@@ -606,7 +614,8 @@ Having a seaweed wild card in your fishing spot allows you to grow an additional
 - [Scaling up Kelp Forest Restoration](https://www.mossy.earth/projects/kelp-nursery) in Portugal
 
 ::: {.caption-p style="text-align: right;"}
-A cat shark seeks refuge in a kelp bed. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
+A cat shark seeks refuge in a kelp bed. 
+<!-- Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/). -->
 :::
 :::
 
@@ -646,7 +655,8 @@ Remember to discard after use.
 ![](../resources/images/pretty-pics/sea-tulips cathedral-caves-small.jpg){fig-align="center" width="75%"}
 
 ::: {.caption-p style="text-align: center;"}
-Reefs and everything living there are affected by high winds and large swells. Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/).
+Reefs and everything living there are affected by high winds and large swells. 
+<!-- Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/). -->
 :::
 :::::::::
 
