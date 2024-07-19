@@ -304,6 +304,11 @@ main.content > section:first-of-type > .h2:first-child {
     flex:100%;
   }
 }
+@media(min-width: 768px) {
+  .nav-footer-left {
+    text-align: left;
+  }
+}
 
 /* Make the logo in the navbar look nice */
 .navbar-brand-container {
