@@ -25,8 +25,8 @@ Mel finds a weedy seadragon while diving at one of the Reef Life Survey sites.
 :::
 ::::::
 
-:::::: {.g-col-5 .text-center .img-container}
-![](../resources/images/pretty-pics/Mel-and-the-seadragon.jpg){width="95%"}
+:::::: {.g-col-12 .g-col-md-5 .text-center .img-container}
+![](../resources/images/pretty-pics/Mel-and-the-seadragon.jpg){width="100%"}
 ::::::
 :::::::::
 
