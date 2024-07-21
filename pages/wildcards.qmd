@@ -499,7 +499,7 @@ This card is used during the draw phase of your turn. Before drawing any cards h
 ::::::
 :::::::::
 
-::::::::: {.g-col-12}
+::::::::: {.g-col-12 .g-col-xl-6}
 ### Learn more
 
 - [This report](https://www.dcceew.gov.au/sites/default/files/documents/benefits-mpas.pdf) from Australian Department of Climate Change, Energy, the Environment and Water details the many benefits of Marine Protected Areas
@@ -508,13 +508,18 @@ This card is used during the draw phase of your turn. Before drawing any cards h
 - [5 Benefits of Marine Protected Areas (MPAs)](https://pacificwild.org/5-benefits-of-mpas/)
 - [This Nature article](https://www.nature.com/articles/s41893-023-01150-4) and - [this Frontiers in Marine Science article](https://www.frontiersin.org/articles/10.3389/fmars.2021.613819/full)
 both investigate the benefits of MPAs for the environment and local communities
+:::::::::
 
-![](../resources/images/pretty-pics/urchin-zoanthid barren-small.jpg){width="75%" fig-align="center"}
-
-::: {.caption-p style="text-align: center;"}
+::::::::: {.g-col-12 .g-col-xl-6 .text-center}
+:::::::::: {.grid}
+::: {.g-col-12 .caption-p .text-center}
 Marine protected areas are often diverse havens for fish of all sizes. 
-<!-- Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/). -->
 :::
+
+::: {.g-col-12 .text-center}
+![](../resources/images/pretty-pics/urchin-zoanthid barren-small.jpg)
+:::
+::::::::::
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -646,18 +651,23 @@ Remember to discard after use.
 ::::::
 :::::::::
 
-::::::::: {.g-col-12}
+::::::::: {.g-col-12 .g-col-xl-6}
 ### Learn more
 
 - Check out [this article](https://phys.org/news/2021-04-ocean-big-fish-affects-viability.html) to learn why targeting big fish is making populations less resilient and less likely to continue into the future
 - [This article](https://www.pnas.org/doi/10.1073/pnas.0702059104) details how climate change is contributing to reduced fisheries production, but [this article](https://www.pnas.org/doi/abs/10.1073/pnas.2100300118) shows how having a size diversity in a fish population can help buffer it against the negative effects of a changing climate
+:::::::::
 
-![](../resources/images/pretty-pics/sea-tulips cathedral-caves-small.jpg){fig-align="center" width="75%"}
-
-::: {.caption-p style="text-align: center;"}
+::::::::: {.g-col-12 .g-col-xl-6 .text-center}
+:::::::::: {.grid}
+::: {.g-col-12 .caption-p .text-center}
 Reefs and everything living there are affected by high winds and large swells. 
-<!-- Photo: Rick Stuart-Smith, [reeflifesurvey.com](https://reeflifesurvey.com/). -->
 :::
+
+::: {.g-col-12 .text-center}
+![](../resources/images/pretty-pics/sea-tulips cathedral-caves-small.jpg)
+:::
+::::::::::
 :::::::::
 
 ::::::::: {.g-col-12}
