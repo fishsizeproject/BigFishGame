@@ -252,13 +252,11 @@ Each player must spawn a larval fish into their fishing spot.
 
 - Learn why big snapper produce more offspring [here](https://www.pewtrusts.org/en/research-and-analysis/fact-sheets/2011/04/17/the-plan-to-save-red-snapper)
 - Learn about the plan to [Save the Red Snapper](https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2016/older-bigger-red-snapper-have-more-offspring-and-boost-species-recovery)
+-   Learn why big snapper produce more offspring [here](https://www.pewtrusts.org/en/research-and-analysis/fact-sheets/2011/04/17/the-plan-to-save-red-snapper)
+-   Learn about the plan to [Save the Red Snapper](https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2016/older-bigger-red-snapper-have-more-offspring-and-boost-species-recovery)
 
-<!-- ![](../resources/images/upper-size-limit.JPG){width="65%" fig-align="center"} -->
-
-<!-- ::: {.caption-p style="text-align: center;"} -->
-<!-- Photo of a fisherman with fish of different sizes. Photo: A.R. Coghlan. -->
-<!-- ::: -->
 ::::::
+![](../resources/images/pretty-pics/deep-reef-4-small.jpg)
 
 :::::: {.g-col-12  .mx-1 .mx-sm-2 .mx-md-3 .mx-lg-4}
 ## Long spined sea urchins arrive {#sec-urchins-arrive}
