@@ -205,14 +205,15 @@ These events create unpredictability and new challenges. Players can partly prot
 <!-- end text column -->
 :::::::::
 
-<!-- button column -->
-::: {.order-2 .order-lg-3 .g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-8 .g-col-xl-8 .g-col-xxl-8 .my-4 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .text-center .img-container}
-[Read the Rules](pages/rules.qmd){.btn .btn-secondary}
-:::
-
 <!-- image column  -->
 ::::::::: {.order-3 .order-lg-2 .g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-4 .g-col-xl-4 .g-col-xxl-4 .text-center .img-container}
 ![](resources/images/pretty-pics/RockyCape.jpg){width="100%"}
+:::::::::
+
+<!-- button column -->
+::::::::: {.order-2 .order-lg-3 .g-col-12 .my-4 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .text-center .img-container}
+<!-- .g-col-sm-12 .g-col-md-12 .g-col-lg-8 .g-col-xl-8 .g-col-xxl-8  -->
+[Read the Rules](pages/rules.qmd){.btn .btn-secondary}
 :::::::::
 <!-- end flush grid -->
 ::::::::::::
@@ -243,15 +244,16 @@ Due to commercial and recreational fishing, big fish have mostly vanished from o
 Fish grow relatively fast and if we take the right actions, we can restore them within our lifetimes and enjoy their beauty and benefits again.
 :::::::::
 
-<!-- button column -->
-::: {.order-3 .g-start-lg-5 .g-start-xl-5 .g-start-xxl-5 .g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-8 .g-col-xl-8 .g-col-xxl-8 .my-4 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .text-center .img-container}
-[Explore the Science](pages/wildcards.qmd){.btn .btn-secondary}
-:::
-
 <!-- image column  -->
 ::::::::: {.order-1 .g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-4 .g-col-xl-4 .g-col-xxl-4 .text-center .img-container}
 ![](resources/images/pretty-pics/flathead-small.jpg)
 :::::::::
+
+<!-- button column -->
+::: {.order-3 .g-col-12 .my-4 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .text-center .img-container}
+<!-- .g-start-lg-5 .g-start-xl-5 .g-start-xxl-5 .g-col-sm-12 .g-col-md-12 .g-col-lg-8 .g-col-xl-8 .g-col-xxl-8 -->
+[Explore the Science](pages/wildcards.qmd){.btn .btn-secondary}
+:::
 <!-- end flush grid -->
 ::::::::::::
 
@@ -263,10 +265,6 @@ Fish grow relatively fast and if we take the right actions, we can restore them 
 This game has been developed by the Institute of Marine and Antarctic Sciences, University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings), Matt Testoni (photos, design) and Stacey McCormack (design).
 
 Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.
-
-::: text-center
-[Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary}
-:::
 :::::::::
 
 ::::::::: {.g-col-12 .g-col-md-4 .g-col-lg-4 .text-center}
@@ -288,6 +286,11 @@ Game testing, advice, interesting facts and many other details have been provide
 :::
 ::::::
 :::::::::
+
+<!-- button column -->
+::: {.g-col-12 .text-center}
+[Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary}
+:::
 <!-- end who we are grid -->
 ::::::::::::
 
