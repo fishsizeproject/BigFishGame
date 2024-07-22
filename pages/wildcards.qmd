@@ -679,11 +679,11 @@ Shellfish reefs provide many important ecosystem services and improve the genera
 
 ::::::::: {.g-col-12}
 :::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-xxl-2 .text-center}
+::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
 ![](../resources/images/cards/wild-cards/shellfish-reef.jpg){.image-card .lightbox}
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
 ### How to play
 
 Place the shellfish reef into your fishing spot, and on the spawn phase of every subsequent turn you may take a fish from the face-up cards and place it in your fishing spot as a larval fish.
