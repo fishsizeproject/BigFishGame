@@ -131,6 +131,7 @@ By getting everyone involved in a science project the science is often more rigo
 :::::::::::: {.grid .justify-contents-evenly .align-items-center}
 ::::::::: {.g-col-12 .g-col-lg-7}
 [Check out this article](https://www.unep.org/news-and-stories/story/citizen-scientists-dive-ocean-conservation) from UNEP on the benefits and rise of citizen science. There are plenty of citizen science initiatives that everyone can get involved in. Here are some examples:
+
 - [Redmap](https://www.redmap.org.au/)
 - [iNaturalist](https://www.inaturalist.org/)
 - [Oceanwatch Australia](https://www.oceanwatch.org.au/)
