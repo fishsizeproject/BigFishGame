@@ -71,7 +71,7 @@ Remove four round-end cards and put them aside, shuffle the "End of game" card i
 ::::
 
 :::: {.order-2 .g-col-12 .g-col-lg-6 .g-col-xxl-4 .mx-1 .mx-md-3 .mx-xl-4}
-![](../resources/images/GameOnSandSm-16x9.jpg)
+![](../resources/images/gameplay-photos/GameOnSandSm-16x9.jpg)
 ::::
 
 :::: {.order-3 .g-col-12 .g-col-lg-6 .g-col-xxl-8 .mx-1 .mx-md-3 .mx-xl-4}

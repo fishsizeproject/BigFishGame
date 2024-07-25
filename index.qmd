@@ -56,15 +56,15 @@ To win the game you must find the best fishing strategy to collect points from c
 <!-- feature images grid -->
 :::::: {.grid .column-screen .justify-contents-evenly .align-items-center .spacer-2em}
 ::: {.g-col-6 .g-col-md-4 .m-1 .text-center .img-container}
-![](resources/images/PlayingGame1a-cropped.jpg)
+![](resources/images/gameplay-photos/PlayingGame1a-cropped.jpg)
 :::
 
 ::: {.g-col-6 .g-col-md-4 .m-1 .text-center .img-container}
-![](resources/images/GameOnSand2Sm.jpg)
+![](resources/images/gameplay-photos/GameOnSand2Sm.jpg)
 :::
 
 ::: {.g-col-12 .g-col-md-4 .m-1 .text-center .img-container}
-![](resources/images/PlayingGame2.jpg)
+![](resources/images/gameplay-photos/PlayingGame2.jpg)
 :::
 ::::::
 
@@ -74,11 +74,11 @@ To win the game you must find the best fishing strategy to collect points from c
 ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-xl-3 .text-center .img-container}
 :::::: {.grid .m-1 .img-container}
 ::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container}
-![](resources/images/PlayingGame4-16x9.jpg)
+![](resources/images/gameplay-photos/PlayingGame4-16x9.jpg)
 :::
 
 ::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container}
-![](resources/images/ShelfishReefCard-16x9.jpg)
+![](resources/images/gameplay-photos/ShelfishReefCard-16x9.jpg)
 :::
 ::::::
 <!-- end feature images grid -->
@@ -103,11 +103,11 @@ The campaign will launch on **September 15, 2024**.
 ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-xl-3 .text-center .img-container}
 :::::: {.grid .m-1 .img-container}
 ::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container}
-![](resources/images/GameOnSandSm-16x9.jpg)
+![](resources/images/gameplay-photos/GameOnSandSm-16x9.jpg)
 :::
 
 ::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container}
-![](resources/images/WhaleCard-16x9.jpg)
+![](resources/images/gameplay-photos/WhaleCard-16x9.jpg)
 :::
 ::::::
 :::::::::
