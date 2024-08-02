@@ -2,35 +2,63 @@
 pagetitle: Testing | BigFish Card Game
 description-meta: |
   This page is just for website testing purposes
-sidebar: fish-sidebar
+sidebar: false
 ---
 
-::: {.column-screen-nogap .hero-img .hero-strip-page .img-container}
+::: {.column-screen .hero-img .hero-strip-page .img-container}
    
 :::
 
-::: spacer-2em
-   
+<!-- For the posts to render correctly you need to run quarto add dragonstyle/share-post in the terminal to install the extension on your machine.-->
+<!-- When you share a post from threads you get a link like this: -->
+<!-- https://www.threads.net/@fish_size_project/post/CzclpF9PrRF?xmt=AQGz9Ka2m-Wo3W8_l9VN0Ud_e7M6HBi5WH9JSZY2Kjgj3A -->
+<!-- You only need content before the "?": -->
+<!-- https://www.threads.net/@fish_size_project/post/CzclpF9PrRF -->
+
+<!-- start social media section -->
+:::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .text-center .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4}
+::::::::: {.g-col-12}
+# Social media posts
+
+{{< lipsum 1 >}}
+
+[Follow on Threads](https://www.threads.net/@fish_size_project){.btn .btn-primary}
+
+:::::: {.grid .mx-1 .mx-md-2 .mx-lg-4 .my-3 .justify-contents-evenly .align-items-center .text-center}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
+{{< share-post https://www.threads.net/@fish_size_project/post/CzclpF9PrRF >}}
 :::
 
-<!-- sets default body text of whole page slightly larger -->
-:::::::::::::: homepage-p
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
+{{< share-post https://www.threads.net/@fish_size_project/post/CzclpF9PrRF >}}
+:::
 
-# Contents with padding
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
+{{< share-post https://www.threads.net/@fish_size_project/post/CzclpF9PrRF?xmt=AQGz9Ka2m-Wo3W8_l9VN0Ud_e7M6HBi5WH9JSZY2Kjgj3A >}}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
+{{< share-post https://www.threads.net/@fish_size_project/post/CzclpF9PrRF >}}
+:::
+::::::
+:::::::::
+::::::::::::
+
+# Contents with padding {.column-screen}
 
 <!-- start padded content -->
-::::::::::: {.grid .column-screen-padded style="--bs-columns: 1;"}
-## Content padded (no grid)
+::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center .text-center .my-4 .show-grid style="--bs-columns: 1;"}
+## Content padded
 
 {{< lipsum 1 >}}
 :::::::::::
 
 <!-- start padded grid -->
-::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .my-4}
+::::::::::: {.grid .justify-contents-evenly .align-items-center .my-4 .show-grid}
 <!-- text column -->
 :::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-6 .g-col-xl-8 .g-col-xxl-8 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .show-grid}
 
-## Content padded (in grid)
+## Content padded (in with pictures)
 
 {{< lipsum 1 >}}
 
@@ -43,67 +71,73 @@ sidebar: fish-sidebar
 ::::::::
 <!-- end padded grid -->
 :::::::::::
-
-# Contents flush to screen
-
-<!-- start flush grid -->
-::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .my-4}
-<!-- text column -->
-:::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-6 .g-col-xl-8 .g-col-xxl-8 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .show-grid}
-
-## Flush on right or left
-
-{{< lipsum 1 >}}
-
-<!-- end text column -->
-::::::::
-
-<!-- image column  -->
-:::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-6 .g-col-xl-4 .g-col-xxl-4 .text-center .img-container .show-grid}
-{{< placeholder 800 600 >}}
-::::::::
-<!-- end flush grid -->
+<!-- end padded content -->
 :::::::::::
 
-<!-- start flush on both sides grid -->
-:::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .my-4}
-<!-- image column  -->
-::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-xl-3 .text-center .img-container .show-grid}
-:::::: {.grid .m-0 .img-container}
-::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container .show-grid}
-{{< placeholder 800 450 >}}
-:::
+<!-- # Contents flush to screen {.column-screen} -->
 
-::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container .show-grid}
-{{< placeholder 800 450 >}}
-:::
-::::::
-:::::::::
+<!-- <!-- start flush grid --> -->
+<!-- ::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .my-4 .my-xl-1 .show-grid} -->
+<!-- <!-- text column --> -->
+<!-- :::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-6 .g-col-xl-8 .g-col-xxl-8 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .show-grid} -->
 
-<!-- text column -->
-::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-12 .g-col-xl-6 .my-2 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .show-grid}
-## Flush on both sides
+<!-- ## Flush on right or left -->
 
-{{< lipsum 1 >}}
+<!-- {{< lipsum 1 >}} -->
 
-<!-- end text column -->
-:::::::::
+<!-- <!-- end text column --> -->
+<!-- :::::::: -->
 
-<!-- image column -->
-::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-xl-3 .text-center .img-container .show-grid}
-:::::: {.grid .m-0 .img-container}
-::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container .show-grid}
-{{< placeholder 800 450 >}}
-:::
+<!-- <!-- image column  --> -->
+<!-- :::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-6 .g-col-xl-4 .g-col-xxl-4 .text-center .img-container .show-grid} -->
+<!-- {{< placeholder 800 600 >}} -->
+<!-- :::::::: -->
+<!-- <!-- end flush grid --> -->
+<!-- ::::::::::: -->
 
-::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container .show-grid}
-{{< placeholder 800 450 >}}
-:::
-::::::
-:::::::::
-::::::::::::
+<!-- <!-- start flush on both sides grid --> -->
+<!-- :::::::::::: {.grid .column-screen-nogap .justify-contents-evenly .align-items-center .my-4} -->
+<!-- <!-- image column  --> -->
+<!-- ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-xl-3 .text-center .img-container .show-grid} -->
+<!-- :::::: {.grid .m-0 .img-container} -->
+<!-- ::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container .show-grid} -->
+<!-- {{< placeholder 800 450 >}} -->
+<!-- ::: -->
+
+<!-- ::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container .show-grid} -->
+<!-- {{< placeholder 800 450 >}} -->
+<!-- ::: -->
+<!-- :::::: -->
+<!-- ::::::::: -->
+
+<!-- <!-- text column --> -->
+<!-- ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-12 .g-col-xl-6 .my-2 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .show-grid} -->
+<!-- ## Flush on both sides -->
+
+<!-- {{< lipsum 1 >}} -->
+
+<!-- <!-- end text column --> -->
+<!-- ::::::::: -->
+
+<!-- <!-- image column --> -->
+<!-- ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-xl-3 .text-center .img-container .show-grid} -->
+<!-- :::::: {.grid .m-0 .img-container} -->
+<!-- ::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container .show-grid} -->
+<!-- {{< placeholder 800 450 >}} -->
+<!-- ::: -->
+
+<!-- ::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container .show-grid} -->
+<!-- {{< placeholder 800 450 >}} -->
+<!-- ::: -->
+<!-- :::::: -->
+<!-- ::::::::: -->
+<!-- ::::::::::: -->
 
 ## Other classes
+:::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .my-4}
+::: {.column-screen .text-center .show-grid}
+column-screen
+:::
 
 ::: {.column-screen-padded .text-center .show-grid}
 column-screen-padded
@@ -137,9 +171,4 @@ column-screen-right
 <!-- column-screen-inset -->
 <!-- ::: -->
 
-<!-- ::: {.column-screen .text-center .show-grid} -->
-<!-- column-screen -->
-<!-- ::: -->
-
-<!-- end larger body text -->
-::::::::::::::
+::::::::::::

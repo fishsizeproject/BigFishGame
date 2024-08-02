@@ -262,6 +262,22 @@ main.content > section:first-of-type > .h2:first-child {
   color: $accent !important;
 }
 
+// For social media embedding
+.linkedin-post,
+.text-post-media,
+.pinterest-rendered,
+.twitter-tweet-rendered,
+.instagram-media,
+.mastodon-embed {
+  width: 100% !important;
+}
+
+//.blockquote.text-post-media-registered {
+//    margin: 0 !important;
+//    padding: 0 !important;
+//    border-left: 0 !important;
+//}
+
 // Custom classes for homepage text (slightly larger than regular) and feature text (slightly larger again)
 .feature-text {
   font-size: calc(1.25 * $font-size-root);
