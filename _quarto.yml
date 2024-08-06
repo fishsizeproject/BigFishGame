@@ -189,6 +189,21 @@ website:
         href: pages/fish-cards.qmd#sec-toothbrush-leather-jacket
       - text: "Yellowtail Kingfish"
         href: pages/fish-cards.qmd#sec-yellowtail-kingfish
+  - id: "placeholder-sidebar"
+    style: "docked"
+    border: false
+    pinned: false
+    contents:
+      - text: "Main"
+        href: pages/new-page-with-sidebar.qmd#sec-main-title
+      - text: "Section"
+        href: pages/new-page-with-sidebar.qmd#sec-section-title
+      - text: "Sub-section 1"
+        href: pages/new-page-with-sidebar.qmd#sec-subtitle-1
+      - text: "Sub-section 2"
+        href: pages/new-page-with-sidebar.qmd#sec-subtitle-2
+      - text: "Button"
+        href: pages/new-page-with-sidebar.qmd#sec-button
 
 format:
   html:

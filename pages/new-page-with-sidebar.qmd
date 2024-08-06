@@ -1,0 +1,49 @@
+---
+pagetitle: New page with no sidebar
+description-meta: |
+  Description goes here!
+sidebar: placeholder-sidebar
+---
+
+::: {.column-page-right .hero-img .hero-strip-page .img-container}
+
+:::
+
+<!-- This kind of grid keeps the horizontal spacing nice when there's no sidebar -->
+::: {.grid .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .spacer-1em .text-center style="--bs-columns: 1;"}
+# Main page title {#sec-main-title}
+
+{{< lipsum 1 >}}
+
+{{< placeholder 800 600 >}}
+
+{{< lipsum 1 >}}
+:::
+
+## Section title {#sec-section}
+
+<!-- start flush-to-sides grid -->
+:::::: {.grid .justify-contents-evenly .align-items-center .my-3}
+<!-- image column  -->
+::::::::: {.order-2 .g-col-12 .g-col-lg-4 .text-center .img-container}
+{{< placeholder 1125 1500 >}}
+:::::::::
+
+<!-- text column -->
+::::::::: {.order-1 .g-col-12 .g-col-lg-8 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5}
+### Subtitle {#sec-subtitle-1}
+
+{{< lipsum 1 >}}
+
+### Subtitle {#sec-subtitle-2}
+
+{{< lipsum 1 >}}
+:::::::::
+
+<!-- button column -->
+::::::::: {.order-3 .g-col-12 .my-4 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .text-center .img-container}
+[This is a button](index.qmd){.btn .btn-secondary #sec-button}
+:::::::::
+
+<!-- end flush grid -->
+::::::
