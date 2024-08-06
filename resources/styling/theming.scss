@@ -686,6 +686,13 @@ hr { // means horizontal rule
   padding-bottom: 0px;
 }
 
+//html body.nav-fixed.quarto-dark div#quarto-content.quarto-container.page-columns.page-rows-contents.page-layout-full.page-navbar main#quarto-document-content.content.page-columns.page-full.column-body div#listing-listing.quarto-listing
+.page-columns>.quarto-listing-container-grid {
+  grid-column:screen-start/screen-end;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
 // TESTING STUFF
 
 .show-grid {
