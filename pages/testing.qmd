@@ -10,10 +10,10 @@ sidebar: false
 :::
 
 <!-- For the posts to render correctly you need to run quarto add dragonstyle/share-post in the terminal to install the extension on your machine.-->
-<!-- When you share a post from threads you get a link like this: -->
-<!-- https://www.threads.net/@fish_size_project/post/CzclpF9PrRF?xmt=AQGz9Ka2m-Wo3W8_l9VN0Ud_e7M6HBi5WH9JSZY2Kjgj3A -->
-<!-- You only need content before the "?": -->
-<!-- https://www.threads.net/@fish_size_project/post/CzclpF9PrRF -->
+<!-- To share a post, click the three dots on the top right-hand corner and copy the "embed" code.  -->
+<!-- You'll get a very large chunk of code but you only need the link following "data-instgrm-permalink=". -->
+<!-- The link you copy below will look like this: -->
+<!-- https://www.instagram.com/p/C-JMlr4t7HV/?utm_source=ig_embed&amp;utm_campaign=loading -->
 
 <!-- start social media section -->
 :::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .text-center .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4}
@@ -22,23 +22,24 @@ sidebar: false
 
 {{< lipsum 1 >}}
 
-[Follow on Threads](https://www.threads.net/@fish_size_project){.btn .btn-primary}
+[Follow us on Instagram](https://www.instagram.com/){.btn .btn-primary}
 
 :::::: {.grid .mx-1 .mx-md-2 .mx-lg-4 .my-3 .justify-contents-evenly .align-items-center .text-center}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
-{{< share-post https://www.threads.net/@fish_size_project/post/CzclpF9PrRF >}}
+<!-- {{< share-post https://www.instagram.com/p/C9018PsPxX3/ >}} -->
+{{< share-post https://www.instagram.com/p/C-Tpzu0NRYP/?utm_source=ig_embed&amp;utm_campaign=loading >}}
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
-{{< share-post https://www.threads.net/@fish_size_project/post/CzclpF9PrRF >}}
+{{< share-post https://www.instagram.com/p/C-Tge6mBdBR/?utm_source=ig_embed&amp;utm_campaign=loading >}}
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
-{{< share-post https://www.threads.net/@fish_size_project/post/CzclpF9PrRF?xmt=AQGz9Ka2m-Wo3W8_l9VN0Ud_e7M6HBi5WH9JSZY2Kjgj3A >}}
+{{< share-post https://www.instagram.com/p/C-RR2Nuvrx5/?utm_source=ig_embed&amp;utm_campaign=loading >}}
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
-{{< share-post https://www.threads.net/@fish_size_project/post/CzclpF9PrRF >}}
+{{< share-post https://www.instagram.com/p/C-JMlr4t7HV/?utm_source=ig_embed&amp;utm_campaign=loading >}}
 :::
 ::::::
 :::::::::
