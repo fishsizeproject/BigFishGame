@@ -29,8 +29,8 @@ website:
             href: pages/wildcards.qmd
           - text: "Round-end cards"
             href: pages/round-end-cards.qmd
-      # - text: "Media & Events"
-      #   href: pages/media-events.qmd
+      - text: "Outreach"
+        href: pages/outreach.qmd
       - text: "About Us"
         href: index.qmd#sec-about
       - text: "Get yours"

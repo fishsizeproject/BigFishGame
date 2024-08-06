@@ -1,0 +1,50 @@
+---
+pagetitle: New page with no sidebar
+description-meta: |
+  Description goes here!
+sidebar: false
+listing:
+  contents: "blog-posts/*.qmd"
+  fields: [image, date, title, description, categories, author]
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: true
+  filter-ui: false
+---
+
+::: {.column-screen .hero-img .hero-strip-page .img-container}
+   
+:::
+
+<!-- This kind of grid keeps the horizontal spacing nice when there's no sidebar -->
+::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"}
+# News
+
+{{< lipsum 1 >}}
+
+[Follow us on Instagram](index.qmd){.btn .btn-secondary}
+:::
+
+:::::: {.grid .column-screen .mx-1 .mx-md-2 .mx-lg-4 .my-3 .justify-contents-evenly .align-items-center .text-center}
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
+<!-- {{< share-post https://www.instagram.com/p/C9018PsPxX3/ >}} -->
+{{< share-post https://www.instagram.com/p/C-Tpzu0NRYP/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
+{{< share-post https://www.instagram.com/p/C-Tge6mBdBR/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
+{{< share-post https://www.instagram.com/p/C-RR2Nuvrx5/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
+{{< share-post https://www.instagram.com/p/C-JMlr4t7HV/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+:::
+::::::
+
+::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"}
+## Blog
+:::
