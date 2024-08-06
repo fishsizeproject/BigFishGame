@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the blog!"
 date: today
-image: "/../resources/images/gameplay-photos/GameOnSand.jpg"
+image: "../../resources/images/gameplay-photos/GameOnSand.jpg"
 categories: 
   - "introduction"
   - "blog"

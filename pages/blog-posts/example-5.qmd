@@ -1,0 +1,26 @@
+---
+title: "Welcome to the blog!"
+date: today
+image: "../../resources/images/gameplay-photos/GameOnSand.jpg"
+categories: 
+  - "introduction"
+  - "blog"
+  - "website"
+author: 'Author goes here'
+description: |
+    Let's make a blog!
+---
+
+# Post title
+
+{{< lipsum 2 >}}
+
+## Subtitle
+
+{{< lipsum 2 >}}
+
+1. {{< lipsum 1 >}}
+2. {{< lipsum 1 >}}
+3. {{< lipsum 1 >}}
+4. {{< lipsum 1 >}}
+
