@@ -23,7 +23,7 @@ listing:
 
 {{< lipsum 1 >}}
 
-[Follow us on Instagram](index.qmd){.btn .btn-secondary}
+[Follow us on Instagram](../index.qmd){.btn .btn-secondary}
 :::
 
 :::::: {.grid .column-screen .mx-2 .mx-md-3 .mx-lg-5 .my-3 .justify-contents-evenly .align-items-center .text-center}

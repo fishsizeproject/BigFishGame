@@ -42,7 +42,7 @@ sidebar: placeholder-sidebar
 
 <!-- button column -->
 ::::::::: {.order-3 .g-col-12 .my-4 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5 .text-center .img-container}
-[This is a button](index.qmd){.btn .btn-secondary #sec-button}
+[This is a button](../index.qmd){.btn .btn-secondary #sec-button}
 :::::::::
 
 <!-- end flush grid -->
