@@ -718,4 +718,34 @@ $grid-breakpoints: (
 }
 */
 
+.sidebar nav[role=doc-toc]>h2,
+.sidebar nav[role=doc-toc]>.h2 {
+  font-size: $h3-font-size;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
 
+.sidebar nav[role=doc-toc]>ul {
+  font-size: $font-size-root;
+  margin-top: 0.75rem;
+}
+
+.sidebar nav[role=doc-toc] ul>li,
+.sidebar nav[role=doc-toc] ul>li>ul>li {
+  margin-top: 0.5rem;
+}
+.sidebar nav[role=doc-toc] ul>li>a.active,
+.sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
+  border-left:1px solid $accent;
+  color:$accent !important
+}
+.sidebar nav[role=doc-toc] ul>li>a:hover,
+.sidebar nav[role=doc-toc] ul>li>ul>li>a:hover {
+  color:$accent !important
+}
+
+#title-block-header {
+  margin-top: 0px;
+  margin-left: 2.5vw;
+  margin-right: 2.5vw;
+}
