@@ -30,7 +30,7 @@ website:
           - text: "Round-end cards"
             href: pages/round-end-cards.qmd
       - text: "Outreach"
-        href: pages/outreach.qmd
+        href: pages/outreach-blog.qmd
       - text: "About Us"
         href: index.qmd#sec-about
       - text: "Get yours"
