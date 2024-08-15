@@ -163,6 +163,23 @@ Would you like to be reminded about the crowdfunding launch? You can get the gam
 [Subscribe](https://forms.office.com/r/wVcaiUSxNF){.btn .btn-secondary}
 :::::::::::
 
+::::::::::: {.grid .column-screen .py-3 .justify-contents-evenly .align-items-center}
+:::::::: {.g-col-0 .g-col-lg-1 .g-col-xxl-2}
+
+::::::::
+
+<!-- video column  -->
+:::::::: {.g-col-12 .g-col-lg-10 .g-col-xxl-8 .text-center .img-container .mx-1 .mx-lg-2 .mx-xl-4}
+::: youtube-box
+<iframe class="youtube" src="https://www.youtube.com/embed/3Gav5Zubk1U"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
+:::
+::::::::
+
+:::::::: {.g-col-0 .g-col-lg-1 .g-col-xxl-2}
+
+::::::::
+:::::::::::
 
 ## Playing the game {.column-screen}
 

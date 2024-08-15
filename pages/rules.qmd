@@ -47,8 +47,7 @@ Watch this short video where Matt Testoni explains how to play the game, or jump
 <!-- end text column -->
 :::::::::
 
-<!-- image column  -->
-<!-- width="650" height="380"  -->
+<!-- video column  -->
 :::::::: {.g-col-12 .g-col-lg-7 .g-col-xl-6 .g-col-xxl-6 .text-center .img-container .mx-1 .mx-lg-2 .mx-xl-4}
 ::: youtube-box
 <iframe class="youtube" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
