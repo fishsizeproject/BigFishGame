@@ -81,20 +81,22 @@ To win the game you must find the best fishing strategy to collect points from c
 ![](resources/images/gameplay-photos/ShelfishReefCard-16x9.jpg)
 :::
 ::::::
-<!-- end feature images grid -->
+<!-- end feature images column -->
 :::::::::
 
 <!-- text column -->
 ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-12 .g-col-xl-6 .my-2 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-4 .text-center}
 ::: p
-## Crowdfunding! {style="color: var(--bs-accent);"}
+## We're crowdfunding! {style="color: var(--bs-accent);"}
 :::
 
 Get your own copy of the game and support education on sustainable fishing and marine life. 
 
-All proceeds from the crowdfunding campaign will go for outreach activities and developing the game further. We will aim to have the game available in shops, but this is not certain. Which means that **crowdfunding** is the best way to secure your own copy of the game and other great rewards. 
+**This is a non-profit campaign**. All proceeds from the crowdfunding campaign will go to outreach activities and developing the game further.
 
-The campaign will launch on **September 15, 2024**, but you can follow the campaign on Kickstarter and be notified when it launches!
+We will aim to have the game available in shops, but this is not certain. This means that **crowdfunding** is the best way to secure your own copy of the game and other great rewards. 
+
+The campaign will launch on **September 15, 2024**. You can follow along on Kickstarter and be notified when it launches!
 
 [Crowdfunding page](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game){.btn .btn-secondary}
 :::::::::
