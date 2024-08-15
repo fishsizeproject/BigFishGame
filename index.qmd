@@ -69,7 +69,7 @@ To win the game you must find the best fishing strategy to collect points from c
 ::::::
 
 <!-- begin crowdfunding grid -->
-:::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .my-4 .my-xl-1}
+:::::::::::: {.grid .column-screen .py-2 .justify-contents-evenly .align-items-center .my-4 .my-xl-1}
 <!-- first image column  -->
 ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-xl-3 .text-center .img-container}
 :::::: {.grid .m-1 .img-container}
@@ -155,7 +155,7 @@ The campaign will launch on **September 15, 2024**, but you can follow the campa
 ::::::
 
 <!-- subscribe to news section -->
-::::::::::: {.grid .column-screen .spacer-1em .text-center style="--bs-columns: 1;"}
+::::::::::: {.grid .column-screen .py-3 .text-center style="--bs-columns: 1;"}
 Would you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes. Subscribe to our newsletter. You will get a max of one email per month and two reminders about the crowdfunding start. 
 
 [Subscribe](https://forms.office.com/r/wVcaiUSxNF){.btn .btn-secondary}
@@ -221,14 +221,14 @@ These events create unpredictability and new challenges. Players can partly prot
 ## Main messages {.column-screen}
 
 <!-- messages text grid -->
-::::::::::: {.grid .column-screen .text-center .spacer-3em style="--bs-columns: 1;"}
+::::::::::: {.grid .column-screen .text-center .py-1 style="--bs-columns: 1;"}
 <!-- To win the game you need a good strategy and luck. There is always an element of chance, but a good fisher and player knows how to get their luck. In this game you need to think about the long term strategy! The game has three main messages: -->
 
 We developed the game because we love fun card games and we love the ocean. We also love big fish. 
 :::::::::::
 
 <!-- start flush grid -->
-:::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .my-3}
+:::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .my-2}
 <!-- text column -->
 ::::::::: {.order-2 .g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-8 .g-col-xl-8 .g-col-xxl-8 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5}
 ### 1. Big fish are important
@@ -259,7 +259,7 @@ Fish grow relatively fast and if we take the right actions, we can restore them 
 
 ##### {#sec-about style="margin-top: 0.5em;" .unlisted}
 <!-- begin Who We Are grid -->
-:::::::::::: {.grid .justify-contents-evenly .align-items-center .spacer-5rem .column-screen}
+:::::::::::: {.grid .justify-contents-evenly .align-items-center .spacer-3rem .column-screen}
 ::::::::: {.g-col-12 .g-col-md-8 .g-col-lg-8 .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4}
 ## Who we are
 
