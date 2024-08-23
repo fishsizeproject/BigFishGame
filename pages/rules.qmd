@@ -88,15 +88,15 @@ The orientation of the fish cards in your fishing site or ice box is essential. 
 ::::::
 
 ::: {.g-col-6 .g-col-md-3 .mx-1 .mx-md-3 .my-2 .text-center .img-container}
-![](../resources/images/cards/fish-cards/Kingfish_Larv.jpg){.image-card-sideways}
+![](../resources/images/cards/fish-cards/yellowtail-kingfish-larval.jpg){.image-card-sideways}
 :::
 
 ::: {.g-col-6 .g-col-md-3 .mx-1 .mx-md-3 .text-center .my-2 .img-container}
-![](../resources/images/cards/fish-cards/KingfishJuvenile.jpg){.image-card}
+![](../resources/images/cards/fish-cards/yellowtail-kingfish-juvenile.jpg){.image-card}
 :::
 
 ::: {.g-col-6 .g-col-md-3 .mx-1 .mx-md-3 .text-center .my-2 .img-container}
-![](../resources/images/cards/fish-cards/KingfishMedium.jpg){.image-card-sideways}
+![](../resources/images/cards/fish-cards/yellowtail-kingfish-medium.jpg){.image-card-sideways}
 :::
 
 ::: {.g-col-6 .g-col-md-3 .mx-1 .mx-md-3 .text-center .my-2 .img-container}
