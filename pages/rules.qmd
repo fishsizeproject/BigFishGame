@@ -117,9 +117,9 @@ Check to see if you have any red wild cards in your fishing site (not in your ha
 ::::
 
 :::: {.order-2 .g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}
-![](../resources/images/turn order v2.JPG){.image-card .lightbox}
+![](../resources/images/cards/turn-order.jpg){.image-card .lightbox}
 
-Click on the image to zoom in
+Click on the image to zoom in!
 ::::
 
 :::: {.order-4  .g-col-12 .mx-1 .mx-md-3 .mx-xl-5}
@@ -140,7 +140,7 @@ Check to see if you have any green wild cards with a starfish in your fishing ho
 ::: {.order-1 .g-col-12 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}
 ![](../resources/images/cards/round-end-cards/localised-species-extinction.jpg){.image-card .lightbox}
 
-Click on the image to zoom in
+Click on the image to zoom in!
 :::
 
 ::: {.order-2 .g-col-12 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-2 .mx-md-3 .mx-xl-5}
@@ -165,7 +165,7 @@ This ensures that the first player gets the choice of new face-up cards equally.
 ::: {.order-2 .g-col-12 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}
 ![](../resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
 
-Click on the image to zoom in
+Click on the image to zoom in!
 :::
 
 ::: {.order-1 .g-col-12 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-2 .mx-md-3 .mx-xl-5}
