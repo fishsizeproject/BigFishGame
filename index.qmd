@@ -192,7 +192,7 @@ Would you like to be reminded about the crowdfunding launch? You can get the gam
 :::::: {.grid .justify-contents-evenly .align-items-center}
 <!-- mini-image column -->
 ::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-lg-4 .mx-5 .mx-sm-1 .text-center .img-container}
-![](resources/images/cooler-no-text.jpg){width="80%"}
+![](resources/images/cards/caught-fish.jpg){.image-card width="80%"}
 :::
 
 <!-- text-step column -->
