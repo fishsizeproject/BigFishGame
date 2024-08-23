@@ -69,7 +69,7 @@ To win the game you must find the best fishing strategy to collect points from c
 ::::::
 
 <!-- begin crowdfunding grid -->
-:::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .my-4 .my-xl-1}
+:::::::::::: {.grid .column-screen .py-2 .justify-contents-evenly .align-items-center .my-4 .my-xl-1}
 <!-- first image column  -->
 ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-xl-3 .text-center .img-container}
 :::::: {.grid .m-1 .img-container}
@@ -81,22 +81,24 @@ To win the game you must find the best fishing strategy to collect points from c
 ![](resources/images/gameplay-photos/ShelfishReefCard-16x9.jpg)
 :::
 ::::::
-<!-- end feature images grid -->
+<!-- end feature images column -->
 :::::::::
 
 <!-- text column -->
 ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-12 .g-col-xl-6 .my-2 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-4 .text-center}
 ::: p
-## Crowdfunding! {style="color: var(--bs-accent);"}
+## We're crowdfunding! {style="color: var(--bs-accent);"}
 :::
 
 Get your own copy of the game and support education on sustainable fishing and marine life. 
 
-All proceeds from the crowdfunding campaign will go for outreach activities and developing the game further. We will aim to have the game available in shops, but this is not certain. Which means that **crowdfunding** is the best way to secure your own copy of the game and other great rewards. 
+**This is a non-profit campaign**. All proceeds from the crowdfunding campaign will go to outreach activities and developing the game further.
 
-The campaign will launch on **September 15, 2024**.
+We will aim to have the game available in shops, but this is not certain. This means that **crowdfunding** is the best way to secure your own copy of the game and other great rewards. 
 
-[Crowdfunding page](https://bigfishcardgame.com){.btn .btn-secondary}
+The campaign will launch on **September 15, 2024**. You can follow along on Kickstarter and be notified when it launches!
+
+[Crowdfunding page](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game){.btn .btn-secondary}
 :::::::::
 
 <!-- image column -->
@@ -155,12 +157,29 @@ The campaign will launch on **September 15, 2024**.
 ::::::
 
 <!-- subscribe to news section -->
-::::::::::: {.grid .column-screen .spacer-1em .text-center style="--bs-columns: 1;"}
+::::::::::: {.grid .column-screen .py-3 .text-center style="--bs-columns: 1;"}
 Would you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes. Subscribe to our newsletter. You will get a max of one email per month and two reminders about the crowdfunding start. 
 
 [Subscribe](https://forms.office.com/r/wVcaiUSxNF){.btn .btn-secondary}
 :::::::::::
 
+::::::::::: {.grid .column-screen .py-3 .justify-contents-evenly .align-items-center}
+:::::::: {.g-col-0 .g-col-lg-1 .g-col-xxl-2}
+
+::::::::
+
+<!-- video column  -->
+:::::::: {.g-col-12 .g-col-lg-10 .g-col-xxl-8 .text-center .img-container .mx-1 .mx-lg-2 .mx-xl-4}
+::: youtube-box
+<iframe class="youtube" src="https://www.youtube.com/embed/3Gav5Zubk1U"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
+:::
+::::::::
+
+:::::::: {.g-col-0 .g-col-lg-1 .g-col-xxl-2}
+
+::::::::
+:::::::::::
 
 ## Playing the game {.column-screen}
 
@@ -173,7 +192,7 @@ Would you like to be reminded about the crowdfunding launch? You can get the gam
 :::::: {.grid .justify-contents-evenly .align-items-center}
 <!-- mini-image column -->
 ::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-lg-4 .mx-5 .mx-sm-1 .text-center .img-container}
-![](resources/images/cooler-no-text.jpg){width="80%"}
+![](resources/images/cards/caught-fish.jpg){.image-card width="80%"}
 :::
 
 <!-- text-step column -->
@@ -221,14 +240,14 @@ These events create unpredictability and new challenges. Players can partly prot
 ## Main messages {.column-screen}
 
 <!-- messages text grid -->
-::::::::::: {.grid .column-screen .text-center .spacer-3em style="--bs-columns: 1;"}
+::::::::::: {.grid .column-screen .text-center .py-1 style="--bs-columns: 1;"}
 <!-- To win the game you need a good strategy and luck. There is always an element of chance, but a good fisher and player knows how to get their luck. In this game you need to think about the long term strategy! The game has three main messages: -->
 
 We developed the game because we love fun card games and we love the ocean. We also love big fish. 
 :::::::::::
 
 <!-- start flush grid -->
-:::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .my-3}
+:::::::::::: {.grid .column-screen .justify-contents-evenly .align-items-center .my-2}
 <!-- text column -->
 ::::::::: {.order-2 .g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-8 .g-col-xl-8 .g-col-xxl-8 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-5}
 ### 1. Big fish are important
@@ -259,7 +278,7 @@ Fish grow relatively fast and if we take the right actions, we can restore them 
 
 ##### {#sec-about style="margin-top: 0.5em;" .unlisted}
 <!-- begin Who We Are grid -->
-:::::::::::: {.grid .justify-contents-evenly .align-items-center .spacer-5rem .column-screen}
+:::::::::::: {.grid .justify-contents-evenly .align-items-center .spacer-3rem .column-screen}
 ::::::::: {.g-col-12 .g-col-md-8 .g-col-lg-8 .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4}
 ## Who we are
 
