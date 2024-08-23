@@ -16,11 +16,11 @@ include-after-body:
 # We're crowdfunding!
 
 To make the game available in Tasmania and worldwide and to run our engagement activities we are launching a **crowdfunding** campaign. Currently the game is not available for sale and you can only get it through crowdfunding. 
-By pledging to this campaign you will secure your copy of the game and support education and engagement activities on marine science and sustainable recreational fishing. The campaign will launch on **September 15, 2024**.
 
-<!-- An online ordering system is coming soon, but you can get your own copy of BigFish right now by emailing our team. -->
+**This is a non-profit campaign**. 
+By pledging to this campaign you will secure your copy of the game and support education and engagement activities on marine science and sustainable recreational fishing. 
 
-The campaign will launch on **September 15, 2024**, but you can follow the it on Kickstarter and be notified when it launches!
+The campaign will launch on **September 15, 2024**. You can follow along on Kickstarter and be notified when it launches! 
 
 [Follow the campaign](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game){.btn .btn-secondary}
 
