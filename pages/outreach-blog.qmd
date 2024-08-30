@@ -19,9 +19,16 @@ listing:
 
 <!-- This kind of grid keeps the horizontal spacing nice when there's no sidebar -->
 ::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"}
-# News
+# News and events 
 
-{{< lipsum 1 >}}
+Here you can follow our activities and upcoming events. What do we have in store? 
+
+**15th September** - AMSA workshop (closed event)
+
+**17th September, 7pm-9pm** - Big Fish game launch at Hobart Brewing Company. Anyone can come and it should be lots of fun!
+
+**4th October** - BOTES Film Night at IMAS 
+
 
 [Follow us on Instagram](../index.qmd){.btn .btn-secondary}
 :::
@@ -29,19 +36,19 @@ listing:
 :::::: {.grid .column-screen .mx-2 .mx-md-3 .mx-lg-5 .my-3 .justify-contents-evenly .align-items-center .text-center}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
 <!-- {{< share-post https://www.instagram.com/p/C9018PsPxX3/ >}} -->
-{{< share-post https://www.instagram.com/p/C-Tpzu0NRYP/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+{{< share-post https://www.instagram.com/p/C_KlLm7v2eP/?igsh=OWdmNmJsZDBpODR5;utm_campaign=loading >}}
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
-{{< share-post https://www.instagram.com/p/C-Tge6mBdBR/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+{{< share-post https://www.instagram.com/p/C-jnhBWPiV8/?igsh=ZjNjdWh3MnIzdXho;utm_campaign=loading >}}
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
-{{< share-post https://www.instagram.com/p/C-RR2Nuvrx5/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+{{< share-post https://www.instagram.com/p/C-bqAVkPJDc/?igsh=MTBiYnZpMG9xNjhxdQ;utm_campaign=loading >}}
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
-{{< share-post https://www.instagram.com/p/C-JMlr4t7HV/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+{{< share-post https://www.instagram.com/p/C-4qA-pvVMo/?igsh=eDk4a3Z4czUyMnUz;utm_campaign=loading >}}
 :::
 ::::::
 
