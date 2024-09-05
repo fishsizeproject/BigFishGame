@@ -108,27 +108,27 @@ You can also follow us on Instagram to see the latest updates!
 [Follow us on Instagram](https://www.instagram.com/big_fish_card_game/){.btn .btn-secondary} 
 :::
 
-::: {.grid .column-screen .mx-2 .mx-md-3 .mx-lg-5 .my-3 .justify-contents-evenly .align-items-start .text-center}
-::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
+::: {.grid .column-screen .mx-2 .mx-md-3 .mx-lg-5 .mx-xl-0 .my-3 .justify-contents-evenly .align-items-start .text-center}
+:::::: {.px-0 .g-col-12 .mx-1 .g-col-sm-6 .mx-sm-0 .g-col-md-6 .mx-md-2 .g-col-lg-6 .mx-lg-4 .g-col-xl-3 .mx-xl-0  .g-col-xxl-3 .mx-xxl-1}
 {{< share-post https://www.instagram.com/p/C_KlLm7v2eP/?igsh=OWdmNmJsZDBpODR5;utm_campaign=loading >}}
-:::
+::::::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
+:::::: {.px-0 .g-col-12 .mx-0 .g-col-sm-6 .mx-sm-0 .g-col-md-6 .mx-md-2 .g-col-lg-6 .mx-lg-4  .g-col-xl-3 .mx-xl-0  .g-col-xxl-3  .mx-xxl-1}
 {{< share-post https://www.instagram.com/p/C-jnhBWPiV8/?igsh=ZjNjdWh3MnIzdXho;utm_campaign=loading >}}
-:::
+::::::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
+:::::: {.px-0 .g-col-12 .mx-0 .g-col-sm-6 .mx-sm-0 .g-col-md-6 .mx-md-2 .g-col-lg-6 .mx-lg-4  .g-col-xl-3 .mx-xl-0  .g-col-xxl-3 .mx-xxl-1}
 {{< share-post https://www.instagram.com/p/C-bqAVkPJDc/?igsh=MTBiYnZpMG9xNjhxdQ;utm_campaign=loading >}}
-:::
+::::::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
+
+:::::: {.px-0 .g-col-12 .mx-0 .g-col-sm-6 .mx-sm-0 .g-col-md-6 .mx-md-2 .g-col-lg-6 .mx-lg-4  .g-col-xl-3 .mx-xl-0  .g-col-xxl-3 .mx-xxl-1}
 {{< share-post https://www.instagram.com/p/C-4qA-pvVMo/?igsh=eDk4a3Z4czUyMnUz;utm_campaign=loading >}}
-:::
+::::::
 :::
 
 ##### {#sec-blog style="margin-top: 0;" .unlisted}
-::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"}
-## Blog
 
-Here we'll tell you about past events and updates to the game.
+::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"}
+## BigFish Blog
 :::
