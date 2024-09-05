@@ -33,7 +33,7 @@ website:
         menu:
           - text: "News & Events"
             href: pages/outreach-blog.qmd
-          - text: "Blog"
+          - text: "BigFish Blog"
             href: pages/outreach-blog.qmd#sec-blog
       - text: "About Us"
         href: index.qmd#sec-about
