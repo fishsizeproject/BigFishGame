@@ -14,7 +14,7 @@ sidebar: false
 <!-- start padded grid -->
 :::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center .text-center .my-4}
 ::::::::: {.g-col-12 .mx-1 .mx-lg-2 .mx-xl-4}
-Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more.
+Watch this short video where Matt Testoni explains how to play the game, or jump to the relevant section below to read more. You can also download a PDF version of the rulebook [here](../resources/Rule Book Inside.pdf){target="_blank"}.
 :::::::::
 
 <!-- text column -->
