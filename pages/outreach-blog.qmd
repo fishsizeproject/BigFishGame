@@ -1,5 +1,5 @@
 ---
-pagetitle: New page with no sidebar
+pagetitle: Outreach & Blog
 description-meta: |
   Description goes here!
 sidebar: false
@@ -19,16 +19,80 @@ listing:
 
 <!-- This kind of grid keeps the horizontal spacing nice when there's no sidebar -->
 ::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"}
-# News and events 
+# News and events
 
-Here you can follow our activities and upcoming events. What do we have in store? 
+Here you can follow our activities and see upcoming events. What do we have in store?
+:::
 
-**15th September** - AMSA workshop (closed event)
+<!-- grid for activities listing, split into two -->
+::: {.grid .column-screen .justify-contents-evenly .align-items-start .mx-2 .mx-sm-3 .mx-md-4 .mx-xl-5 .my-2}
+<!-- each activity gets its own grid consisting of two blocks: the date (bigger, blue) and the description -->
+<!-- the ".order-x-x" class makes sure the events appear in order regardless of screen size -->
+<!-- FIRST COLUMN -->
+:::::: {.order-0 .grid .g-col-6}
+::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
+**15<sup>th</sup> September**
+:::::::::
 
-**17th September, 7pm-9pm** - Big Fish game launch at Hobart Brewing Company. Anyone can come and it should be lots of fun!
+::::::::: {.g-col-6 .g-col-lg-7 .g-col-lg-8 style="margin-top: 0;"}
+Workshop at [AMSA](https://www.amsa2024.amsa.asn.au/) (closed event)
+:::::::::
+::::::
 
-**4th October** - BOTES Film Night at IMAS 
+:::::: {.order-2 .grid .g-col-6}
+::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
+**17<sup>th</sup> September**<br>**7-9pm**
+:::::::::
 
+::::::::: {.g-col-6 .g-col-lg-7 .g-col-lg-8 style="margin-top: 0;"}
+Big Fish game launch at [Hobart Brewing Company](https://hobartbrewingco.com.au/). Anyone can come and it should be lots of fun!
+:::::::::
+::::::
+
+:::::: {.order-4 .grid .g-col-6}
+::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
+**19<sup>th</sup> September**
+:::::::::
+
+::::::::: {.g-col-6 .g-col-lg-7 .g-col-lg-8 style="margin-top: 0;"}
+Game night with Environment Tasmania at [Overland Brewery](https://www.overlandbrewed.com/) - get your tickets [here](https://events.humanitix.com/big-fish-with-matt-testoni%20https://www.facebook.com/share/wMYa2hH8PEuRp1b9/)!
+:::::::::
+::::::
+
+<!-- SECOND COLUMN -->
+:::::: {.order-1 .grid .g-col-6}
+::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
+**22<sup>nd</sup> September**
+:::::::::
+
+::::::::: {.g-col-6 .g-col-lg-7 .g-col-lg-8 style="margin-top: 0;"}
+Game play session and display at [SCUBA buy swap and sell](https://www.facebook.com/share/JdDAnuQg8DmTVg7R/)
+:::::::::
+::::::
+
+:::::: {.order-3 .grid .g-col-6}
+::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
+**4<sup>th</sup> October**
+:::::::::
+
+::::::::: {.g-col-6 .g-col-lg-7 .g-col-lg-8 style="margin-top: 0;"}
+[BOTES](https://www.facebook.com/bottomoftheearthsociety/) Film Night at IMAS
+:::::::::
+::::::
+
+:::::: {.order-5 .grid .g-col-6}
+::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
+**10<sup>th</sup> October**
+:::::::::
+
+::::::::: {.g-col-6 .g-col-lg-7 .g-col-lg-8 style="margin-top: 0;"}
+Gamification Panel night at [Boodle Beasly](https://www.boodlebeasley.com.au/) - more info coming soon!
+:::::::::
+::::::
+:::
+
+::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"}
+You can also follow us on Instagram to see the latest updates!
 
 [Follow us on Instagram](https://www.instagram.com/big_fish_card_game/){.btn .btn-secondary} 
 :::
