@@ -17,11 +17,22 @@ listing:
    
 :::
 
+<!-- ::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"} -->
 <!-- This kind of grid keeps the horizontal spacing nice when there's no sidebar -->
-::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"}
-# News and events
+<!-- ::: -->
 
-Here you can follow our activities and see upcoming events. What do we have in store?
+# News and events {.column-screen}
+
+<!-- This kind of grid keeps the horizontal spacing nice when there's no sidebar -->
+::: {.grid .column-screen .mx-2 .mx-sm-3 .mx-md-4 .my-3 .justify-contents-evenly .align-items-center}
+:::::: {.g-col-10 .mx-2}
+Amy Cochglan and Matt Testoni recently went on Mornings at ABC radio to talk about how the Big Fish Card Game was made, how it works, and the messages it teaches. You can listen to the episode [here](https://www.abc.net.au/listen/programs/hobart-mornings/mornings/104288814?utm_content=link&utm_medium=content_shared) (interview starts at 2:14:55).
+::::::
+
+:::::: {.g-col-2 .mx-2}
+![](../resources/images/ABC-listen.jpg)
+::::::
+
 :::
 
 <!-- grid for activities listing, split into two -->
