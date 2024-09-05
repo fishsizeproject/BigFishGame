@@ -119,5 +119,5 @@ You can also follow us on Instagram to see the latest updates!
 ::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"}
 ## Blog
 
-{{< lipsum 1 >}}
+Here we'll tell you about past events and updates to the game.
 :::
