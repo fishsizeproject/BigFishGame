@@ -12,22 +12,17 @@ description: |
 ---
 
 <!-- This kind of grid keeps the horizontal spacing nice when there's no sidebar -->
-::: {.grid .column-body .mx-1 .mx-sm-2 .mx-md-4 .mx-xl-5 .my-3 style="--bs-columns: 1;"}
-# Post title
+::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-4 .mx-xl-5 .my-3 style="--bs-columns: 1;"}
+## Subtitle 1
 
 {{< lipsum 1 >}}
 
-## Subtitle
+<!-- The quarto figure feature will mess up your text layout! Use the structure below to get nice pictures -->
+:::::: text-center
+<img src="../../resources/images/blog-pics/cards.jpg" class="img-fluid" style="width: 80%" alt="Fish card redesign">
+:::::: 
 
 {{< lipsum 1 >}}
 
-1. {{< lipsum 1 >}}
-2. {{< lipsum 1 >}}
-3. {{< lipsum 1 >}}
-4. {{< lipsum 1 >}}
-
-## Subtitle 2
-
-{{< lipsum 2 >}}
-
+<!-- don't delete this -->
 :::

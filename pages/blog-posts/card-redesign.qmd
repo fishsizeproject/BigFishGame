@@ -1,0 +1,26 @@
+---
+title: "Pre-launch card redesign"
+date: "2024-08-28"
+image: "../../resources/images/blog-pics/cards.jpg"
+categories: 
+  - "cards"
+  - "design"
+  - "launch"
+author: "Matt Testoni"
+description: |
+    With only weeks until the crowd funding launch of Big Fish, the team has been hard at work refining the game.
+---
+
+<!-- This kind of grid keeps the horizontal spacing nice when there's no sidebar -->
+::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-4 .mx-xl-5 .my-3 style="--bs-columns: 1;"}
+## Getting ready
+
+With only weeks until the crowd funding launch of Big Fish, the team has been hard at work refining the game. With new art works for expansions and a finalisation of the rules, the game is really coming together. During this time we also have the final graphic design nailed down and tested with a whole new bunch of demo copies of the game. Check out how some of the new cards look!
+
+<!-- The quarto figure feature will mess up your text layout! Use the structure below to get nice pictures -->
+:::::: text-center
+<img src="../../resources/images/blog-pics/cards.jpg" class="img-fluid" style="width: 80%" alt="Fish card redesign">
+:::::: 
+
+<!-- don't delete this -->
+:::
