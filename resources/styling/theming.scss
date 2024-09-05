@@ -693,6 +693,13 @@ hr { // means horizontal rule
   margin-right: 5vw;
 }
 
+#title-block-header {
+    margin-top: 4rem !important;
+    margin-left: 7.5vw !important;
+    margin-right: 7.5vw !important;
+    grid-column: screen-start/screen-end;
+}
+
 // TESTING STUFF
 
 .show-grid {

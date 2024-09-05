@@ -1,3 +1,4 @@
+# metadata-files: ["../metadata.yml"]
 
 execute:
   eval: true # Evaluate the code chunk (if false, just shows the code in the output)
@@ -8,27 +9,25 @@ execute:
   error: false # Include errors in the output (errors might still halt processing of the document)
   include: true # whether any output (code or results) will be shown (but code still runs)
 
-editor_options: 
+editor_options:
   chunk_output_type: inline
 
 knitr:
-  opts_chunk: 
+  opts_chunk:
     fig.align: "center"
     fig-width: 8
     fig-asp: 0.75
     code-overflow: wrap
 
-# metadata-files: ["../metadata.yml"]
-
-toc: true
-toc-depth: 3
-toc-location: left
+toc: false
+# toc-depth: 3
+# toc-location: left
 
 page-layout: article
 sidebar: false
 # grid:
-#   sidebar-width: 250px
-#   body-width: 1250px
-#   margin-width: 150px
-#   gutter-width: 2em
+#   sidebar-width: 300px
+#   body-width: 1400px
+#   margin-width: 0px
+#   gutter-width: 0px
 

@@ -10,12 +10,10 @@ categories:
 author: 'Matt Testoni'
 description: |
     Big Fish Card Game is put to the test at Hobart's Festival of Bright Ideas.
-sidebar: false
 ---
 
 <!-- This kind of grid keeps the horizontal spacing nice when there's no sidebar -->
-
-::: {.grid .column-body .mx-1 .mx-sm-2 .mx-md-4 .mx-xl-5 .my-3 style="--bs-columns: 1;"}
+::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-4 .mx-xl-5 .my-3 style="--bs-columns: 1;"}
 ## The first big event
 
 The Festival of Bright Ideas held down at Princes Pier in Hobart was the Big Fish Card Game's first big event. The team from the Fish Size Project that developed Big Fish were all on station to show the game off to hundreds of school students and a host of families over the 2 day event. The game was played so many times the crew lost count.
@@ -23,7 +21,7 @@ The Festival of Bright Ideas held down at Princes Pier in Hobart was the Big Fis
 With only a few weeks till launch FOBI was a great test of how engaging, educational and fun the game can be. The feedback from the students and families was overwhelmingly positive with many excited to get their hand on the game and support the project.
 
 ::: text-center
-<img src="../../resources/images/blog-pics/processed-FOBI-cropped.jpeg" class="img-fluid" style="width: 60%" alt="The Big Fish Game developers at the Festival of Bright Ideas">
+<img src="../../resources/images/blog-pics/processed-FOBI-cropped.jpeg" class="img-fluid" style="width: 50%" alt="The Big Fish Game developers at the Festival of Bright Ideas">
 
 Developers Freddie Heather, Matthew Teston, Pia Bessell-Browne, , Amy Coghlan and Sarah Willington from FishSizeProject lab pose at the Festival of Bright Ideas.
 :::
