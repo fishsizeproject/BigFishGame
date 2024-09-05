@@ -1,7 +1,7 @@
 ---
 title: "Festival of Bright Ideas"
 date: "2024-09-05"
-image: "../../resources/images/blog-pics/processed-40F48070-6988-40E2-9E23-9746C536DA81.jpeg"
+image: "../../resources/images/blog-pics/processed-FOBI.jpeg"
 categories: 
   - "events"
   - "gameplay"
