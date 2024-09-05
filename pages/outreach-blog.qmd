@@ -30,12 +30,11 @@ Here you can follow our activities and upcoming events. What do we have in store
 **4th October** - BOTES Film Night at IMAS 
 
 
-[Follow us on Instagram](../index.qmd){.btn .btn-secondary}
+[Follow us on Instagram](https://www.instagram.com/big_fish_card_game/){.btn .btn-secondary} 
 :::
 
 :::::: {.grid .column-screen .mx-2 .mx-md-3 .mx-lg-5 .my-3 .justify-contents-evenly .align-items-center .text-center}
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .g-col-xl-3 .mx-0 .p-0 .mx-lg-2}
-<!-- {{< share-post https://www.instagram.com/p/C9018PsPxX3/ >}} -->
 {{< share-post https://www.instagram.com/p/C_KlLm7v2eP/?igsh=OWdmNmJsZDBpODR5;utm_campaign=loading >}}
 :::
 
@@ -52,6 +51,7 @@ Here you can follow our activities and upcoming events. What do we have in store
 :::
 ::::::
 
+##### {#sec-blog style="margin-top: 0;" .unlisted}
 ::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"}
 ## Blog
 
