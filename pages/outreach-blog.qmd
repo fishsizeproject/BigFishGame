@@ -26,7 +26,7 @@ listing:
 <!-- This kind of grid keeps the horizontal spacing nice when there's no sidebar -->
 ::: {.grid .column-screen .mx-2 .mx-sm-3 .mx-md-4 .my-3 .justify-contents-evenly .align-items-center}
 :::::: {.g-col-10 .mx-2}
-Amy Cochglan and Matt Testoni recently went on Mornings at ABC radio to talk about how the Big Fish Card Game was made, how it works, and the messages it teaches. You can listen to the episode [here](https://www.abc.net.au/listen/programs/hobart-mornings/mornings/104288814?utm_content=link&utm_medium=content_shared) (interview starts at 2:14:55).
+Amy Coghlan and Matt Testoni recently went on Mornings at ABC radio to talk about how the Big Fish Card Game was made, how it works, and the messages it teaches. You can listen to the episode [here](https://www.abc.net.au/listen/programs/hobart-mornings/mornings/104288814?utm_content=link&utm_medium=content_shared) (interview starts at 2:14:55).
 ::::::
 
 :::::: {.g-col-2 .mx-2}
@@ -85,7 +85,7 @@ Big Fish game launch at [Hobart Brewing Company](https://hobartbrewingco.com.au/
 :::::::::
 
 ::::::::: {.g-col-6 .g-col-lg-7 .g-col-xl-8 style="margin-top: 0;"}
-Game night with Environment Tasmania at [Overland Brewery](https://www.overlandbrewed.com/) - get your tickets [here](https://events.humanitix.com/big-fish-with-matt-testoni%20https://www.facebook.com/share/wMYa2hH8PEuRp1b9/)!
+Game night with Environment Tasmania at [Overland Brewery](https://www.overlandbrewed.com/) - get your tickets [here](https://www.facebook.com/share/5NUCGWJmRX1ET6SN/)!
 :::::::::
 ::::::
 

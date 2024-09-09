@@ -23,7 +23,7 @@ With only a few weeks till launch FOBI was a great test of how engaging, educati
 ::: text-center
 <img src="../../resources/images/blog-pics/processed-FOBI-cropped.jpeg" class="img-fluid" style="width: 50%" alt="The Big Fish Game developers at the Festival of Bright Ideas">
 
-Developers Freddie Heather, Matthew Teston, Pia Bessell-Browne, , Amy Coghlan and Sarah Willington from FishSizeProject lab pose at the Festival of Bright Ideas.
+Big Fish development and support team Freddie Heather, Matt Testoni, Olivia Cornes, Alex Johne, Amy Coghlan and Sarah Willington at the Festival of Bright Ideas.
 :::
 
 <!-- don't delete this -->
