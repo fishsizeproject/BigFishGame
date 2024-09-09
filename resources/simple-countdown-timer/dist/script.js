@@ -7,7 +7,7 @@ const __seconds  = document.querySelector("#seconds")
 // Change this variable.
 // ex: May 22 2024 18:00:00
 // May 22, 2024 at 6PM
-const newYearEnd = 'Sep 15 2024 12:00:00';
+const newYearEnd = 'Sep 15 2024 07:00:00';
 
 function countdown(){
     const newYearEndDate = new Date(newYearEnd);
