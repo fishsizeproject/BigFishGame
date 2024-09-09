@@ -1,7 +1,7 @@
 ---
 pagetitle: Outreach & Blog
 description-meta: |
-  Description goes here!
+  Updates on the Big Fish Card Game will be posted here.
 sidebar: false
 listing:
   contents: "blog-posts/*.qmd"
@@ -16,10 +16,6 @@ listing:
 ::: {.column-screen .hero-img .hero-strip-page .img-container}
    
 :::
-
-<!-- ::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"} -->
-<!-- This kind of grid keeps the horizontal spacing nice when there's no sidebar -->
-<!-- ::: -->
 
 # News and events {.column-screen}
 
@@ -39,7 +35,9 @@ Amy Coghlan and Matt Testoni recently went on Mornings at ABC radio to talk abou
 
 <!-- grid for activities listing, split into two -->
 ::: {.grid .column-screen .justify-contents-evenly .align-items-start .mx-2 .mx-sm-3 .mx-md-4 .mx-xl-5 .my-2}
-:::::: {.order-0 .grid .g-col-12 .g-col-lg-6}
+
+<!-- FIRST COLUMN -->
+:::::: {.grid .g-col-12 .g-col-lg-6}
 ::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
 **15<sup>th</sup> September**
 :::::::::
@@ -47,39 +45,17 @@ Amy Coghlan and Matt Testoni recently went on Mornings at ABC radio to talk abou
 ::::::::: {.g-col-6 .g-col-lg-7 .g-col-xl-8 style="margin-top: 0;"}
 Workshop at [AMSA](https://www.amsa2024.amsa.asn.au/) (closed event)
 :::::::::
-::::::
 
-:::::: {.order-1 .order-lg-3 .grid .g-col-12 .g-col-lg-6}
+
 ::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
-**22<sup>nd</sup> September**
+**17<sup>th</sup> September**
 :::::::::
 
 ::::::::: {.g-col-6 .g-col-lg-7 .g-col-xl-8 style="margin-top: 0;"}
-Game play session and display at [SCUBA buy swap and sell](https://www.facebook.com/share/JdDAnuQg8DmTVg7R/)
-:::::::::
-::::::
-
-:::::: {.order-2 .order-lg-1 .grid .g-col-12 .g-col-lg-6}
-::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
-**17<sup>th</sup> September**<br>**7-9pm**
+Big Fish game will launch at [Hobart Brewing Company](https://hobartbrewingco.com.au/), 7-9pm. Anyone can come and it should be lots of fun!
 :::::::::
 
-::::::::: {.g-col-6 .g-col-lg-7 .g-col-xl-8 style="margin-top: 0;"}
-Big Fish game launch at [Hobart Brewing Company](https://hobartbrewingco.com.au/). Anyone can come and it should be lots of fun!
-:::::::::
-::::::
 
-:::::: {.order-3 .order-lg-4 .grid .g-col-12 .g-col-lg-6}
-::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
-**4<sup>th</sup> October**
-:::::::::
-
-::::::::: {.g-col-6 .g-col-lg-7 .g-col-xl-8 style="margin-top: 0;"}
-[BOTES](https://www.facebook.com/bottomoftheearthsociety/) Film Night at IMAS
-:::::::::
-::::::
-
-:::::: {.order-4 .order-lg-2 .grid .g-col-12 .g-col-lg-6}
 ::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
 **19<sup>th</sup> September**
 :::::::::
@@ -89,7 +65,26 @@ Game night with Environment Tasmania at [Overland Brewery](https://www.overlandb
 :::::::::
 ::::::
 
-:::::: {.order-5 .grid .g-col-12 .g-col-lg-6}
+<!-- SECOND COLUMN -->
+:::::: {.grid .g-col-12 .g-col-lg-6}
+::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
+**22<sup>nd</sup> September**
+:::::::::
+
+::::::::: {.g-col-6 .g-col-lg-7 .g-col-xl-8 style="margin-top: 0;"}
+Game play session and display at [SCUBA buy swap and sell](https://www.facebook.com/share/JdDAnuQg8DmTVg7R/)
+:::::::::
+
+
+::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
+**4<sup>th</sup> October**
+:::::::::
+
+::::::::: {.g-col-6 .g-col-lg-7 .g-col-xl-8 style="margin-top: 0;"}
+[BOTES](https://www.facebook.com/bottomoftheearthsociety/) Film Night at IMAS
+:::::::::
+
+
 ::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
 **10<sup>th</sup> October**
 :::::::::
@@ -100,8 +95,9 @@ Gamification Panel night at [Boodle Beasly](https://www.boodlebeasley.com.au/) -
 ::::::
 :::
 
+
 ::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"}
-You can also follow us on Instagram to see the latest updates!
+Follow us on Instagram to see the latest updates!
 
 [Follow us on Instagram](https://www.instagram.com/big_fish_card_game/){.btn .btn-secondary} 
 :::
