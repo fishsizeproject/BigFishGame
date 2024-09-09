@@ -26,7 +26,7 @@ listing:
 <!-- This kind of grid keeps the horizontal spacing nice when there's no sidebar -->
 ::: {.grid .column-screen .mx-2 .mx-sm-3 .mx-md-4 .my-3 .justify-contents-evenly .align-items-center}
 :::::: {.g-col-10 .mx-2}
-Amy Cochglan and Matt Testoni recently went on Mornings at ABC radio to talk about how the Big Fish Card Game was made, how it works, and the messages it teaches. You can listen to the episode [here](https://www.abc.net.au/listen/programs/hobart-mornings/mornings/104288814?utm_content=link&utm_medium=content_shared) (interview starts at 2:14:55).
+Amy Coghlan and Matt Testoni recently went on Mornings at ABC radio to talk about how the Big Fish Card Game was made, how it works, and the messages it teaches. You can listen to the episode [here](https://www.abc.net.au/listen/programs/hobart-mornings/mornings/104288814?utm_content=link&utm_medium=content_shared) (interview starts at 2:14:55).
 ::::::
 
 :::::: {.g-col-2 .mx-2}
@@ -49,7 +49,7 @@ Workshop at [AMSA](https://www.amsa2024.amsa.asn.au/) (closed event)
 :::::::::
 ::::::
 
-:::::: {.order-1 .grid .g-col-12 .g-col-lg-6}
+:::::: {.order-1 .order-lg-3 .grid .g-col-12 .g-col-lg-6}
 ::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
 **22<sup>nd</sup> September**
 :::::::::
@@ -59,7 +59,7 @@ Game play session and display at [SCUBA buy swap and sell](https://www.facebook.
 :::::::::
 ::::::
 
-:::::: {.order-2 .grid .g-col-12 .g-col-lg-6}
+:::::: {.order-2 .order-lg-1 .grid .g-col-12 .g-col-lg-6}
 ::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
 **17<sup>th</sup> September**<br>**7-9pm**
 :::::::::
@@ -69,7 +69,7 @@ Big Fish game launch at [Hobart Brewing Company](https://hobartbrewingco.com.au/
 :::::::::
 ::::::
 
-:::::: {.order-3 .grid .g-col-12 .g-col-lg-6}
+:::::: {.order-3 .order-lg-4 .grid .g-col-12 .g-col-lg-6}
 ::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
 **4<sup>th</sup> October**
 :::::::::
@@ -79,7 +79,7 @@ Big Fish game launch at [Hobart Brewing Company](https://hobartbrewingco.com.au/
 :::::::::
 ::::::
 
-:::::: {.order-4 .grid .g-col-12 .g-col-lg-6}
+:::::: {.order-4 .order-lg-2 .grid .g-col-12 .g-col-lg-6}
 ::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
 **19<sup>th</sup> September**
 :::::::::
