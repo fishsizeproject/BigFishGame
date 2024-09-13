@@ -1,5 +1,5 @@
 ---
-pagetitle: Wildcards & Round-end cards | BigFish Card Game
+pagetitle: Wildcards & Event cards | BigFish Card Game
 description-meta: |
  Learn about the science behind all the wildcards included in the BigFish game.
 
@@ -15,7 +15,7 @@ sidebar: special-sidebar
 
 ::::::::: {.grid .justify-contents-evenly .align-items-center .mx-1 .mx-sm-2 .mx-md-3 .mx-lg-4}
 :::::: {.g-col-12 .g-col-md-7}
-On this page you can learn more about the science behind all the wildcards included in the game. You can find the science behind all the round-end cards [here](../pages/round-end-cards.qmd).
+On this page you can learn more about the science behind all the wildcards included in the game. You can find the science behind all the event cards [here](../pages/event-cards.qmd).
 
 We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please [contact us](../pages/about.qmd)!
 
@@ -47,7 +47,7 @@ Blue Gropers can be an ecologically important species that help prevent the crea
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
 ### How to play
 
-Place into your fishing spot to prevent the effects of [Urchins](../pages/round-end-cards.qmd#sec-urchins-arrive).
+Place into your fishing spot to prevent the effects of [Urchins](../pages/event-cards.qmd#sec-urchins-arrive).
 :::
 ::::::
 :::::::::
