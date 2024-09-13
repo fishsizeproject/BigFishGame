@@ -177,8 +177,16 @@ The game ends randomly once the “Fishing Season Closed Card” is revealed. Th
 3. Add your points together to get your total score. 
 :::
 
-::: {.order-3 .g-col-12 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-1 .mx-md-3 .mx-xl-4 .text-center .h3 style="color: var(--bs-accent); margin-top: 0px; margin-bottom: 2em;"}
+::: {.order-3 .g-col-12 .mx-1 .mx-md-3 .mx-xl-4 .text-center .h3 style="color: var(--bs-accent); margin-top: 0px; margin-bottom: 2em;"}
 **The player with the most points wins Big Fish and is crowned the #1 Fisher!**
 :::
 ::::::
+
+## Hard mode {#sec-hard-mode .column-screen}
+
+:::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center .text-center .my-4}
+::::::::: {.g-col-12 .mx-1 .mx-lg-2 .mx-xl-4}
+For an extra challenge, once you have played through Big Fish, take note that some fish  have a small Bag Icon next to their name. This means that they have a bag limit and therefore only 1 of these fish is allowed to be caught per player per game.
+:::::::::
+::::::::::::
 
