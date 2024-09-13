@@ -36,7 +36,7 @@ When an El Niño is present on the south east coast of Australia more heatwaves,
 
 ::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 :::::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
-![](../resources/images/cards/round-end-cards/el-nino-begins.jpg){.image-card .lightbox}
+![](../resources/images/cards/event-cards/el-nino-begins.jpg){.image-card .lightbox}
 ::::::
 
 :::::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
@@ -67,7 +67,7 @@ This is more likely with fish that mature at an old age, such as orange roughy t
 
 ::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 :::::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
-![](../resources/images/cards/round-end-cards/fisheries-research.jpg){.image-card .lightbox}
+![](../resources/images/cards/event-cards/fisheries-research.jpg){.image-card .lightbox}
 ::::::
 
 :::::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
@@ -106,7 +106,7 @@ Biodiversity loss (a decline in the number of species present in an ecosystem) i
 
 ::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 :::::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
-![](../resources/images/cards/round-end-cards/localised-species-extinction.jpg){.image-card .lightbox}
+![](../resources/images/cards/event-cards/localised-species-extinction.jpg){.image-card .lightbox}
 ::::::
 
 :::::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
@@ -145,7 +145,7 @@ If any [abalone](fish-cards.qmd#sec-abalone), [lobster](fish-cards.qmd#sec-south
 
 ::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 :::::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
-![](../resources/images/cards/round-end-cards/ocean-acidification.jpg){.image-card .lightbox}
+![](../resources/images/cards/event-cards/ocean-acidification.jpg){.image-card .lightbox}
 ::::::
 
 :::::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
@@ -180,7 +180,7 @@ The availability of key resources in the environment, mainly nutrients such as i
 
 ::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 :::::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
-![](../resources/images/cards/round-end-cards/plankton-swarm.jpg){.image-card .lightbox}
+![](../resources/images/cards/event-cards/plankton-swarm.jpg){.image-card .lightbox}
 ::::::
 
 :::::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
@@ -219,7 +219,7 @@ Planting of seaweeds in habitats that used to contain healthy seaweed population
 
 ::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 :::::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
-![](../resources/images/cards/round-end-cards/seaweed-planting.jpg){.image-card .lightbox}
+![](../resources/images/cards/event-cards/seaweed-planting.jpg){.image-card .lightbox}
 ::::::
 
 :::::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
@@ -233,7 +233,9 @@ Place a [Seaweed](#sec-seaweed) or [Giant Kelp](#sec-giant-kelp) card from your 
 :::: g-col-12
 ### Learn more
 
-*More information on this card coming soon!*
+- https://www.abc.net.au/news/2022-11-24/tasmania-giant-kelp-forests-to-be-restored-under-new-plan/101686756
+- https://theconversation.com/how-farming-giant-seaweed-can-feed-fish-and-fix-the-climate-81761
+- https://www.fisheries.noaa.gov/national/aquaculture/seaweed-aquaculture#:~:text=The%20seaweeds%20create%20forage%20and,metals%20and%20other%20coastal%20pollutants.
 ::::
 :::
 
@@ -245,7 +247,7 @@ Large, old fish often produce disproportionately large numbers of offspring comp
 
 ::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 :::::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
-![](../resources/images/cards/round-end-cards/upper-size-limit.jpg){.image-card .lightbox}
+![](../resources/images/cards/event-cards/upper-size-limit.jpg){.image-card .lightbox}
 ::::::
 
 :::::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
@@ -276,7 +278,7 @@ Long Spined Sea Urchins have arrived in Tasmania as a range shifting specie due 
 
 ::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 :::::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
-![](../resources/images/cards/round-end-cards/urchins-arrive.jpg){.image-card .lightbox}
+![](../resources/images/cards/event-cards/urchins-arrive.jpg){.image-card .lightbox}
 ::::::
 
 :::::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
@@ -292,7 +294,10 @@ Each player must discard all [Seaweed](#sec-seaweed) and [Giant Kelp](#sec-giant
 
 ::::: {.grid .justify-contents-evenly .align-items-center}
 :::::: {.g-col-12 .g-col-md-6 .g-col-lg-8}
-*More information on this card coming soon!*
+- https://www.imas.utas.edu.au/__data/assets/pdf_file/0003/1584363/2021_Centro_assessment_APR27.pdf
+- https://greatsouthernreef.com/long-spined-sea-urchin#:~:text=The%20species%20is%20now%20very,or%20abalone%20aren't%20viable.
+- https://www.abc.net.au/news/2023-02-03/long-spined-sea-urchins-threat-to-tasmania-reefs-kelp-forests/101918242
+- https://nrmsouth.org.au/project/long-spined-sea-urchins-in-tasmania/
 ::::::
 
 :::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
@@ -318,7 +323,7 @@ Fishing season is closed, end of the game!
 
 ::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 :::::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
-![](../resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
+![](../resources/images/cards/event-cards/end-game.jpg){.image-card .lightbox}
 ::::::
 
 :::::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}

@@ -28,8 +28,8 @@ website:
             href: pages/fish-cards.qmd
           - text: "Wildcards"
             href: pages/wildcards.qmd
-          - text: "Round-end cards"
-            href: pages/round-end-cards.qmd
+          - text: "Event cards"
+            href: pages/event-cards.qmd
       - text: "Outreach"
         menu:
           - text: "News & Events"
@@ -126,26 +126,26 @@ website:
         - text: "Shellfish reef"
           href: pages/wildcards.qmd#sec-shellfish-reef
       - text: "-----"
-      - section: "Round-End Cards"
+      - section: "Event Cards"
         contents:
         - text: "El Niño begins"
-          href: pages/round-end-cards.qmd#sec-el-nino-begins
+          href: pages/event-cards.qmd#sec-el-nino-begins
         - text: "Fisheries research occurs"
-          href: pages/round-end-cards.qmd#sec-fisheries-research
+          href: pages/event-cards.qmd#sec-fisheries-research
         - text: "Localised species extinction"
-          href: pages/round-end-cards.qmd#sec-localised-species-extinction
+          href: pages/event-cards.qmd#sec-localised-species-extinction
         - text: "Ocean acidification"
-          href: pages/round-end-cards.qmd#sec-ocean-acidification
+          href: pages/event-cards.qmd#sec-ocean-acidification
         - text: "Plankton swarm occurs"
-          href: pages/round-end-cards.qmd#sec-plankton-swarm
+          href: pages/event-cards.qmd#sec-plankton-swarm
         - text: "Seaweed planting occurs"
-          href: pages/round-end-cards.qmd#sec-seaweed-planting
+          href: pages/event-cards.qmd#sec-seaweed-planting
         - text: "Fisheries impose upper size limit"
-          href: pages/round-end-cards.qmd#sec-upper-size-limit
+          href: pages/event-cards.qmd#sec-upper-size-limit
         - text: "Long spined sea urchins arrive"
-          href: pages/round-end-cards.qmd#sec-urchins-arrive
+          href: pages/event-cards.qmd#sec-urchins-arrive
         - text: "END GAME"
-          href: pages/round-end-cards.qmd#sec-end-game
+          href: pages/event-cards.qmd#sec-end-game
       - text: "-----"
       - text: " Game Setup & Rules"
         href: pages/rules.qmd

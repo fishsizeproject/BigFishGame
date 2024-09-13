@@ -146,7 +146,7 @@ Click on the image to zoom in!
 
 :::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
 ::: {.order-1 .g-col-12 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}
-![](../resources/images/cards/round-end-cards/localised-species-extinction.jpg){.image-card .lightbox}
+![](../resources/images/cards/event-cards/localised-species-extinction.jpg){.image-card .lightbox}
 
 Click on the image to zoom in!
 :::
@@ -168,7 +168,7 @@ Once each player has had their turn, follow the round end steps to complete the 
 
 :::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
 ::: {.order-2 .g-col-12 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}
-![](../resources/images/cards/round-end-cards/end-game.jpg){.image-card .lightbox}
+![](../resources/images/cards/event-cards/end-game.jpg){.image-card .lightbox}
 
 Click on the image to zoom in!
 :::
