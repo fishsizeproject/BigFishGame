@@ -35,7 +35,7 @@ Mel finds a weedy seadragon while diving at one of the Reef Life Survey sites.
 ::::::::: {.g-col-12}
 ## Blue Groper {#sec-blue-groper}
 
-*More information on this card coming soon!*
+Blue Gropers can be an ecologically important species that help prevent the creation of urchin barrens that occur due to the presence of the Long-spine sea urchin. Whilst they may do little to reverse barren areas their presence as a predator of grazing urchins helps prevent the creation of barrens. They have also been shown to keep marine habitats balanced through predation of other marine invertebrates.
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -55,7 +55,10 @@ Place into your fishing spot to prevent the effects of [Urchins](../pages/round-
 ::::::::: {.g-col-12}
 ### Learn more
 
-*More information on this card coming soon!*
+Check out these resources to learn more:
+
+- An overview of the Blue Groper by the [Australian Marine Conservation Society](https://www.marineconservation.org.au/bluegroper)
+- A [review](https://www.imas.utas.edu.au/__data/assets/pdf_file/0004/743080/Eastern-Blue-Groper-Review-IMAS-amended.pdf) by IMAS on the potential to translocate Blue Groper for conservation
 :::::::::
 
 ::::::::: {.g-col-12}
