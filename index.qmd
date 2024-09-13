@@ -287,6 +287,18 @@ This game has been developed by the Institute of Marine and Antarctic Sciences, 
 
 All artwork is original and produced by Amy Coghlan (drawings), Matt Testoni (photos, design) and Stacey McCormack (design).
 Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.
+
+<!-- button columns -->
+:::::: grid
+::: {.g-col-12 .g-col-md-6 .ms-md-3 .ps-md-3 .text-center}
+[<img src="resources/icons/Follow-Us-On-Instagram-PNG-Image.png" class="img-fluid" style="width: 245px;" alt="Follow us on Instagram!">](https://www.instagram.com/big_fish_card_game/)
+<!-- ![mailto:info@fishsizeproject.org](){width="20%"} -->
+:::
+
+::: {.g-col-12 .g-col-md-6 .me-md-3 .pe-md-3 .text-center}
+[Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary}
+:::
+::::::
 :::::::::
 
 ::::::::: {.g-col-12 .g-col-md-4 .g-col-lg-4 .text-center}
@@ -308,17 +320,14 @@ Game testing, advice, interesting facts and many other details have been provide
 :::
 ::::::
 :::::::::
-
-<!-- button column -->
-::: {.g-col-12 .text-center}
-[Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary}
-:::
 <!-- end who we are grid -->
 ::::::::::::
 
-## Supporters {.column-screen}
-
 :::::: {.grid .column-screen .justify-contents-evenly .align-items-center .py-4 .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4}
+::: g-col-12
+## Supporters
+:::
+
 ::: {.g-col-12 .g-col-sm-6 .text-center .img-container .px-1 style="font-size: 1.5em;"}
 *Pew Fellowship in Marine Conservation*
 :::
