@@ -91,13 +91,14 @@ To win the game you must find the best fishing strategy to collect points from c
 ## We're crowdfunding! {style="color: var(--bs-accent);"}
 :::
 
+Our crowdfunding campaign has launched!
 Get your own copy of the game and support education on sustainable fishing and marine life. 
 
 **This is a non-profit campaign**. All proceeds from the crowdfunding campaign will go to outreach activities and developing the game further.
 
 We will aim to have the game available in shops, but this is not certain. This means that **crowdfunding** is the best way to secure your own copy of the game and other great rewards. 
 
-The campaign will launch on **September 15, 2024**. You can follow along on Kickstarter and be notified when it launches!
+The campaign will end on **October 15, 2024**. You can follow along on Kickstarter and be notified of changes and updates to the game.
 
 [Crowdfunding page](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game){.btn .btn-secondary}
 :::::::::
@@ -158,11 +159,11 @@ The campaign will launch on **September 15, 2024**. You can follow along on Kick
 ::::::
 
 <!-- subscribe to news section -->
-::::::::::: {.grid .column-screen .py-3 .text-center style="--bs-columns: 1;"}
-Would you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes. Subscribe to our newsletter. You will get a max of one email per month and two reminders about the crowdfunding start. 
+<!-- ::::::::::: {.grid .column-screen .py-3 .text-center style="--bs-columns: 1;"} -->
+<!-- Would you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes. Subscribe to our newsletter. You will get a max of one email per month and two reminders about the crowdfunding start.  -->
 
-[Subscribe](https://forms.office.com/r/wVcaiUSxNF){.btn .btn-secondary}
-:::::::::::
+<!-- [Subscribe](https://forms.office.com/r/wVcaiUSxNF){.btn .btn-secondary} -->
+<!-- ::::::::::: -->
 
 ::::::::::: {.grid .column-screen .py-3 .justify-contents-evenly .align-items-center}
 :::::::: {.g-col-0 .g-col-lg-1 .g-col-xxl-2}

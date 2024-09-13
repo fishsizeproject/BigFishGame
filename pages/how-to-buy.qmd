@@ -15,15 +15,12 @@ include-after-body:
 ::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .spacer-1em .text-center style="--bs-columns: 1;"}
 # We're crowdfunding!
 
-To make the game available in Tasmania and worldwide and to run our engagement activities we are launching a **crowdfunding** campaign. Currently the game is not available for sale and you can only get it through crowdfunding. 
+To make the game available in Tasmania and worldwide and to run our engagement activities we have launched a **crowdfunding** campaign. Currently the game is not available for sale and you can only get it through our [Kickstarter](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game) campaign. 
 
 **This is a non-profit campaign**. 
 By pledging to this campaign you will secure your copy of the game and support education and engagement activities on marine science and sustainable recreational fishing. 
 
-The campaign will launch on **September 15, 2024**. You can follow along on Kickstarter and be notified when it launches! 
-
-[Follow the campaign](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game){.btn .btn-secondary}
-
+The campaign will end on **October 15, 2024**. You can follow along on Kickstarter and be notified of changes and updates to the game.
 <!-- [Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary} -->
 :::::::::::
 
@@ -67,9 +64,13 @@ The campaign will launch on **September 15, 2024**. You can follow along on Kick
 <!-- end timer grid -->
 ::::::
 
-<!-- subscribe to news section -->
 ::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .spacer-1em .text-center style="--bs-columns: 1;"}
-Would you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes by subscribing to our newsletter. You will get no more than one email per month and two reminders about the crowdfunding start. 
-
-[Subscribe](https://forms.office.com/r/wVcaiUSxNF){.btn .btn-secondary}
+[Follow the campaign](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game){.btn .btn-secondary}
 :::::::::::
+
+<!-- subscribe to news section -->
+<!-- ::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .spacer-1em .text-center style="--bs-columns: 1;"} -->
+<!-- Would you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes by subscribing to our newsletter. You will get no more than one email per month and two reminders about the crowdfunding start.  -->
+
+<!-- [Subscribe](https://forms.office.com/r/wVcaiUSxNF){.btn .btn-secondary} -->
+<!-- ::::::::::: -->
