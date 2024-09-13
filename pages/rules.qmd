@@ -47,7 +47,7 @@ Watch this short video where Matt Testoni explains how to play the game, or jump
 <!-- end text column -->
 :::::::::
 
-<!-- video column  -->
+<!-- video column -->
 :::::::: {.g-col-12 .g-col-lg-7 .g-col-xl-6 .g-col-xxl-6 .text-center .img-container .mx-1 .mx-lg-2 .mx-xl-4}
 ::: youtube-box
 <iframe class="youtube" src="https://www.youtube.com/embed/7-v6ba8R8YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
@@ -61,12 +61,14 @@ Watch this short video where Matt Testoni explains how to play the game, or jump
 
 ::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
 :::: {.order-1 .g-col-12 .g-col-lg-12 .g-col-xl-12 .mx-1 .mx-md-3 .mx-xl-4}
-Shuffle all fish cards and wildcards together into the gameplay deck and place in the middle of the play area.
-From this deck, draw cards equal to the number of players +2 and place them face-up in the middle of the play area.
-These are the face-up cards. 
+Shuffle all Fish Cards and Wild Cards together into the Draw Deck, deal each player 7 cards then place the Draw Deck in the middle of the play area. 
+From the Draw Deck, draw cards equal to the number of players +2 and place them face-up in the middle of the play area. 
+These are the Face-Up Cards.
 
-Find the "End of game" card and set it aside, then shuffle the remaining round-end cards. 
-Remove four round-end cards and put them aside, shuffle the "End of game" card into the rest of the deck, and place the four removed cards on top. Place the round-end deck in the centre of the play area. The game will end randomly at any time after the first four rounds.
+Next take the Event Deck and set the “Fishing Season Closed” card to the side. 
+Shuffle the remaining Event Cards. Take 4 Event Cards and put them to the side then shuffle the “Fishing Season Closed” card into the rest of the Event Deck. 
+Next place the four removed Event Cards on top. 
+Place the Event Deck in the centre of the play area. This setup means the game will end randomly at any time after the first 5 rounds.
 ::::
 
 :::: {.order-2 .g-col-12 .g-col-lg-6 .g-col-xxl-4 .mx-1 .mx-md-3 .mx-xl-4}
@@ -74,17 +76,20 @@ Remove four round-end cards and put them aside, shuffle the "End of game" card i
 ::::
 
 :::: {.order-3 .g-col-12 .g-col-lg-6 .g-col-xxl-8 .mx-1 .mx-md-3 .mx-xl-4}
-Identify a large clear space in front of each player - this will be their fishing site. Deal each player six cards. 
-To start the game each player places up to three fish from their hand into their fishing site: one as a big fish, one as a medium fish, and one as a juvenile fish. 
-If the player does not have three fish in their hand, they must place the bigger fish first (so they will have only one big and one medium fish, or only one big fish). 
+Identify a large clear space in front of each player - this will be their Fishing Spot. 
+At the start of the game each player places up to 3 fish from their hand into their Fishing Spot: 1 as a Big Fish, 1 as a Medium Fish and 1 as a Juvenile Fish. 
+If the player does not have three fish in their hand, they must place the Big Fish first.
+
+Each player then receives an Ice Box to store their caught fish, a Turn Order Card and a Scoring Card. The player to last catch a fish also receives the First Player Card. 
 ::::
 :::::::
 
-## Keep track of fish size {.column-screen}
+## Fish Size {.column-screen}
 
 ::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center .my-2}
 :::::: {.g-col-12 .mx-1 .mx-md-3 .mx-xl-4}
-The orientation of the fish cards in your fishing site or ice box is essential. All fish start as larval fish, then become juveniles, medium sized and then large fish. You get different number of points for catching different sized fish. Remember, in each turn a fish can only grow by one size increment. It takes a while to bring back big fish. 
+The orientation of the Fish Cards in your Fishing Spot and Ice Box is crucial. All Fish Cards start as Larval Fish, then grow to Juveniles, Medium sized and then Big Fish. You get different points for catching different sized fish. 
+Remember, in each turn a fish can only Grow by 1 size increment. It takes a while to bring back Big Fish.
 ::::::
 
 ::: {.g-col-6 .g-col-md-3 .mx-1 .mx-md-3 .my-2 .text-center .img-container}
@@ -108,12 +113,12 @@ The orientation of the fish cards in your fishing site or ice box is essential. 
 
 ::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .justify-contents-evenly .align-items-center}
 :::: {.order-1 .g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-1 .mx-md-3 .mx-xl-5}
-During the round each player follows these steps. Use the turn order to keep track.
+Starting with the player who has the First Player Card, each player goes through the 5 steps below to make up their turn. 
+Use the Turn Order Card to keep track of these steps. 
 
-1. **DRAW** new cards equal to the number of big fish you have in your fishing site, but **no more than 5 cards**. You can draw these cards from the face-up cards, the deck, or both. This means that you can draw unknown card from the deck or play safe and take what you  see (from the face-up cards). Check to see if you have any pink wild cards in your fishing site (not in your hands) - they allow you to draw more cards.
+1. **DRAW** new cards equal to the number of Big Fish in your Fishing Spot. However, **no more than 5 cards** can be drawn. You can Draw these cards from the Face-up Cards, the Deck, or both. This means that you can Draw unknown cards from the deck or play it safe and take what you see (from the Face-up Cards). Check to see if you have any orange Draw Wild Cards in your Fishing Spot (not in your Hand) - these allow you to Draw extra cards. 
 
-2. **SPAWN** new fish equal to the number of big fish you have in your fishing site. This is done by placing cards from your hand into your fishing site in the larval fish orientation. 
-Check to see if you have any red wild cards in your fishing site (not in your hands) - they allow you to spawn more fish.
+2. **SPAWN** new fish equal to the number of Big Fish you have in your Fishing Spot. This is done by placing cards from your Hand into your Fishing Spot in the Larval Fish orientation. Check to see if you have any purple Wild Cards in your Fishing Spot (not in your Hand) - these allow you to Spawn more fish. 
 ::::
 
 :::: {.order-2 .g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-lg-4 .g-col-xl-3 .mx-1 .mx-md-3 .mx-xl-5 .text-center .caption-p}
@@ -122,15 +127,12 @@ Check to see if you have any red wild cards in your fishing site (not in your ha
 Click on the image to zoom in!
 ::::
 
-:::: {.order-4  .g-col-12 .mx-1 .mx-md-3 .mx-xl-5}
-3. **GROW** fish to their next stage by rotating them from larval to juvenile, from juvenile to medium, or from medium to big.
-You can grow a fish to the next stage for every big fish present in your fishing site, i.e. if you have two big fish you may grow two smaller fish to their next stage.
-Fish can only grow by one stage in each turn (larval to juvenile, medium to large, etc), i.e. larval juvenile cannot become big fish in one round even if you have three big fish and can have three "growth steps".
-Check to see if you have any green wild cards with a starfish in your fishing hole (not in your hands) -- they allow you to grow more fish.
+:::: {.order-4 .g-col-12 .mx-1 .mx-md-3 .mx-xl-5}
+3. **GROW** 1 fish to the next size for every Big Fish present in your Fishing Spot, i.e. if you have 2 Big Fish you may Grow 2 fish to their next stage. Grow fish to their next stage by rotating them from Larval to Juvenile, from Juvenile to Medium, or from Medium to Big. Fish can only Grow by 1 size each turn (Larval to Juvenile, Medium to Big, etc), i.e. Larval and Juvenile Fish cannot become Big Fish in one round even if you have 3 Big Fish and can have 3 “growth steps”. Check to see if you have any green Wild Cards in your Fishing Spot (not in your Hand) – these allow you to Grow more fish.
 
-4. If you like, **CATCH** **ONE** fish from your fishing site. Catching is optional. You catch fish by placing it in your ice box in the same orientation as you caught it. Caught big fish no longer count as big fish in your fishing site. You can only catch one fish per turn, unless you have orange wild cards in your fishing site (not in your hands), such as fishing rod, scuba equipment or delicious bait. Remember, it is important to keep catching fish, because once the game ends the player who has the largest number of points from the caught fish will win. Catching big fish will give you more points, but will reduce the number of cards you can draw, the number of fish you can spawn or the number of growth steps you can have.
+4. If you like, **CATCH** **ONE** 1 fish from your Fishing Spot. Catching is optional. You Catch fish by moving the fish from your Fishing Spot into your Ice Box whilst making sure the orientation (size) doesn’t change. Caught Big Fish no longer count as Big Fish in your Fishing Spot. Remember you can only Catch 1 fish per turn, unless you have yellow Wild Cards in your Fishing Spot (not in your Hand), such as fishing rod, SCUBA equipment or delicious bait. Remember, it is important to keep catching fish, because once the game ends the player who has the largest number of points from the caught fish will win. Catching Big Fish will give you more points, however, it will reduce the number of cards you can Draw, the number of fish you can Spawn or the number of Grow steps you can perform. 
 
-5. If you like, play **ONE WILD CARD** from your hand into your fishing site. Wild cards come in multiple colours that do different things. Coloured cards are played (placed) into your fishing site to give you extra abilities or improve your site. They are permanent and apply each round. Black wildcards give one-off effects and must be discarded once they are played.
+5. If you like, **PLAY** 1 Wild Card from your Hand into your Fishing Spot. Wild Cards come in multiple colours that do different things. Coloured Wild Cards are played (placed) into your Fishing Spot to give you extra abilities or improve your Fishing Spot (these abilities activate on the player’s next turn during each corresponding turn step). They are permanent and apply each round. Black Wild Cards give one-off effects and must be discarded once they are played (with the exception of the Blue Groper). 
 ::::
 :::::::
 
@@ -144,18 +146,15 @@ Click on the image to zoom in!
 :::
 
 ::: {.order-2 .g-col-12 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-2 .mx-md-3 .mx-xl-5}
-Once each player has had one turn, follow the round end steps to complete the round.
+Once each player has had their turn, follow the round end steps to complete the round. 
 
-1. **Reveal** the top round end event card and follow its directions.
-If this is a round 5 or more, the round end card might also be the end of the game card.
+1. **Reveal** the top Event Card and follow its directions. If this occurs at the end of round 5 or later, the Event Card might also be the game end card. 
 
-2. **Discard** cards so no player has more than 7 cards in hand. 
-This is rarely needed, but helps maintain the balance of the game.
+2. **Discard** cards so no player has more than 7 cards in their Hand. This is rarely needed, but helps maintain the balance of the game. 
 
-3. **Reset** the face-up cards for the centre by moving them to the used card pile (face-down) and setting up new face-up cards from the pile (number of players + 2).
+3. **Reset** the Face-Up Cards in the centre by moving them to the discard pile and setting up new Face-Up Cards from the Deck (Face-Up Cards equal the number of players + 2). 
 
-4. **Rotate** the first player by passing the first player card clockwise.
-This ensures that the first player gets the choice of new face-up cards equally.
+4. **Rotate** the first player by passing the First Player Card clockwise. This ensures that the players get the choice of new Face-Up Cards equally.
 :::
 ::::::
 
@@ -169,21 +168,17 @@ Click on the image to zoom in!
 :::
 
 ::: {.order-1 .g-col-12 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-2 .mx-md-3 .mx-xl-5}
-The game ends randomly, once the flipped round end card is the "End of the game" card.
-This should happen after the end of 5 rounds or more.
-Now count your points.
+The game ends randomly once the “Fishing Season Closed Card” is revealed. This can happen randomly any time after the end of round 5. Now count your points. 
 
-1. Making sure you keep the orientation correct for each fish in your ice box and count the points displayed next to the size of each fish in your ice box.
+1. First count the points displayed next to the size of each fish in your Ice Box. Make sure you keep the orientation of each fish in your Ice Box correct. 
 
-2. Each larval, juvenile and medium fish remaining in your fishing site give you 1 point.
-Add these points to your total score.
+2. Then count the points in your Fishing Spot; each Larval, Juvenile and Medium fish remaining in your Fishing Spot is worth 1 point and each Big Fish in your Fishing Spot is worth 2 points. 
 
-3. Each big fish remaining alive in your fishing site give you 2 points.
-Add these points to your total score.
+3. Add your points together to get your total score. 
 :::
 
 ::: {.order-3 .g-col-12 .g-col-md-8 .g-col-lg-8 .g-col-xl-9 .mx-1 .mx-md-3 .mx-xl-4 .text-center .h3 style="color: var(--bs-accent); margin-top: 0px; margin-bottom: 2em;"}
-**The player with the most points wins! **
+**The player with the most points wins Big Fish and is crowned the #1 Fisher!**
 :::
 ::::::
 
