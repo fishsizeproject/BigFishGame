@@ -1,5 +1,5 @@
 ---
-pagetitle: Wildcards & Round-end cards | BigFish Card Game
+pagetitle: Wildcards & Event cards | BigFish Card Game
 description-meta: |
  Learn about the science behind all the wildcards included in the BigFish game.
 
@@ -15,7 +15,7 @@ sidebar: special-sidebar
 
 ::::::::: {.grid .justify-contents-evenly .align-items-center .mx-1 .mx-sm-2 .mx-md-3 .mx-lg-4}
 :::::: {.g-col-12 .g-col-md-7}
-On this page you can learn more about the science behind all the wildcards included in the game. You can find the science behind all the round-end cards [here](../pages/round-end-cards.qmd).
+On this page you can learn more about the science behind all the wildcards included in the game. You can find the science behind all the event cards [here](../pages/event-cards.qmd).
 
 We are constantly updating this page, so please visit regularly for new information. If you think we are missing some important information or important events or cards, please [contact us](../pages/about.qmd)!
 
@@ -35,7 +35,7 @@ Mel finds a weedy seadragon while diving at one of the Reef Life Survey sites.
 ::::::::: {.g-col-12}
 ## Blue Groper {#sec-blue-groper}
 
-*More information on this card coming soon!*
+Blue Gropers can be an ecologically important species that help prevent the creation of urchin barrens that occur due to the presence of the Long-spine sea urchin. Whilst they may do little to reverse barren areas their presence as a predator of grazing urchins helps prevent the creation of barrens. They have also been shown to keep marine habitats balanced through predation of other marine invertebrates.
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -47,7 +47,7 @@ Mel finds a weedy seadragon while diving at one of the Reef Life Survey sites.
 ::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
 ### How to play
 
-Place into your fishing spot to prevent the effects of [Urchins](../pages/round-end-cards.qmd#sec-urchins-arrive).
+Place into your fishing spot to prevent the effects of [Urchins](../pages/event-cards.qmd#sec-urchins-arrive).
 :::
 ::::::
 :::::::::
@@ -55,7 +55,10 @@ Place into your fishing spot to prevent the effects of [Urchins](../pages/round-
 ::::::::: {.g-col-12}
 ### Learn more
 
-*More information on this card coming soon!*
+Check out these resources to learn more:
+
+- An overview of the Blue Groper by the [Australian Marine Conservation Society](https://www.marineconservation.org.au/bluegroper)
+- A [review](https://www.imas.utas.edu.au/__data/assets/pdf_file/0004/743080/Eastern-Blue-Groper-Review-IMAS-amended.pdf) by IMAS on the potential to translocate Blue Groper for conservation
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -194,7 +197,7 @@ These are the research themes of the Centre for Marine Socioecology. Check out [
 ::::::::: {.g-col-12}
 ## Delicious bait {#sec-delicious-bait}
 
-*More information on this card coming soon!*
+It’s important when collecting bait for recreational fishing activities to think about the potential impact bait collection has. Some bait collection activities that occur in excess can lead to a decline in bait presence as well as negatively impacting shore bird species. Often the collection process can be the primary cause of population declines. Examples include removing boulders or rocks in search of bait crabs. 
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -214,13 +217,13 @@ Place into your fishing spot to catch an additional fish each turn. If you do, d
 ::::::::: {.g-col-12}
 ### Learn more
 
-*More information on this card coming soon!*
+Many baits can be collected sustainably especially if care is taken to prevent damage to the habitat the bait is collected from. Often there will be local rules and limits of bait collection just like recreational fishing bag limits. It is important that local rules are obeyed and consulted to ensure sustainable bait and thus a healthy and productive marine ecosystem. 
 :::::::::
 
 ::::::::: {.g-col-12}
 ## Fishing kayak {#sec-fishing-kayak}
 
-*More information on this card coming soon!*
+Fishing kayaks and canoes have been used by indigenous peoples of Australia and the world for many thousands of years. They can in many different forms, from hollowed out trees, to woven boats and those lined with animal hides. 
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -240,13 +243,13 @@ Catch a medium-sized fish from either the face-up cards or your fishing spot. Di
 ::::::::: {.g-col-12}
 ### Learn more
 
-*More information on this card coming soon!*
+Fishing and kayak/canoes have a rich intertwined history.
 :::::::::
 
 ::::::::: {.g-col-12}
 ## Fishing rod {#sec-fishing-rod}
 
-*More information on this card coming soon!*
+As fishing technology advances, fish become easier to catch. This results in increased catches and can put extra pressure on recreational fish species. It is therefore important to consider new technologies when assessing fish stocks.
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -337,6 +340,33 @@ Healthy giant kelp forests are essential to ocean health, and they're extremely 
 :::::: 
 :::
 ::::::::::
+
+::::::::: {.g-col-12}
+## Heat wave {#sec-heat-wave}
+
+Marine Heatwaves play havoc on Tasmanian marine ecosystems. They do this by changing the population structure of many species. This change can result in food sources such as plankton moving further south, which in turn can alter the foodweb.
+:::::::::
+
+::::::::: {.g-col-12}
+:::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
+![](../resources/images/cards/wild-cards/heatwave.jpg){.image-card .lightbox}
+:::
+
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
+### How to play
+
+Choose a player, they must discard two non-big fish from their fishing spot.
+:::
+::::::
+:::::::::
+
+::::::::: {.g-col-12}
+### Learn more
+
+Altered food webs can often result in poor reproduction amongst fish, habitat loss due to invasive species and many more negative consequences. It is these lesser easily observed consequences that can lead to serious declines in the populations of recreationally fish marine species. 
+
+:::::::::
 
 ::::::::: {.g-col-12}
 ## Humpback whale {#sec-humpback-whale}
@@ -566,7 +596,7 @@ Kelp and other seaweeds are particularly affected by poor water quality, because
 ::::::::: {.g-col-12}
 ## SCUBA equipment {#sec-scuba-equipment}
 
-*More information on this card coming soon!*
+SCUBA diving collection can be a great way to selectively target certain fishable species. This often results in less bycatch and habitat destruction. However, some species are very easily collected and SCUBA diving whilst fishing can result in severe stock damage. It is therefore important to use SCUBA gear responsibly and obey the rules of which species can and cannot be caught on SCUBA. 
 :::::::::
 
 ::::::::: {.g-col-12}
