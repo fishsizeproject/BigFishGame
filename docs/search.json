@@ -4,7 +4,7 @@
     "href": "pages/wildcards.html#sec-blue-groper",
     "title": "Wild cards",
     "section": "Blue Groper",
-    "text": "Blue Groper\nMore information on this card coming soon!"
+    "text": "Blue Groper\nBlue Gropers can be an ecologically important species that help prevent the creation of urchin barrens that occur due to the presence of the Long-spine sea urchin. Whilst they may do little to reverse barren areas their presence as a predator of grazing urchins helps prevent the creation of barrens. They have also been shown to keep marine habitats balanced through predation of other marine invertebrates."
   },
   {
     "objectID": "pages/wildcards.html#sec-catch-or-release",
@@ -32,21 +32,21 @@
     "href": "pages/wildcards.html#sec-delicious-bait",
     "title": "Wild cards",
     "section": "Delicious bait",
-    "text": "Delicious bait\nMore information on this card coming soon!"
+    "text": "Delicious bait\nIt’s important when collecting bait for recreational fishing activities to think about the potential impact bait collection has. Some bait collection activities that occur in excess can lead to a decline in bait presence as well as negatively impacting shore bird species. Often the collection process can be the primary cause of population declines. Examples include removing boulders or rocks in search of bait crabs."
   },
   {
     "objectID": "pages/wildcards.html#sec-fishing-kayak",
     "href": "pages/wildcards.html#sec-fishing-kayak",
     "title": "Wild cards",
     "section": "Fishing kayak",
-    "text": "Fishing kayak\nMore information on this card coming soon!"
+    "text": "Fishing kayak\nFishing kayaks and canoes have been used by indigenous peoples of Australia and the world for many thousands of years. They can in many different forms, from hollowed out trees, to woven boats and those lined with animal hides."
   },
   {
     "objectID": "pages/wildcards.html#sec-fishing-rod",
     "href": "pages/wildcards.html#sec-fishing-rod",
     "title": "Wild cards",
     "section": "Fishing rod",
-    "text": "Fishing rod\nMore information on this card coming soon!"
+    "text": "Fishing rod\nAs fishing technology advances, fish become easier to catch. This results in increased catches and can put extra pressure on recreational fish species. It is therefore important to consider new technologies when assessing fish stocks."
   },
   {
     "objectID": "pages/wildcards.html#sec-giant-kelp",
@@ -54,6 +54,13 @@
     "title": "Wild cards",
     "section": "Giant kelp",
     "text": "Giant kelp\nGiant Kelp provides a huge, complex, and food-filled habitat which is essential for healthy oceans and healthy fish populations. Giant kelp forests produce much greater amounts of food for particularly important species of fish and invertebrate than other types of kelp forest, and those species feed back into the larger marine ecosystem.\nHowever, giant kelp forests around Australia have been declining drastically for decades, mostly due to climate change. This is a huge loss of natural underwater “forests” that remains unknown by the general public. Many scientists and organisations are working to restore these kelp forests."
+  },
+  {
+    "objectID": "pages/wildcards.html#sec-heat-wave",
+    "href": "pages/wildcards.html#sec-heat-wave",
+    "title": "Wild cards",
+    "section": "Heat wave",
+    "text": "Heat wave\nMarine Heatwaves play havoc on Tasmanian marine ecosystems. They do this by changing the population structure of many species. This change can result in food sources such as plankton moving further south, which in turn can alter the foodweb."
   },
   {
     "objectID": "pages/wildcards.html#sec-humpback-whale",
@@ -95,7 +102,7 @@
     "href": "pages/wildcards.html#sec-scuba-equipment",
     "title": "Wild cards",
     "section": "SCUBA equipment",
-    "text": "SCUBA equipment\nMore information on this card coming soon!"
+    "text": "SCUBA equipment\nSCUBA diving collection can be a great way to selectively target certain fishable species. This often results in less bycatch and habitat destruction. However, some species are very easily collected and SCUBA diving whilst fishing can result in severe stock damage. It is therefore important to use SCUBA gear responsibly and obey the rules of which species can and cannot be caught on SCUBA."
   },
   {
     "objectID": "pages/wildcards.html#sec-seaweed",
@@ -123,18 +130,18 @@
     "href": "pages/rules.html#sec-setup",
     "title": "How to play",
     "section": "Setup",
-    "text": "Setup\n\n\nShuffle all fish cards and wildcards together into the gameplay deck and place in the middle of the play area. From this deck, draw cards equal to the number of players +2 and place them face-up in the middle of the play area. These are the face-up cards.\nFind the “End of game” card and set it aside, then shuffle the remaining round-end cards. Remove four round-end cards and put them aside, shuffle the “End of game” card into the rest of the deck, and place the four removed cards on top. Place the round-end deck in the centre of the play area. The game will end randomly at any time after the first four rounds.\n\n\n\n\n\nIdentify a large clear space in front of each player - this will be their fishing site. Deal each player six cards. To start the game each player places up to three fish from their hand into their fishing site: one as a big fish, one as a medium fish, and one as a juvenile fish. If the player does not have three fish in their hand, they must place the bigger fish first (so they will have only one big and one medium fish, or only one big fish).",
+    "text": "Setup\n\n\nShuffle all Fish Cards and Wild Cards together into the Draw Deck, deal each player 7 cards then place the Draw Deck in the middle of the play area. From the Draw Deck, draw cards equal to the number of players +2 and place them face-up in the middle of the play area. These are the Face-Up Cards.\nNext take the Event Deck and set the “Fishing Season Closed” card to the side. Shuffle the remaining Event Cards. Take 4 Event Cards and put them to the side then shuffle the “Fishing Season Closed” card into the rest of the Event Deck. Next place the four removed Event Cards on top. Place the Event Deck in the centre of the play area. This setup means the game will end randomly at any time after the first 5 rounds.\n\n\n\n\n\nIdentify a large clear space in front of each player - this will be their Fishing Spot. At the start of the game each player places up to 3 fish from their hand into their Fishing Spot: 1 as a Big Fish, 1 as a Medium Fish and 1 as a Juvenile Fish. If the player does not have three fish in their hand, they must place the Big Fish first.\nEach player then receives an Ice Box to store their caught fish, a Turn Order Card and a Scoring Card. The player to last catch a fish also receives the First Player Card.",
     "crumbs": [
       "Rules",
       " Game Setup & Rules"
     ]
   },
   {
-    "objectID": "pages/rules.html#keep-track-of-fish-size",
-    "href": "pages/rules.html#keep-track-of-fish-size",
+    "objectID": "pages/rules.html#fish-size",
+    "href": "pages/rules.html#fish-size",
     "title": "How to play",
-    "section": "Keep track of fish size",
-    "text": "Keep track of fish size\n\n\nThe orientation of the fish cards in your fishing site or ice box is essential. All fish start as larval fish, then become juveniles, medium sized and then large fish. You get different number of points for catching different sized fish. Remember, in each turn a fish can only grow by one size increment. It takes a while to bring back big fish.",
+    "section": "Fish Size",
+    "text": "Fish Size\n\n\nThe orientation of the Fish Cards in your Fishing Spot and Ice Box is crucial. All Fish Cards start as Larval Fish, then grow to Juveniles, Medium sized and then Big Fish. You get different points for catching different sized fish. Remember, in each turn a fish can only Grow by 1 size increment. It takes a while to bring back Big Fish.",
     "crumbs": [
       "Rules",
       " Game Setup & Rules"
@@ -145,7 +152,7 @@
     "href": "pages/rules.html#sec-gameplay",
     "title": "How to play",
     "section": "Gameplay",
-    "text": "Gameplay\n\n\nDuring the round each player follows these steps. Use the turn order to keep track.\n\nDRAW new cards equal to the number of big fish you have in your fishing site, but no more than 5 cards. You can draw these cards from the face-up cards, the deck, or both. This means that you can draw unknown card from the deck or play safe and take what you see (from the face-up cards). Check to see if you have any pink wild cards in your fishing site (not in your hands) - they allow you to draw more cards.\nSPAWN new fish equal to the number of big fish you have in your fishing site. This is done by placing cards from your hand into your fishing site in the larval fish orientation. Check to see if you have any red wild cards in your fishing site (not in your hands) - they allow you to spawn more fish.\n\n\n\n\nClick on the image to zoom in!\n\n\n\nGROW fish to their next stage by rotating them from larval to juvenile, from juvenile to medium, or from medium to big. You can grow a fish to the next stage for every big fish present in your fishing site, i.e. if you have two big fish you may grow two smaller fish to their next stage. Fish can only grow by one stage in each turn (larval to juvenile, medium to large, etc), i.e. larval juvenile cannot become big fish in one round even if you have three big fish and can have three “growth steps”. Check to see if you have any green wild cards with a starfish in your fishing hole (not in your hands) – they allow you to grow more fish.\nIf you like, CATCH ONE fish from your fishing site. Catching is optional. You catch fish by placing it in your ice box in the same orientation as you caught it. Caught big fish no longer count as big fish in your fishing site. You can only catch one fish per turn, unless you have orange wild cards in your fishing site (not in your hands), such as fishing rod, scuba equipment or delicious bait. Remember, it is important to keep catching fish, because once the game ends the player who has the largest number of points from the caught fish will win. Catching big fish will give you more points, but will reduce the number of cards you can draw, the number of fish you can spawn or the number of growth steps you can have.\nIf you like, play ONE WILD CARD from your hand into your fishing site. Wild cards come in multiple colours that do different things. Coloured cards are played (placed) into your fishing site to give you extra abilities or improve your site. They are permanent and apply each round. Black wildcards give one-off effects and must be discarded once they are played.",
+    "text": "Gameplay\n\n\nStarting with the player who has the First Player Card, each player goes through the 5 steps below to make up their turn. Use the Turn Order Card to keep track of these steps.\n\nDRAW new cards equal to the number of Big Fish in your Fishing Spot. However, no more than 5 cards can be drawn. You can Draw these cards from the Face-up Cards, the Deck, or both. This means that you can Draw unknown cards from the deck or play it safe and take what you see (from the Face-up Cards). Check to see if you have any orange Draw Wild Cards in your Fishing Spot (not in your Hand) - these allow you to Draw extra cards.\nSPAWN new fish equal to the number of Big Fish you have in your Fishing Spot. This is done by placing cards from your Hand into your Fishing Spot in the Larval Fish orientation. Check to see if you have any purple Wild Cards in your Fishing Spot (not in your Hand) - these allow you to Spawn more fish.\n\n\n\n\nClick on the image to zoom in!\n\n\n\nGROW 1 fish to the next size for every Big Fish present in your Fishing Spot, i.e. if you have 2 Big Fish you may Grow 2 fish to their next stage. Grow fish to their next stage by rotating them from Larval to Juvenile, from Juvenile to Medium, or from Medium to Big. Fish can only Grow by 1 size each turn (Larval to Juvenile, Medium to Big, etc), i.e. Larval and Juvenile Fish cannot become Big Fish in one round even if you have 3 Big Fish and can have 3 “growth steps”. Check to see if you have any green Wild Cards in your Fishing Spot (not in your Hand) – these allow you to Grow more fish.\nIf you like, CATCH ONE 1 fish from your Fishing Spot. Catching is optional. You Catch fish by moving the fish from your Fishing Spot into your Ice Box whilst making sure the orientation (size) doesn’t change. Caught Big Fish no longer count as Big Fish in your Fishing Spot. Remember you can only Catch 1 fish per turn, unless you have yellow Wild Cards in your Fishing Spot (not in your Hand), such as fishing rod, SCUBA equipment or delicious bait. Remember, it is important to keep catching fish, because once the game ends the player who has the largest number of points from the caught fish will win. Catching Big Fish will give you more points, however, it will reduce the number of cards you can Draw, the number of fish you can Spawn or the number of Grow steps you can perform.\nIf you like, PLAY 1 Wild Card from your Hand into your Fishing Spot. Wild Cards come in multiple colours that do different things. Coloured Wild Cards are played (placed) into your Fishing Spot to give you extra abilities or improve your Fishing Spot (these abilities activate on the player’s next turn during each corresponding turn step). They are permanent and apply each round. Black Wild Cards give one-off effects and must be discarded once they are played (with the exception of the Blue Groper).",
     "crumbs": [
       "Rules",
       " Game Setup & Rules"
@@ -156,7 +163,7 @@
     "href": "pages/rules.html#sec-round-end",
     "title": "How to play",
     "section": "Round end",
-    "text": "Round end\n\n\n\nClick on the image to zoom in!\n\n\nOnce each player has had one turn, follow the round end steps to complete the round.\n\nReveal the top round end event card and follow its directions. If this is a round 5 or more, the round end card might also be the end of the game card.\nDiscard cards so no player has more than 7 cards in hand. This is rarely needed, but helps maintain the balance of the game.\nReset the face-up cards for the centre by moving them to the used card pile (face-down) and setting up new face-up cards from the pile (number of players + 2).\nRotate the first player by passing the first player card clockwise. This ensures that the first player gets the choice of new face-up cards equally.",
+    "text": "Round end\n\n\n\nClick on the image to zoom in!\n\n\nOnce each player has had their turn, follow the round end steps to complete the round.\n\nReveal the top Event Card and follow its directions. If this occurs at the end of round 5 or later, the Event Card might also be the game end card.\nDiscard cards so no player has more than 7 cards in their Hand. This is rarely needed, but helps maintain the balance of the game.\nReset the Face-Up Cards in the centre by moving them to the discard pile and setting up new Face-Up Cards from the Deck (Face-Up Cards equal the number of players + 2).\nRotate the first player by passing the First Player Card clockwise. This ensures that the players get the choice of new Face-Up Cards equally.",
     "crumbs": [
       "Rules",
       " Game Setup & Rules"
@@ -167,32 +174,29 @@
     "href": "pages/rules.html#sec-game-end",
     "title": "How to play",
     "section": "Game end",
-    "text": "Game end\n\n\n\nClick on the image to zoom in!\n\n\nThe game ends randomly, once the flipped round end card is the “End of the game” card. This should happen after the end of 5 rounds or more. Now count your points.\n\nMaking sure you keep the orientation correct for each fish in your ice box and count the points displayed next to the size of each fish in your ice box.\nEach larval, juvenile and medium fish remaining in your fishing site give you 1 point. Add these points to your total score.\nEach big fish remaining alive in your fishing site give you 2 points. Add these points to your total score.\n\n\n\nThe player with the most points wins!",
+    "text": "Game end\n\n\n\nClick on the image to zoom in!\n\n\nThe game ends randomly once the “Fishing Season Closed Card” is revealed. This can happen randomly any time after the end of round 5. Now count your points.\n\nFirst count the points displayed next to the size of each fish in your Ice Box. Make sure you keep the orientation of each fish in your Ice Box correct.\nThen count the points in your Fishing Spot; each Larval, Juvenile and Medium fish remaining in your Fishing Spot is worth 1 point and each Big Fish in your Fishing Spot is worth 2 points.\nAdd your points together to get your total score.\n\n\n\nThe player with the most points wins Big Fish and is crowned the #1 Fisher!",
     "crumbs": [
       "Rules",
       " Game Setup & Rules"
     ]
   },
   {
-    "objectID": "pages/outreach-blog.html#upcoming-events",
-    "href": "pages/outreach-blog.html#upcoming-events",
-    "title": "News and events",
-    "section": "Upcoming events",
-    "text": "Upcoming events\n\n\n\n\n\n15th September\n\n\nWorkshop at AMSA (closed event)\n\n\n17th September\n\n\nBig Fish game will launch at Hobart Brewing Company, 7-9pm. Anyone can come and it should be lots of fun!\n\n\n19th September\n\n\nGame night with Environment Tasmania at Overland Brewery - get your tickets here!\n\n\n\n\n\n22nd September\n\n\nGame play session and display at SCUBA buy swap and sell\n\n\n4th October\n\n\nBOTES Film Night at IMAS\n\n\n10th October\n\n\nGamification Panel night at Boodle Beasly - more info coming soon!\n\n\n\n\nFollow us on Instagram to see the latest updates!\nFollow us on Instagram"
+    "objectID": "pages/rules.html#sec-hard-mode",
+    "href": "pages/rules.html#sec-hard-mode",
+    "title": "How to play",
+    "section": "Hard mode",
+    "text": "Hard mode\n\n\nFor an extra challenge, once you have played through Big Fish, take note that some fish have a small Bag Icon next to their name. This means that they have a bag limit and therefore only 1 of these fish is allowed to be caught per player per game.",
+    "crumbs": [
+      "Rules",
+      " Game Setup & Rules"
+    ]
   },
   {
-    "objectID": "pages/outreach-blog.html#bigfish-blog",
-    "href": "pages/outreach-blog.html#bigfish-blog",
-    "title": "News and events",
-    "section": "BigFish Blog",
-    "text": "BigFish Blog"
-  },
-  {
-    "objectID": "pages/new-page-no-sidebar.html#section-title",
-    "href": "pages/new-page-no-sidebar.html#section-title",
+    "objectID": "pages/new-page-with-sidebar.html#sec-section",
+    "href": "pages/new-page-with-sidebar.html#sec-section",
     "title": "Main page title",
     "section": "Section title",
-    "text": "Section title"
+    "text": "Section title\n\n\n\n\n\n\n\n\n\nSubtitle\nAenean placerat luctus tortor vitae molestie. Nulla at aliquet nulla. Sed efficitur tellus orci, sed fringilla lectus laoreet eget. Vivamus maximus quam sit amet arcu dignissim, sed accumsan massa ullamcorper. Sed iaculis tincidunt feugiat. Nulla in est at nunc ultricies dictum ut vitae nunc. Aenean convallis vel diam at malesuada. Suspendisse arcu libero, vehicula tempus ultrices a, placerat sit amet tortor. Sed dictum id nulla commodo mattis. Aliquam mollis, nunc eu tristique faucibus, purus lacus tincidunt nulla, ac pretium lorem nunc ut enim. Curabitur eget mattis nisl, vitae sodales augue. Nam felis massa, bibendum sit amet nulla vel, vulputate rutrum lacus. Aenean convallis odio pharetra nulla mattis consequat.\n\n\nSubtitle\nEtiam non efficitur urna, quis elementum nisi. Mauris posuere a augue vel gravida. Praesent luctus erat et ex iaculis interdum. Nulla vestibulum quam ac nunc consequat vulputate. Nullam iaculis lobortis sem sit amet fringilla. Aliquam semper, metus ut blandit semper, nulla velit fermentum sapien, fermentum ultrices dolor sapien sed leo. Vestibulum molestie faucibus magna, at feugiat nulla ullamcorper a. Aliquam erat volutpat. Praesent scelerisque magna a justo maximus, sit amet suscipit mauris tempor. Nulla nec dolor eget ipsum pellentesque lobortis a in ipsum. Morbi turpis turpis, fringilla a eleifend maximus, viverra nec neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\n\n\n\n\nThis is a button"
   },
   {
     "objectID": "pages/how-to-buy.html",
@@ -202,32 +206,88 @@
     "text": "We’re crowdfunding!\nTo make the game available in Tasmania and worldwide and to run our engagement activities we are launching a crowdfunding campaign. Currently the game is not available for sale and you can only get it through crowdfunding.\nThis is a non-profit campaign. By pledging to this campaign you will secure your copy of the game and support education and engagement activities on marine science and sustainable recreational fishing.\nThe campaign will launch on September 15, 2024. You can follow along on Kickstarter and be notified when it launches!\nFollow the campaign\n\n\n\n\n\n\nDD\n\n\nDAYS\n\n\n\n\n:\n\n\n\n\nHH\n\n\nHOURS\n\n\n\n\n:\n\n\n\n\nMM\n\n\nMINS\n\n\n\n\n:\n\n\n\n\nSS\n\n\nSECS\n\n\n\n\n\n\nWould you like to be reminded about the crowdfunding launch? You can get the game, expansion pack, prints of amazing fish drawings signed by the artist, t-shirt and other prizes by subscribing to our newsletter. You will get no more than one email per month and two reminders about the crowdfunding start.\nSubscribe"
   },
   {
-    "objectID": "pages/blog-posts/FOBI.html",
-    "href": "pages/blog-posts/FOBI.html",
-    "title": "Festival of Bright Ideas",
-    "section": "",
-    "text": "The Festival of Bright Ideas held down at Princes Pier in Hobart was the Big Fish Card Game’s first big event. The team from the Fish Size Project that developed Big Fish were all on station to show the game off to hundreds of school students and a host of families over the 2 day event. The game was played so many times the crew lost count.\nWith only a few weeks till launch FOBI was a great test of how engaging, educational and fun the game can be. The feedback from the students and families was overwhelmingly positive with many excited to get their hand on the game and support the project.\n\n\nBig Fish development and support team Freddie Heather, Matt Testoni, Olivia Cornes, Alex Johne, Amy Coghlan and Sarah Willington at the Festival of Bright Ideas."
+    "objectID": "pages/event-cards.html#sec-el-nino-begins",
+    "href": "pages/event-cards.html#sec-el-nino-begins",
+    "title": "Round-end cards",
+    "section": "El Niño begins",
+    "text": "El Niño begins\nWhen an El Niño is present on the south east coast of Australia more heatwaves, strong swells and storms affect the ocean. Increases in sea surface temperature can also occur. This can mean smaller individuals of a species are less likely to be able to survive these events. Species such as Abalone have also been observed as having decreased reproductive ability as heatwaves and severe weather cause physiological stress. There is also evidence that fish move away from certain coastal areas, meaning fishing ability is potentially changed in El Niño years.\n\n\n\n\n\nHow to play\nThis card is revealed at the end of the round. When revealed, each player must discard a medium or juvenile fish from their habitat."
   },
   {
-    "objectID": "pages/blog-posts/FOBI.html#the-first-big-event",
-    "href": "pages/blog-posts/FOBI.html#the-first-big-event",
-    "title": "Festival of Bright Ideas",
-    "section": "",
-    "text": "The Festival of Bright Ideas held down at Princes Pier in Hobart was the Big Fish Card Game’s first big event. The team from the Fish Size Project that developed Big Fish were all on station to show the game off to hundreds of school students and a host of families over the 2 day event. The game was played so many times the crew lost count.\nWith only a few weeks till launch FOBI was a great test of how engaging, educational and fun the game can be. The feedback from the students and families was overwhelmingly positive with many excited to get their hand on the game and support the project.\n\n\nBig Fish development and support team Freddie Heather, Matt Testoni, Olivia Cornes, Alex Johne, Amy Coghlan and Sarah Willington at the Festival of Bright Ideas."
+    "objectID": "pages/event-cards.html#sec-fisheries-research",
+    "href": "pages/event-cards.html#sec-fisheries-research",
+    "title": "Round-end cards",
+    "section": "Fisheries research occurs",
+    "text": "Fisheries research occurs\nFisheries have collapsed in the past, and species have been overcaught to the verge of extinction. This can come as a surprise – there may still be fish being caught, and the fish may appear to be plentiful. In reality we are just getting better at catching them, or the remaining population can reach a critical point beyond which recovery is challenging without intervention. For instance, if most of the breeding population has been fished and the remaining population is being fished too fast, then the individuals left don’t have a chance to reproduce.\nThis is more likely with fish that mature at an old age, such as orange roughy that need to survive 27-32 years before they can reproduce. In the 1980s and 1990s orange roughy were being harvested by fisheries so fast that the fishery collapsed (it was no longer economically viable to harvest these fish as too few were being caught each trip). Without baseline information on how a population is structured in terms of age, size and genetics, we are unable to determine how the population is responding to harvesting by people. With this information however, managers can intervene to save a species and ensure sustainable harvesting into the future.\n\n\n\n\n\nHow to play\nDraw a face-down card. If it is a fish card, release it into your fishing spot as a medium sized fish."
   },
   {
-    "objectID": "pages/blog-posts/card-redesign.html",
-    "href": "pages/blog-posts/card-redesign.html",
-    "title": "Pre-launch card redesign",
-    "section": "",
-    "text": "With only weeks until the crowd funding launch of Big Fish, the team has been hard at work refining the game. With new art works for expansions and a finalisation of the rules, the game is really coming together. During this time we also have the final graphic design nailed down and tested with a whole new bunch of demo copies of the game. Check out how some of the new cards look!"
+    "objectID": "pages/event-cards.html#sec-localised-species-extinction",
+    "href": "pages/event-cards.html#sec-localised-species-extinction",
+    "title": "Round-end cards",
+    "section": "Localised species extinction",
+    "text": "Localised species extinction\nBiodiversity loss (a decline in the number of species present in an ecosystem) is known to cause the ocean ecosystem to weaken in its ability to adapt and withstand changes. These changes include events such as marine heatwaves, climate change and weather patterns. An ecosystem with lower biodiversity is much more likely to suffer severe negative effects than a more biodiverse and resilient ocean ecosystem.\n\n\n\n\n\nHow to play\nWhen this card is drawn at the end of a round, the subsequent round will have no face-up cards present. This means that all cards that refer to face-up cards will no longer be able to be used during the round where this card is active."
   },
   {
-    "objectID": "pages/blog-posts/card-redesign.html#getting-ready",
-    "href": "pages/blog-posts/card-redesign.html#getting-ready",
-    "title": "Pre-launch card redesign",
+    "objectID": "pages/event-cards.html#sec-ocean-acidification",
+    "href": "pages/event-cards.html#sec-ocean-acidification",
+    "title": "Round-end cards",
+    "section": "Ocean acidification",
+    "text": "Ocean acidification\nIf any abalone, lobster, or crab cards are present in a player’s fishing spot they must discard them.\n\n\n\n\n\nHow to play\nIncreasing atmospheric carbon increases the amount of carbon which dissolves into the ocean at the surface, resulting in a change in the ocean’s pH. Between 1950 and 2020 the average pH of the ocean shifted from 8.15 to 8.0, meaning it has become more acidic. In more acidic waters, it becomes increasingly difficult for animals to grow their shells and carbonate skeletons."
+  },
+  {
+    "objectID": "pages/event-cards.html#sec-plankton-swarm",
+    "href": "pages/event-cards.html#sec-plankton-swarm",
+    "title": "Round-end cards",
+    "section": "Plankton swarm occurs",
+    "text": "Plankton swarm occurs\nBoth phytoplankton (tiny plants) and the zooplankton (tiny animals) that feed on them are key steps in the food chain of many fish, shellfish, and other marine animals. Like plants, phytoplankton (which are usually microalgae) use sunlight to power chemical reactions that enable them to utilise resources in their environment and grow. This tiny little packages of nutrients are then predated upon by slightly larger (but still small) animals called zooplankton, and eventually fish.\nThe availability of key resources in the environment, mainly nutrients such as iron, is what limits phytoplankton growth. When sudden inputs of these nutrients become available, often the phytoplankton have everything else they need to survive and flourish - sometimes to the extent that phytoplankton blooms cause problems for humans (such as red tides).\n\n\n\n\n\nHow to play\nEach player must grow a larval fish into a juvenile fish."
+  },
+  {
+    "objectID": "pages/event-cards.html#sec-seaweed-planting",
+    "href": "pages/event-cards.html#sec-seaweed-planting",
+    "title": "Round-end cards",
+    "section": "Seaweed planting occurs",
+    "text": "Seaweed planting occurs\nPlanting of seaweeds in habitats that used to contain healthy seaweed populations but have been degraded or damaged can be hugely beneficial. This is because seaweed can act as both a food source and habitat for many fish species across many stages of their life. Therefore, a healthy seaweed ecosystem restored into the correct habitat will help return and maintain healthy fish stocks.\n\n\n\n\n\nHow to play\nPlace a Seaweed or Giant Kelp card from your hand into your fishing spot."
+  },
+  {
+    "objectID": "pages/event-cards.html#sec-upper-size-limit",
+    "href": "pages/event-cards.html#sec-upper-size-limit",
+    "title": "Round-end cards",
+    "section": "Fisheries impose upper size limit",
+    "text": "Fisheries impose upper size limit\nLarge, old fish often produce disproportionately large numbers of offspring compared to fish of smaller sizes. Larger fish therefore contribute more to the next generation of fish which can be harvested. Protecting large ‘mega-spawners’ results in a greater yield of future fish. A 80 cm snapper produces ~24 times the offspring of a 40 cm snapper (but they both taste just as good!) and releasing the larger fish means more fish next year. In addition to producing disproportionately more young, large fish also connect different populations of fish – ensuring a rich and diverse gene-pool for tackling disease outbreaks and adapting to new conditions. Not all fish are made equal – big fish are more important to fish conservation into the future.\n\n\n\n\n\nHow to play\nEach player must spawn a larval fish into their fishing spot."
+  },
+  {
+    "objectID": "pages/event-cards.html#sec-urchins-arrive",
+    "href": "pages/event-cards.html#sec-urchins-arrive",
+    "title": "Round-end cards",
+    "section": "Long spined sea urchins arrive",
+    "text": "Long spined sea urchins arrive\nLong Spined Sea Urchins have arrived in Tasmania as a range shifting specie due to warming waters induced by climate change. These urchins have been creating vast barrens on the seafloor over the last few decades. Barrens are areas that have been grazed by urchins and often consist of nothing but barren rock. This means that the habitat for many scale fish have been degraded and destroyed. Barrens can often be prevented by having an abundant number of adults marine species such as lobsters and gropers along with a commercial urchin fishery.\n\n\n\n\n\nHow to play\nEach player must discard all Seaweed and Giant Kelp cards from their fishing spot."
+  },
+  {
+    "objectID": "pages/event-cards.html#sec-end-game",
+    "href": "pages/event-cards.html#sec-end-game",
+    "title": "Round-end cards",
+    "section": "END OF GAME",
+    "text": "END OF GAME\nFishing season is closed, end of the game!\n\n\n\n\n\nHow to play\nThe game is over, tally up your scores."
+  },
+  {
+    "objectID": "pages/blog-posts/drafts/example.html",
+    "href": "pages/blog-posts/drafts/example.html",
+    "title": "This is a draft",
     "section": "",
-    "text": "With only weeks until the crowd funding launch of Big Fish, the team has been hard at work refining the game. With new art works for expansions and a finalisation of the rules, the game is really coming together. During this time we also have the final graphic design nailed down and tested with a whole new bunch of demo copies of the game. Check out how some of the new cards look!"
+    "text": "Etiam quis tortor luctus, pellentesque ante a, finibus dolor. Phasellus in nibh et magna pulvinar malesuada. Ut nisl ex, sagittis at sollicitudin et, sollicitudin id nunc. In id porta urna. Proin porta dolor dolor, vel dapibus nisi lacinia in. Pellentesque ante mauris, ornare non euismod a, fermentum ut sapien. Proin sed vehicula enim. Aliquam tortor odio, vestibulum vitae odio in, tempor molestie justo. Praesent maximus lacus nec leo maximus blandit.\n\n\n\n\nPraesent ornare dolor turpis, sed tincidunt nisl pretium eget. Curabitur sed iaculis ex, vitae tristique sapien. Quisque nec ex dolor. Quisque ut nisl a libero egestas molestie. Nulla vel porta nulla. Phasellus id pretium arcu. Etiam sed mi pellentesque nibh scelerisque elementum sed at urna. Ut congue molestie nibh, sit amet pretium ligula consectetur eu. Integer consectetur augue justo, at placerat erat posuere at. Ut elementum urna lectus, vitae bibendum neque pulvinar quis. Suspendisse vulputate cursus eros id maximus. Duis pulvinar facilisis massa, et condimentum est viverra congue. Curabitur ornare convallis nisl. Morbi dictum scelerisque turpis quis pellentesque. Etiam lectus risus, luctus lobortis risus ut, rutrum vulputate justo. Nulla facilisi."
+  },
+  {
+    "objectID": "pages/blog-posts/drafts/example.html#subtitle-1",
+    "href": "pages/blog-posts/drafts/example.html#subtitle-1",
+    "title": "This is a draft",
+    "section": "",
+    "text": "Etiam quis tortor luctus, pellentesque ante a, finibus dolor. Phasellus in nibh et magna pulvinar malesuada. Ut nisl ex, sagittis at sollicitudin et, sollicitudin id nunc. In id porta urna. Proin porta dolor dolor, vel dapibus nisi lacinia in. Pellentesque ante mauris, ornare non euismod a, fermentum ut sapien. Proin sed vehicula enim. Aliquam tortor odio, vestibulum vitae odio in, tempor molestie justo. Praesent maximus lacus nec leo maximus blandit.\n\n\n\n\nPraesent ornare dolor turpis, sed tincidunt nisl pretium eget. Curabitur sed iaculis ex, vitae tristique sapien. Quisque nec ex dolor. Quisque ut nisl a libero egestas molestie. Nulla vel porta nulla. Phasellus id pretium arcu. Etiam sed mi pellentesque nibh scelerisque elementum sed at urna. Ut congue molestie nibh, sit amet pretium ligula consectetur eu. Integer consectetur augue justo, at placerat erat posuere at. Ut elementum urna lectus, vitae bibendum neque pulvinar quis. Suspendisse vulputate cursus eros id maximus. Duis pulvinar facilisis massa, et condimentum est viverra congue. Curabitur ornare convallis nisl. Morbi dictum scelerisque turpis quis pellentesque. Etiam lectus risus, luctus lobortis risus ut, rutrum vulputate justo. Nulla facilisi."
+  },
+  {
+    "objectID": "pages/about.html#contact-us",
+    "href": "pages/about.html#contact-us",
+    "title": "About",
+    "section": "Contact us",
+    "text": "Contact us\nIf you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at info@fishsizeproject.org.\nIf you want to support this work, you can buy your very own copy of the BigFish card game! An online ordering system is coming soon, but for now you can send us an email to get the game.\n\nContact us"
   },
   {
     "objectID": "index.html",
@@ -272,116 +332,67 @@
     "text": "Supporters"
   },
   {
-    "objectID": "pages/about.html#contact-us",
-    "href": "pages/about.html#contact-us",
-    "title": "About",
-    "section": "Contact us",
-    "text": "Contact us\nIf you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at info@fishsizeproject.org.\nIf you want to support this work, you can buy your very own copy of the BigFish card game! An online ordering system is coming soon, but for now you can send us an email to get the game.\n\nContact us"
+    "objectID": "pages/blog-posts/card-redesign.html",
+    "href": "pages/blog-posts/card-redesign.html",
+    "title": "Pre-launch card redesign",
+    "section": "",
+    "text": "With only weeks until the crowd funding launch of Big Fish, the team has been hard at work refining the game. With new art works for expansions and a finalisation of the rules, the game is really coming together. During this time we also have the final graphic design nailed down and tested with a whole new bunch of demo copies of the game. Check out how some of the new cards look!"
   },
   {
-    "objectID": "pages/blog-posts/drafts/example.html",
-    "href": "pages/blog-posts/drafts/example.html",
-    "title": "This is a draft",
+    "objectID": "pages/blog-posts/card-redesign.html#getting-ready",
+    "href": "pages/blog-posts/card-redesign.html#getting-ready",
+    "title": "Pre-launch card redesign",
     "section": "",
-    "text": "Ut ut condimentum augue, nec eleifend nisl. Sed facilisis egestas odio ac pretium. Pellentesque consequat magna sed venenatis sagittis. Vivamus feugiat lobortis magna vitae accumsan. Pellentesque euismod malesuada hendrerit. Ut non mauris non arcu condimentum sodales vitae vitae dolor. Nullam dapibus, velit eget lacinia rutrum, ipsum justo malesuada odio, et lobortis sapien magna vel lacus. Nulla purus neque, hendrerit non malesuada eget, mattis vel erat. Suspendisse potenti.\n\n\n\n\nEtiam maximus accumsan gravida. Maecenas at nunc dignissim, euismod enim ac, bibendum ipsum. Maecenas vehicula velit in nisl aliquet ultricies. Nam eget massa interdum, maximus arcu vel, pretium erat. Maecenas sit amet tempor purus, vitae aliquet nunc. Vivamus cursus urna velit, eleifend dictum magna laoreet ut. Duis eu erat mollis, blandit magna id, tincidunt ipsum. Integer massa nibh, commodo eu ex vel, venenatis efficitur ligula. Integer convallis lacus elit, maximus eleifend lacus ornare ac. Vestibulum scelerisque viverra urna id lacinia. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget enim at diam bibendum tincidunt eu non purus. Nullam id magna ultrices, sodales metus viverra, tempus turpis."
+    "text": "With only weeks until the crowd funding launch of Big Fish, the team has been hard at work refining the game. With new art works for expansions and a finalisation of the rules, the game is really coming together. During this time we also have the final graphic design nailed down and tested with a whole new bunch of demo copies of the game. Check out how some of the new cards look!"
   },
   {
-    "objectID": "pages/blog-posts/drafts/example.html#subtitle-1",
-    "href": "pages/blog-posts/drafts/example.html#subtitle-1",
-    "title": "This is a draft",
+    "objectID": "pages/blog-posts/FOBI.html",
+    "href": "pages/blog-posts/FOBI.html",
+    "title": "Festival of Bright Ideas",
     "section": "",
-    "text": "Ut ut condimentum augue, nec eleifend nisl. Sed facilisis egestas odio ac pretium. Pellentesque consequat magna sed venenatis sagittis. Vivamus feugiat lobortis magna vitae accumsan. Pellentesque euismod malesuada hendrerit. Ut non mauris non arcu condimentum sodales vitae vitae dolor. Nullam dapibus, velit eget lacinia rutrum, ipsum justo malesuada odio, et lobortis sapien magna vel lacus. Nulla purus neque, hendrerit non malesuada eget, mattis vel erat. Suspendisse potenti.\n\n\n\n\nEtiam maximus accumsan gravida. Maecenas at nunc dignissim, euismod enim ac, bibendum ipsum. Maecenas vehicula velit in nisl aliquet ultricies. Nam eget massa interdum, maximus arcu vel, pretium erat. Maecenas sit amet tempor purus, vitae aliquet nunc. Vivamus cursus urna velit, eleifend dictum magna laoreet ut. Duis eu erat mollis, blandit magna id, tincidunt ipsum. Integer massa nibh, commodo eu ex vel, venenatis efficitur ligula. Integer convallis lacus elit, maximus eleifend lacus ornare ac. Vestibulum scelerisque viverra urna id lacinia. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget enim at diam bibendum tincidunt eu non purus. Nullam id magna ultrices, sodales metus viverra, tempus turpis."
+    "text": "The Festival of Bright Ideas held down at Princes Pier in Hobart was the Big Fish Card Game’s first big event. The team from the Fish Size Project that developed Big Fish were all on station to show the game off to hundreds of school students and a host of families over the 2 day event. The game was played so many times the crew lost count.\nWith only a few weeks till launch FOBI was a great test of how engaging, educational and fun the game can be. The feedback from the students and families was overwhelmingly positive with many excited to get their hand on the game and support the project.\n\n\nBig Fish development and support team Freddie Heather, Matt Testoni, Olivia Cornes, Alex Johne, Amy Coghlan and Sarah Willington at the Festival of Bright Ideas."
+  },
+  {
+    "objectID": "pages/blog-posts/FOBI.html#the-first-big-event",
+    "href": "pages/blog-posts/FOBI.html#the-first-big-event",
+    "title": "Festival of Bright Ideas",
+    "section": "",
+    "text": "The Festival of Bright Ideas held down at Princes Pier in Hobart was the Big Fish Card Game’s first big event. The team from the Fish Size Project that developed Big Fish were all on station to show the game off to hundreds of school students and a host of families over the 2 day event. The game was played so many times the crew lost count.\nWith only a few weeks till launch FOBI was a great test of how engaging, educational and fun the game can be. The feedback from the students and families was overwhelmingly positive with many excited to get their hand on the game and support the project.\n\n\nBig Fish development and support team Freddie Heather, Matt Testoni, Olivia Cornes, Alex Johne, Amy Coghlan and Sarah Willington at the Festival of Bright Ideas."
   },
   {
     "objectID": "pages/fish-cards.html#fish-cards",
     "href": "pages/fish-cards.html#fish-cards",
     "title": "BigFish",
     "section": "Fish cards",
-    "text": "Fish cards\n\nThese are all the fish cards included in the standard BigFish game. You can also explore the science behind the wildcards and round-end cards, or learn the rules of the game.\n\n\n\n\n\n\n\n\n\n\nAbalone\nGrows to 23cm, usual depth 0-40m\nGreen-lip and Black-lip Abalone are found all around the south east of Australia and are common in Tasmania. Occasionally the two hybridise to create Jade Tiger Abalone.\n\n\n\n\n\n\n\n\n\n\nAustralian Red Cod\nGrows to 90cm, usual depth 2-115m\nUsually found hiding under rocky ledges during the day, these fish are nocturnal hunters of fishes, crabs and crustaceans.\n\n\n\n\n\n\n\n\n\nBanded Morwong\nGrows to 70cm, usual depth 1-50m\nBanded Morwong can live to 100 years old.\n\n\n\n\n\n\n\n\n\nBastard Trumpeter\nGrows to 65cm, usual depth 0-60m\nAs juveniles these fish inhabit shallow coastal reefs for the first few years of life. Currently in Tasmania, they are considered to be depleted, meaning their population is critically low.\n\n\n\n\n\n\n\n\n\nBlue Fin Tuna\nGrows to 2.2m, usual depth 0-500m\nThese fish are actually endotherms, meaning they can maintain a body temperature that is warmer than the surrounding water, just like mammals.\n\n\n\n\n\n\n\n\n\nBlue Mackerel\nGrows to 44 cm, usual depth 0-200m\nAs adults, these fish school in great numbers off the coast. However, when young they prefer the protection of inshore habitats.\n\n\n\n\n\n\n\n\n\nBluethroat Wrasse\nGrows to 50cm, usual depth 1-50m\nThese fish are all born as females and lack a characteristic blue throat. When no males are around, dominant females morph into a male by changing size, shape and colour.\n\n\n\n\n\n\n\n\n\nBrownstriped Leatherjacket\nGrows to 30cm, usual depth 0-20m\nWhilst uncommon around mainland Australia, this leatherjacket can be abundant on Tasmanian seaweed reefs.\n\n\n\n\n\n\n\n\n\nDraughtboard Shark\nGrows to 1.5m, usual depth 3-60m\nDraughtboard Sharks are benthic, meaning they spend most of their time on the seafloor.\n\n\n\n\n\n\n\n\n\nFlounder\nGrows to 45cm, usual depth 0-100m\nFlounder are born with eye on either side of their head. When very young, one of these eyes migrates across the head so both eyes are on the same side. This is why flounder have such unusually amazing heads.\n\n\n\n\n\n\n\n\n\nHerring Cale\nGrows to 51cm, usual depth 0-30m\nThese fish love eating different brown seaweeds. Thus when eaten they have a strong seaweed flavour. The males and females have different colours and markings.\n\n\n\n\n\n\n\n\n\nLongfin Pike\nGrows to 84cm, usual depth 0-60m\nThese fish are often found in large schools of over 100 hundred individuals. However, sometimes they prefer to be more solitary and may be found solo or in pairs.\n\n\n\n\n\n\n\n\n\nLongsnout Boarfish\nGrows to 50cm, usual depth 4-260m\nBoarfish can often be found hanging out together in small groups under rocky ledges.\n\n\n\n\n\n\n\n\n\nMarblefish\nGrows to 65cm, usual depth 0-40m\nThese fish are abundant in most Tasmanian seaweed reefs. However, they are known to taste highly unpleasant.\n\n\n\n\n\n\n\n\n\nPurple Wrasse\nGrows to 38cm, usual depth 1-90m\nPurple wrasse have powerful jaws and strong teeth that allow them to crush and eat animals like barnacles, crabs and chitons.\n\n\n\n\n\n\n\n\n\nRed Rock Crab\nGrows to 7cm (carapace), usual depth 0-8m\nThese crabs have a very hard and tough shell. The shell is made of chitin and has a fine covering of felt in rows upon its legs.\n\n\n\n\n\n\n\n\n\nSand Flathead\nGrows to 46cm, usual depth 0-100m\nThe bigger a flathead, the more eggs it produces. In recent years their average size has been decreasing due in part to fishing pressure on large individuals.\n\n\n\n\n\n\n\n\n\nSenator Wrasse\nGrows to 23cm, usual depth 0-30m\nThe male of this species has a bright green body, while the female is orange in colour. These fish are curious about SCUBA divers and will often approach them.\n\n\n\n\n\n\n\n\n\nShaws Cowfish\nGrows to 20cm, usual depth 2-200cm\nWhile pretty, these fish are highly poisonous and should never be eaten. Their poison can be released from their skin, and can poison aquariums.\n\n\n\n\n\n\n\n\n\nSouthern Rock Lobster\nGrows to 23cm (carapace), usual depth 1-250m\nThese lobsters (also known as crayfish) often consume sea urchins, which helps protect important native kelp forests.\n\n\n\n\n\n\n\n\n\nToothbrush Leather Jacket\nGrows to 35cm, usual depth 0-40m\nThis species gets its name from the toothbrush-like bristles the males have on their sides. They can vary largely in colour, with males ranging from yellow to a dark blue-grey as shown above.\n\n\n\n\n\n\n\n\n\nYellowtail Kingfish\nGrows to 2.5m, usual depth 1-150m\nThese fish are pelagic, which means they can be found out at sea. Individuals from certain regions can be heavily infected with parasitic worms. These worms can alter the flesh when cooked."
+    "text": "Fish cards\n\nThese are all the fish cards included in the standard BigFish game. You can also explore the science behind the wildcards and event cards, or learn the rules of the game.\n\n\n\n\n\n\n\n\n\n\nAbalone\nGrows to 23cm, usual depth 0-40m\nGreen-lip and Black-lip Abalone are found all around the south east of Australia and are common in Tasmania. Occasionally the two hybridise to create Jade Tiger Abalone.\n\n\n\n\n\n\n\n\n\n\nAustralian Red Cod\nGrows to 90cm, usual depth 2-115m\nUsually found hiding under rocky ledges during the day, these fish are nocturnal hunters of fishes, crabs and crustaceans.\n\n\n\n\n\n\n\n\n\nBanded Morwong\nGrows to 70cm, usual depth 1-50m\nBanded Morwong can live to 100 years old.\n\n\n\n\n\n\n\n\n\nBastard Trumpeter\nGrows to 65cm, usual depth 0-60m\nAs juveniles these fish inhabit shallow coastal reefs for the first few years of life. Currently in Tasmania, they are considered to be depleted, meaning their population is critically low.\n\n\n\n\n\n\n\n\n\nBlue Fin Tuna\nGrows to 2.2m, usual depth 0-500m\nThese fish are actually endotherms, meaning they can maintain a body temperature that is warmer than the surrounding water, just like mammals.\n\n\n\n\n\n\n\n\n\nBlue Mackerel\nGrows to 44 cm, usual depth 0-200m\nAs adults, these fish school in great numbers off the coast. However, when young they prefer the protection of inshore habitats.\n\n\n\n\n\n\n\n\n\nBluethroat Wrasse\nGrows to 50cm, usual depth 1-50m\nThese fish are all born as females and lack a characteristic blue throat. When no males are around, dominant females morph into a male by changing size, shape and colour.\n\n\n\n\n\n\n\n\n\nBrownstriped Leatherjacket\nGrows to 30cm, usual depth 0-20m\nWhilst uncommon around mainland Australia, this leatherjacket can be abundant on Tasmanian seaweed reefs.\n\n\n\n\n\n\n\n\n\nDraughtboard Shark\nGrows to 1.5m, usual depth 3-60m\nDraughtboard Sharks are benthic, meaning they spend most of their time on the seafloor.\n\n\n\n\n\n\n\n\n\nFlounder\nGrows to 45cm, usual depth 0-100m\nFlounder are born with eye on either side of their head. When very young, one of these eyes migrates across the head so both eyes are on the same side. This is why flounder have such unusually amazing heads.\n\n\n\n\n\n\n\n\n\nHerring Cale\nGrows to 51cm, usual depth 0-30m\nThese fish love eating different brown seaweeds. Thus when eaten they have a strong seaweed flavour. The males and females have different colours and markings.\n\n\n\n\n\n\n\n\n\nLongfin Pike\nGrows to 84cm, usual depth 0-60m\nThese fish are often found in large schools of over 100 hundred individuals. However, sometimes they prefer to be more solitary and may be found solo or in pairs.\n\n\n\n\n\n\n\n\n\nLongsnout Boarfish\nGrows to 50cm, usual depth 4-260m\nBoarfish can often be found hanging out together in small groups under rocky ledges.\n\n\n\n\n\n\n\n\n\nMarblefish\nGrows to 65cm, usual depth 0-40m\nThese fish are abundant in most Tasmanian seaweed reefs. However, they are known to taste highly unpleasant.\n\n\n\n\n\n\n\n\n\nPurple Wrasse\nGrows to 38cm, usual depth 1-90m\nPurple wrasse have powerful jaws and strong teeth that allow them to crush and eat animals like barnacles, crabs and chitons.\n\n\n\n\n\n\n\n\n\nRed Rock Crab\nGrows to 7cm (carapace), usual depth 0-8m\nThese crabs have a very hard and tough shell. The shell is made of chitin and has a fine covering of felt in rows upon its legs.\n\n\n\n\n\n\n\n\n\nSand Flathead\nGrows to 46cm, usual depth 0-100m\nThe bigger a flathead, the more eggs it produces. In recent years their average size has been decreasing due in part to fishing pressure on large individuals.\n\n\n\n\n\n\n\n\n\nSenator Wrasse\nGrows to 23cm, usual depth 0-30m\nThe male of this species has a bright green body, while the female is orange in colour. These fish are curious about SCUBA divers and will often approach them.\n\n\n\n\n\n\n\n\n\nShaws Cowfish\nGrows to 20cm, usual depth 2-200cm\nWhile pretty, these fish are highly poisonous and should never be eaten. Their poison can be released from their skin, and can poison aquariums.\n\n\n\n\n\n\n\n\n\nSouthern Rock Lobster\nGrows to 23cm (carapace), usual depth 1-250m\nThese lobsters (also known as crayfish) often consume sea urchins, which helps protect important native kelp forests.\n\n\n\n\n\n\n\n\n\nToothbrush Leather Jacket\nGrows to 35cm, usual depth 0-40m\nThis species gets its name from the toothbrush-like bristles the males have on their sides. They can vary largely in colour, with males ranging from yellow to a dark blue-grey as shown above.\n\n\n\n\n\n\n\n\n\nYellowtail Kingfish\nGrows to 2.5m, usual depth 1-150m\nThese fish are pelagic, which means they can be found out at sea. Individuals from certain regions can be heavily infected with parasitic worms. These worms can alter the flesh when cooked."
   },
   {
-    "objectID": "pages/media-events (NOT IN USE).html#media-events",
-    "href": "pages/media-events (NOT IN USE).html#media-events",
-    "title": "BigFish",
-    "section": "Media & Events",
-    "text": "Media & Events\n\nLots of fun and useful things will be added here soon!\n\n\nResources and popular science\n\nStory about the collaboration between Microsoft and Australian Government’s Supervising Scientist Branch to build the baited remote underwater video image dataset from images at the Kakadu National park - Citizen scientists, AI and cloud bond to boost billabong health in the Top End\n\n\nScience about the importance of large fish\nA Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. 2022. Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte. Sustainability 14 (21), 14324"
-  },
-  {
-    "objectID": "pages/new-page-with-sidebar.html#sec-section",
-    "href": "pages/new-page-with-sidebar.html#sec-section",
+    "objectID": "pages/new-page-no-sidebar.html#section-title",
+    "href": "pages/new-page-no-sidebar.html#section-title",
     "title": "Main page title",
     "section": "Section title",
-    "text": "Section title\n\n\n\n\n\n\n\n\n\nSubtitle\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\n\nSubtitle\nProin sodales neque erat, varius cursus diam tincidunt sit amet. Etiam scelerisque fringilla nisl eu venenatis. Donec sem ipsum, scelerisque ac venenatis quis, hendrerit vel mauris. Praesent semper erat sit amet purus condimentum, sit amet auctor mi feugiat. In hac habitasse platea dictumst. Nunc ac mauris in massa feugiat bibendum id in dui. Praesent accumsan urna at lacinia aliquet. Proin ultricies eu est quis pellentesque. In vel lorem at nisl rhoncus cursus eu quis mi. In eu rutrum ante, quis placerat justo. Etiam euismod nibh nibh, sed elementum nunc imperdiet in. Praesent gravida nunc vel odio lacinia, at tempus nisl placerat. Aenean id ipsum sed est sagittis hendrerit non in tortor.\n\n\n\n\nThis is a button"
+    "text": "Section title"
   },
   {
-    "objectID": "pages/round-end-cards.html#sec-el-nino-begins",
-    "href": "pages/round-end-cards.html#sec-el-nino-begins",
-    "title": "Round-end cards",
-    "section": "El Niño begins",
-    "text": "El Niño begins\nWhen an El Niño is present on the south east coast of Australia more heatwaves, strong swells and storms affect the ocean. Increases in sea surface temperature can also occur. This can mean smaller individuals of a species are less likely to be able to survive these events. Species such as Abalone have also been observed as having decreased reproductive ability as heatwaves and severe weather cause physiological stress. There is also evidence that fish move away from certain coastal areas, meaning fishing ability is potentially changed in El Niño years.\n\n\n\n\n\nHow to play\nThis card is revealed at the end of the round. When revealed, each player must discard a medium or juvenile fish from their habitat."
+    "objectID": "pages/outreach-blog.html#upcoming-events",
+    "href": "pages/outreach-blog.html#upcoming-events",
+    "title": "News and events",
+    "section": "Upcoming events",
+    "text": "Upcoming events\n\n\n\n\n\n15th September\n\n\nWorkshop at AMSA (closed event)\n\n\n17th September\n\n\nBig Fish game will launch at Hobart Brewing Company, 7-9pm. Anyone can come and it should be lots of fun!\n\n\n19th September\n\n\nGame night with Environment Tasmania at Overland Brewery - get your tickets here!\n\n\n\n\n\n22nd September\n\n\nGame play session and display at SCUBA buy swap and sell\n\n\n4th October\n\n\nBOTES Film Night at IMAS\n\n\n10th October\n\n\nGamification Panel night at Boodle Beasly - more info coming soon!\n\n\n\n\nFollow us on Instagram to see the latest updates!\nFollow us on Instagram"
   },
   {
-    "objectID": "pages/round-end-cards.html#sec-fisheries-research",
-    "href": "pages/round-end-cards.html#sec-fisheries-research",
-    "title": "Round-end cards",
-    "section": "Fisheries research occurs",
-    "text": "Fisheries research occurs\nFisheries have collapsed in the past, and species have been overcaught to the verge of extinction. This can come as a surprise – there may still be fish being caught, and the fish may appear to be plentiful. In reality we are just getting better at catching them, or the remaining population can reach a critical point beyond which recovery is challenging without intervention. For instance, if most of the breeding population has been fished and the remaining population is being fished too fast, then the individuals left don’t have a chance to reproduce.\nThis is more likely with fish that mature at an old age, such as orange roughy that need to survive 27-32 years before they can reproduce. In the 1980s and 1990s orange roughy were being harvested by fisheries so fast that the fishery collapsed (it was no longer economically viable to harvest these fish as too few were being caught each trip). Without baseline information on how a population is structured in terms of age, size and genetics, we are unable to determine how the population is responding to harvesting by people. With this information however, managers can intervene to save a species and ensure sustainable harvesting into the future.\n\n\n\n\n\nHow to play\nDraw a face-down card. If it is a fish card, release it into your fishing spot as a medium sized fish."
-  },
-  {
-    "objectID": "pages/round-end-cards.html#sec-localised-species-extinction",
-    "href": "pages/round-end-cards.html#sec-localised-species-extinction",
-    "title": "Round-end cards",
-    "section": "Localised species extinction",
-    "text": "Localised species extinction\nBiodiversity loss (a decline in the number of species present in an ecosystem) is known to cause the ocean ecosystem to weaken in its ability to adapt and withstand changes. These changes include events such as marine heatwaves, climate change and weather patterns. An ecosystem with lower biodiversity is much more likely to suffer severe negative effects than a more biodiverse and resilient ocean ecosystem.\n\n\n\n\n\nHow to play\nWhen this card is drawn at the end of a round, the subsequent round will have no face-up cards present. This means that all cards that refer to face-up cards will no longer be able to be used during the round where this card is active."
-  },
-  {
-    "objectID": "pages/round-end-cards.html#sec-ocean-acidification",
-    "href": "pages/round-end-cards.html#sec-ocean-acidification",
-    "title": "Round-end cards",
-    "section": "Ocean acidification",
-    "text": "Ocean acidification\nIf any abalone, lobster, or crab cards are present in a player’s fishing spot they must discard them.\n\n\n\n\n\nHow to play\nIncreasing atmospheric carbon increases the amount of carbon which dissolves into the ocean at the surface, resulting in a change in the ocean’s pH. Between 1950 and 2020 the average pH of the ocean shifted from 8.15 to 8.0, meaning it has become more acidic. In more acidic waters, it becomes increasingly difficult for animals to grow their shells and carbonate skeletons."
-  },
-  {
-    "objectID": "pages/round-end-cards.html#sec-plankton-swarm",
-    "href": "pages/round-end-cards.html#sec-plankton-swarm",
-    "title": "Round-end cards",
-    "section": "Plankton swarm occurs",
-    "text": "Plankton swarm occurs\nBoth phytoplankton (tiny plants) and the zooplankton (tiny animals) that feed on them are key steps in the food chain of many fish, shellfish, and other marine animals. Like plants, phytoplankton (which are usually microalgae) use sunlight to power chemical reactions that enable them to utilise resources in their environment and grow. This tiny little packages of nutrients are then predated upon by slightly larger (but still small) animals called zooplankton, and eventually fish.\nThe availability of key resources in the environment, mainly nutrients such as iron, is what limits phytoplankton growth. When sudden inputs of these nutrients become available, often the phytoplankton have everything else they need to survive and flourish - sometimes to the extent that phytoplankton blooms cause problems for humans (such as red tides).\n\n\n\n\n\nHow to play\nEach player must grow a larval fish into a juvenile fish."
-  },
-  {
-    "objectID": "pages/round-end-cards.html#sec-seaweed-planting",
-    "href": "pages/round-end-cards.html#sec-seaweed-planting",
-    "title": "Round-end cards",
-    "section": "Seaweed planting occurs",
-    "text": "Seaweed planting occurs\nMore information on this card coming soon!\n\n\n\n\n\nHow to play\nPlace a Seaweed or Giant Kelp card from your hand into your fishing spot."
-  },
-  {
-    "objectID": "pages/round-end-cards.html#sec-upper-size-limit",
-    "href": "pages/round-end-cards.html#sec-upper-size-limit",
-    "title": "Round-end cards",
-    "section": "Fisheries impose upper size limit",
-    "text": "Fisheries impose upper size limit\nLarge, old fish often produce disproportionately large numbers of offspring compared to fish of smaller sizes. Larger fish therefore contribute more to the next generation of fish which can be harvested. Protecting large ‘mega-spawners’ results in a greater yield of future fish. A 80 cm snapper produces ~24 times the offspring of a 40 cm snapper (but they both taste just as good!) and releasing the larger fish means more fish next year. In addition to producing disproportionately more young, large fish also connect different populations of fish – ensuring a rich and diverse gene-pool for tackling disease outbreaks and adapting to new conditions. Not all fish are made equal – big fish are more important to fish conservation into the future.\n\n\n\n\n\nHow to play\nEach player must spawn a larval fish into their fishing spot."
-  },
-  {
-    "objectID": "pages/round-end-cards.html#sec-urchins-arrive",
-    "href": "pages/round-end-cards.html#sec-urchins-arrive",
-    "title": "Round-end cards",
-    "section": "Long spined sea urchins arrive",
-    "text": "Long spined sea urchins arrive\nMore information on this card coming soon!\n\n\n\n\n\nHow to play\nEach player must discard all Seaweed and Giant Kelp cards from their fishing spot."
-  },
-  {
-    "objectID": "pages/round-end-cards.html#sec-end-game",
-    "href": "pages/round-end-cards.html#sec-end-game",
-    "title": "Round-end cards",
-    "section": "END OF GAME",
-    "text": "END OF GAME\nFishing season is closed, end of the game!\n\n\n\n\n\nHow to play\nThe game is over, tally up your scores."
+    "objectID": "pages/outreach-blog.html#bigfish-blog",
+    "href": "pages/outreach-blog.html#bigfish-blog",
+    "title": "News and events",
+    "section": "BigFish Blog",
+    "text": "BigFish Blog"
   },
   {
     "objectID": "pages/testing.html#content-padded",
     "href": "pages/testing.html#content-padded",
     "title": "Social media posts",
     "section": "Content padded",
-    "text": "Content padded\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    "text": "Content padded\nMaecenas turpis velit, ultricies non elementum vel, luctus nec nunc. Nulla a diam interdum, faucibus sapien viverra, finibus metus. Donec non tortor diam. In ut elit aliquet, bibendum sem et, aliquam tortor. Donec congue, sem at rhoncus ultrices, nunc augue cursus erat, quis porttitor mauris libero ut ex. Nullam quis leo urna. Donec faucibus ligula eget pellentesque interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rhoncus interdum erat ut ultricies. Aenean tempus ex non elit suscipit, quis dignissim enim efficitur. Proin laoreet enim massa, vitae laoreet nulla mollis quis."
   },
   {
     "objectID": "pages/testing.html#content-padded-in-with-pictures",
