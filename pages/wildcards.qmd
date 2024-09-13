@@ -197,7 +197,7 @@ These are the research themes of the Centre for Marine Socioecology. Check out [
 ::::::::: {.g-col-12}
 ## Delicious bait {#sec-delicious-bait}
 
-*More information on this card coming soon!*
+It’s important when collecting bait for recreational fishing activities to think about the potential impact bait collection has. Some bait collection activities that occur in excess can lead to a decline in bait presence as well as negatively impacting shore bird species. Often the collection process can be the primary cause of population declines. Examples include removing boulders or rocks in search of bait crabs. 
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -217,13 +217,13 @@ Place into your fishing spot to catch an additional fish each turn. If you do, d
 ::::::::: {.g-col-12}
 ### Learn more
 
-*More information on this card coming soon!*
+Many baits can be collected sustainably especially if care is taken to prevent damage to the habitat the bait is collected from. Often there will be local rules and limits of bait collection just like recreational fishing bag limits. It is important that local rules are obeyed and consulted to ensure sustainable bait and thus a healthy and productive marine ecosystem. 
 :::::::::
 
 ::::::::: {.g-col-12}
 ## Fishing kayak {#sec-fishing-kayak}
 
-*More information on this card coming soon!*
+Fishing kayaks and canoes have been used by indigenous peoples of Australia and the world for many thousands of years. They can in many different forms, from hollowed out trees, to woven boats and those lined with animal hides. 
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -243,13 +243,13 @@ Catch a medium-sized fish from either the face-up cards or your fishing spot. Di
 ::::::::: {.g-col-12}
 ### Learn more
 
-*More information on this card coming soon!*
+Fishing and kayak/canoes have a rich intertwined history.
 :::::::::
 
 ::::::::: {.g-col-12}
 ## Fishing rod {#sec-fishing-rod}
 
-*More information on this card coming soon!*
+As fishing technology advances, fish become easier to catch. This results in increased catches and can put extra pressure on recreational fish species. It is therefore important to consider new technologies when assessing fish stocks.
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -596,7 +596,7 @@ Kelp and other seaweeds are particularly affected by poor water quality, because
 ::::::::: {.g-col-12}
 ## SCUBA equipment {#sec-scuba-equipment}
 
-*More information on this card coming soon!*
+SCUBA diving collection can be a great way to selectively target certain fishable species. This often results in less bycatch and habitat destruction. However, some species are very easily collected and SCUBA diving whilst fishing can result in severe stock damage. It is therefore important to use SCUBA gear responsibly and obey the rules of which species can and cannot be caught on SCUBA. 
 :::::::::
 
 ::::::::: {.g-col-12}

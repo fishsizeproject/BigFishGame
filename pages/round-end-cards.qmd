@@ -215,7 +215,7 @@ Plankton are tiny plants that bloom under ideal conditions, and are the first st
 :::: g-col-12
 ## Seaweed planting occurs {#sec-seaweed-planting}
 
-*More information on this card coming soon!*
+Planting of seaweeds in habitats that used to contain healthy seaweed populations but have been degraded or damaged can be hugely beneficial. This is because seaweed can act as both a food source and habitat for many fish species across many stages of their life. Therefore, a healthy seaweed ecosystem restored into the correct habitat will help return and maintain healthy fish stocks. 
 
 ::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 :::::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
@@ -272,7 +272,7 @@ Each player must spawn a larval fish into their fishing spot.
 :::: {.g-col-12} 
 ## Long spined sea urchins arrive {#sec-urchins-arrive}
 
-*More information on this card coming soon!*
+Long Spined Sea Urchins have arrived in Tasmania as a range shifting specie due to warming waters induced by climate change. These urchins have been creating vast barrens on the seafloor over the last few decades. Barrens are areas that have been grazed by urchins and often consist of nothing but barren rock. This means that the habitat for many scale fish have been degraded and destroyed. Barrens can often be prevented by having an abundant number of adults marine species such as lobsters and gropers along with a commercial urchin fishery.
 
 ::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
 :::::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
