@@ -342,6 +342,33 @@ Healthy giant kelp forests are essential to ocean health, and they're extremely 
 ::::::::::
 
 ::::::::: {.g-col-12}
+## Heat wave {#sec-heat-wave}
+
+Marine Heatwaves play havoc on Tasmanian marine ecosystems. They do this by changing the population structure of many species. This change can result in food sources such as plankton moving further south, which in turn can alter the foodweb.
+:::::::::
+
+::::::::: {.g-col-12}
+:::::: {.grid .justify-contents-evenly .align-items-center .px-4 .py-1}
+::: {.g-col-12 .g-col-sm-4 .g-col-md-4 .g-col-xxl-2 .text-center .img-container}
+![](../resources/images/cards/wild-cards/heatwave.jpg){.image-card .lightbox}
+:::
+
+::: {.g-col-12 .g-col-sm-8 .g-col-md-8 .g-col-xxl-10 .how-to-play-block .px-4}
+### How to play
+
+Choose a player, they must discard two non-big fish from their fishing spot.
+:::
+::::::
+:::::::::
+
+::::::::: {.g-col-12}
+### Learn more
+
+Altered food webs can often result in poor reproduction amongst fish, habitat loss due to invasive species and many more negative consequences. It is these lesser easily observed consequences that can lead to serious declines in the populations of recreationally fish marine species. 
+
+:::::::::
+
+::::::::: {.g-col-12}
 ## Humpback whale {#sec-humpback-whale}
 
 Great whales such as the humpback whale and blue whale are key species in helping to cycle nutrients throughout the ocean. Known as whale pumps, these animals help by pooping out large quantities of nutrients that are essential for smaller species such as phytoplankton to grow. For example, whales feed in deep waters but breathe at the surface, so they bring the nutrients to the surface when they poop. 

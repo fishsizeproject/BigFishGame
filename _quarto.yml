@@ -105,6 +105,8 @@ website:
           href: pages/wildcards.qmd#sec-fishing-rod
         - text: "Giant kelp"
           href: pages/wildcards.qmd#sec-giant-kelp
+        - text: "Heat wave"
+          href: pages/wildcards.qmd#sec-heat-wave
         - text: "Humpback whale"
           href: pages/wildcards.qmd#sec-humpback-whale
         - text: "Illegal fishing"
