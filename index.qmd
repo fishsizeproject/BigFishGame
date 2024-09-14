@@ -39,7 +39,7 @@ include-after-body:
 :::
 
 ::: {.g-col-12 .g-col-md-6 .text-center}
-![](resources/images/Bigfish-logo.png){width="75%"}
+![](resources/images/preview.png){width="75%" .preview-image}
 :::
 ::::::
 <!-- END SPECIAL BIGFISH BANNER SECTION -->
