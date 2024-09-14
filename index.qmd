@@ -75,7 +75,7 @@ To win the game you must find the best fishing strategy to collect points from c
 ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-xl-3 .text-center .img-container}
 :::::: {.grid .m-1 .img-container}
 ::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container}
-![](resources/images/gameplay-photos/PlayingGame4-16x9.jpg)
+![](resources/images/gameplay-photos/PlayingGame4-4x3.jpg)
 :::
 
 ::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container}
@@ -106,7 +106,7 @@ The campaign will launch on **September 15, 2024**. You can follow along on Kick
 ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-xl-3 .text-center .img-container}
 :::::: {.grid .m-1 .img-container}
 ::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container}
-![](resources/images/gameplay-photos/GameOnSandSm-16x9.jpg)
+![](resources/images/gameplay-photos/GameOnSandSm-4x3.jpg)
 :::
 
 ::: {.g-col-12 .g-col-md-6 .g-col-xl-12 .img-container}
