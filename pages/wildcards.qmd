@@ -215,9 +215,12 @@ Place into your fishing spot to catch an additional fish each turn. If you do, d
 :::::::::
 
 ::::::::: {.g-col-12}
-### Learn more
+### Learn more 
 
 Many baits can be collected sustainably especially if care is taken to prevent damage to the habitat the bait is collected from. Often there will be local rules and limits of bait collection just like recreational fishing bag limits. It is important that local rules are obeyed and consulted to ensure sustainable bait and thus a healthy and productive marine ecosystem. 
+
+- [This page](http://ukmpa.marinebiodiversity.org/uk_sacs/activities/bait-collection/bc15.htm) has a lot of useful information on bag limits, researve, protected areas, and other measures in place to protect fish stocks.
+- There have also been many scientific articles published on the potential impact of bait collection. Check out some of them [here](https://www.sciencedirect.com/science/article/abs/pii/S014111361730171X), [here](https://www.sciencedirect.com/science/article/abs/pii/S0964569120300211) and [here](https://www.sciencedirect.com/science/article/abs/pii/S0964569115300892). 
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -244,6 +247,10 @@ Catch a medium-sized fish from either the face-up cards or your fishing spot. Di
 ### Learn more
 
 Fishing and kayak/canoes have a rich intertwined history.
+
+- Check out [this page](https://australian.museum/blog/science/tentative-chronology-of-indigenous-canoes-of-eastern-australia/) for a chronology of kayak use in indigenous cultures in Eastern Australia
+- [This museum](https://arhv.sea.museum/collections/34281/indigenous-watercraft-of-australia) also has a large collection of Australian indigenous watercraft
+- Kayaks and canoes aren't only historically and culturally important in Australia, and [the Smithsonian](https://ocean.si.edu/human-connections/history-cultures/kayaks-origin-story#:~:text=Kayaks%20have%20been%20used%20by,to%20build%20their%20desired%20design) has some great information on historical uses of small watercraft in other countries
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -269,7 +276,8 @@ Place into your fishing spot to catch an additional from your fishing spot each 
 ::::::::: {.g-col-12}
 ### Learn more
 
-*More information on this card coming soon!*
+- [This report](https://www.frdc.com.au/sites/default/files/products/2015-216-FRDC%20Update%20-%20Fishing%20Technology.pdf) details the impact of fishing rod technological advancements on the Australian snapper industry
+- [This article](https://www.sciencedirect.com/science/article/abs/pii/S0165783621003283) looks at how advances in all gear types have affected a small Chilean fishery
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -366,6 +374,9 @@ Choose a player, they must discard two non-big fish from their fishing spot.
 
 Altered food webs can often result in poor reproduction amongst fish, habitat loss due to invasive species and many more negative consequences. It is these lesser easily observed consequences that can lead to serious declines in the populations of recreationally fish marine species. 
 
+- Check out this [Marine Heatwaves in the Tasman Sea factsheet](https://nespclimate.com.au/wp-content/uploads/2021/05/ESCC_Marine-heatwaves_Tasman-Sea_Factsheet.pdf)
+- [This article](https://www.csiro.au/en/news/all/articles/2024/february/marine-heatwaves-alter-food-chain) details the effects of heatwaves on marine food webs
+- Tasmania's fisheries are being affected by [heatwaves in 2024](https://www.abc.net.au/news/rural/2023-09-15/tasmania-forecast-for-marine-heatwave-this-summer/102840380)
 :::::::::
 
 ::::::::: {.g-col-12}
@@ -616,7 +627,8 @@ Place into your fishing spot to catch a [lobster](../pages/fish-cards.qmd#sec-so
 ::::::::: {.g-col-12}
 ### Learn more
 
-*More information on this card coming soon!*
+- Check out [this report](https://dlnr.hawaii.gov/dar/files/2014/05/WHI_SCUBA_Background.pdf) on SCUBA fishing in Hawai'i
+- NSW banned the use of SCUBA gear for spearfishing in 1969 - see [here](https://usfa.org.au/ban-on-scuba-fishing-in-nsw/)
 :::::::::
 
 ::::::::: {.g-col-12}
