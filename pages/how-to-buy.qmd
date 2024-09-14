@@ -1,6 +1,7 @@
 ---
 pagetitle: How to Buy | BigFish Card Game
 sidebar: false
+image: "/resources/images/BigFish_logo.png"
 description-meta: |
   We're currently crowdfunding the BigFish game, and the official campaign will launch on September 15, 2024!
 include-after-body:

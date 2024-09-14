@@ -1,5 +1,6 @@
 ---
 pagetitle: New page with no sidebar
+image: "/resources/images/BigFish_logo.png"
 description-meta: |
   Description goes here!
 sidebar: false

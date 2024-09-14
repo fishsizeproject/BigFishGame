@@ -1,5 +1,6 @@
 ---
 pagetitle: Fish cards | BigFish Card Game
+image: "/resources/images/BigFish_logo.png"
 description-meta: |
   Explore all the fish cards included in the standard BigFish game.
 

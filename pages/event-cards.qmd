@@ -1,5 +1,6 @@
 ---
 pagetitle: Wildcards & Event cards | BigFish Card Game
+image: "/resources/images/BigFish_logo.png"
 description-meta: |
   Learn about the science behind all the round-end cards included in the BigFish game.
 

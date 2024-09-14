@@ -1,5 +1,6 @@
 ---
 pagetitle: Outreach & Blog
+image: "/resources/images/BigFish_logo.png"
 description-meta: |
   Updates on the Big Fish Card Game will be posted here.
 sidebar: false

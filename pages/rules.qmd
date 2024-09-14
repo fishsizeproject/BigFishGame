@@ -1,5 +1,6 @@
 ---
 pagetitle: Game rules | BigFish Card Game
+image: "/resources/images/BigFish_logo.png"
 description-meta: |
   Learn how to play the BigFish game.
 sidebar: false
