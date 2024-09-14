@@ -9,6 +9,8 @@ website:
   repo-url: https://github.com/fishsizeproject/BigFishGame
   site-url: https://bigfishcardgame.com/
   favicon: "/resources/images/BigFish_white.png"
+  image: "/resources/images/BigFish-logo.png"
+  twitter-card: true
   page-navigation: false
   back-to-top-navigation: false
   navbar:
