@@ -3,7 +3,7 @@ pagetitle: How to Buy | BigFish Card Game
 sidebar: false
 image: "/resources/images/BigFish_logo.png"
 description-meta: |
-  We're currently crowdfunding the BigFish game, and the official campaign will launch on September 15, 2024!
+  We've just finished a successful crowdfunding campaign. Please contact the team if you'd like a copy of the game.
 include-after-body:
   text: |
     <script type="text/javascript" src="/resources/simple-countdown-timer/dist/script.js"></script>
@@ -14,60 +14,58 @@ include-after-body:
 :::
 
 ::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .spacer-1em .text-center style="--bs-columns: 1;"}
-# We're crowdfunding!
+# Get the game
 
-To make the game available in Tasmania and worldwide and to run our engagement activities we have launched a **crowdfunding** campaign. Currently the game is not available for sale and you can only get it through our [Kickstarter](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game) campaign. 
-
-**This is a non-profit campaign**. 
-By pledging to this campaign you will secure your copy of the game and support education and engagement activities on marine science and sustainable recreational fishing. 
-
-The campaign launched on September 15, 2024 and will end on **October 15, 2024**. You can follow along on Kickstarter and be notified of changes and updates to the game.
-<!-- [Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary} -->
+We've just finished a highly successful crowdfunding campaign raising funds to bring this game into the world. Yay! We are now working on the final game production and printing, and will post updates here. The Big Fish Game is not available in shops yet, but you can still order your copy through the crowdfunding page on Kickstarter.
 :::::::::::
 
 ::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .spacer-1em .text-center style="--bs-columns: 1;"}
 [Kickstarter Page](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game){.btn .btn-secondary}
 :::::::::::
 
+::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .spacer-1em .text-center style="--bs-columns: 1;"}
+Meanwhile, please [get in touch](mailto:info@fishsizeproject.org) if you have further ideas on how to promote and fund the game and engagement actitivities, if you are a teacher and would like to use the game in your lessons, or if you have other questions or suggestions.
+:::::::::::
+
 <!-- begin timer grid -->
-:::::: {.grid .column-screen .timerBox style="--bs-columns: 11;" .text-center .justify-contents-evenly .align-items-center .my-4 .mx-5}
-::: {.g-col-4 .g-start-2 .g-start-md-1 .g-col-md-2 .mx-0 .px-0}
-<h2 class="timertext" id="days">DD</h2>
+<!-- :::::: {.grid .column-screen .timerBox style="--bs-columns: 11;" .text-center .justify-contents-evenly .align-items-center .my-4 .mx-5} -->
+<!-- ::: {.g-col-4 .g-start-2 .g-start-md-1 .g-col-md-2 .mx-0 .px-0} -->
+<!-- <h2 class="timertext" id="days">DD</h2> -->
 
-### DAYS {.text-center .timerlabel .unlisted}
-:::
+<!-- ### DAYS {.text-center .timerlabel .unlisted} -->
+<!-- ::: -->
 
-::: {.g-col-1 .mx-0 .px-0}
-<h2 class="timertext">:</h2>
-:::
+<!-- ::: {.g-col-1 .mx-0 .px-0} -->
+<!-- <h2 class="timertext">:</h2> -->
+<!-- ::: -->
 
-::: {.g-col-4 .g-col-md-2 .mx-0 .px-0}
-<h2 class="timertext" id="hours">HH</h2>
+<!-- ::: {.g-col-4 .g-col-md-2 .mx-0 .px-0} -->
+<!-- <h2 class="timertext" id="hours">HH</h2> -->
 
-### HOURS {.text-center .timerlabel .unlisted}
-:::
+<!-- ### HOURS {.text-center .timerlabel .unlisted} -->
+<!-- ::: -->
 
-::: {.g-col-1 .mx-0 .px-0 style="max-width: max(0px, calc((100vw - 768px)*999)); overflow: hidden;"}
-<h2 class="timertext">:</h2>
-:::
+<!-- ::: {.g-col-1 .mx-0 .px-0 style="max-width: max(0px, calc((100vw - 768px)*999)); overflow: hidden;"} -->
+<!-- <h2 class="timertext">:</h2> -->
+<!-- ::: -->
 
-::: {.g-col-4 .g-start-2 .g-start-md-7 .g-col-md-2 .mx-0 .px-0}
-<h2 class="timertext" id="minutes">MM</h2>
+<!-- ::: {.g-col-4 .g-start-2 .g-start-md-7 .g-col-md-2 .mx-0 .px-0} -->
+<!-- <h2 class="timertext" id="minutes">MM</h2> -->
 
-### MINS {.text-center .timerlabel .unlisted}
-:::
+<!-- ### MINS {.text-center .timerlabel .unlisted} -->
+<!-- ::: -->
 
-::: {.g-col-1 .mx-0 .px-0}
-<h2 class="timertext">:</h2>
-:::
+<!-- ::: {.g-col-1 .mx-0 .px-0} -->
+<!-- <h2 class="timertext">:</h2> -->
+<!-- ::: -->
 
-::: {.g-col-4 .g-col-md-2 .mx-0 .px-0}
-<h2 class="timertext" id="seconds">SS</h2>
+<!-- ::: {.g-col-4 .g-col-md-2 .mx-0 .px-0} -->
+<!-- <h2 class="timertext" id="seconds">SS</h2> -->
 
-### SECS {.text-center .timerlabel .unlisted}
-:::
+<!-- ### SECS {.text-center .timerlabel .unlisted} -->
+<!-- ::: -->
 <!-- end timer grid -->
-::::::
+<!-- :::::: -->
 
 <!-- subscribe to news section -->
 ::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .spacer-1em .text-center style="--bs-columns: 1;"}

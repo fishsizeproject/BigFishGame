@@ -87,20 +87,13 @@ To win the game you must find the best fishing strategy to collect points from c
 
 <!-- text column -->
 ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-12 .g-col-xl-6 .my-2 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-4 .text-center}
-::: p
-## We're crowdfunding! {style="color: var(--bs-accent);"}
-:::
+## Getting the game
 
-Our crowdfunding campaign has launched!
-Get your own copy of the game and support education on sustainable fishing and marine life. 
+We've just finished a highly successful crowdfunding campaign raising funds to bring this game into the world. Yay! We are now working on the final game production and printing, and will post updates here. The Big Fish Game is not available in shops yet, but you can still order your copy through the crowdfunding page on Kickstarter.
 
-**This is a non-profit campaign**. All proceeds from the crowdfunding campaign will go to outreach activities and developing the game further.
+[Kickstarter page](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game){.btn .btn-secondary}
 
-We will aim to have the game available in shops, but this is not certain. This means that **crowdfunding** is the best way to secure your own copy of the game and other great rewards. 
-
-The campaign launched on September 15, 2024 and will end on **October 15, 2024**. You can follow along on Kickstarter and be notified of changes and updates to the game.
-
-[Crowdfunding page](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game){.btn .btn-secondary}
+Meanwhile, please [get in touch](mailto:info@fishsizeproject.org) if you have further ideas on how to promote and fund the game and engagement actitivities, if you are a teacher and would like to use the game in your lessons, or if you have other questions or suggestions.
 :::::::::
 
 <!-- image column -->
@@ -119,44 +112,44 @@ The campaign launched on September 15, 2024 and will end on **October 15, 2024**
 ::::::::::::
 
 <!-- begin timer grid -->
-:::::: {.grid .column-screen .timerBox style="--bs-columns: 11;" .text-center .justify-contents-evenly .align-items-center .my-2 .mx-5}
-::: {.g-col-4 .g-start-2 .g-start-md-1 .g-col-md-2 .mx-0 .px-0}
-<h2 class="timertext" id="days">DD</h2>
+<!-- :::::: {.grid .column-screen .timerBox style="--bs-columns: 11;" .text-center .justify-contents-evenly .align-items-center .my-2 .mx-5} -->
+<!-- ::: {.g-col-4 .g-start-2 .g-start-md-1 .g-col-md-2 .mx-0 .px-0} -->
+<!-- <h2 class="timertext" id="days">DD</h2> -->
 
-### DAYS {.text-center .timerlabel .unlisted}
-:::
+<!-- ### DAYS {.text-center .timerlabel .unlisted} -->
+<!-- ::: -->
 
-::: {.g-col-1 .mx-0 .px-0}
-<h2 class="timertext">:</h2>
-:::
+<!-- ::: {.g-col-1 .mx-0 .px-0} -->
+<!-- <h2 class="timertext">:</h2> -->
+<!-- ::: -->
 
-::: {.g-col-4 .g-col-md-2 .mx-0 .px-0}
-<h2 class="timertext" id="hours">HH</h2>
+<!-- ::: {.g-col-4 .g-col-md-2 .mx-0 .px-0} -->
+<!-- <h2 class="timertext" id="hours">HH</h2> -->
 
-### HOURS {.text-center .timerlabel .unlisted}
-:::
+<!-- ### HOURS {.text-center .timerlabel .unlisted} -->
+<!-- ::: -->
 
-::: {.g-col-1 .mx-0 .px-0 style="max-width: max(0px, calc((100vw - 768px)*999)); overflow: hidden;"}
-<h2 class="timertext">:</h2>
-:::
+<!-- ::: {.g-col-1 .mx-0 .px-0 style="max-width: max(0px, calc((100vw - 768px)*999)); overflow: hidden;"} -->
+<!-- <h2 class="timertext">:</h2> -->
+<!-- ::: -->
 
-::: {.g-col-4 .g-start-2 .g-start-md-7 .g-col-md-2 .mx-0 .px-0}
-<h2 class="timertext" id="minutes">MM</h2>
+<!-- ::: {.g-col-4 .g-start-2 .g-start-md-7 .g-col-md-2 .mx-0 .px-0} -->
+<!-- <h2 class="timertext" id="minutes">MM</h2> -->
 
-### MINS {.text-center .timerlabel .unlisted}
-:::
+<!-- ### MINS {.text-center .timerlabel .unlisted} -->
+<!-- ::: -->
 
-::: {.g-col-1 .mx-0 .px-0}
-<h2 class="timertext">:</h2>
-:::
+<!-- ::: {.g-col-1 .mx-0 .px-0} -->
+<!-- <h2 class="timertext">:</h2> -->
+<!-- ::: -->
 
-::: {.g-col-4 .g-col-md-2 .mx-0 .px-0}
-<h2 class="timertext" id="seconds">SS</h2>
+<!-- ::: {.g-col-4 .g-col-md-2 .mx-0 .px-0} -->
+<!-- <h2 class="timertext" id="seconds">SS</h2> -->
 
-### SECS {.text-center .timerlabel .unlisted}
-:::
+<!-- ### SECS {.text-center .timerlabel .unlisted} -->
+<!-- ::: -->
 <!-- end timer grid -->
-::::::
+<!-- :::::: -->
 
 <!-- subscribe to news section -->
 ::::::::::: {.grid .column-screen .py-3 .text-center style="--bs-columns: 1;"}
