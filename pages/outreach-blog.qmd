@@ -23,6 +23,11 @@ listing:
 <!-- This kind of grid keeps the horizontal spacing nice when there's no sidebar -->
 ::: {.grid .column-screen .mx-2 .mx-sm-3 .mx-md-4 .my-3 .justify-contents-evenly .align-items-center}
 :::::: {.g-col-10 .mx-2}
+
+Major news is that, as of August 2025, the Big Fish card game is printed and on the way to Tasmania. Official launch is on September 10 and the game will soon be available in shops. 
+
+Asta and Matt received a small grant from [STEM Inspiring Tamania](https://inspiringtas.org.au/) to bring the Big Fish game to schools (for Aug-Dec 2025). We are developing and trialing various lessons that would facilitate learning about the ocean and sustainability through fun play and hands on activities. If you are a high school or college teacher and would like to get involved, contact us. 
+
 Amy Coghlan and Matt Testoni recently went on Mornings at ABC radio to talk about how the Big Fish Card Game was made, how it works, and the messages it teaches. You can listen to the episode [here](https://www.abc.net.au/listen/programs/hobart-mornings/mornings/104288814?utm_content=link&utm_medium=content_shared) (interview starts at 2:14:55).
 
 Asta Audzijonyte also gave an interview to ABC Country Hour, which you can listen to [here](https://www.abc.net.au/listen/programs/tas-country-hour/tasmanian-country-hour/104346534?utm_content=link&utm_medium=content_shared) (interview starts at 12:55). 
@@ -38,10 +43,57 @@ Finally, check out [this article](https://au.news.yahoo.com/hunt-for-worlds-last
 
 :::
 
-## Upcoming events {.column-screen}
+## Upcoming and past events {.column-screen}
+
+## 2025 {.column-screen}
 
 <!-- grid for activities listing, split into two -->
-::: {.grid .column-screen .justify-contents-evenly .align-items-start .mx-2 .mx-sm-3 .mx-md-4 .mx-xl-5 .my-2}
+::: {.grid .column-screen .justify-content-evenly .align-items-start .mx-2 .mx-sm-3 .mx-md-4 .mx-xl-5 .my-2}
+
+<!-- FIRST COLUMN -->
+:::::: {.grid .g-col-12 .g-col-lg-6}
+::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
+**23<sup>th</sup> August**
+:::::::::
+
+::::::::: {.g-col-6 .g-col-lg-7 .g-col-xl-8 style="margin-top: 0;"}
+Big Fish is back at the [Festival of Bright Ideas in Hobart](https://festivalofbrightideas.com.au/). Come and check out the game, have fun playing and share your ideas with us. 
+:::::::::
+
+::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
+**10<sup>th</sup> September**
+:::::::::
+
+::::::::: {.g-col-6 .g-col-lg-7 .g-col-xl-8 style="margin-top: 0;"}
+OFFICIAL game LAUNCH at [Hobart Brewing Company](https://hobartbrewingco.com.au/), 6-8pm and "Big Fish" documentary screening. Come and join us. 
+:::::::::
+::::::
+
+<!-- SECOND COLUMN -->
+:::::: {.grid .g-col-12 .g-col-lg-6}
+::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
+**26<sup>nd</sup> September**
+:::::::::
+
+::::::::: {.g-col-6 .g-col-lg-7 .g-col-xl-8 style="margin-top: 0;"}
+Big Fish and ocean challenges event with schools at the [Sustainability Learning Centre](https://sustainabilitylc.education.tas.edu.au/). Supported by [STEM Inspiring Tamania](https://inspiringtas.org.au/) (closed event)
+:::::::::
+
+::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
+**October-November**
+:::::::::
+
+::::::::: {.g-col-6 .g-col-lg-7 .g-col-xl-8 style="margin-top: 0;"}
+Working with participating schools and teachers to an engaging lesson plan on marine science, climate change, human-nature interactions and positive action. Stay tuned for more and contact us if you would like to be involved. Supported by [STEM Inspiring Tamania](https://inspiringtas.org.au/).
+:::::::::
+::::::
+
+:::
+
+## 2024 {.column-screen}
+
+<!-- grid for activities listing, split into two -->
+::: {.grid .column-screen .justify-content-evenly .align-items-start .mx-2 .mx-sm-3 .mx-md-4 .mx-xl-5 .my-2}
 
 <!-- FIRST COLUMN -->
 :::::: {.grid .g-col-12 .g-col-lg-6}
