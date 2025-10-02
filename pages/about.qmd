@@ -12,7 +12,7 @@ description-meta: |
 # About
 
 ::::::::: {.column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4}
-This game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings) and Matt Testoni (photos, design). 
+This game has been developed by the Institute of Marine and Antarctic Sciences (IMAS), University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. All artwork is original and produced by Amy Coghlan (drawings), Matt Testoni (photos, design) and Stacey McCormack from Visual Knowledge. 
 
 Game testing, advice, interesting facts and many other details have been provided by many researchers, naturalists, students, friends, anglers, divers and game enthusiasts. Thank you.
 
@@ -36,12 +36,11 @@ Game testing, advice, interesting facts and many other details have been provide
 
 ## Contact us
 
-If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info@fishsizeproject.org](mailto:info@fishsizeproject.org).
+If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info@bigfishcardgame.com](mailto:info@bigfishcardgame.com).
 
-If you want to support this work, you can buy your very own copy of the BigFish card game! An online ordering system is coming soon, but for now you can send us an email to get the game.
 
 ::: text-center
-[Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary}
+[Contact us](mailto:info@bigfishcardgame.com){.h3 .btn .btn-secondary}
 :::
 
 :::::::::

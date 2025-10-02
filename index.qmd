@@ -89,11 +89,11 @@ To win the game you must find the best fishing strategy to collect points from c
 ::::::::: {.g-col-12 .g-col-sm-12 .g-col-md-12 .g-col-lg-12 .g-col-xl-6 .my-2 .mx-2 .mx-lg-3 .mx-xl-4 .mx-xxl-4 .text-center}
 ## Getting the game
 
-We've just finished a highly successful crowdfunding campaign raising funds to bring this game into the world. Yay! We are now working on the final game production and printing, and will post updates here. The Big Fish Game is not available in shops yet, but you can still order your copy through the crowdfunding page on Kickstarter.
+We've  finished a highly successful crowdfunding campaign raising funds to bring this game into the world. Yay! The game finally arrived and looks awesome. We are finalising our new flashy game webpage, but meanwhile you can get the game using the link below. 
 
-[Kickstarter page](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game){.btn .btn-secondary}
+[Get the game](https://www.mtunderwatermedia.com/big-fish-card-game){.btn .btn-secondary}
 
-Meanwhile, please [get in touch](mailto:info@fishsizeproject.org) if you have further ideas on how to promote and fund the game and engagement actitivities, if you are a teacher and would like to use the game in your lessons, or if you have other questions or suggestions.
+Also [get in touch](mailto:info@bigfishcardgame.com) if you have further ideas on how to promote and fund the game and engagement activities, if you are a teacher and would like to use the game in your lessons, or if you have other questions or suggestions.
 :::::::::
 
 <!-- image column -->
@@ -286,11 +286,11 @@ Game testing, advice, interesting facts and many other details have been provide
 :::::: grid
 ::: {.g-col-12 .g-col-md-6 .ms-md-3 .ps-md-3 .text-center}
 [<img src="resources/icons/Follow-Us-On-Instagram-PNG-Image.png" class="img-fluid" style="width: 245px;" alt="Follow us on Instagram!">](https://www.instagram.com/big_fish_card_game/)
-<!-- ![mailto:info@fishsizeproject.org](){width="20%"} -->
+<!-- ![mailto:info@bigfishcardgame.com](){width="20%"} -->
 :::
 
 ::: {.g-col-12 .g-col-md-6 .me-md-3 .pe-md-3 .text-center}
-[Contact us](mailto:info@fishsizeproject.org){.h3 .btn .btn-secondary}
+[Contact us](mailto:info@bigfishcardgame.com){.h3 .btn .btn-secondary}
 :::
 ::::::
 :::::::::
@@ -331,19 +331,19 @@ Game testing, advice, interesting facts and many other details have been provide
 :::
 
 ::: {.g-col-12 .text-center}
-**You can support the game** by pledging on our crowdfunding or by contacting us. 
+**You can support the game** by getting our own copy and promoting it to your friends, school and colleagues. Perhaps you can talk to your local game shop to see if they would like to stock the game? Please contact us if you have ideas or suggestions. 
 
 If you would like to sponsor a card, representing your organisation or initiative, get in touch and we will discuss. We will only include cards that are truly important for sustainable fisheries and marine ecosystems. 
 
-<!-- If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info\@fishsizeproject.org](mailto:info@fishsizeproject.org). -->
+<!-- If you would like to learn more about our work, adapt the game to your ecosystem, apply the game to your teaching or support our work please contact us at [info\@bigfishcardgame.com](mailto:info@bigfishcardgame.com). -->
 :::
 
 ::: {.g-col-12 .g-col-lg-6 .text-center}
-[Pledge](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game){.btn .btn-secondary}
+[Get your game](https://www.mtunderwatermedia.com/big-fish-card-game){.btn .btn-secondary}
 :::
 
 ::: {.g-col-12 .g-col-lg-6 .text-center}
-[Contact us](mailto:info@fishsizeproject.org){.btn .btn-secondary}
+[Contact us](mailto:info@bigfishcardgame.com){.btn .btn-secondary}
 :::
 ::::::
 

@@ -16,15 +16,15 @@ include-after-body:
 ::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .spacer-1em .text-center style="--bs-columns: 1;"}
 # Get the game
 
-We've just finished a highly successful crowdfunding campaign raising funds to bring this game into the world. Yay! We are now working on the final game production and printing, and will post updates here. The Big Fish Game is not available in shops yet, but you can still order your copy through the crowdfunding page on Kickstarter.
+The game was successfully funded through a [crowdfunding campaign](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game), raising funds to bring this game into the world. Yay! The game has been printed and is finally available for sale. We are currently finalising our brand new website, but meanwhile you can also buy the game using the link below. 
 :::::::::::
 
 ::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .spacer-1em .text-center style="--bs-columns: 1;"}
-[Kickstarter Page](https://www.kickstarter.com/projects/bigfishcardgame/big-fish-the-tasmanian-fishing-and-ocean-card-game){.btn .btn-secondary}
+[Get the game](https://www.mtunderwatermedia.com/big-fish-card-game){.btn .btn-secondary}
 :::::::::::
 
 ::::::::::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .spacer-1em .text-center style="--bs-columns: 1;"}
-Meanwhile, please [get in touch](mailto:info@fishsizeproject.org) if you have further ideas on how to promote and fund the game and engagement actitivities, if you are a teacher and would like to use the game in your lessons, or if you have other questions or suggestions.
+Please [get in touch](mailto:info@bigfishcardgame.com) if you have further ideas on how to promote and fund the game and engagement activities, if you are a teacher and would like to use the game in your lessons, or if you have other questions or suggestions.
 :::::::::::
 
 <!-- begin timer grid -->
