@@ -95,7 +95,7 @@ A lesson about food webs, species interactions, climate change, management and r
 
 **Skills**: teamwork, collaboration, problem solving, critical thinking, design thinking, creativity, presentation. 
 
-[Go to lesson 1](lesson-1.qmd){.btn .btn-primary}
+[Go to lesson 1](lesson1.qmd){.btn .btn-primary}
 :::
 ::::
 :::

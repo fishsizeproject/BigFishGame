@@ -171,7 +171,7 @@ Follow us on Instagram to see the latest updates!
 ::::::
 
 :::::: {.px-0 .g-col-12 .mx-0 .g-col-sm-6 .mx-sm-0 .g-col-md-6 .mx-md-2 .g-col-lg-6 .mx-lg-4  .g-col-xl-3 .mx-xl-0  .g-col-xxl-3 .mx-xxl-1}
-{{< https://www.instagram.com/p/DRjAbZDkVFv/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+{{< share-post https://www.instagram.com/p/DRjAbZDkVFv/?utm_source=ig_embed&amp;utm_campaign=loading >}}
 ::::::
 
 :::::: {.px-0 .g-col-12 .mx-0 .g-col-sm-6 .mx-sm-0 .g-col-md-6 .mx-md-2 .g-col-lg-6 .mx-lg-4  .g-col-xl-3 .mx-xl-0  .g-col-xxl-3 .mx-xxl-1}
