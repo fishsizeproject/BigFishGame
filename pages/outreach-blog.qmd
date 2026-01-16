@@ -24,17 +24,17 @@ listing:
 ::: {.grid .column-screen .mx-2 .mx-sm-3 .mx-md-4 .my-3 .justify-contents-evenly .align-items-center}
 :::::: {.g-col-10 .mx-2}
 
-Major news is that, as of August 2025, the Big Fish card game is printed and on the way to Tasmania. Official launch is on September 10 and the game will soon be available in shops. 
+- Major news is that, as of August 2025, the Big Fish card game has been printed and available in Tasmanian shops. Our list of stockists include Hobart Book Shop, Fullers, Area 52, Richmond game shop and others. Check out our [Instagram page](https://www.instagram.com/big_fish_card_game/) for updates. 
 
-Asta and Matt received a small grant from [STEM Inspiring Tamania](https://inspiringtas.org.au/) to bring the Big Fish game to schools (for Aug-Dec 2025). We are developing and trialing various lessons that would facilitate learning about the ocean and sustainability through fun play and hands on activities. If you are a high school or college teacher and would like to get involved, contact us. 
+- Julu 2025: Asta and Matt received a small grant from [STEM Inspiring Tamania](https://inspiringtas.org.au/) to bring the Big Fish game to schools. We are developing and trialing various lessons that would facilitate learning about the ocean and sustainability through fun play and hands on activities. If you are a high school or college teacher and would like to get involved, contact us. 
 
-Amy Coghlan and Matt Testoni recently went on Mornings at ABC radio to talk about how the Big Fish Card Game was made, how it works, and the messages it teaches. You can listen to the episode [here](https://www.abc.net.au/listen/programs/hobart-mornings/mornings/104288814?utm_content=link&utm_medium=content_shared) (interview starts at 2:14:55).
+- Amy and Matt were invited to the Mornings at ABC radio to talk about how the Big Fish Card Game was made, how it works, and the messages it teaches. You can listen to the episode [here](https://www.abc.net.au/listen/programs/hobart-mornings/mornings/104288814?utm_content=link&utm_medium=content_shared) (interview starts at 2:14:55).
 
-Asta Audzijonyte also gave an interview to ABC Country Hour, which you can listen to [here](https://www.abc.net.au/listen/programs/tas-country-hour/tasmanian-country-hour/104346534?utm_content=link&utm_medium=content_shared) (interview starts at 12:55). 
+- Asta Audzijonyte  gave an interview to ABC Country Hour, which you can listen to [here](https://www.abc.net.au/listen/programs/tas-country-hour/tasmanian-country-hour/104346534?utm_content=link&utm_medium=content_shared) (interview starts at 12:55). 
 
-You can also check out [this video](https://youtu.be/dBsMSZ3VOAk) where Big Fish Card Game was featured by Tassie Freedivers!
+- You can also check out [this video](https://youtu.be/dBsMSZ3VOAk) where Big Fish Card Game was featured by Tassie Freedivers!
 
-Finally, check out [this article](https://au.news.yahoo.com/hunt-for-worlds-last-giant-fish-as-researchers-find-clues-in-ancient-photographs-012947944.html) on Yahoo News about how much bigger fish used to be. 
+- And here is a [great Yahoo News article](https://au.news.yahoo.com/hunt-for-worlds-last-giant-fish-as-researchers-find-clues-in-ancient-photographs-012947944.html) on how much bigger fish used to be. 
 ::::::
 
 :::::: {.g-col-2 .mx-2}
@@ -43,7 +43,7 @@ Finally, check out [this article](https://au.news.yahoo.com/hunt-for-worlds-last
 
 :::
 
-## Upcoming and past events {.column-screen}
+## Events {.column-screen}
 
 ## 2025 {.column-screen}
 
@@ -57,7 +57,7 @@ Finally, check out [this article](https://au.news.yahoo.com/hunt-for-worlds-last
 :::::::::
 
 ::::::::: {.g-col-6 .g-col-lg-7 .g-col-xl-8 style="margin-top: 0;"}
-Big Fish is back at the [Festival of Bright Ideas in Hobart](https://festivalofbrightideas.com.au/). Come and check out the game, have fun playing and share your ideas with us. 
+Big Fish is back at the [Festival of Bright Ideas in Hobart](https://festivalofbrightideas.com.au/). We again interact with lots of students and teachers, and show the game to everyone visiting. 
 :::::::::
 
 ::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
@@ -80,7 +80,7 @@ Big Fish and ocean challenges event with schools at the [Sustainability Learning
 :::::::::
 
 ::::::::: {.g-col-6 .g-col-lg-5 .g-col-xl-4 .h4 style="padding-top: 0; margin-top: 0;"}
-**October-November**
+**October-December**
 :::::::::
 
 ::::::::: {.g-col-6 .g-col-lg-7 .g-col-xl-8 style="margin-top: 0;"}
@@ -163,24 +163,23 @@ Follow us on Instagram to see the latest updates!
 
 ::: {.grid .column-screen .mx-2 .mx-md-3 .mx-lg-5 .mx-xl-0 .my-3 .justify-contents-evenly .align-items-start .text-center}
 :::::: {.px-0 .g-col-12 .mx-1 .g-col-sm-6 .mx-sm-0 .g-col-md-6 .mx-md-2 .g-col-lg-6 .mx-lg-4 .g-col-xl-3 .mx-xl-0  .g-col-xxl-3 .mx-xxl-1}
-{{< share-post https://www.instagram.com/p/DBGWKz7S1la/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+{{< share-post https://www.instagram.com/p/DPcoHSUgShZ/?utm_source=ig_embed&amp;utm_campaign=loading >}}
 ::::::
 
 :::::: {.px-0 .g-col-12 .mx-0 .g-col-sm-6 .mx-sm-0 .g-col-md-6 .mx-md-2 .g-col-lg-6 .mx-lg-4  .g-col-xl-3 .mx-xl-0  .g-col-xxl-3  .mx-xxl-1}
-{{< share-post https://www.instagram.com/p/DBC8536zwH5/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+{{< share-post https://www.instagram.com/p/DR28bk0kxXo/?utm_source=ig_embed&amp;utm_campaign=loading >}}
 ::::::
 
 :::::: {.px-0 .g-col-12 .mx-0 .g-col-sm-6 .mx-sm-0 .g-col-md-6 .mx-md-2 .g-col-lg-6 .mx-lg-4  .g-col-xl-3 .mx-xl-0  .g-col-xxl-3 .mx-xxl-1}
-{{< share-post https://www.instagram.com/p/DBBR8b4P3TE/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+{{< https://www.instagram.com/p/DRjAbZDkVFv/?utm_source=ig_embed&amp;utm_campaign=loading >}}
 ::::::
 
 :::::: {.px-0 .g-col-12 .mx-0 .g-col-sm-6 .mx-sm-0 .g-col-md-6 .mx-md-2 .g-col-lg-6 .mx-lg-4  .g-col-xl-3 .mx-xl-0  .g-col-xxl-3 .mx-xxl-1}
-{{< share-post https://www.instagram.com/p/DA1ylK7TlRx/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+{{< share-post https://www.instagram.com/p/DRX9OarE06i/?utm_source=ig_embed&amp;utm_campaign=loading >}}
 ::::::
 :::
 
-##### {#sec-blog style="margin-top: 0;" .unlisted}
-
-::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"}
-## BigFish Blog
-:::
+<!--##### {#sec-blog style="margin-top: 0;" .unlisted} -->
+<!--::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .text-center style="--bs-columns: 1;"} -->
+<!--## BigFish Blog -->
+<!--::: -->

@@ -32,11 +32,9 @@ website:
           - text: "Event cards"
             href: pages/event-cards.qmd
       - text: "Outreach"
-        menu:
-          - text: "News & Events"
-            href: pages/outreach-blog.qmd
-          - text: "BigFish Blog"
-            href: pages/outreach-blog.qmd#sec-blog
+        href: pages/outreach-blog.qmd
+      - text: "Teachers"
+        href: pages/teachersMain.qmd
       - text: "About Us"
         href: index.qmd#sec-about
       - text: "Get yours"

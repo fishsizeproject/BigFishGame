@@ -1,0 +1,120 @@
+---
+title: "For teachers"
+subtitle: "Classroom resources for using BigFish"
+description: "How to use BigFish Card Game in schools, with lesson plans and teacher resources."
+page-layout: full
+toc: true
+toc-depth: 2
+---
+
+::: {.columns .v-center}
+::: {.column width="60%"}
+BigFish can be used as a hands-on way to explore marine ecosystems, sustainability, and human–nature interactions.
+
+**TODO (short intro):** Add 3–6 sentences explaining how the game fits a lesson (timing, group sizes, learning outcomes).
+
+[Contact us](mailto:info@fishsizeproject.org){.btn .btn-primary}
+[Download teacher pack (PDF)](../resources/teachers/teacher-pack.pdf){.btn .btn-outline-primary}
+:::
+
+::: {.column width="40%"}
+![](../resources/images/pretty-pics/kelp-forest-1-small.jpg){fig-alt="Placeholder image for teachers page" .img-fluid .rounded}
+:::
+:::
+
+---
+
+## How to use BigFish in class
+
+::: {.callout-note}
+### Suggested formats (pick one)
+- **TODO:** 15–25 min “mini-session” + discussion  
+- **TODO:** Full 45–60 min lesson (gameplay + worksheet)  
+- **TODO:** Multi-lesson unit (3 lessons)  
+:::
+
+### Practical tips
+
+- **Class size / grouping:** TODO  
+- **Time required:** TODO  
+- **Materials needed:** TODO  
+- **Assessment ideas:** TODO  
+- **Links to curriculum (optional):** TODO  
+
+---
+
+## Lesson plans
+
+Below are three lesson plans designed to be used with the BigFish Card Game.
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+![](../resources/images/cards/fish-cards/southern-rock-lobster.jpg){.card-img-top fig-alt="Southern Rock Lobster card image"}
+::: {.card-body}
+### Lesson 1: Lobsters – Urchins – Kelp
+
+**Focus:** trophic cascades, kelp forests, urchin barrens, predators and ecosystem balance.
+
+**TODO (1–2 lines):** quick summary of what students do in this lesson.
+
+[Open lesson plan](lesson-1-lobsters-urchins-kelp.qmd){.btn .btn-primary}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+![](../resources/images/cards/event-cards/urchins-arrive.jpg){.card-img-top fig-alt="Urchins arrive event card image"}
+::: {.card-body}
+### Lesson 2: *TODO lesson title*
+
+**TODO (1–2 lines):** short summary.
+
+[Coming soon](#){.btn .btn-outline-primary}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+![](../resources/images/cards/wild-cards/giant-kelp.jpg){.card-img-top fig-alt="Giant kelp wild card image"}
+::: {.card-body}
+### Lesson 3: *TODO lesson title*
+
+**TODO (1–2 lines):** short summary.
+
+[Coming soon](#){.btn .btn-outline-primary}
+:::
+:::
+:::
+:::
+
+---
+
+## Optional: Intro video (embedded)
+
+If you want an embedded video on this page (e.g., to show students what BigFish is), here’s a responsive embed block.
+Replace the YouTube ID if needed.
+
+<div class="ratio ratio-16x9">
+  <iframe
+    src="https://www.youtube.com/embed/dBsMSZ3VOAk"
+    title="BigFish Card Game video"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe>
+</div>
+
+---
+
+## Teacher resources
+
+### Downloadables
+
+- **Teacher pack (PDF):** `../resources/teachers/teacher-pack.pdf` *(TODO: add file)*
+- **Lesson worksheets:** *(TODO: add files and links here)*
+- **Printable glossary / cards reference:** *(TODO)*
+
+### Contact / bookings
+
+**TODO:** Add a short note about contacting you for school visits / workshops / teacher trials.

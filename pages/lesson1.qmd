@@ -1,0 +1,317 @@
+---
+title: "Lesson 1: Lobsters – Urchins – Kelp"
+subtitle: "Using Big Fish to explore trophic cascades, overfishing and kelp forest loss"
+page-layout: full
+toc: true
+toc-depth: 3
+---
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/kelpForest.jpg){.img-fluid .rounded fig-alt="Kelp forest" style="max-height:280px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/lobster.jpg){.img-fluid .rounded fig-alt="Rock lobster" style="max-height:280px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/diverBarrenKelp.jpg){.img-fluid .rounded fig-alt="Diver near barren/kelp" style="max-height:280px; width:auto;"}
+:::
+
+::::
+
+---
+
+## Core concepts
+
+- Long-spined sea urchins have had their home range extended into Tasmania due to climate change and ocean warming. They are a range shifting species.
+- Long-spined sea urchins have become a dominant herbivore (plant-eating animal), which has destroyed underwater seaweed or kelp forests that are key habitats for many Tasmanian fish species.
+- Long-spined sea urchin predators are primarily the southern rock lobster. Yet, lobster abundance is very low due to recreational and commercial fishing. Simply speaking, lobsters are overfished and cannot control urchins.
+- Only larger rock lobsters are able to consume long-spined sea urchins.
+- Once urchins eat all the seaweed and form an “urchin barren” it is very hard and slow to restore the kelp forests back, unless all urchins are removed.
+- Over the last few decades, nearly 90% of Tasmanian kelp forests have been lost. This has devastating impacts on Tasmanian seafood industry, especially abalone harvests. Tasmanian government is supporting an urchin harvest industry with the goal of artificially reducing urchin numbers.
+- To control urchin numbers it is essential to restore southern rock lobster populations.
+
+**The lesson introduces [UN Sustainable Development Goal 14: "Conserve and sustainably use the oceans, seas and marine resources for sustainable development"](https://sdgs.un.org/goals/goal14)**
+
+---
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-start}
+
+::: {.g-col-12 .g-col-lg-6}
+### Learning intention
+
+Students use the Big Fish game (as a simulation) to model a trophic cascade on temperate rocky reefs:
+
+- Seaweed or kelp = habitat and primary producer
+- Long-spined sea urchins = grazer that can remove kelp and create “barrens”
+- Rock lobsters = predator that can reduce urchin numbers and grazing pressure
+
+*Real-world context:* long-spined urchins have expanded into Tasmania and are having large negative impact on Tasmanian seafood industry and ecosystems.
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+### Success criteria
+
+By the end of the lesson and assessment, students can:
+
+- Draw a simple food web for kelp–urchin–lobster and label energy flow.
+- Explain, with evidence from their game data, what happens when lobster numbers drop.
+- Propose one management response (e.g., protection of predators, urchin harvest), explain their costs and benefits and justify them.
+:::
+
+::::
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/barrensSeaweed.jpg){.img-fluid .rounded fig-alt="Barrens and seaweed" style="max-height:280px; width:auto;"}
+:::
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/DiverMeasureUrchins.jpg){.img-fluid .rounded fig-alt="Diver measuring urchins" style="max-height:280px; width:auto;"}
+:::
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/CommercialDiverUrchin2.jpg){.img-fluid .rounded fig-alt="Commercial diver with urchins" style="max-height:280px; width:auto;"}
+:::
+
+::::
+
+---
+
+## Duration and resources
+
+**Duration** 
+
+Recommended for 2x50–60 min lessons (includes game and analysis and write-up)
+
+**Resources**
+
+- Big Fish card game – ideally one deck per 4 students.
+- Cardboard cut to resemble a large blank card (to create a new card of policy action)
+- Student recording sheet for flow chart creation
+- Whiteboard / projector
+
+## Assessments
+
+The recommend a creative in-class assessment that requires students to:
+
+**1)** **design a new card to be used in the game** (Wild card or Event card) that would represent a policy to manage urchin numbers,
+
+**2)** present the card to the class, explain why it is useful and how it works,
+
+**3)** (optional) draw a flowchart showing the interactions of long-spined sea urchins with other species.
+
+The policy card should create a change within the game, for example, a new rule or incentive related to a real-life possible solution.
+
+**Tips**
+
+It can be useful for students to look through Wild and Event cards already present in the Big Fish card game to understand the type of cards that could be created and actions they do (i.e. discard a card, grow fish, get an extra card or fish). 
+
+Example policy cards include a one-off wild card that [translocates lobsters](https://fishing.tas.gov.au/community/fisheries-management/rock-lobster-stock-rebuilding/rock-lobster-translocation) or an event card that gives some boost to the players because a [long-spined sea urchin fishery was established and subsidised by the Tasmanian government](https://tasfisheriesresearch.org/centro/catch/). Both policies currently occur in Tasmania and students can explore more information in the links above.
+
+---
+
+## Download the lesson PowerPoint slides  
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4}
+::: {.g-col-12 .text-center}
+[PowerPoint slides](../resources/downloads/Lesson1_UrchinsKelpLobsters.pptm){.btn .btn-secondary}
+:::
+::::
+
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/Urchins.jpg){.img-fluid .rounded fig-alt="Urchins" style="max-height:260px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/lobsters2.jpg){.img-fluid .rounded fig-alt="Lobsters" style="max-height:260px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/CommercialDiverUrchin.jpg){.img-fluid .rounded fig-alt="Commercial diver with urchins" style="max-height:260px; width:auto;"}
+:::
+
+::::
+
+---
+
+## Setup and game play explanation
+
+If you are familiar with the usual Big Fish card game rules, the scenario in this lesson starts with a setup where players’ “fishing spot” already has more cards (fish) and the game only goes for three rounds. This aims to create a faster and more educational experience. To learn about the rules of the typical Big Fish game, you can visit the [rules page on the Big Fish card game website](https://bigfishcardgame.com/pages/rules.html). When playing the game, in each round students can take their turn all at once (which is faster) or in a consecutive order (which could be more interactive).
+
+The two short videos explain how to set up the game for the class and demonstrate the game play and rules. They are also explained in the Lesson 1 PowerPoint document, available from this page.
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-4 .align-items-start}
+
+::: {.g-col-12 .g-col-xl-6}
+### Game setup
+
+{{< video https://youtu.be/kM7hLtQ9jo0 >}}
+
+[Open on YouTube](https://www.youtube.com/watch?v=kM7hLtQ9jo0)
+:::
+
+::: {.g-col-12 .g-col-xl-6}
+### Game play
+
+{{< video https://www.youtube.com/watch?v=7-v6ba8R8YM >}}
+
+[Open on YouTube](https://www.youtube.com/watch?v=7-v6ba8R8YM)
+:::
+
+::::
+
+
+
+
+
+
+---
+
+## Word list, key terms and concepts
+
+Below are some key concepts and words that students can learn during the lesson, independent research and assessment. 
+
+**Food webs; Ecosystem interactions; Size-based species interactions; Climate change; Range shifting species; Herbivores and predators; Ecosystem models; Fish sizes; Fishing selectivity; Cascading effects; Human impact; Management policy; Sustainability; Recreational fishing; Commercial fishing**
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/Seaweed.jpg){.img-fluid .rounded fig-alt="Seaweed" style="max-height:300px; width:auto;"}
+:::
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/urchins-arrive.jpg){.img-fluid .rounded fig-alt="Urchins arrive" style="max-height:300px; width:auto;"}
+:::
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/lobster-card.jpg){.img-fluid .rounded fig-alt="Lobster card" style="max-height:300px; width:auto;"}
+:::
+
+::::
+
+---
+
+## Extension to Years 11–12
+
+This design can be extended for Years 11 and 12. For example in Year 11 Biology Unit 1, students are expected to investigate ecosystems as dynamic systems (biotic + abiotic factors) and use *science inquiry skills*: posing questions, designing an investigation, analysing data, evaluating limitations, and communicating evidence-based conclusions. Instead of framing the lesson as playing a game, frame it around the concept of using the game as a model to improve understanding. The Big Fish activity becomes the model system they run repeatedly under different conditions (treatments), then analyse like an experiment.
+
+**To simulate replications**  
+
+Instead of one play per group, each group plays at least 3 games for each setup (treatment), or the class divides treatments and pools the data. You can change the length of the game by rearranging the Event card deck (so the game runs for 4, 5 or more rounds).
+
+**To simulate treatments**  
+
+Use different setups:
+
+1) Usual setup as described above – control.  
+2) No fishing of lobsters – lobsters cannot be fished in the game.  
+3) High fishing pressure – all lobsters are caught already in the first round.  
+4) Climate change extreme – urchins arrive even faster by adding the second “Long Spined Sea Urchin Arrive” card in the event deck.
+
+---
+
+## Further video resources
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .gap-4 .align-items-stretch}
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 1: how lobsters control urchins
+
+Institute for Marine and Antarctic Studies (IMAS, University of Tasmania) scientist Scott Ling explains kelp loss, the role of rock lobsters, and restoration attempts (7 mins).
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=nsLLLT908Kk >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=nsLLLT908Kk">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 2: urchin harvesting
+
+IMAS scientist John Keane talks about urchin removal by commercial divers (2 mins).
+
+<div class="mt-auto">
+{{< video https://youtu.be/vFbB0bPHUDQ >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=vFbB0bPHUDQ">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 3: science behind urchins and kelp loss
+
+Woodbridge School Marine Discovery Centre video about ecosystems, biotic and abiotic factors, food webs, climate change, range-extending species and kelp loss (10 mins).
+
+<div class="mt-auto">
+{{< video https://youtu.be/oT3HSmGtgo8 >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=oT3HSmGtgo8">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 4: Tasmanian marine foodwebs
+
+Woodbridge School Marine Discovery Centre video about Tasmanian marine food webs (5 mins).
+
+<div class="mt-auto">
+{{< video https://youtu.be/8ftbCLlumGw >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=8ftbCLlumGw">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 5: Urchins and kelp loss
+
+Great Southern Reef Foundation short video about urchins and kelp loss (40 sec).
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/shorts/xH1KJsmr1i8 >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/shorts/xH1KJsmr1i8">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::::
+
+
+---
+
+## Support and credits
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-lg-7 .text-center style="font-size: 1.2em;"}
+The development of school lessons and school visits during September–November 2025 were supported by the **[Inspiring Australia Tasmania STEM community grant](https://inspiringtas.org.au/)**.
+:::
+
+::: {.g-col-12 .g-col-lg-5 .text-center}
+![](../resources/images/InspTasmLogo.png){fig-alt="Inspiring Tasmania logo" .img-fluid style="max-height:260px; width:auto;"}
+:::
+
+::: {.g-col-12 .text-center style="font-size: 1.2em;"}
+Underwater photography provided by the game developer and science communicator [Matt Testoni](https://www.mtunderwatermedia.com/).
+:::
+
+:::: 
