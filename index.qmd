@@ -176,6 +176,8 @@ Would you like to get occasional updates about the Big Fish events, outreach and
 ::::::::
 :::::::::::
 
+---
+
 ## Playing the game {.column-screen}
 
 <!-- start flush grid -->
@@ -232,6 +234,8 @@ These events create unpredictability and new challenges. Players can partly prot
 <!-- end flush grid -->
 ::::::::::::
 
+---
+
 ## Main messages {.column-screen}
 
 <!-- messages text grid -->
@@ -271,10 +275,13 @@ Fish grow relatively fast and if we take the right actions, we can restore them 
 <!-- end flush grid -->
 ::::::::::::
 
+---
+
 ##### {#sec-about style="margin-top: 0.5em;" .unlisted}
 <!-- begin Who We Are grid -->
 :::::::::::: {.grid .justify-contents-evenly .align-items-center .spacer-3rem .column-screen}
 ::::::::: {.g-col-12 .g-col-md-8 .g-col-lg-8 .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4}
+
 ## Who we are
 
 This game has been developed by the Institute of Marine and Antarctic Sciences, University of Tasmania team, led by Matt Testoni, Asta Audzijonyte and Amy Coghlan. You can learn more about the science of our team at our [FishSize Project](https://fishsizeproject.org) lab website. You can also follow Big Fish Card Game news on [Instagram](https://www.instagram.com/big_fish_card_game/)!
@@ -316,6 +323,8 @@ Game testing, advice, interesting facts and many other details have been provide
 :::::::::
 <!-- end who we are grid -->
 ::::::::::::
+
+---
 
 :::::: {.grid .column-screen .justify-contents-evenly .align-items-center .py-4 .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4}
 ::: g-col-12
