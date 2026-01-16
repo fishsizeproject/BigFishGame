@@ -1,120 +1,158 @@
 ---
 title: "For teachers"
-subtitle: "Classroom resources for using BigFish"
-description: "How to use BigFish Card Game in schools, with lesson plans and teacher resources."
-page-layout: full
-toc: true
-toc-depth: 2
+image: "/resources/images/BigFish_logo.png"
+description-meta: |
+  How to use BigFish Card Game in schools, with lesson plans and teacher resources
+sidebar: false
 ---
 
-::: {.columns .v-center}
-::: {.column width="60%"}
-BigFish can be used as a hands-on way to explore marine ecosystems, sustainability, and human–nature interactions.
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .align-items-center .gap-3}
 
-**TODO (short intro):** Add 3–6 sentences explaining how the game fits a lesson (timing, group sizes, learning outcomes).
+::: {.g-col-12 .g-col-lg-6}
+Big Fish can be used as a hands-on way to explore marine ecosystems, science and geography, sustainability, human–nature interactions and even arts or writing.
+
+There are plenty of options to use the game in the lessons, and our experience shows that engaging with the real physical game makes the class experience more interactive and fun. The game is suitable for ages 12+ and we mostly recommend it for years 9-12. The Big Fish team is always happy to hear from teachers and keen to bring ocean wonders and big fish stories to the class. Please reach out if you would like to use the game in the class, need additional resources or would like to suggest **your own ways** of how the game could be used in teaching. 
 
 [Contact us](mailto:info@fishsizeproject.org){.btn .btn-primary}
-[Download teacher pack (PDF)](../resources/teachers/teacher-pack.pdf){.btn .btn-outline-primary}
+<!-- [Download teacher pack (PDF)](../resources/teachers/teacher-pack.pdf){.btn .btn-outline-primary} -->
 :::
 
-::: {.column width="40%"}
-![](../resources/images/pretty-pics/kelp-forest-1-small.jpg){fig-alt="Placeholder image for teachers page" .img-fluid .rounded}
+::: {.g-col-12 .g-col-lg-6 .text-center}
+![](../resources/images/pretty-pics/class2a.jpg){fig-alt="Class photo" .img-fluid .rounded style="max-height:320px; width:auto;"}
 :::
-:::
+
+::::
 
 ---
 
-## How to use BigFish in class
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .align-items-center .gap-3}
 
-::: {.callout-note}
-### Suggested formats (pick one)
-- **TODO:** 15–25 min “mini-session” + discussion  
-- **TODO:** Full 45–60 min lesson (gameplay + worksheet)  
-- **TODO:** Multi-lesson unit (3 lessons)  
+::: {.g-col-12}
+## How to use Big Fish in class
 :::
+
+::: {.g-col-12 .g-col-lg-5 .text-center}
+![](../resources/images/pretty-pics/deck.jpg){fig-alt="Game deck" .img-fluid .rounded style="max-height:320px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-lg-7}
+### Possible formats
+
+- A 20–30 minute "mini-session" and discussion
+- Full two-period lesson with a creative assessment (see three options below)
+- A multi-lesson unit to explore multiple concepts
 
 ### Practical tips
 
-- **Class size / grouping:** TODO  
-- **Time required:** TODO  
-- **Materials needed:** TODO  
-- **Assessment ideas:** TODO  
-- **Links to curriculum (optional):** TODO  
+- **Class size:** works best for 5 to 20 students
+- **Time required:** 30 minutes to two hours
+- **Materials needed:** several game decks (contact us for a teacher pack) and printouts provided here
+- **Assessments:** the game lends itself to creative and engaging assessments, like designing new cards or management options, creating presentations or diving deeper into marine science.
+:::
+
+::::
 
 ---
 
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .align-items-center .gap-3}
+
+::: {.g-col-12 .g-col-lg-7}
+## Testimonials
+
+*"Our marine biology students found the Big Fish game and its associated activities to be both engaging and highly educational. The beautiful artwork, featuring local Tasmanian fishes, immediately captured their attention and proved to be far more effective than a traditional fish ID book. The game provided a welcome respite from more formal study, while still aligning perfectly with the curriculum. The scenarios presented on the event cards were particularly valuable, serving as fantastic conversation starters and a natural way to launch into deeper learning. Once the students became confident with the rules, the game transformed into an eye-opening experience. They quickly grasped the ecological importance of big fish within marine ecosystems, and the gameplay reinforced this concept in a way that was both memorable and enjoyable. Overall, the Big Fish game proved to be an excellent teaching tool that blended fun, art, and science seamlessly – truly STEAM"*  
+— Jan Seiler, science teacher from Hobart College
+:::
+
+::: {.g-col-12 .g-col-lg-5 .text-center}
+![](../resources/images/pretty-pics/accordion.jpg){fig-alt="Class photo" .img-fluid .rounded style="max-height:320px; width:auto;"}
+:::
+
+::::
+
+---
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3}
+
+::: {.g-col-12}
 ## Lesson plans
-
-Below are three lesson plans designed to be used with the BigFish Card Game.
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-4}
-::: {.card .h-100}
-![](../resources/images/cards/fish-cards/southern-rock-lobster.jpg){.card-img-top fig-alt="Southern Rock Lobster card image"}
-::: {.card-body}
-### Lesson 1: Lobsters – Urchins – Kelp
-
-**Focus:** trophic cascades, kelp forests, urchin barrens, predators and ecosystem balance.
-
-**TODO (1–2 lines):** quick summary of what students do in this lesson.
-
-[Open lesson plan](lesson-1-lobsters-urchins-kelp.qmd){.btn .btn-primary}
-:::
-:::
 :::
 
-::: {.g-col-12 .g-col-md-4}
-::: {.card .h-100}
-![](../resources/images/cards/event-cards/urchins-arrive.jpg){.card-img-top fig-alt="Urchins arrive event card image"}
-::: {.card-body}
-### Lesson 2: *TODO lesson title*
+<!-- Lesson 1 -->
+::: {.g-col-12}
+:::: {.grid .align-items-center .gap-3}
+::: {.g-col-12 .g-col-lg-4 .text-center}
+![](../resources/images/pretty-pics/urchins_arrive.jpg){fig-alt="Lesson 1 image" .img-fluid .rounded style="max-height:260px; width:auto;"}
+:::
+::: {.g-col-12 .g-col-lg-8}
+### Lesson 1: Lobsters–Urchins–Kelp
 
-**TODO (1–2 lines):** short summary.
+A lesson about food webs, species interactions, climate change, management and restoration.
 
-[Coming soon](#){.btn .btn-outline-primary}
-:::
-:::
-:::
+**Australian science curriculum** - Year 9. This lesson targets the Biological sciences focus on interdependence and interactions within ecosystems and how biological systems respond to change. *“Ecosystems consist of communities of interdependent organisms… matter and energy flow…”* ACSSU176
 
-::: {.g-col-12 .g-col-md-4}
-::: {.card .h-100}
-![](../resources/images/cards/wild-cards/giant-kelp.jpg){.card-img-top fig-alt="Giant kelp wild card image"}
-::: {.card-body}
-### Lesson 3: *TODO lesson title*
+- Science Inquiry (collecting/analysing data from a model) 
+- Science as a Human Endeavour (evaluating management responses).
 
-**TODO (1–2 lines):** short summary.
+**Skills**: teamwork, collaboration, problem solving, critical thinking, design thinking, creativity, presentation. 
 
-[Coming soon](#){.btn .btn-outline-primary}
+[Go to lesson 1](lesson-1.qmd){.btn .btn-primary}
 :::
-:::
-:::
+::::
 :::
 
 ---
 
-## Optional: Intro video (embedded)
+<!-- Lesson 2 -->
+::: {.g-col-12}
+:::: {.grid .align-items-center .gap-3}
+::: {.g-col-12 .g-col-lg-4 .text-center}
+![](../resources/images/pretty-pics/seaweed_planting.jpg){fig-alt="Lesson 2 image" .img-fluid .rounded style="max-height:260px; width:auto;"}
+:::
+::: {.g-col-12 .g-col-lg-8}
+### Lesson 2: Algal blooms and pollution
 
-If you want an embedded video on this page (e.g., to show students what BigFish is), here’s a responsive embed block.
-Replace the YouTube ID if needed.
+A lesson about pollution, algal blooms and sustainability.
 
-<div class="ratio ratio-16x9">
-  <iframe
-    src="https://www.youtube.com/embed/dBsMSZ3VOAk"
-    title="BigFish Card Game video"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen></iframe>
-</div>
+[Go to lesson 2](lesson-2.qmd){.btn .btn-primary}
+:::
+::::
+:::
 
 ---
 
-## Teacher resources
+<!-- Lesson 3 -->
+::: {.g-col-12}
+:::: {.grid .align-items-center .gap-3}
+::: {.g-col-12 .g-col-lg-4 .text-center}
+![](../resources/images/pretty-pics/seaweed.jpg){fig-alt="Lesson 3 image" .img-fluid .rounded style="max-height:260px; width:auto;"}
+:::
+::: {.g-col-12 .g-col-lg-8}
+### Lesson 3: Loss of big fish
 
-### Downloadables
+Understand how fish reproduce and grow and why maintaining big fish is important.
 
-- **Teacher pack (PDF):** `../resources/teachers/teacher-pack.pdf` *(TODO: add file)*
-- **Lesson worksheets:** *(TODO: add files and links here)*
-- **Printable glossary / cards reference:** *(TODO)*
+[Go to lesson 3](lesson-3.qmd){.btn .btn-primary}
+:::
+::::
+:::
 
-### Contact / bookings
 
-**TODO:** Add a short note about contacting you for school visits / workshops / teacher trials.
+---
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .align-items-center .gap-3}
+
+::: {.g-col-12}
+## Supporters and credits
+:::
+
+::: {.g-col-12 .g-col-lg-7}
+The development of school lessons and school visits during the September-November 2025 were suppored by Inspiring Australia Tasmania STEM community grant.
+
+Underwater photography provided by the game developer and science communicator [Matt Testoni](https://www.mtunderwatermedia.com/). Classroom photography by [Phillip England](https://phillipengland.com/).
+
+:::
+
+::: {.g-col-12 .g-col-lg-5 .text-center}
+![](../resources/images/InspTasmLogo.png){.img-fluid .rounded style="max-height:320px; width:auto;"}
+:::
+
+

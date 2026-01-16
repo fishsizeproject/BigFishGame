@@ -34,7 +34,7 @@ website:
       - text: "Outreach"
         href: pages/outreach-blog.qmd
       - text: "Teachers"
-        href: pages/teachersMain.qmd
+        href: pages/teachers.qmd
       - text: "About Us"
         href: index.qmd#sec-about
       - text: "Get yours"
