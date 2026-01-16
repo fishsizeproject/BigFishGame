@@ -95,7 +95,7 @@ A lesson about food webs, species interactions, climate change, management and r
 
 **Skills**: teamwork, collaboration, problem solving, critical thinking, design thinking, creativity, presentation. 
 
-[Go to lesson 1](lesson1.qmd){.btn .btn-primary}
+[Go to lesson 1](lesson-1.qmd){.btn .btn-primary}
 :::
 ::::
 :::
@@ -113,7 +113,7 @@ A lesson about food webs, species interactions, climate change, management and r
 
 A lesson about pollution, algal blooms and sustainability.
 
-[Go to lesson 2](lesson-2.qmd){.btn .btn-primary}
+[Go to lesson 2](lesson2.qmd){.btn .btn-primary}
 :::
 ::::
 :::
@@ -131,7 +131,7 @@ A lesson about pollution, algal blooms and sustainability.
 
 Understand how fish reproduce and grow and why maintaining big fish is important.
 
-[Go to lesson 3](lesson-3.qmd){.btn .btn-primary}
+[Go to lesson 3](lesson3.qmd){.btn .btn-primary}
 :::
 ::::
 :::
