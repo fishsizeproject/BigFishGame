@@ -1,10 +1,380 @@
 ---
-pagetitle: New page with no sidebar
-image: "/resources/images/BigFish_logo.png"
-description-meta: |
-  Description goes here!
-sidebar: false
+title: "Lesson 2: Ecosystem restoration"
+subtitle: "Using Big Fish to explore ecosystem restoration strategies"
+page-layout: full
+toc: true
+toc-depth: 3
 ---
 
-## Coming soon
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
 
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/kelp_measure2.jpg){.img-fluid .rounded fig-alt="Rock lobster" style="max-height:280px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/trevally_2.jpg){.img-fluid .rounded fig-alt="Kelp forest" style="max-height:280px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/red_handfish.jpg){.img-fluid .rounded fig-alt="Diver near barren/kelp" style="max-height:280px; width:auto;"}
+:::
+
+::::
+
+---
+
+## Core concepts
+
+- Many marine ecosystems have been degraded and affected by overfishing, pollution and climate change. It is estimated that almost 90% of all fish larger than 1kg in size have been lost due to unsustainable fishing practices. 
+- Many fisheries in Australia and globally have collapsed, meaning that fish population biomass (total weight of all the fish in a population) has been reduced to less than 10% of their original unfished biomass. Such collapsed fisheries cannot sustain any more fishing.
+- By allowing degraded ecosystems and collapsed populations to recover we can bring back abundant fisheries and healthy thriving oceans. 
+- In this lesson students start with a “degraded ecosystem” as their fishing spot. This ecosystem only has a few fish left.
+- Students then explore best options to restore the ecosystem, while at the same time managing unpredictable weather events and illegal behaviour by other people. 
+- Example strategies of restoring ecosystems include the construction of shellfish reefs, the implementation of marine parks, improved fishing regulations, or seaweed (kelp) restoration. 
+- By protecting big fish and implementing management strategies students discover that marine ecosystems can recover relatively fast. 
+
+
+**The lesson introduces [UN Sustainable Development Goal 14: "Conserve and sustainably use the oceans, seas and marine resources for sustainable development"](https://sdgs.un.org/goals/goal14)**
+
+**This lesson targets the Australian Science Curriculum Biological sciences focus on interdependence and interactions within ecosystems and how biological systems respond to change. “Ecosystems consist of communities of interdependent organisms… matter and energy flow…” ACSSU176**
+
+---
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-start}
+
+::: {.g-col-12 .g-col-lg-6}
+### Learning intention
+
+Students use the Big Fish game (as a simulation) to model strategies for ecosystem restoration in Australian temperate reefs:
+
+- Seaweed, Marine Parks, Shellfish Reefs, Sharks = possible strategies for restoring ecosystems include Wild cards such as
+- Heat Waves and Illegal Fishing = threats to restoration include. Students need to consider these events when planning and strategising the restoration.
+
+*Real-world context:* Real-world context: ecosystems such as the D’Entrecasteaux Channel in Tasmania, Port Phillip Bay in Victoria and areas of South Australia (affected by the recent algal bloom) are a shadow of their former health. But good management and right strategies can help restore them to productive and healthy ocean ecosystems.
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+### Success criteria
+
+By the end of the lesson and assessment, students can:
+
+- Test and understand restoration strategies. Student use the Big Fish card game as a model to explore different strategies but are also able to connect it to real world events. 
+- Explain (with evidence from the game and real world) the way different restoration options work and how they can interact with other options and the ecosystem in general.
+- Propose a plan for restoring a degraded marine ecosystem. Provide evidence and examples of how effective the proposed strategies have been in the past, including the successes and failures. 
+
+:::
+
+::::
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/kelp_measure.jpg){.img-fluid .rounded fig-alt="Diver measuring urchins" style="max-height:280px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/kingfish.jpg){.img-fluid .rounded fig-alt="Commercial diver with urchins" style="max-height:280px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/blue_wrasse.jpg){.img-fluid .rounded fig-alt="Barrens and seaweed" style="max-height:280px; width:auto;"}
+:::
+
+::::
+
+---
+
+## Duration and resources
+
+**Duration** 
+
+Recommended for 2x50–60 min lessons (includes game and analysis and write-up)
+
+**Resources**
+
+- Big Fish card game – ideally one deck per 4 students.
+- Cardboard, big sheets of paper or postit notes with a whiteboard used to map and plan the restoration. 
+- Template for creating a ministerial briefing - download it [here](../resources/downloads/Lesson2_BriefingTemplate.docx)
+- Students also need to select (or be provided by the teacher) an example environmental issue (overfishing, pollution, too much tourism, invasive species, or other) that has affected their ecosystem and which they are going to address. Some  example issues to address are provided in the Powerpoint file available through this page. 
+
+## Assessments
+
+The recommend a creative in-class assessment that requires students to:
+
+**1)** **write a ministerial brief document** from a science advisory team addressed to a Minister. The brief outlines a clear strategy for ecosystem restoration to address the selected environmental issue that the Minister wants to fix. You can download the template for the assessment [here](../resources/downloads/Lesson2_BriefingTemplate.docx)
+
+**2)** (optional) present the ministerial brief in an oral presentation. To make this more interactive, all students in the class get allocated $500 of “monopoly” money or other fake bills each. Each student give their money to the restoration projects they liked most. 
+
+**3)** (optional) present the mind-map illustrating the though process, explaining positives and negatives of each restoration option and how it affects other species and society.
+
+
+**Tips**
+
+- Ensure this brief has correct and clear information to be as accurate as possible, while also being short and focused.
+- The brief should contain both the negatives and positives that will arise from implementing the restoration plan. Remember, the brief is used to inform the minister, not to push for a specific action. The minister is already interested in restoring the ecosystem, but they just need to decide on the best option. 
+- It can be useful to look at all the Event and Wild cards in the full Big Fish card game and its expansion to understand more options for restoration. 
+- For a more advanced assessment, students could present several potential plans (which perhaps have been discussed in media) and rank them from best to worst, based on their analysis. For example, marine parks will provide more fish but can have negative press, building shellfish reefs may cost a lot of money but will be popular with people, an education program (i.e. a game about how sharks produce a healthy ecosystem) will be popular but may be less effective. 
+- The brief should also stakeholder concerns, not just the core science. For example, if ecosystem is overfished the concern in society is that there is not enough fish to catch or see. Remember that the minister responds to society pressure mostly. 
+- The mind-map can show their thought process for the development of restoration plan. It can included references to the scenarios from the Big Fish card game and other resources provided in this lesson or discovered by students. This would be like demonstrating the working out process in a maths question.
+
+
+---
+
+## Download the lesson PowerPoint slides  
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4}
+::: {.g-col-12 .text-center}
+[PowerPoint slides](../resources/downloads/Lesson2_EcosystemRestoration.pptm){.btn .btn-secondary}
+:::
+::::
+
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/flathead_2.jpg){.img-fluid .rounded fig-alt="Urchins" style="max-height:260px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/kelp_photo.jpg){.img-fluid .rounded fig-alt="Lobsters" style="max-height:260px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/squid.jpg){.img-fluid .rounded fig-alt="Commercial diver with urchins" style="max-height:260px; width:auto;"}
+:::
+
+::::
+
+---
+
+## Setup and game play explanation
+
+If you are familiar with the usual Big Fish card game rules, the scenario in this lesson starts with a setup where players’ “fishing spot” already has more cards (fish) and the game only goes for three rounds. This aims to create a faster and more educational experience. To learn about the rules of the typical Big Fish game, you can visit the [rules page on the Big Fish card game website](https://bigfishcardgame.com/pages/rules.html). When playing the game, in each round students can take their turn all at once (which is faster) or in a consecutive order (which could be more interactive).
+
+The two short videos explain how to set up the game for the class and demonstrate the game play and rules. They are also explained in the Lesson 1 PowerPoint document, available from this page.
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-4 .align-items-start}
+
+::: {.g-col-12 .g-col-xl-6}
+### Game setup
+
+{{< video https://www.youtube.com/watch?v=GdK9nMY1PHw >}}
+
+[Open on YouTube](https://www.youtube.com/watch?v=GdK9nMY1PHw)
+:::
+
+::: {.g-col-12 .g-col-xl-6}
+### Game play
+
+{{< video https://www.youtube.com/watch?v=9kOvoK6ziX8 >}}
+
+[Open on YouTube](https://www.youtube.com/watch?v=9kOvoK6ziX8)
+:::
+
+::::
+
+
+
+
+
+
+---
+
+## Word list, key terms and concepts
+
+Below are some key concepts and words that students can learn during the lesson, independent research and assessment. 
+
+**Restorationl; Ecology; Sustainability; Ecosystem interactions; Climate change; Pollution; Policies; Heatwaves; Ecosystem models; Human impact; Fishing selectivity; Cascading effects; Stakeholders; Community; Fishing pressure; Trophic effects; Policy evaluation; Management strategy evaluation**
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/Seaweed.jpg){.img-fluid .rounded fig-alt="Seaweed" style="max-height:300px; width:auto;"}
+:::
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/urchins-arrive.jpg){.img-fluid .rounded fig-alt="Urchins arrive" style="max-height:300px; width:auto;"}
+:::
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/lobster-card.jpg){.img-fluid .rounded fig-alt="Lobster card" style="max-height:300px; width:auto;"}
+:::
+
+::::
+
+---
+
+## Extension to Years 11–12
+
+This design can be extended for Years 11 and 12. For example in Year 11 Biology Unit 1, students are expected to investigate ecosystems as dynamic systems (biotic + abiotic factors) and use *science inquiry skills*: posing questions, designing an investigation, analysing data, evaluating limitations, and communicating evidence-based conclusions. Instead of framing the lesson as playing a game, frame it around the concept of using the game as a model to improve understanding. The Big Fish activity becomes the model system they run repeatedly under different conditions (treatments), then analyse like an experiment. The assessment can be more focused around the evaluation of options and the way in which the preferred option is presented in the ministerial brief, while accounting for the fact that no restoration strategy is 100% successful.
+
+**To simulate replications**  
+
+Instead of one play per group, each group plays at least 3 games for each setup (treatment), or the class divides treatments and pools the data. 
+
+**To simulate treatments**  
+
+Explore different restoration strategies and scenarios. Each game will have some elements of randomness which may decrease the effectiveness of even the best restoration strategy. The same happens in real life and students should explore that. 
+
+---
+
+## Further video resources
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .gap-4 .align-items-stretch}
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 1: shellfish reef restoration 
+
+The United Nations Environment Program video about shellfish reef restoration in South Australia and harmful algal blooms that hit the state in 2025 (14 mins).
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=Ji88_cBSPfo >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=Ji88_cBSPfo">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 2: documentary Big fish 
+
+Tasmanian scientists, divers and fishers talk about the loss of big fish in Tasmanian waters (20 mins)
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=SXzuKqiTULI >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=SXzuKqiTULI">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 3: fishing selectivity and balanced harvesting
+
+Encyclopedia Britannica short video about balanced harvesting and the importance of protecting large fish (2.5mins)
+
+<div class="mt-auto">
+{{< video https://www.britannica.com/video/differences-fishing-harvesting-order-fish-supply-generations/-203963 >}}
+<p class="mt-2 mb-0"><a href="https://www.britannica.com/video/differences-fishing-harvesting-order-fish-supply-generations/-203963">Open online</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 4: rapid recovery of protected ecosystems 
+
+A short video (1.5mins) about rapid recovery of a degraded ecosystem in Mexico after establishing a community driven and well managed marine protected area (marine park).
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=YC6yUcCLQso >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=YC6yUcCLQso">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 5: why do marine ecosystems need sharks?
+
+TEDx talk by a scientist Louisa Graf (Deakin University) about the importance of sharks for healthy ecosystems (9 mins)
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=VcehrgZtGSY >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=VcehrgZtGSY">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 6: large scale kelp restoration in Western Australia 
+
+Great Southern Reef foundation video about kelp restoration methods that could be used on a large scale, introducing “Green gravel” technology (5 mins)
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=6plPl3RZJxs >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=6plPl3RZJxs">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 7: kelp loss and restoration in Tasmania 
+
+Great Southern Reef foundation film about the loss and  restoration of Tasmania’s giant kelp forests (10 mins)
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=rCRncbD1X7g >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=rCRncbD1X7g">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 8: commercial divers helping kelp planting in Tasmania
+
+Inspiring Nature Conservancy (NGO) video (from 2025) about kelp restoration in Tasmania and engaging commercial divers. They talk about resilience of healthy restored kelp to heat waves (4 mins)
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=6mgaf-SqL9o >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=6mgaf-SqL9o">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 9: heatwaves and their impacts
+
+Great Southern Reef foundation film about heatwaves (especially Western Australian heatwave) and they affect Australia’s marine life (4 mins)
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=1jQH6ZG11zU >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=1jQH6ZG11zU">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::::
+
+
+---
+
+## Support and credits
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-lg-7 .text-center style="font-size: 1.2em;"}
+The development of school lessons and school visits during September–November 2025 were supported by the **[Inspiring Australia Tasmania STEM community grant](https://inspiringtas.org.au/)**.
+:::
+
+::: {.g-col-12 .g-col-lg-5 .text-center}
+![](../resources/images/InspTasmLogo.png){fig-alt="Inspiring Tasmania logo" .img-fluid style="max-height:260px; width:auto;"}
+:::
+
+::: {.g-col-12 .text-center style="font-size: 1.2em;"}
+Underwater photography provided by the game developer and science communicator [Matt Testoni](https://www.mtunderwatermedia.com/).
+:::
+
+:::: 

@@ -36,6 +36,9 @@ toc-depth: 3
 
 **The lesson introduces [UN Sustainable Development Goal 14: "Conserve and sustainably use the oceans, seas and marine resources for sustainable development"](https://sdgs.un.org/goals/goal14)**
 
+**This lesson targets the Australian Science Curriculum Biological sciences focus on interdependence and interactions within ecosystems and how biological systems respond to change. “Ecosystems consist of communities of interdependent organisms… matter and energy flow…” ACSSU176**
+
+
 ---
 
 :::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-start}
@@ -151,7 +154,7 @@ The two short videos explain how to set up the game for the class and demonstrat
 ::: {.g-col-12 .g-col-xl-6}
 ### Game setup
 
-{{< video https://youtu.be/kM7hLtQ9jo0 >}}
+{{< video https://www.youtube.com/watch?v=kM7hLtQ9jo0 >}}
 
 [Open on YouTube](https://www.youtube.com/watch?v=kM7hLtQ9jo0)
 :::
@@ -159,9 +162,9 @@ The two short videos explain how to set up the game for the class and demonstrat
 ::: {.g-col-12 .g-col-xl-6}
 ### Game play
 
-{{< video https://www.youtube.com/watch?v=7-v6ba8R8YM >}}
+{{< video https://www.youtube.com/watch?v=D40kDW1gZgw >}}
 
-[Open on YouTube](https://www.youtube.com/watch?v=7-v6ba8R8YM)
+[Open on YouTube](https://www.youtube.com/watch?v=D40kDW1gZgw)
 :::
 
 ::::
