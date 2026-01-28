@@ -125,7 +125,7 @@ The recommend a creative in-class assessment that requires students to:
 
 :::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4}
 ::: {.g-col-12 .text-center}
-[PowerPoint slides](../resources/downloads/Lesson2_EcosystemRestoration.pptm){.btn .btn-secondary}
+[PowerPoint slides](../resources/downloads/Lesson2_EcosystemRestoration.pptx){.btn .btn-secondary}
 :::
 ::::
 
@@ -133,15 +133,15 @@ The recommend a creative in-class assessment that requires students to:
 :::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
 
 ::: {.g-col-12 .g-col-md-4 .text-center}
-![](../resources/images/pretty-pics/lessons/flathead_2.jpg){.img-fluid .rounded fig-alt="Urchins" style="max-height:260px; width:auto;"}
+![](../resources/images/pretty-pics/lessons/flathead_2.jpg){.img-fluid .rounded fig-alt="Urchins" style="max-height:300px; width:auto;"}
 :::
 
 ::: {.g-col-12 .g-col-md-4 .text-center}
-![](../resources/images/pretty-pics/lessons/kelp_photo.jpg){.img-fluid .rounded fig-alt="Lobsters" style="max-height:260px; width:auto;"}
+![](../resources/images/pretty-pics/lessons/kelp_photo.jpg){.img-fluid .rounded fig-alt="Lobsters" style="max-height:300px; width:auto;"}
 :::
 
 ::: {.g-col-12 .g-col-md-4 .text-center}
-![](../resources/images/pretty-pics/lessons/squid.jpg){.img-fluid .rounded fig-alt="Commercial diver with urchins" style="max-height:260px; width:auto;"}
+![](../resources/images/pretty-pics/lessons/squid.jpg){.img-fluid .rounded fig-alt="Commercial diver with urchins" style="max-height:300px; width:auto;"}
 :::
 
 ::::
@@ -185,7 +185,7 @@ The two short videos explain how to set up the game for the class and demonstrat
 
 Below are some key concepts and words that students can learn during the lesson, independent research and assessment. 
 
-**Restorationl; Ecology; Sustainability; Ecosystem interactions; Climate change; Pollution; Policies; Heatwaves; Ecosystem models; Human impact; Fishing selectivity; Cascading effects; Stakeholders; Community; Fishing pressure; Trophic effects; Policy evaluation; Management strategy evaluation**
+**Restoration; Ecology; Sustainability; Ecosystem interactions; Climate change; Pollution; Policies; Heatwaves; Ecosystem models; Human impact; Fishing selectivity; Cascading effects; Stakeholders; Community; Fishing pressure; Trophic effects; Policy evaluation; Management strategy evaluation**
 
 :::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
 
@@ -254,22 +254,7 @@ Tasmanian scientists, divers and fishers talk about the loss of big fish in Tasm
 ::: {.g-col-12 .g-col-lg-6}
 ::: {.card .h-100}
 ::: {.card-body .d-flex .flex-column}
-### Video 3: fishing selectivity and balanced harvesting
-
-Encyclopedia Britannica short video about balanced harvesting and the importance of protecting large fish (2.5mins)
-
-<div class="mt-auto">
-{{< video https://www.britannica.com/video/differences-fishing-harvesting-order-fish-supply-generations/-203963 >}}
-<p class="mt-2 mb-0"><a href="https://www.britannica.com/video/differences-fishing-harvesting-order-fish-supply-generations/-203963">Open online</a></p>
-</div>
-:::
-:::
-:::
-
-::: {.g-col-12 .g-col-lg-6}
-::: {.card .h-100}
-::: {.card-body .d-flex .flex-column}
-### Video 4: rapid recovery of protected ecosystems 
+### Video 3: rapid recovery of protected ecosystems 
 
 A short video (1.5mins) about rapid recovery of a degraded ecosystem in Mexico after establishing a community driven and well managed marine protected area (marine park).
 
@@ -284,7 +269,7 @@ A short video (1.5mins) about rapid recovery of a degraded ecosystem in Mexico a
 ::: {.g-col-12 .g-col-lg-6}
 ::: {.card .h-100}
 ::: {.card-body .d-flex .flex-column}
-### Video 5: why do marine ecosystems need sharks?
+### Video 4: why do marine ecosystems need sharks?
 
 TEDx talk by a scientist Louisa Graf (Deakin University) about the importance of sharks for healthy ecosystems (9 mins)
 
@@ -299,7 +284,7 @@ TEDx talk by a scientist Louisa Graf (Deakin University) about the importance of
 ::: {.g-col-12 .g-col-lg-6}
 ::: {.card .h-100}
 ::: {.card-body .d-flex .flex-column}
-### Video 6: large scale kelp restoration in Western Australia 
+### Video 5: large scale kelp restoration in Western Australia 
 
 Great Southern Reef foundation video about kelp restoration methods that could be used on a large scale, introducing “Green gravel” technology (5 mins)
 
@@ -314,7 +299,7 @@ Great Southern Reef foundation video about kelp restoration methods that could b
 ::: {.g-col-12 .g-col-lg-6}
 ::: {.card .h-100}
 ::: {.card-body .d-flex .flex-column}
-### Video 7: kelp loss and restoration in Tasmania 
+### Video 6: kelp loss and restoration in Tasmania 
 
 Great Southern Reef foundation film about the loss and  restoration of Tasmania’s giant kelp forests (10 mins)
 
@@ -329,7 +314,7 @@ Great Southern Reef foundation film about the loss and  restoration of Tasmania�
 ::: {.g-col-12 .g-col-lg-6}
 ::: {.card .h-100}
 ::: {.card-body .d-flex .flex-column}
-### Video 8: commercial divers helping kelp planting in Tasmania
+### Video 7: commercial divers helping kelp planting in Tasmania
 
 Inspiring Nature Conservancy (NGO) video (from 2025) about kelp restoration in Tasmania and engaging commercial divers. They talk about resilience of healthy restored kelp to heat waves (4 mins)
 
@@ -344,7 +329,7 @@ Inspiring Nature Conservancy (NGO) video (from 2025) about kelp restoration in T
 ::: {.g-col-12 .g-col-lg-6}
 ::: {.card .h-100}
 ::: {.card-body .d-flex .flex-column}
-### Video 9: heatwaves and their impacts
+### Video 8: heatwaves and their impacts
 
 Great Southern Reef foundation film about heatwaves (especially Western Australian heatwave) and they affect Australia’s marine life (4 mins)
 

@@ -109,9 +109,18 @@ A lesson about food webs, species interactions, climate change, management and r
 ![](../resources/images/pretty-pics/seaweed_planting.jpg){fig-alt="Lesson 2 image" .img-fluid .rounded style="max-height:260px; width:auto;"}
 :::
 ::: {.g-col-12 .g-col-lg-8}
-### Lesson 2: Algal blooms and pollution
+### Lesson 2: Ecosystem restoration
 
-A lesson about pollution, algal blooms and sustainability.
+A lesson about ecosystem degradation and methods to restore ecosystems. 
+
+**Australian science curriculum** - Year 9. This lesson targets the Biological sciences focus on interdependence and interactions within ecosystems and how biological systems respond to change. *“Ecosystems consist of communities of interdependent organisms… matter and energy flow…”* ACSSU176
+
+- Science Inquiry (collecting/analysing data from a model) 
+- Science as a Human Endeavour (evaluating management responses).
+
+The lesson also addresses the [United Nations Decade on Ecosystem Restoration 2021-2030](https://www.decadeonrestoration.org/)
+
+**Skills**: teamwork, collaboration, problem solving, critical thinking, design thinking, creativity, writing, policy evaluation; finding correct information. 
 
 [Go to lesson 2](lesson-2.qmd){.btn .btn-primary}
 :::
