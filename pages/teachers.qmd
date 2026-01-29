@@ -120,7 +120,7 @@ A lesson about ecosystem degradation and methods to restore ecosystems.
 
 The lesson also addresses the [United Nations Decade on Ecosystem Restoration 2021-2030](https://www.decadeonrestoration.org/)
 
-**Skills**: teamwork, collaboration, problem solving, critical thinking, design thinking, creativity, writing, policy evaluation; finding correct information. 
+**Skills**: teamwork, collaboration, problem solving, critical thinking, design thinking, creativity, writing, policy evaluation, finding correct information. 
 
 [Go to lesson 2](lesson-2.qmd){.btn .btn-primary}
 :::
@@ -136,9 +136,19 @@ The lesson also addresses the [United Nations Decade on Ecosystem Restoration 20
 ![](../resources/images/pretty-pics/seaweed.jpg){fig-alt="Lesson 3 image" .img-fluid .rounded style="max-height:260px; width:auto;"}
 :::
 ::: {.g-col-12 .g-col-lg-8}
-### Lesson 3: Loss of big fish
+### Lesson 3: Resilient ecosystems and climate change
 
-Understand how fish reproduce and grow and why maintaining big fish is important.
+A lesson about building marine ecosystems that can resist climate change impacts. 
+
+**Australian science curriculum** - Year 9. This lesson targets the Biological sciences focus on interdependence and interactions within ecosystems and how biological systems respond to change. *“Ecosystems consist of communities of interdependent organisms… matter and energy flow…”* ACSSU176
+
+- Science Inquiry (collecting/analysing data from a model): understanding how our environment changes with changing climactic conditions and the ways in which we can best adapt and prepare our ecosystems for these changes. AC9S9I01–AC9S9I08 (questions/hypotheses → plan → data → analyse → evaluate → argue → communicate)
+
+- Science as a Human Endeavour (evaluating management responses).
+AC9S9H01 (peer review / validation of knowledge)
+AC9S9H04 (society values/needs shaping research priorities
+
+**Skills**: teamwork, collaboration, problem solving, critical thinking, design thinking, creativity, writing, summarising information accurately and concisely, planning, science communication.
 
 [Go to lesson 3](lesson-3.qmd){.btn .btn-primary}
 :::

@@ -1,9 +1,393 @@
 ---
-pagetitle: New page with no sidebar
-image: "/resources/images/BigFish_logo.png"
-description-meta: |
-  Description goes here!
-sidebar: false
+title: "Lesson 3: Resilient ecosystems"
+subtitle: "Using Big Fish to understand how ecosystems can be more resilient to climate change impacts"
+page-layout: full
+toc: true
+toc-depth: 3
 ---
 
-## Coming soon
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/bull_kelp.jpg){.img-fluid .rounded fig-alt="Rock lobster" style="max-height:280px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/hippolytes.jpg){.img-fluid .rounded fig-alt="Kelp forest" style="max-height:280px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/seagrass.jpg){.img-fluid .rounded fig-alt="Diver near barren/kelp" style="max-height:280px; width:auto;"}
+:::
+
+::::
+
+---
+
+## Core concepts
+
+- The lesson builds upon the previous lesson (2: Ecosystem restoration) but introduces more realism and challenges to ecosystems due to changing climate. The game includes more events associated with a changing climate, such as *Ocean Acidification*, *Long Spine Sea Urchin Arrive* and *El Niño*. These events are occurring more frequently in real world and they interfere with ecosystem restoration attempts. 
+- As before, students start with a degraded ecosystem whereby only a few fish are present. This is representative of many current marine ecosystems which have been severely depleted and affected. 
+- Students aim to rebuild the ecosystem by increasing fish abundances, sizes and diversity. But this time the students need to foresee potential events that will affect their restoration and manage their ecosystem accordingly. 
+- By looking after big fish and implementing management strategies, preparing for the future and adapting management policies, students learn how to ensure that marine ecosystems are more resilient to future challenges. The lesson teaches concepts that will be essential in ensuring a healthy ocean into the future.
+
+
+**The lesson introduces [UN Sustainable Development Goal 14: "Conserve and sustainably use the oceans, seas and marine resources for sustainable development"](https://sdgs.un.org/goals/goal14)**
+
+---
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-start}
+
+::: {.g-col-12 .g-col-lg-6}
+### Learning intention
+
+Students use the Big Fish game (as a simulation) to model adaption policies and marine management to create more resilient marine ecosystems while also providing the same or increased community and environmental benefits.
+
+- Ocean Acidification = shows how certain species will become less abundant in our marine environments due to changing ocean pH (acidity) and what the lose of these species will mean. It provides insights into how we will need to manage these losses in the future.
+
+- Long Spined Sea Urchins Arrive = these cards show the cascading impacts that “range-shifting” species can have on marine ecosystems. They highlight the expected decline in ecosystem health, alongside the loss of a key management option. When paired with the Ocean Acidification card, students can see how pressures that seem separate can combine to create bigger, compounding effects. The scenario also makes it clear how the presence or absence of management tools changes how well an ecosystem can adapt and build resilience to climate change, while giving students early clues about practical ways to respond.
+
+- El Niño Begins = this card helps students see how a warming climate can shift weather patterns and trigger flow-on effects through marine ecosystems. It also points to a practical resilience lever: protecting big fish. When big fish are conserved, they remain a management option that can make the ecosystem more resilient. When big fish are fished out, the ecosystem becomes less resilient and recover from climate events is slow or non-existent. 
+
+*Real-world context:* Most Australian and global marine ecosystems are affected by multiple pressures at the same time. To adapt to climate change impacts we need to manage ecosystems for resilience and health. 
+
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+### Success criteria
+
+By the end of the lesson and assessment, students can:
+
+- Test and evaluate management options that build resilient marine ecosystems. 
+- Explain how society and managers should adapt their management policies and strategies, how these adaptation work, how different positive and negative actions interact, and how these interactions shape the ecosystem as a whole. 
+- Propose a practical plan to make a local marine ecosystem more resilient to climate-driven changes. The plan must be supported by evidence and real-world examples that highlight both successes and limitations.
+
+
+:::
+
+::::
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/crayfish.jpg){.img-fluid .rounded fig-alt="Diver measuring urchins" style="max-height:280px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/abalone_encrusted.jpg){.img-fluid .rounded fig-alt="Barrens and seaweed" style="max-height:280px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/morwong.jpg){.img-fluid .rounded fig-alt="Commercial diver with urchins" style="max-height:280px; width:auto;"}
+:::
+
+::::
+
+---
+
+## Duration and resources
+
+**Duration** 
+
+Recommended for 2x50–60 min lessons (includes game and analysis and write-up)
+
+**Resources**
+
+- Big Fish card game – ideally one deck per 4 students.
+- (Optional) Big Fish expansion card set (if Jellyfish and Algal Blooms are to be included in the lesson)
+- Post-it notes for developing and refining a community or stakeholder event ideas
+- Materials for planning and promoting the community event
+- [Event planning template](../resources/downloads/Lesson3_EventPlanning.docx), which also includes a 3-minute pitch guide (optional)
+
+## Assessments
+
+We recommend a creative in-class assessment that requires students to:
+
+**1)** **design and plan an event** that will engage local community or stakeholders to address one of the issues that affected your marine ecosystem in the Big Fish card game play.
+
+**2)** Produce a 1-2 page plan for the community event, explaining the goals, target, audience, events. Use the provided [Event planning template](../resources/downloads/Lesson3_EventPlanning.docx)
+
+**3)** (optional) Students can also produce materials for promoting  the event. This could be in the form of a poster or a 3-min pitch presentation, which could be intended as a funding pitch to a local council.
+
+
+**Tips**
+
+- Ensure the event is realistic and feasible while also being novel and engaging.
+- The event plan should explain how the event will address the issue and why it has a high chance of success. 
+
+**Example scenario** 
+
+A local bay is valuable both for marine creatures and ocean conservation, and for the community that relies on it for recreation and fishing. The bay is affected by heatwaves, pollution, algal blooms, and unsustainable fishing and these pressures are affecting its health. 
+What actions could be taken to increase the bay’s ecosystem resilience and help it cope with the growing impacts of climate change?
+
+
+---
+
+## Download the lesson PowerPoint slides  
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4}
+::: {.g-col-12 .text-center}
+[PowerPoint slides](../resources/downloads/Lesson3_ClimateChangeResilience.pptx){.btn .btn-secondary}
+:::
+::::
+
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/abalone_measure.jpg){.img-fluid .rounded fig-alt="Lobsters" style="max-height:300px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/diver3.jpg){.img-fluid .rounded fig-alt="Urchins" style="max-height:300px; width:auto;"}
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/urchins4.jpg){.img-fluid .rounded fig-alt="Commercial diver with urchins" style="max-height:300px; width:auto;"}
+:::
+
+::::
+
+---
+
+## Setup and game play explanation
+
+- Setup is the same as for a standard Big Fish card game. To learn about the rules of the typical Big Fish game, you can visit the [rules page on the Big Fish card game website](https://bigfishcardgame.com/pages/rules.html). The only difference to the standard game is in how the Event deck (end of round cards) is set up. 
+- For the Event deck, use the three hard mode Event cards (indicated by the black bag icon atop the right side of the card). These are the *El Niño Begins*, *Ocean Acidification* and  *Long Spined Sea Urchins Arrive*. Note, same cards also exist in non-hard mode, so replace them with the hard mode version. 
+- Add in the *Fisheries Impose Upper Size Limit* and if you have the expansion card set also add the *Algal Bloom* and *Jellyfish* event cards. Shuffle these Event cards, then place the *Fishing Season Closed* card on the bottom on the deck. 5 rounds works well so if using the expansion consider using only 5 Event cards (including *Fishing Season Closed* card), although 7 rounds (6 Event cards before the *Fishing Season Closed* card) also works for an engaged class. 
+
+- For the gameplay there is no specific playthrough video, as the gamethrough is the same as normal Big Fish game, except for the setup of the Event cards (don’t reveal the setup of Event cards to the students!). 
+- When playing the game, in each round students can take their turn all at once (which is faster) or in a consecutive order (which could be more interactive).
+- Play the game twice, if time permits, to allow students to test different adaptation strategies. This will help with their ideas and strategies needed for the assessment. 
+
+
+The short video below explains how to set up the game for the class. This is also explain (with more details) in the Lesson 3 PowerPoint document, available from this page.
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-4 .align-items-start}
+
+::: {.g-col-12 .g-col-xl-6}
+### Game setup
+
+{{< video https://www.youtube.com/watch?v=eq0TfDlpkkU >}}
+
+[Open on YouTube](https://www.youtube.com/watch?v=eq0TfDlpkkU)
+:::
+
+::: {.g-col-12 .g-col-xl-6}
+### Game play 
+
+{{< video https://www.youtube.com/watch?v=7-v6ba8R8YM >}}
+
+[Open on YouTube](https://www.youtube.com/watch?v=7-v6ba8R8YM)
+:::
+
+::::
+
+
+
+
+
+
+---
+
+## Debrief and reflection questions 
+
+1) What kind of events affected your ecosystem the most? Why?
+2) What strategies made your ecosystem more resilient to negative events? How did they work?
+3) How could we prevent some of these events in the first place (policies, community actions, rules and compliance)?
+4) What ecosystem interactions did you notice?
+5) What are examples of these events happening in real life (in Tasmania or elsewhere in Australia)?
+
+
+## Word list, key terms and concepts
+
+Below are some key concepts and words that students can learn during the lesson, independent research and assessment. 
+
+**Resilience; Adaptation; Ecology; Sustainability; Ecosystem interactions; Climate change; Weather systems (El Niño); Policies; Heatwaves; Ecosystem models; Human impact; Fishing selectivity; Cascading effects; Stakeholders; Community; Fishing pressure; Trophic interactions; Fish biology; Marine protected areas; Seaweed and kelp; Communication; Algal blooms; Invasive and range shifting species**
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/heatwave.jpg){.img-fluid .rounded fig-alt="Seaweed" style="max-height:300px; width:auto;"}
+:::
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/illegal_fishing.jpg){.img-fluid .rounded fig-alt="Urchins arrive" style="max-height:300px; width:auto;"}
+:::
+::: {.g-col-12 .g-col-md-4 .text-center}
+![](../resources/images/pretty-pics/lessons/MPA.jpg){.img-fluid .rounded fig-alt="Lobster card" style="max-height:300px; width:auto;"}
+:::
+
+::::
+
+---
+
+## Extension to Years 11–12
+
+This design can be extended for Years 11 and 12. For example in Year 11 Biology Unit 1, students are expected to investigate ecosystems as dynamic systems (biotic + abiotic factors) and use *science inquiry skills*: posing questions, designing an investigation, analysing data, evaluating limitations, and communicating evidence-based conclusions. Instead of framing the lesson as playing a game, frame it around the concept of using the game as a model to improve understanding. The Big Fish activity becomes the model system they run repeatedly under different conditions (treatments), then analyse like an experiment. The assessment can then be more focused around the evaluation of options and why they chose that specific action to create and event around.
+
+**To simulate replications**  
+
+Instead of one play per group, each group plays at least 3 games for each setup (treatment), or the class divides treatments and pools the data. 
+
+**To simulate treatments**  
+
+Year 11 students will create, evaluate and compare multiple approaches to helping increase the resilience of local marine ecosystems. These may include combinations such as marine protected areas and seaweed planting, or single solutions such as the installation of a shellfish reef.  
+
+
+---
+
+## Further video resources
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-3 .gap-4 .align-items-stretch}
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 1: climate change and the ocean  
+
+Warming seas are rewriting the rules underwater. Join IMAS Professor Gretta Pecl as she explains what climate change is doing to our oceans right now. A sharp, classroom friendly explanation of species range shifts, ecosystem knock-on effects, and what it means for people who rely on the sea (3 mins).
+
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=uUPwGoP2bzo >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=uUPwGoP2bzo">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 2: effective marine protected areas  
+
+Meet the ocean’s “no-take zones”: highly protected marine reserves where marine life can recover, breed, and thrive. This cartoon by Pew Foundation explains why marine reserves are one of the strongest tools we’ve got for ocean health and the need to push to protect ~30% of the ocean (2 mins).
+
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=w-XHDx7gKxQ&list=PLytmiH2NVuYQmjV-U_YOlztByHjEqKs4K >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=w-XHDx7gKxQ&list=PLytmiH2NVuYQmjV-U_YOlztByHjEqKs4K">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 3: seagrass restoration 
+
+This video to introduces habitat restoration through a real Australian case study: South Australia’s largest seagrass restoration trial rebuilding meadows off the Adelaide coast. 
+This video by the Department of Environment and Water (SA) will facilitate discussion on why seagrass matters and how to measure success over time (1.5 mins)
+
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=JSBggmUklt8 >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=JSBggmUklt8">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 4: ocean acidification explainer 1
+
+CO₂ doesn’t just warm the planet, it also changes ocean chemistry, making seawater more acidic and harder for shelled animals to build and keep their shells. This short Pew Foundation video explains how carbon dioxide emissions lead to acidification, and why it matters for food webs, fisheries, and reef health (2 mins)
+
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=ogZkV-Yj7Hc >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=ogZkV-Yj7Hc">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 5: ocean acidification explainer 2
+
+International Atomic Energy Agency video explaining how ocean acidification works and why it is important (5 mins)
+
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=Nof54u0v-e8 >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=Nof54u0v-e8">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 6: illegal fishing
+
+Illegal fishing isn’t “a few rule breakers” it’s organised, high-profit theft that strips oceans of fish and cheats coastal communities. This Pew Foundation cartoon explains what illegal fishing looks like, why it’s so hard to police at sea, and the ripple effects on food security and marine ecosystems (2 mins)
+
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=Ypcm9B6o7pA >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=Ypcm9B6o7pA">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 7: ecosystem based fisheries management 
+
+Fisheries management needs to change from the question “How many fish can we catch?” to “How do we keep the whole system healthy enough to keep producing fish?” This Pew Foundation cartoon shows why managing habitat, bycatch, predators, prey, and food-web links together is the key to sustainable fisheries long-term (2 mins). 
+
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=fq8TKUTCXNU&list=PLytmiH2NVuYQmjV-U_YOlztByHjEqKs4K >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=fq8TKUTCXNU&list=PLytmiH2NVuYQmjV-U_YOlztByHjEqKs4K">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+### Video 8: algal blooms
+
+South Australia’s algal bloom isn’t just about bad looking water it’s a real-time crisis affecting marine life and the people who depend on the coast. This Behind the News video unpacks what fuels a bloom, what it does to ecosystems, and why these events are becoming a big challenge (4 mins)
+
+
+<div class="mt-auto">
+{{< video https://www.youtube.com/watch?v=5Yx9MyU51g4 >}}
+<p class="mt-2 mb-0"><a href="https://www.youtube.com/watch?v=5Yx9MyU51g4">Open on YouTube</a></p>
+</div>
+:::
+:::
+:::
+
+::::
+
+
+---
+
+## Support and credits
+
+:::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
+
+::: {.g-col-12 .g-col-lg-7 .text-center style="font-size: 1.2em;"}
+The development of school lessons and school visits during September–November 2025 were supported by the **[Inspiring Australia Tasmania STEM community grant](https://inspiringtas.org.au/)**.
+:::
+
+::: {.g-col-12 .g-col-lg-5 .text-center}
+![](../resources/images/InspTasmLogo.png){fig-alt="Inspiring Tasmania logo" .img-fluid style="max-height:260px; width:auto;"}
+:::
+
+::: {.g-col-12 .text-center style="font-size: 1.2em;"}
+Underwater photography provided by the game developer and science communicator [Matt Testoni](https://www.mtunderwatermedia.com/).
+:::
+
+:::: 

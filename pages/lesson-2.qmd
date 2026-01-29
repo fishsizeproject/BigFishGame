@@ -100,7 +100,7 @@ Recommended for 2x50–60 min lessons (includes game and analysis and write-up)
 
 ## Assessments
 
-The recommend a creative in-class assessment that requires students to:
+We recommend a creative in-class assessment that requires students to:
 
 **1)** **write a ministerial brief document** from a science advisory team addressed to a Minister. The brief outlines a clear strategy for ecosystem restoration to address the selected environmental issue that the Minister wants to fix. You can download the template for the assessment [here](../resources/downloads/Lesson2_BriefingTemplate.docx)
 
@@ -152,7 +152,7 @@ The recommend a creative in-class assessment that requires students to:
 
 If you are familiar with the usual Big Fish card game rules, the scenario in this lesson starts with a setup where players’ “fishing spot” already has more cards (fish) and the game only goes for three rounds. This aims to create a faster and more educational experience. To learn about the rules of the typical Big Fish game, you can visit the [rules page on the Big Fish card game website](https://bigfishcardgame.com/pages/rules.html). When playing the game, in each round students can take their turn all at once (which is faster) or in a consecutive order (which could be more interactive).
 
-The two short videos explain how to set up the game for the class and demonstrate the game play and rules. They are also explained in the Lesson 1 PowerPoint document, available from this page.
+The two short videos explain how to set up the game for the class and demonstrate the game play and rules. They are also explained in the Lesson 2 PowerPoint document, available from this page.
 
 :::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-4 .align-items-start}
 
@@ -190,13 +190,13 @@ Below are some key concepts and words that students can learn during the lesson,
 :::: {.grid .column-screen .mx-1 .mx-sm-2 .mx-md-3 .mx-xl-4 .my-4 .gap-3 .align-items-center}
 
 ::: {.g-col-12 .g-col-md-4 .text-center}
-![](../resources/images/pretty-pics/lessons/Seaweed.jpg){.img-fluid .rounded fig-alt="Seaweed" style="max-height:300px; width:auto;"}
+![](../resources/images/pretty-pics/lessons/MPA.jpg){.img-fluid .rounded fig-alt="Seaweed" style="max-height:300px; width:auto;"}
 :::
 ::: {.g-col-12 .g-col-md-4 .text-center}
-![](../resources/images/pretty-pics/lessons/urchins-arrive.jpg){.img-fluid .rounded fig-alt="Urchins arrive" style="max-height:300px; width:auto;"}
+![](../resources/images/pretty-pics/lessons/large_shark.jpg){.img-fluid .rounded fig-alt="Urchins arrive" style="max-height:300px; width:auto;"}
 :::
 ::: {.g-col-12 .g-col-md-4 .text-center}
-![](../resources/images/pretty-pics/lessons/lobster-card.jpg){.img-fluid .rounded fig-alt="Lobster card" style="max-height:300px; width:auto;"}
+![](../resources/images/pretty-pics/lessons/shellfish_reef.jpg){.img-fluid .rounded fig-alt="Lobster card" style="max-height:300px; width:auto;"}
 :::
 
 ::::
